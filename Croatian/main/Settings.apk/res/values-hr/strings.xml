@@ -3988,7 +3988,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="face_data_siggesstion_next_time">Dalje (%ds)</string>
   <string name="face_data_siggesstion_next_time_cn">U redu (%ds)</string>
   <string name="face_data_suggesstion_first">Otključavanje lica manje je sigurno od PIN-a, zaporke ili uzorka. Vaš će uređaj možda biti otključan s vašom fotografijom, kao i osobe ili predmeti sličnog izgleda.</string>
-  <string name="face_data_suggesstion_first_cn">"Da biste mogli koristiti Otključavanje licem, moramo prikupiti vaše podatke o licu. Podaci o licu bit će pohranjeni lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje licem\" u Postavkama, a zatim odaberite Otključavanje licem &gt; Podaci o licu.
+  <string name="face_data_suggesstion_first_cn">"Da biste mogli koristiti Otključavanje licem, moramo prikupiti vaše podatke o licu. Podaci o licu bit će pohranjeni lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje licem\" u Postavkama, a zatim odaberite Otključavanje licem > Podaci o licu.
 Otključavanje licem manje je sigurno od PIN -a, lozinke ili uzorka. Vaš uređaj može otključati vaša fotografija, kao i ljudi ili predmeti sličnog izgleda."</string>
   <string name="face_data_suggesstion_second">"Uvjerite se da su svi dijelovi lica jasno vidljivi. Ne nosite nikakav pribor koji bi mogao prekriti vaše lice. Neka vam lice bude ravnomjerno osvijetljeno i izbjegavajte izravno svjetlo."</string>
   <string name="face_intro_error_max">Dodali ste maksimalan broj lica</string>
@@ -4106,7 +4106,7 @@ Da biste saznali više, obratite se operateru."</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
   <string name="finger_add_user_info_dialog_cancel">Odustani</string>
-  <string name="finger_add_user_info_dialog_message">"Da biste mogli koristiti otključavanje otiskom prsta i plaćati otiscima prstiju, moramo prikupiti vaš otisak prsta. Otisak prsta bit će pohranjen lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje otiskom prsta\" u Postavkama, a zatim odaberite Otključavanje otiskom prsta &gt; Otisak prsta. Ovu značajku nećete moći koristiti ako se ne slažete."</string>
+  <string name="finger_add_user_info_dialog_message">"Da biste mogli koristiti otključavanje otiskom prsta i plaćati otiscima prstiju, moramo prikupiti vaš otisak prsta. Otisak prsta bit će pohranjen lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje otiskom prsta\" u Postavkama, a zatim odaberite Otključavanje otiskom prsta > Otisak prsta. Ovu značajku nećete moći koristiti ako se ne slažete."</string>
   <string name="finger_add_user_info_dialog_next">Slažem se</string>
   <string name="finger_add_user_info_dialog_title">Pažnja</string>
   <string name="fingerprint_add_max">Maksimalni broj otisaka prstiju koji se može dodati iznosi %d</string>
@@ -8164,7 +8164,7 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="profiles_settings_title">Profili sustava</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_dialog_speaker_auto_clean_button">Zaustavi</string>
-  <string name="progress_dialog_speaker_auto_clean_title">Čišćenje zvučnika...</string>
+  <string name="progress_dialog_speaker_auto_clean_title">Čišćenje zvučnika…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="progress_scanning">Pretraživanje</string>
   <string name="promote_conversation_summary">Dodavanje u odjeljak razgovora</string>

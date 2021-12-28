@@ -2125,7 +2125,7 @@ vašeg igranja"</string>
   <string name="gd_setting_vtb">Prikaži tijekom reprodukcije videozapisa</string>
   <string name="gd_setting_vtb_desc">Posebne značajke za reprodukciju videozapisa</string>
   <string name="gd_splite_screen_tips">"Podijeljeni zaslon ne podržava plutajuće prozore"</string>
-  <string name="gdpr_msg">&lt;Data&gt;"Kako bismo mogli otkriti sigurnosne rizike i za&amp;#353;tititi va&amp;#353;e podatke, moramo prikupiti potrebnu koli&amp;#269;inu informacija o va&amp;#353;em ure&amp;#273;aju. Pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja na&amp;#353;ih usluga. U slu&amp;#269;aju da nam ne dopustite prikupljanje takvih informacija, i dalje &amp;#263;ete mo&amp;#263;i koristiti ovu aplikaciju, ali vam neke zna&amp;#269;ajke ne&amp;#263;e biti dostupne. "&lt;/Data&gt;</string>
+  <string name="gdpr_msg"><Data>"Kako bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i prihvatite naša &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Pravila o privatnosti&lt;/a> prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih informacija, i dalje ćete moći koristiti ovu aplikaciju, ali vam neke značajke neće biti dostupne. "</Data></string>
   <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>

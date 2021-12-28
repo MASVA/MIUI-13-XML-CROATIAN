@@ -525,10 +525,10 @@
   <string name="preparing_sd">Priprema unutarnje pohrane…</string>
   <string name="previous">Natrag</string>
   <string name="privacy_policy_update">Pravila o privatnosti su ažurirana</string>
-  <string name="privacy_policy_update_message">&lt;Data&gt;"Ne&amp;#263;ete mo&amp;#263;i nastaviti koristiti Skener ako ne pristanete na njegovu novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Sla&amp;#382;ete li se s a&amp;#382;uriranim Pravilima o privatnosti?"&lt;/Data&gt;</string>
+  <string name="privacy_policy_update_message"><Data>"Nećete moći nastaviti koristiti Skener ako ne pristanete na njegovu novu verziju &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Slažete li se s ažuriranim Pravilima o privatnosti?"</Data></string>
   <string name="privacy_policy_update_welcome">Ažurirana su pravila o privatnosti Skenera:</string>
   <string name="privacy_policy_withdrawal_error">"Ne mogu povući suglasnost. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="privacy_policy_withdrawal_message">&lt;Data&gt;"Ako nastavite, povu&amp;#263;i &amp;#263;ete svoju suglasnost na Pravila o privatnosti Skenera. To &amp;#263;e se smatrati odbijanjem prihva&amp;#263;anja usluga Skenera. Morat &amp;#263;ete ponovno pristati na &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; ako odlu&amp;#269;ite koristiti Skener. Povu&amp;#263;i sada suglasnost?"&lt;/Data&gt;</string>
+  <string name="privacy_policy_withdrawal_message"><Data>"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Skenera. To će se smatrati odbijanjem prihvaćanja usluga Skenera. Morat ćete ponovno pristati na &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> ako odlučite koristiti Skener. Povući sada suglasnost?"</Data></string>
   <string name="processing">Obrada…</string>
   <string name="prompt">Pažnja</string>
   <string name="qr_code_details">Detalji QR koda:</string>
