@@ -545,20 +545,20 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="lockstyle_personal_settings">Prilagođeno</string>
   <string name="login_theme">Prijavite se u Teme</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
+  <string name="loop_wallpaper_is_here">Dijaprojekcija slika pozadine sada je dostupna</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_slider_range_end">Kraj,</string>
+  <string name="material_slider_range_start">Početak,</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
-  <string name="loop_wallpaper_is_here">Dijaprojekcija slika pozadine sada je dostupna</string>
-  <string name="material_slider_range_end">Kraj,</string>
-  <string name="material_slider_range_start">Početak,</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
   <string name="midnight">AM</string>
   <string name="mine_tab_not_login">"Prijavite se za pregled stavki.
@@ -579,11 +579,11 @@ dd.MM"</string>
 dd.MM"</string>
   <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
-   <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>  
-   <string name="miui_vertical_time_format_12">"hh
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>
+  <string name="miui_vertical_time_format_12">"hh
 mm"</string>
-   <string name="miui_vertical_time_format_24">"HH
+  <string name="miui_vertical_time_format_24">"HH
 mm"</string>
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
@@ -788,7 +788,7 @@ mm"</string>
   <string name="pad_fold_exit_wallpaper_warning_content">"Nakon što se odjavite, nećete moći izvršiti sljedeće radnje:
 Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
   <string name="pad_fold_exit_wallpaper_warning_title">Odjaviti se s Pozadine i personalizacije?</string>
-  <string name="pad_fold_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Pozadine i personalizacije &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, također i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
+  <string name="pad_fold_log_in_theme_detail">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Pozadine i personalizacije &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; i &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;, tako&amp;#273;er i Mi Ra&amp;#269;un &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font color=\"#37A5FF\"&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; (za prijavu pomo&amp;#263;u ra&amp;#269;una sustava)."&lt;/Data&gt;</string>
   <string name="pad_fold_log_in_wallpaper">Prijavite se u Pozadine i personalizacije</string>
   <string name="pad_fold_no_permission">Potrebna su dopuštenja za pohranu</string>
   <string name="pad_fold_no_permission_detail">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani.</string>
@@ -816,7 +816,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
 2. Dodajte komentare i lajkove, pratite druge ljude i komunicirajte s njima."</string>
   <string name="phone_exit_theme_warning_title">Odjaviti se iz Tema?</string>
   <string name="phone_log_in_theme">Prijavite se u Teme</string>
-  <string name="phone_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Teme &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, kao i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
+  <string name="phone_log_in_theme_detail">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Teme &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; i &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;, kao i Mi Ra&amp;#269;un &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font color=\"#37A5FF\"&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; (za prijavu pomo&amp;#263;u ra&amp;#269;una sustava)."&lt;/Data&gt;</string>
   <string name="playing_ringtone">Reproducira se</string>
   <string name="pm">PM</string>
   <string name="pref_lockscreen_magazine_summary">Zamijenite sliku pozadine prezentacijama slika iz različitih kategorija</string>
@@ -866,8 +866,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Izjava o otkazivanju usluga Pozadina i personalizacije</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Pročitajte i prihvatite \"Izjavu o otkazivanju usluga Pozadina i personalizacije\" prije nego što otkažete naše usluge.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Upravo ćete otkazati usluge Pozadina i personalizacije."</string>
-  <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o otkazivanju usluga Pozadina i personalizacije&lt;/a>&lt;/font>\"."</Data></string>
-  <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti na Pravila o privatnosti Pozadina i personalizacije&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjavu o otkazivanju usluga Pozadina i personalizacije&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
+  <string name="privacy_pad_fold_read_wallpaper_privacy_policy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjavu o povla&amp;#269;enju suglasnosti na Pravila o privatnosti Pozadina i personalizacije&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
   <string name="privacy_pad_fold_revoke_agree_content_3">3. Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.</string>
   <string name="privacy_pad_fold_revoke_agree_content_4">4. Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.</string>
   <string name="privacy_pad_fold_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila o privatnosti Pozadina i personalizacije</string>
@@ -897,8 +897,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="privacy_phone_logoff_theme_service_detail_title">Pročitajte i prihvatite \"Izjavu o ukidanju usluga Tema\" prije nego što otkažete naše usluge.</string>
   <string name="privacy_phone_logoff_theme_service_introduce">"Upravo ćete otkazati usluge Teme."</string>
   <string name="privacy_phone_read_and_write_storage">Pristup pohrani</string>
-  <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o ukidanju usluga Tema&lt;/a>&lt;/font>\"."</Data></string>
-  <string name="privacy_phone_read_theme_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti Pravila o privatnosti Tema&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjavu o ukidanju usluga Tema&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
+  <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjavu o povla&amp;#269;enju suglasnosti Pravila o privatnosti Tema&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
   <string name="privacy_phone_revoke_agree_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
   <string name="privacy_phone_revoke_agree_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.</string>
   <string name="privacy_phone_revoke_agree_detail_content_1">"1.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
@@ -919,7 +919,7 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="privacy_read_the_updated_privacy_policy_content">"Pročitajte i prihvatite novu verziju &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt; prije nego nastavite."</string>
   <string name="privacy_reading_the_application_list">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
   <string name="privacy_remind_user_mode_agree">Prihvaćam</string>
-  <string name="privacy_remind_user_mode_content"><Data>Da biste koristili ovu značajku, prihvatite naša Pravila o privatnosti. Pročitajte naše &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>&lt;/font> kako biste saznali kako prikupljamo, koristimo, otkrivamo, obrađujemo i pohranjujemo osobne podatke koje nam date kada koristite Teme.</Data></string>
+  <string name="privacy_remind_user_mode_content">&lt;Data&gt;Da biste koristili ovu zna&amp;#269;ajku, prihvatite na&amp;#353;a Pravila o privatnosti. Pro&amp;#269;itajte na&amp;#353;e &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; kako biste saznali kako prikupljamo, koristimo, otkrivamo, obra&amp;#273;ujemo i pohranjujemo osobne podatke koje nam date kada koristite Teme.&lt;/Data&gt;</string>
   <string name="privacy_remind_user_mode_title">Pažnja</string>
   <string name="privacy_revoke_agree_content">Povlačenje suglasnosti</string>
   <string name="privacy_revoke_agree_content_1">1. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi račun. Više nećete moći koristiti kupljene artikle.</string>
@@ -955,7 +955,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="purchased_list_current">Optimizirane teme</string>
   <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="purchased_list_legacy">Stare teme</string>
-  <string name="read_and_agree_account_privacy"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font>."</Data></string>
+  <string name="read_and_agree_account_privacy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Mi Ra&amp;#269;un &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; i &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;."&lt;/Data&gt;</string>
   <string name="recently_used">Nedavno korišteno</string>
   <string name="recommend_trigger">Prilagođene preporuke</string>
   <string name="recommend_trigger_summary">Uključite da primate preporuke na temelju svojih sklonosti</string>
@@ -1285,6 +1285,8 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="show_mamual_hide_theme">Prikaži skrivene teme</string>
   <string name="show_mamual_hide_wallpaper">Prikaži skrivene pozadine</string>
   <string name="show_phone_wallpaper">Prikaži pozadine telefona</string>
+  <string name="show_theme_community">Prečac zajednice</string>
+  <string name="show_theme_community_desc">Prikaži ili sakrij prečac zajednice Tema</string>
   <string name="still_apply">Primjeni</string>
   <string name="storage_migration_exit_msg">Kako bismo aplikaciju Teme učinili kompatibilnima s nadolazećim verzijama Androida, premjestili smo vaše preuzete stavke na novo mjesto. Ponovno pokrenite aplikaciju da biste primijenili promjene i pogledali preuzeti sadržaj.</string>
   <string name="storage_permission_denied_desc">Dopustite aplikaciji Teme pristup pohrani za pregled stavki</string>
@@ -1299,6 +1301,7 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Odaberite lokaciju</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
   <string name="super_wallpaper_setting_view_height_title">Nadm. visina</string>
+  <string name="supersave_mode_toast_message">"Ova značajka nije dostupna kada koristite Ultra štednju baterije. Isključite Ultra štednju baterije da biste je mogli koristiti."</string>
   <string name="support_theme_store_des">Dobre teme uvijek stvaraju talentirani dizajneri. Naša aplikacija sadrži malu količinu oglasa što nam omogućava da podržimo njihov rad.</string>
   <string name="support_theme_store_supported">Hvala na podršci!</string>
   <string name="support_theme_store_title">Podržite naše dizajnere</string>

@@ -257,6 +257,7 @@
   <string name="other_settings_ad_disable_summary">Uključi personalizirane oglase</string>
   <string name="other_settings_ad_enable">Personalizirana Preporuka oglasa</string>
   <string name="other_settings_ad_enable_summary">Preporučujemo prilagođene oglase na temelju vaših podataka o ponašanju</string>
+  <string name="other_settings_ad_dialog_content_for_global">"Kada su prilagođene preporuke oglasa isključene, i dalje ćete vidjeti istu količinu oglasa u aplikacijama MIUI sustava kao i kada je značajka uključena. Međutim, oglasi od Xiaomija i platformi trećih strana, više neće biti relevantni jer se neće temeljiti na vašim osobnim preferencijama."</string>
   <string name="other_settings_auto_update">Instaliraj automatski</string>
   <string name="other_settings_auto_update_summary">MIUI će odabrati najbolji trenutak za instaliranje ažuriranja.</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
@@ -488,6 +489,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="skip_gesture_guide_dialog_title">Geste cijelog zaslona</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="start_up_slogan">Samo tvoj</string>
+  <string name="start_up_slogan_thirteen_china">Gdje se sve stvari povezuju</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>

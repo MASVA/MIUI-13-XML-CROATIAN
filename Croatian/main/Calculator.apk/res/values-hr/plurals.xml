@@ -84,4 +84,16 @@
         <item quantity="other">%d mjeseci</item>
         <item quantity="one">%d mjesec</item>
     </plurals>
+	<plurals name="detail_repayment_detail">
+         <item quantity="other">Detaljna otplata (%d godina)</item>
+         <item quantity="one">Detaljna otplata (%d godina)</item>
+      </plurals>
+      <plurals name="loan_repayment_detail_unit">
+         <item quantity="other">Detaljna otplata (%d godina), CNY</item>
+         <item quantity="one">Detaljna otplata (%d godina), CNY</item>
+      </plurals>
+      <plurals name="godina_držanja">
+         <item quantity="other">%d godina</item>
+         <item quantity="one">%d godina</item>
+      </plurals>
 </resources>

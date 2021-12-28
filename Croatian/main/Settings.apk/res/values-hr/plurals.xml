@@ -812,4 +812,8 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">%d nekorištenih aplikacija</item>
         <item quantity="one">%d nekorištena aplikacija</item>
      </plurals>
+	 <plurals name="clean_time">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+     </plurals>
 </resources> 

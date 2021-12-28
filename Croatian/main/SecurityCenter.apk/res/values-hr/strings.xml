@@ -1020,12 +1020,26 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="battery_temperature_title">Temperatura</string>
   <string name="beauty_fc_assistant">Pomoćnik prednje kamere</string>
   <string name="beauty_fc_assistant_summary">Koristite Fill light i Uljepšanje s prednjom kamerom</string>
+  <string name="beauty_fc_assistant_summary_new">Prikaži opcije za uljepšavanje i popunu svjetla dok koristite prednju kameru</string>
   <string name="beauty_fc_fill_lamp">Fill light</string>
+  <string name="beauty_fc_fill_lamp_new">Prednje svjetlo za popunu</string>
   <string name="beauty_fc_light">Fill light svjetlina</string>
   <string name="beauty_fc_video_call">Uljepšanje za videopozive</string>
   <string name="beauty_fc_video_call_summary">Prikaži opcije za uljepšavanje tijekom WeChat videopoziva</string>
   <string name="beauty_fun_filter">Uljepšanje</string>
+  <string name="beauty_fun_front_light">Prednje svjetlo za popunu</string>
   <string name="beauty_fun_light">Fill light</string>
+  <string name="beauty_fun_privacy">Kamera za privatnost</string>
+  <string name="beauty_fun_privacy_dialog_message">Kada koristite kameru za značajke prepoznavanja lica, vaše će lice biti automatski otkriveno, a druga snimljena područja bit će maskirana.</string>
+  <string name="beauty_fun_privacy_dialog_tips">Ova značajka može smanjiti stopu uspješnosti prepoznavanja lica</string>
+  <string name="beauty_fun_privacy_ingnore">Ne, hvala</string>
+  <string name="beauty_fun_privacy_message">Otkrijte lica i maskirajte druga snimljena područja kada se kamera koristi sa značajkama prepoznavanja lica</string>
+  <string name="beauty_fun_privacy_open">Uključi</string>
+  <string name="beauty_fun_privacy_open_tips">Kamera za privatnost je uključena</string>
+  <string name="beauty_fun_privacy_tips">Kamera za privatnost sada će se prema zadanim postavkama koristiti s kompatibilnim značajkama prepoznavanja lica</string>
+  <string name="beauty_fun_screen_light">Svjetlo za punjenje zaslona</string>
+  <string name="beauty_fun_settings_light">Svjetlina ispune svjetla</string>
+  <string name="beauty_fun_video_effect">Uljepšaj za videozapis</string>
   <string name="beauty_settings">Postavke</string>
   <string name="begin_date">Datum resetiranja korištenja</string>
   <string name="behavior_widget_get_installed_apps">Pristup aplikacijama</string>
@@ -1257,6 +1271,9 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
   <string name="commonly_used_func_card_title">Zajedničke značajke</string>
   <string name="commonly_used_func_edit_too_many_func">"Nije moguće dodati više stavki"</string>
+  <string name="compatible_dialog_content">"Ova aplikacija nije u potpunosti kompatibilna sa 64-bitnom arhitekturom. Njena upotreba može smanjiti performanse sustava i povećati potrošnju energije."</string>
+  <string name="compatible_dialog_more_info">Saznajte više</string>
+  <string name="compatible_dialog_title">Pažnja</string>
   <string name="comprehensive_protection_measures">Sveobuhvatna zaštita</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_allow_all_permission">Želite li dopustiti svim aplikacijama upotrebu ove značajke?</string>
@@ -2108,7 +2125,7 @@ vašeg igranja"</string>
   <string name="gd_setting_vtb">Prikaži tijekom reprodukcije videozapisa</string>
   <string name="gd_setting_vtb_desc">Posebne značajke za reprodukciju videozapisa</string>
   <string name="gd_splite_screen_tips">"Podijeljeni zaslon ne podržava plutajuće prozore"</string>
-  <string name="gdpr_msg"><Data>"Kako bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i prihvatite naša &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Pravila o privatnosti&lt;/a> prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih informacija, i dalje ćete moći koristiti ovu aplikaciju, ali vam neke značajke neće biti dostupne. "</Data></string>
+  <string name="gdpr_msg">&lt;Data&gt;"Kako bismo mogli otkriti sigurnosne rizike i za&amp;#353;tititi va&amp;#353;e podatke, moramo prikupiti potrebnu koli&amp;#269;inu informacija o va&amp;#353;em ure&amp;#273;aju. Pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja na&amp;#353;ih usluga. U slu&amp;#269;aju da nam ne dopustite prikupljanje takvih informacija, i dalje &amp;#263;ete mo&amp;#263;i koristiti ovu aplikaciju, ali vam neke zna&amp;#269;ajke ne&amp;#263;e biti dostupne. "&lt;/Data&gt;</string>
   <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
@@ -2198,9 +2215,11 @@ vašeg igranja"</string>
   <string name="gtb_guide_gtb_line_new">Poboljšajte svoju igru s potpuno novim Game Turbo!</string>
   <string name="gtb_guide_small_window_app_desc">"Koristite druge aplikacije tijekom igre"</string>
   <string name="gtb_guide_small_window_app_title">Plutajući prozori</string>
+  <string name="gtb_setting_item_summary_disable_ndds_sim">Blokirajte sve komunikacijske usluge na sekundarnoj SIM kartici tijekom sesija igranja kako biste održali stabilnu vezu i izbjegli prebacivanje između mreža. Sekundarni SIM će se deblokirati kada prestanete igrati.</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_title_brightness">Automatski smanji svjetlinu zaslona</string>
+  <string name="gtb_setting_item_title_disable_ndds_sim">Blokiraj sekundarni SIM</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi povećanje brzine</string>
   <string name="gtb_spring_festival_back_game">Natrag u igru</string>
@@ -3453,6 +3472,24 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_scan_item_title_power_saver">Uključi Štednju baterije</string>
   <string name="power_center_scan_item_title_running_app">Aplikacije pokrenute u pozadini</string>
   <string name="power_center_scan_result_safe">Nisu pronađeni problemi baterije</string>
+  <string name="power_center_speed_mode_dialog_text">Brzi način rada poboljšava performanse vašeg uređaja povećanjem potrošnje energije i dopuštajući mu da se zagrije. Izbjegavajte korištenje načina rada Speed ​​dulje vrijeme.</string>
+  <string name="power_center_speed_mode_dialog_title">Brzi način rada</string>
+  <string name="power_center_speed_mode_dialog_warning">Način rada za brzinu će se automatski isključiti kada baterija padne ispod %s.</string>
+  <string name="power_center_speed_mode_enter_noti_btn_text">Isključi</string>
+  <string name="power_center_speed_mode_enter_noti_summary">Vaš uređaj će se zagrijati i trošiti više energije</string>
+  <string name="power_center_speed_mode_enter_noti_title">Prebačeno na način rada brzine</string>
+  <string name="power_center_speed_mode_exit_noti_summary">Preostalo manje od %s baterije</string>
+  <string name="power_center_speed_mode_exit_noti_title">Isključen način rada brzine</string>
+  <string name="power_center_speed_mode_negative_btn_text">Odustani</string>
+  <string name="power_center_speed_mode_positive_btn_text">Uključi</string>
+  <string name="power_center_speed_mode_positive_btn_text_count">Uključi (%ds)</string>
+  <string name="power_center_speed_mode_progress_free_game_limit">Poboljšajte grafičku izvedbu</string>
+  <string name="power_center_speed_mode_progress_free_processor_performance">Pojačajte performanse CPU-a</string>
+  <string name="power_center_speed_mode_progress_max_refresh_rate">Povećajte stopu osvježavanja zaslona</string>
+  <string name="power_center_speed_mode_summary">Prioritet performansi nad potrošnjom energije i kontrolom temperature</string>
+  <string name="power_center_speed_mode_title">Brzi način rada</string>
+  <string name="power_center_speed_mode_toast_open_fail">"Ne mogu se prebaciti na način rada brzine kada je baterija niža od %s"</string>
+  <string name="power_center_speed_mode_toast_text">Prebacio se na način rada brzine</string>
   <string name="power_center_state_off">Isključeno</string>
   <string name="power_center_state_on">Uključeno</string>
   <string name="power_center_stop_scan_title">Zaustavi skeniranje</string>
@@ -4049,6 +4086,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_input_model_guide_choose">Preuzmite izvanmrežni glasovni unos</string>
   <string name="privacy_input_model_guide_text">"Ova značajka štiti vašu privatnost dok unosite tekst. Kad je ova značajka uključena, neke mrežne funkcije (npr. Opcije personalizacije, emojiji, prediktivno tipkanje) neće biti dostupne."</string>
   <string name="privacy_input_model_tips">"Siguran unos je uključen. Vaša tipkovnica ne može prikazati skočne prozore niti pristupiti kontaktima, podacima o lokaciji i povijesti poziva."</string>
+  <string name="privacy_lab_empty">Ovdje još nema značajki</string>
   <string name="privacy_location_info_summary">Upravljajte pristupom svojoj lokaciji</string>
   <string name="privacy_location_info_title">Podaci o lokaciji</string>
   <string name="privacy_look_all_permission_status">Sva dopuštenja</string>
@@ -4924,9 +4962,9 @@ Povući suglasnost sada?"</string>
   <string name="status_bar_network_flow_content_not_setting">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ovaj mjesec: %2$s</string>
   <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
   <string name="status_bar_network_flow_exceed_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan premašen: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-  <string name="status_bar_network_flow_phone_balance">"   Stanje:%1$s "</string>
-  <string name="status_bar_network_flow_purchase">"   Kupuj &gt;"</string>
-  <string name="status_bar_network_flow_setup_data_plan">"   Postavi podatkovni plan &gt;"</string>
+  <string name="status_bar_network_flow_phone_balance">"  Stanje:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"  Kupuj &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"  Postavi podatkovni plan &gt;"</string>
   <string name="status_bar_network_flow_today">Danas: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Zaustavi</string>
@@ -5302,7 +5340,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_get_sms_successs">Informacije o uporabi podataka uspješno ažurirane</string>
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan
-   i pošaljite ga nama."</string>
+  i pošaljite ga nama."</string>
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje izvješća SMS-a…</string>
@@ -5544,19 +5582,19 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
 Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"
 Kupili ste dodatnog interneta od %1$s ovaj mjesec. 
-   To se razlikuje od %2$s što ste dodali ručno."</string>
+  To se razlikuje od %2$s što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
 Kupili ste dodatnog interneta od %s ovaj mjesec. 
-   To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
+  To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
   <string name="traffic_config_alert_body_leisure">"
 Vaše mjesečno ograničenje uporabe podataka je %1$s. 
-   To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
+  To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
   Niste postavili ograničenje maks. podataka."</string>
   <string name="traffic_config_alert_body_normal">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
-   To se razlikuje od %2$s što ste postavili ručno."</string>
+  To se razlikuje od %2$s što ste postavili ručno."</string>
   <string name="traffic_config_alert_package">"
 Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>

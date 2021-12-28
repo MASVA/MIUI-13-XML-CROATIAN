@@ -155,6 +155,7 @@
   <string name="VideoView_error_text_unknown">Ovaj videozapis nije moguće reproducirati.</string>
   <string name="VideoView_error_title">Problem s videozapisom</string>
   <string name="accept">Prihvaćam</string>
+  <string name="app_category_accessibility">Pristupačnost</string>
   <string name="accessibility_binding_label">Pristupačnost</string>
   <string name="accessibility_button_instructional_text">Da biste prešli na neku drugu uslugu, dodirnite i zadržite gumb pristupačnosti.</string>
   <string name="accessibility_button_prompt_text">Odaberite značajku koju ćete upotrebljavati kada dodirnete gumb za Pristupačnost:</string>

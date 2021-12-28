@@ -861,6 +861,7 @@ Razlog: \"%s\""</string>
   <string name="hybrid_webpage_not_available">Web stranica nije dostupna</string>
   <string name="ic_menu_back">"Natrag"</string>
   <string name="ic_menu_done">Gotovo</string>
+  <string name="identify_numbers_text">Uključite ID pozivatelja za prepoznavanje neželjenih poziva</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">Nevažeći IMEI</string>

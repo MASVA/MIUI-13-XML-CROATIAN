@@ -60,6 +60,7 @@
   <string name="calories_logo_text">AI podršku pruža Health Hope</string>
   <string name="calories_request_interface_text">AI podrška</string>
   <string name="camera_error_title">Pogreška kamere</string>
+  <string name="camera_permissions_text">Dopustite Skeneru pristup kameri kako bi mogao koristiti ovu značajku.</string>
   <string name="camera_stealth_mode_message">Povezivanje s kamerom nije moguće. Ako je potrebna kamera, isključite Prikriveni način rada.</string>
   <string name="camera_stealth_mode_title">Prikriveni način rada je omogućen</string>
   <string name="can_only_be_English_Chinese">Jezik mrežnog prevođenja može biti samo engleski i pojednostavljeni kineski</string>
@@ -226,6 +227,7 @@
   <string name="food_module_thumbs_up">Sviđa mi se</string>
   <string name="food_module_tip">Stavite hranu unutar okvira</string>
   <string name="food_module_title_food">Kalorije</string>
+  <string name="format_error">Nevažeća zaporka</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -269,6 +271,8 @@
   <string name="jd_shopping_title">Traži na JD</string>
   <string name="label_choose_picture">Odaberi sliku</string>
   <string name="label_flash_light">Svjetiljka</string>
+  <string name="label_flash_light_off">Svjetiljka je isključena</string>
+  <string name="label_flash_light_on">Svjetiljka je uključena</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
@@ -308,11 +312,11 @@
   <string name="miracast_switch_off">Bežični zaslon je isključen</string>
   <string name="miracast_switch_tip">Uključite bežični zaslon da biste koristili tu značajku</string>
   <string name="mishop">Mi Store</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
-  <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
@@ -327,6 +331,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -348,6 +353,9 @@
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
+  <string name="monitor_low_android">ANDROID verzija je prestara</string>
+  <string name="monitor_low_miui">MIUI verzija je prestara</string>
+  <string name="monitor_unsupport_device">Uređaj trenutno nije podržan</string>
   <string name="month_april">Travanj</string>
   <string name="month_april_short">Tra</string>
   <string name="month_april_shortest">Tra</string>
@@ -385,9 +393,6 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">Ruj</string>
   <string name="more">Više</string>
-  <string name="monitor_low_android">ANDROID verzija je prestara</string>
-  <string name="monitor_low_miui">MIUI verzija je prestara</string>
-  <string name="monitor_unsupport_device">Uređaj trenutno nije podržan</string>
   <string name="msg_compress_failed">Kompresija slike nije uspjela</string>
   <string name="msg_crop_canceled">" Otkaži obrezivanje"</string>
   <string name="msg_crop_failed">Obrezivanje slike nije uspjelao</string>
@@ -434,9 +439,9 @@
   <string name="pdf_is_being_saved">Spremanje PDF-a…</string>
   <string name="pdf_name">Naziv datoteke</string>
   <string name="pdf_save_sucess">Uspješno spremljeno</string>
-  <string name="permission_management">Dopuštenja</string>
   <string name="permission_denied_albums">Dopustite pristup fotografijama, medijima i datotekama na svom uređaju za pregled albuma</string>
   <string name="permission_denied_images">Dopustite pristup fotografijama, medijima i datotekama na svom uređaju za pregled slika</string>
+  <string name="permission_management">Dopuštenja</string>
   <string name="personalassistant_not_install">"Ova značajka još nije podržana!"</string>
   <string name="phone">Telefon:</string>
   <string name="phone_can_not_be_empty">"Polje za broj telefona ne može biti prazno"</string>
@@ -469,6 +474,7 @@
   <string name="picture_error">Slika je oštećena</string>
   <string name="picture_gif_tag">gif</string>
   <string name="picture_go_setting">Idi u Postavke</string>
+  <string name="picture_is_being_saved">Slika se sprema</string>
   <string name="picture_jurisdiction">Pristup čitanju memorijske kartice odbijen</string>
   <string name="picture_know">U redu</string>
   <string name="picture_long_chart">Dugo</string>
@@ -507,7 +513,6 @@
   <string name="picture_video_error">Videozapis je oštećen</string>
   <string name="picture_video_toast">Video not Preview</string>
   <string name="picture_warning">Nema medijskih datoteka!</string>
-  <string name="picture_is_being_saved">Slika se sprema</string>
   <string name="place_barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="plant_fail">"Ne mogu prepoznati"</string>
   <string name="plant_loading">Identificiranje…</string>
@@ -520,10 +525,10 @@
   <string name="preparing_sd">Priprema unutarnje pohrane…</string>
   <string name="previous">Natrag</string>
   <string name="privacy_policy_update">Pravila o privatnosti su ažurirana</string>
-  <string name="privacy_policy_update_message"><Data>"Nećete moći nastaviti koristiti Skener ako ne pristanete na njegovu novu verziju &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Slažete li se s ažuriranim Pravilima o privatnosti?"</Data></string>
+  <string name="privacy_policy_update_message">&lt;Data&gt;"Ne&amp;#263;ete mo&amp;#263;i nastaviti koristiti Skener ako ne pristanete na njegovu novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Sla&amp;#382;ete li se s a&amp;#382;uriranim Pravilima o privatnosti?"&lt;/Data&gt;</string>
   <string name="privacy_policy_update_welcome">Ažurirana su pravila o privatnosti Skenera:</string>
   <string name="privacy_policy_withdrawal_error">"Ne mogu povući suglasnost. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="privacy_policy_withdrawal_message"><Data>"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Skenera. To će se smatrati odbijanjem prihvaćanja usluga Skenera. Morat ćete ponovno pristati na &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> ako odlučite koristiti Skener. Povući sada suglasnost?"</Data></string>
+  <string name="privacy_policy_withdrawal_message">&lt;Data&gt;"Ako nastavite, povu&amp;#263;i &amp;#263;ete svoju suglasnost na Pravila o privatnosti Skenera. To &amp;#263;e se smatrati odbijanjem prihva&amp;#263;anja usluga Skenera. Morat &amp;#263;ete ponovno pristati na &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; ako odlu&amp;#269;ite koristiti Skener. Povu&amp;#263;i sada suglasnost?"&lt;/Data&gt;</string>
   <string name="processing">Obrada…</string>
   <string name="prompt">Pažnja</string>
   <string name="qr_code_details">Detalji QR koda:</string>
@@ -532,6 +537,7 @@
   <string name="query_inai">Neka vam Mi AI pomogne</string>
   <string name="query_more">Više informacija</string>
   <string name="qureyGoods">Traži proizvode</string>
+  <string name="read_contacts_permissions_text">Dopustite Skeneru pristup kontaktima kako bi mogli koristiti ovu značajku.</string>
   <string name="recognition_error_download_cancel">Kasnije</string>
   <string name="recognition_error_download_data_msg">Skeniranje kartica zahtijeva od vas da preuzmete alat za prepoznavanje veličine od oko 15M, pripazite na uporabu podataka</string>
   <string name="recognition_error_download_fail">Ne mogu preuzeti</string>
@@ -541,7 +547,6 @@
   <string name="recognition_error_download_success">Alat za prepoznavanje uspješno preuzet</string>
   <string name="recognition_error_download_title">Potreban alat za prepoznavanje</string>
   <string name="recognition_error_downloading">Preuzimanje alata za prepoznavanje…</string>
-  <string name="read_contacts_permissions_text">Dopustite Skeneru pristup kontaktima kako bi mogli koristiti ovu značajku.</string>
   <string name="recognize">Skeniraj</string>
   <string name="recognize_fail">"Ne mogu pročitati kod"</string>
   <string name="release_lock">Otključaj</string>
@@ -596,6 +601,7 @@
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="smart_scan_code">Pametni skener</string>
   <string name="spaceIsLow_content">Nema dovoljno prostora na unutarnjoj pohrani. Oslobodite nešto prostora.</string>
+  <string name="storage_permissions_text">Dopustite Skeneru pristup pohrani uređaja kako biste mogli koristiti ovu značajku.</string>
   <string name="store_feedback_prompt">Prvo unesite povratne informacije</string>
   <string name="store_location_dialog">Ovu uslugu pruža Dianping. Sve fotografije koje napravite dok koristite ovu uslugu, uključujući s njima povezane informacije o lokaciji, dijelit će se Dianpingu kako bi dobili informacije o trgovinama.</string>
   <string name="store_location_fail">"Nije bilo moguće dobiti informacije o lokaciji"</string>

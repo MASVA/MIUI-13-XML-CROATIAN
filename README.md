@@ -1,6 +1,5 @@
 
-[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)]
-
+[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
 
 # MIUI 13-XML-CROATIAN
 

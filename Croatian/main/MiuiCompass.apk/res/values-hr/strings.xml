@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
   <string name="abc_action_mode_done">Gotovo</string>
@@ -38,7 +38,7 @@
   <string name="altitude_uncalibrate_refresh">Pokušaj ponovo</string>
   <string name="altitude_uncalibrate_tip">"Ne mogu kalibrirati Nadm. visinu"</string>
   <string name="altitude_unit">m</string>
-  <string name="app_description_content">"Kompas je sistemska aplikacija. Nećete ga moći koristiti za provjeru uputa, koordinata, atmosferskog tlaka i trenutne nadmorske visine nakon što ga deinstalirate."</string> 
+  <string name="app_description_content">"Kompas je aplikacija sustava. Nećete ga moći koristiti za provjeru uputa, koordinata, atmosferskog tlaka i trenutne nadmorske visine nakon što ga deinstalirate."</string> 
   <string name="app_description_title">Deinstalirati Kompas?</string>
   <string name="app_label">Kompas</string>
   <string name="app_name">Prednosti</string>
@@ -169,9 +169,10 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="new_cta_v2_app_purpose">Prikaz smjerova, koordinata, atmosferskog tlaka i trenutne visine</string>
+  <string name="new_cta_v2_app_purpose">Za prikaz smjerova, koordinata, atmosferskog tlaka i trenutne visine</string>
   <string name="new_permission_camera_desc">Za kalibraciju</string>
   <string name="new_permission_location_desc">Za prikaz koordinata</string>
+  <string name="new_cta_app_purpose">Za prikaz uputa i koordinata</string>
   <string name="not_allowed">Nije odobreno</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="open_camera">Koristi kameru</string>
@@ -180,10 +181,10 @@
   <string name="open_perm_title">Potrebna su dopuštenja</string>
   <string name="permission_camera_desc">Za prikaz azimuta na pregledu uživo</string>
   <string name="permission_description">Pojedinosti o dopuštenjima</string>
-  <string name="permission_location_desc">Prikaz koordinata i atmosferskog tlaka</string>
+  <string name="permission_location_desc">Za prikaz koordinata i atmosferskog tlaka</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preference_other">Ostalo</string>
-  <string name="preference_privacy_policy">Pogledajte Pravila o privatnosti</string>
+  <string name="preference_privacy_policy">Pogledajte pravila o privatnosti</string>
   <string name="preference_privacy_setting">Privatnost</string>
   <string name="preference_privacy_title">Pravila o privatnosti</string>
   <string name="pressure">%.1f</string>

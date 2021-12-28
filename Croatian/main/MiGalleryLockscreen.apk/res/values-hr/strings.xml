@@ -26,6 +26,7 @@
   <string name="about_newest">Wallpaper Carousel je ažuran.</string>
   <string name="about_permission">Dopuštenja</string>
   <string name="about_update">Ažuriraj</string>
+  <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="account_bind_secure_email_title">Dodajte e-poštu za oporavak</string>
   <string name="account_bind_secure_phone_title">Dodajte broj telefona za oporavak</string>
   <string name="account_crop_user_avatar">Obreži fotografiju</string>
@@ -87,7 +88,6 @@
   <string name="add_wallpaper">Dodajte slike pozadine</string>
   <string name="addcw_apply_btn_txt">Dodaj sliku pozadine</string>
   <string name="allowed">Odobreno</string>
-  <string name="and"> i </string>
   <string name="app_name">Wallpaper Carousel</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Zanemari ovu verziju</string>
   <string name="app_self_upgrade_dlg_content">Dostupna je nova verzija. Ažurirati sada?</string>
@@ -241,6 +241,9 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="disable_dlg_title">Isključiti Wallpaper Carousel?</string>
   <string name="dislike">Izbriši</string>
   <string name="dlg_cancel">Odustani</string>
+  <string name="doing_login">Prijava…</string>
+  <string name="doing_query_account">Provjera podataka o računu…</string>
+  <string name="doing_register">Izrada računa…</string>
   <string name="double_click_to_exit_activity">Dodirnite ponovno za izlaz</string>
   <string name="edit_wallpaper">Upravljanje pozadinama</string>
   <string name="enable_toast_ar">Promjenjeno na preporuke</string>
@@ -272,11 +275,15 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="get_ph_ticket">Nabavite kod</string>
   <string name="get_phone_bind_exceed_limit">"Možete povezati do 3 Mi Računa s brojem telefona. Ne mogu se dodati novi računi."</string>
   <string name="get_phone_verifycode_exceed_limit">Na ovaj je broj poslano previše verifikacijskih kodova. Pričekajte 24 sata i pokušajte ponovo.</string>
+  <string name="getverifycode_seconde">s</string>
   <string name="goto_confirm">Postavke</string>
   <string name="goto_sign_up">Izradi račun</string>
+  <string name="header_help">Pomoć</string>
   <string name="history_list_no_data">Nema stavki</string>
   <string name="hour_1">Svaki sat</string>
   <string name="hour_3">Svaka 3 sata</string>
+  <string name="i"> i </string>
+  <string name="i_know">Razumijem</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="idbct_desc">Prilagodite Wallpaper Carousel prema vrstama mreže</string>
   <string name="idbct_opt_auto_select_desc_text">Preuzmite standardne slike pomoću mobilnih podataka i HD slike putem Wi-Fi veze</string>
@@ -289,6 +296,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="identity">Identifikacija</string>
   <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
   <string name="input_email_address_notice">"Ovu ćemo adresu e-pošte koristiti za potvrdu vašeg računa"</string>
+  <string name="input_length_exceeds_limit">Tekst koji ste unijeli je predugačak</string>
   <string name="input_new_pwd">Unesite novu zaporku</string>
   <string name="isornot_your_mi_account">Je li ovo vaš Mi Račun?</string>
   <string name="just_a_second">Samo trenutak…</string>
@@ -344,12 +352,17 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="lockscreen_magazine_summary">Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_title">Izvanmrežno</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine Zaklj. zaslona</string>
+  <string name="lockscreen_wallpaper_changed">Slika pozadine promjenjena</string>
   <string name="login_app">Prijava</string>
   <string name="login_app_cancel">Odustani</string>
   <string name="login_app_confirm">Prijava</string>
-  <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Mi Račun &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a>."</string>
+  <string name="login_by_local_phone_long_text">Prijavite se sada</string>
+  <string name="login_by_local_phone_short_text">Prijava</string>
+  <string name="login_other">Još jedan Mi račun</string>
+  <string name="login_register_by_local_phone_long_text">Izradi račun</string>
+  <string name="login_with_sns">Drugi načini prijave</string>
+  <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Mi Račun &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;."</string>
   <string name="logout">Odjava</string>
-  <string name="lockscreen_wallpaper_changed">Slika pozadine promjenjena</string>
   <string name="logout_account">Odjava</string>
   <string name="logout_cancel">Odustani</string>
   <string name="logout_confirm">U redu</string>
@@ -363,6 +376,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="manage">Upravljaj</string>
   <string name="minutes_15">Svakih 15 min.</string>
   <string name="minutes_5">Svakih 5 min.</string>
+  <string name="mishop_login_other">Drugi račun</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
   <string name="miui_clock_city_name_second">Drugi sat</string>
   <string name="miui_clock_fancy_colon"></string>
@@ -492,6 +506,8 @@ dd.MM"</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
   <string name="need_open_gallery">Uključi Wallpaper Carousel</string>
+  <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
+  <string name="network_timeout_info">"Nisam se mogao povezati s mrežom. Pokušajte ponovo."</string>
   <string name="new_feature_title">"Što je novoga"</string>
   <string name="nick_name">Nadimak</string>
   <string name="no_account">Niste prijavljeni</string>
@@ -518,6 +534,7 @@ dd.MM"</string>
   <string name="open_gallery">Wallpaper Carousel</string>
   <string name="open_gallery_tips">Dodirnite ovdje da uključite Wallpaper Carousel</string>
   <string name="open_guid_des">Idite u Postavke &gt; Dopuštenja &gt; Ostala dopuštenja &gt; Wallpaper Carousel i dajte aplikaciji sva potrebna dopuštenja.</string>
+  <string name="open_settings">Postavke</string>
   <string name="open_sub_title">Odaberite kategorije</string>
   <string name="open_title">Wallpaper Carousel</string>
   <string name="open_unable">"Wallpaper Carousel radi samo sa MIUI zadanim Zaklj. zaslona."</string>
@@ -737,7 +754,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički ugovor</string>
-  <string name="passport_user_agreement_link">"&lt;Data>Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> I &lt;a href=%2$s>Pravila o privatnosti&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link">"&lt;Data&gt;Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s&gt;Korisnički ugovor&lt;/a&gt; I &lt;a href=%2$s&gt;Pravila o privatnosti&lt;/a&gt;.&lt;/Data&gt;"</string>
   <string name="passport_user_agreement_link_more">"&lt;Data&gt;Pročitao sam i prihvaćam sljedeće dokumente: Xiaomi: &lt;a href=%1$s&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=%4$s&gt;Pravila o privatnosti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
   <string name="passport_user_agreement_p1">Prihvaćam </string>
   <string name="passport_user_agreement_p2">Korisnički ugovor</string>
@@ -778,17 +795,22 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="platform_unavailable_wechat">Instaliraj Wechat</string>
   <string name="platform_unavailable_wechatmoment">Instaliraj Wechat</string>
   <string name="platform_unavailable_weibo">Instaliraj Weibo</string>
-  <string name="privacy_setting">Postavke privatnosti</string>
+  <string name="please_agree_protocal">Slažem se Protocal</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="privacy_setting">Postavke privatnosti</string>
   <string name="privacy_update_cancel">Odustani</string>
   <string name="privacy_update_confirm">Prihvaćam</string>
   <string name="privacy_update_quit">Izlaz</string>
   <string name="privacy_update_summary1">Ažurirana su Wallpaper Carousel Pravila o privatnosti:</string>
-  <string name="privacy_update_summary2">"Pročitajte i prihvatite novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije nego nastavite."</string>
-  <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne prihvatite novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Privaćate li nova ažurirana Pravila o privatnosti?"</string>
+  <string name="privacy_update_summary2">"Pročitajte i prihvatite novu verziju &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt; prije nego nastavite."</string>
+  <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne prihvatite novu verziju &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;. Privaćate li nova ažurirana Pravila o privatnosti?"</string>
   <string name="privacy_update_title1">Ažurirana su Pravila o privatnosti</string>
   <string name="privacy_update_title2">Pažnja</string>
+  <string name="progressbar_title">Provjera sigurnosnih problema…</string>
+  <string name="protocal_dialog_cancel">Odustani</string>
+  <string name="protocal_dialog_confirm">Slažem se</string>
+  <string name="protocal_dialog_title">Pažnja</string>
   <string name="prv_end">" "Nema više stavki za prikaz" "</string>
   <string name="prv_loading">" "Samo trenutak…" "</string>
   <string name="prv_nodata">" "Nema podataka" "</string>
@@ -806,8 +828,17 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="recommend_switch_dlg_title">Isključiti preporuke?</string>
   <string name="recommend_switch_title">Prilagođene preporuke</string>
   <string name="refresh_network">Osvježi</string>
+  <string name="register_by_local_phone_long_text">Izradi račun</string>
+  <string name="register_by_local_phone_short_text">Izradi račun</string>
   <string name="remove">Ukloni</string>
   <string name="req_permission_dis_tip">Potrebno je dopuštenje</string>
+  <string name="request_agree">Dopusti</string>
+  <string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ako ne pristanete dati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezina će osnovna funkcionalnost i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u postavkama."</string>
+  <string name="request_cancel">Otkaži</string>
+  <string name="request_error_invalid_token">"Nije moguće potvrditi"</string>
+  <string name="request_error_network">Došlo je do mrežne pogreške. Provjerite postavke mreže i pokušajte ponovno.</string>
+  <string name="request_error_unknown">Došlo je do pogreške sustava. Vratite se i pokušajte ponovo.</string>
+  <string name="request_gallery_permission_message">Dopustite pristup Galeriji:&lt;br /&gt;Za postavljanje profilnih fotografija</string>
   <string name="require_permission">Potrebna su dopuštenja</string>
   <string name="require_permission_text">Da biste mogli spremati i pregledavati stavke, dopustite Wallpaper Carouselu pristup pohrani.</string>
   <string name="resend_active_email">Pošalji ponovno</string>
@@ -887,6 +918,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sign_in">Prijavi se</string>
   <string name="sign_in_progress">Prijava…</string>
   <string name="sign_in_title">Prijavite se sa svojim Mi Računom</string>
+  <string name="skip_query_account">Preskoči</string>
   <string name="sliding_on_unlock">Povuci gore za otključati</string>
   <string name="sms_send_success">Uspješno poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
@@ -975,8 +1007,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="subscribe_success_content_per_unlock">Promijeni sliku pozadinu svaki put kada se uređaj zaključa</string>
   <string name="subscribe_update_time_setting">Postavite drugačiji interval</string>
   <string name="summary">"Prihvatite naše &lt;a href='%s'&gt;Pravila o privatnosti&lt;/a&gt; za pregled online sadržaja. Ako ne prihvatite, lokalne pozadinske slike i dalje će biti dostupne."</string>
-  <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color='#0D84FF'>&lt;a href='%2$s'>Pravila o Privatnosti&lt;/font>&lt;/a>. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
-  <string name="summary3">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi.&lt;br>Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije korištenja ove aplikacije."</string>
+  <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/font&gt;&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
+  <string name="summary3">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi.&lt;br&gt;Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja.&lt;br&gt;To fully understand your rights as a user također i the ways in which we use your data, read i agree to our &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt; prije korištenja ove aplikacije."</string>
   <string name="summary4">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. "</string>
   <string name="summary5">"Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. "</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -987,6 +1019,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sure_close_gallery">Isključiti Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"Nećete moći primati nove slike pozadina za Početni i Zaklj. zaslon ako isključite Wallpaper Carousel. Isključiti svejedno?"</string>
   <string name="system_default">Zadano</string>
+  <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="tab_user_title_bar_text">Postavke</string>
   <string name="tb_collapse_desc">Sakrij izbornik \"Podijeli\"</string>
   <string name="temporary_not_available">Ova značajka još nije dostupna</string>
@@ -1037,6 +1070,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
   <string name="uninstall_warning_text_desc">"Bez Wallpaper Carousela nećete moći redovito primati nove slike pozadine. Međutim, biti ćete u mogućnosti da ponovno preuzmete i instalirate aplikaciju. Izbrisati Wallpaper Carousel?"</string>
   <string name="uninstall_warning_text_title">Brisanje Wallpaper Carousela…</string>
+  <string name="unknown_error_info">Nepoznata pogreška</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
   <string name="update_email_address_dialog_title">Aktiviranje email adrese za oporavak</string>
   <string name="update_find_new_version">Dostupno je ažuriranje</string>
@@ -1044,9 +1078,22 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="upload_error_log">Pošalji dnevnik</string>
   <string name="user_ac_click_to_login">Dodirni za prijavu</string>
   <string name="user_ac_not_login">Niste prijavljeni</string>
+  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Mi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Mi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjeti usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Mi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%5$s&amp;gt;Uvjeti i odredbe usluge provjere ra&amp;#269;una eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Mi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%5$s&amp;gt;Uvjeti i odredbe China Unicom usluga provjere&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Mi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am the &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski &amp;#263;e stvoriti Xiaomi ra&amp;#269;un"&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako prvi put koristite svoj telefonski broj."</string>
+  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Mi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjeti usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Mi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%3$s&amp;gt;Uvjeti i odredbe usluge provjere ra&amp;#269;una eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Mi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=%3$s&amp;gt;Uvjeti i odredbe China Unicom usluga provjere&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_protocal_dialog_hint_default">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Mi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Br. telefona</string>
+  <string name="user_name_phone_number">Broj telefona</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="v_code_title">Unesite kontrolni kôd u 2 koraka</string>

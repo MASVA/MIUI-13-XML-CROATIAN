@@ -179,8 +179,10 @@
   <string name="sys_notification_async_verify_content">Naša ažurirana sigurnosna pravila zahtijevaju da Pronađi uređaj bude ponovno aktiviran.</string>
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Pronađi uređaj</string>
   <string name="talkback_back">Natrag</string>
-  <string name="talkback_hide_passcode">Sakrij šifru</string>
-  <string name="talkback_show_passcode">Prikaži šifru</string>
+  <string name="talkback_hide_pwd">Sakrij zaporku</string>
+  <string name="talkback_show_pwd">Prikaži zaporku</string>
+  <string name="talkback_hide_passcode">Sakrij zaporku</string>
+  <string name="talkback_show_passcode">Prikaži zaporku</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

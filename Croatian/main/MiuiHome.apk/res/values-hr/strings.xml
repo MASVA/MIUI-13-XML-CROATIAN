@@ -429,6 +429,8 @@
   <string name="menu_trans_effect">Efekat prijelaza</string>
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregledi Poč. zaslona</string>
+  <string name="menu_no_word">"Ne prikazuj tekst"</string>
+  <string name="menu_no_word_setting_tip" formatted="false">Koristite %d×%d izgled bez teksta</string>
   <string name="mi_wallpaper">MIUI Teme</string>
   <string name="minus_one_screen">Zaklj. aplikacija</string>
   <string name="minus_one_screen_none">Ništa</string>

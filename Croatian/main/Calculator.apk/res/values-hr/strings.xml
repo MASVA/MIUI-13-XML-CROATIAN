@@ -2,6 +2,31 @@
 <resources>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Više opcija</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">svemir</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraži</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeli s</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
   <string name="action_mode_title_empty">Odaberi stavke</string>
@@ -25,6 +50,7 @@
   <string name="app_name">Kalkulator</string>
   <string name="app_notification_info">Kalkulator radi u pozadini</string>
   <string name="base_rate">Osnovna kamatna stopa</string>
+  <string name="birthday">Rođendan</string>
   <string name="bmi_error_text">"Ovaj BMI ne izgleda kako treba. Provjerite jesu li visina i težina koju ste unijeli ispravni."</string>
   <string name="bmi_label_information">Informacije</string>
   <string name="bmi_label_normal">Normalna</string>
@@ -37,7 +63,6 @@
   <string name="btn_float_window_back_to_app">Povećaj Kalkulator</string>
   <string name="btn_float_window_close">Zatvori umanjeni Kalkulator</string>
   <string name="btn_float_window_resize">Promjeni veličinu umanjenog Kalkulatora</string>
-  <string name="birthday">Rođendan</string>
   <string name="cal_convert_to_word_figure">Pretvori u financijske znakove</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Uređivanje</string>
@@ -51,7 +76,9 @@
   <string name="choose_radix">Odaberite brojčani sustav</string>
   <string name="choose_unit">Odaberite jedinicu</string>
   <string name="city">Grad</string>
+  <string name="clearDesc">Izbriši</string>
   <string name="clear_history">Izbriši povijest</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="combine_loan">Kombinirani kredit</string>
   <string name="commercial_loan">Komercijalni kredit</string>
@@ -94,7 +121,9 @@
   <string name="convertion_unit_velocity">Konverzija brzine</string>
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
+  <string name="copy">Kopiraj</string>
   <string name="copyright">Autorska prava</string>
+  <string name="cta_agreement_declare">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
   <string name="currency_dialog_privacy_content">Konverzija valuta mora se povezati s internetom da dobije najnovije tečajeve valuta. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.</string>
   <string name="currency_update_connect_to_get_data">Tečajnu listu pruža Webull. Povežite se s mrežom kako biste dobili najnovije informacije.</string>
   <string name="currency_update_support">Tečajnu listu pruža Webull.</string>
@@ -133,6 +162,7 @@
   <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
   <string name="evening">PM</string>
   <string name="exit">Izlaz</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="extra_deduction_instruction">Pojedinosti o odbitku</string>
   <string name="extra_deduction_tips">Dodirnite tipku u gornjem kutu zaslona da biste vidjeli detalje o odbitku.</string>
   <string name="extra_deduction_title">Dodatni odbici</string>
@@ -194,6 +224,22 @@
   <string name="from_unit_en">km/h</string>
   <string name="further_education">Daljnje obrazovanje</string>
   <string name="global_network_confirm_content">"Pretvarač valuta kalkulatora treba koristiti mrežnu vezu vašeg uređaja da radi normalno."</string>
+  <string name="global_search_key_area_convertion">Površina;Pretvornik područja;Pretvorba područja</string>
+  <string name="global_search_key_calculation">Izračunaj;Kalkulator;Pretvorba jedinica;Pretvarač;Pretvarač jedinica</string>
+  <string name="global_search_key_date_convertion">Pretvarač vremena;Vremenske jedinice;Pretvorba vremena;Vrijeme</string>
+  <string name="global_search_key_exchange_rate">Tečaj;Pretvorba tečaja;Pretvarač valuta;Valuta;Tečaji</string>
+  <string name="global_search_key_length_convertion">Duljina;Pretvarač duljine;Pretvorba duljine</string>
+  <string name="global_search_key_mortgage">Izračun hipoteke; Kalkulator hipoteke; Hipoteka</string>
+  <string name="global_search_key_personal_tax">Porez na dohodak;Dohodak nakon oporezivanja;Porezni kalkulator;Izračun osobnog dohotka;Izračun dohotka;Obračun dohotka nakon poreza;porez na dohodak;porez;porezi</string>
+  <string name="global_search_key_scientific_convertion">Znanstveni kalkulator;Izračun funkcije;Matematika;Algebra</string>
+  <string name="global_search_key_speed_convertion">Pretvorba jedinica brzine;Pretvorba brzine;Pretvorba brzine;Pretvarač brzine;Brzina;Brzina</string>
+  <string name="global_search_key_temperature_convertion">Pretvorba jedinica temperature;Pretvorba temperature;Pretvarač temperature;Fahrenheit;Celzius;Centigrad</string>
+  <string name="global_search_key_volume_convertion">Pretvorba jedinica volumena;Pretvorba volumena;Pretvarač volumena</string>
+  <string name="global_search_key_weight_convertion">Pretvorba jedinica težine;Pretvorba težine;Pretvarač težine;Kilogrami;Kg;Kilogrami;Funti;Funti;lbs</string>
+  <string name="global_search_key_word_figure">Financijski likovi</string>
+  <string name="golbal_search_calculator_setting">Kalkulator;Postavke kalkulatora;Postavke</string>
+  <string name="golbal_search_path_calculator_setting">Aplikacije sustava/Kalkulator/Postavke</string>
+  <string name="height_prompt">Visina</string>
   <string name="help_content_desc">Pomoć</string>
   <string name="hint_annual_rate">Unesite godišnju stopu</string>
   <string name="hint_enter_amount">Unesite iznos</string>
@@ -210,11 +256,15 @@
   <string name="install_scanner_to_continued_use">Skener je deinstaliran. Instalirati ga ponovno?</string>
   <string name="instruction">Instrukcije</string>
   <string name="interest_rate_hint">Unesite kamatnu stopu</string>
+  <string name="investment_invalid_duration">Trajanje ulaganja mora biti duže od nule</string>
+  <string name="investment_type_once">Jednokratno</string>
+  <string name="investment_type_recurring">Ponavlja se</string>
+  <string name="item_page_title_investment">Investicijski kalkulator</string>
   <string name="item_title_aa_payment">Podijeli račun</string>
   <string name="item_title_age">Godine</string>
   <string name="item_title_area_conversion">Površina</string>
-  <string name="item_title_calculator">Kalkulator</string>
   <string name="item_title_bmi">BMI</string>
+  <string name="item_title_calculator">Kalkulator</string>
   <string name="item_title_currency">Valuta</string>
   <string name="item_title_data_conversion">Podaci</string>
   <string name="item_title_date_calculator">Datum</string>
@@ -222,7 +272,9 @@
   <string name="item_title_dress_size">Veličina odjeće</string>
   <string name="item_title_emi">Osobna pozajmica</string>
   <string name="item_title_gst">GST</string>
+  <string name="item_title_investment">Ulaganje</string>
   <string name="item_title_length_conversion">Duljina</string>
+  <string name="item_title_loan">Zajam</string>
   <string name="item_title_mortgage">Kredit</string>
   <string name="item_title_percentage">Postotak</string>
   <string name="item_title_radix">Brojčani sustav</string>
@@ -236,6 +288,7 @@
   <string name="item_title_vel_conversion">Brzina</string>
   <string name="item_title_volume_conversion">Volumen</string>
   <string name="item_title_weight_conversion">Masa</string>
+  <string name="l_name_discount">Popust (%s popust)</string>
   <string name="label_about">O</string>
   <string name="label_clear_history">Izbriši sve</string>
   <string name="label_date_difference">Razlika</string>
@@ -246,7 +299,10 @@
   <string name="label_from_date">Od</string>
   <string name="label_history">Povijest</string>
   <string name="label_interest">Kamate</string>
+  <string name="label_investment_disclaimer">Koristimo tromjesečno razdoblje objedinjavanja za ponavljajuće izračune</string>
+  <string name="label_investment_duration">Trajanje</string>
   <string name="label_loan_tenure">Kredit</string>
+  <string name="label_monthly_investment">Mjesečno ulaganje</string>
   <string name="label_months">Mjeseci</string>
   <string name="label_no_history">Ovdje nema još stavki</string>
   <string name="label_powered_by">Powered by Mi Kalkulator</string>
@@ -256,8 +312,10 @@
   <string name="label_statistics">Statistika</string>
   <string name="label_to_date">Do</string>
   <string name="label_total_interest">Ukupna kamata</string>
+  <string name="label_total_investment">Ukupno ulaganje</string>
   <string name="label_total_payment">Ukupna otplata</string>
   <string name="label_total_principal">Ukupna alavnica</string>
+  <string name="label_total_value">Ukupna vrijednost</string>
   <string name="label_years">Godina</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="loading">Samo trenutak…</string>
@@ -266,21 +324,35 @@
   <string name="loading_message">Učitavanje aplikacije…</string>
   <string name="loading_slogan">Koristite aplikacije bez da ih instalirate</string>
   <string name="loading_tips">Postavke uspješno preuzete. Ponovno pokrenite Kalkulator za primjenu.</string>
+  <string name="loan_basic_point">Osnovna točka</string>
   <string name="loan_edittext_hint_commercial">Unesite iznos</string>
   <string name="loan_edittext_hint_commercial_combined">Komercijalno</string>
   <string name="loan_edittext_hint_fund">Unesite iznos</string>
   <string name="loan_edittext_hint_fund_combined">Kreditni fond</string>
   <string name="loan_edittext_title_commercial_combined">Komercijalni (×10K)</string>
   <string name="loan_edittext_title_fund_combined">Visina zajma (×10K)</string>
+  <string name="loan_enter_amount">Unesite iznos</string>
+  <string name="loan_enter_amount_interest">Unesite iznos i kamatnu stopu</string>
+  <string name="loan_enter_interest">Unesite kamatnu stopu</string>
   <string name="loan_first_pay_date">Prvi datum plaćanja</string>
   <string name="loan_interest_rate">Kamate</string>
+  <string name="loan_invalid_loan_tenure">Trajanje zajma mora biti veće od nule</string>
   <string name="loan_pay_years">Razdoblje kredita</string>
   <string name="loan_payback_way">Otplata</string>
   <string name="loan_repayment_detail">Detaljna otplata</string>
   <string name="loan_repayment_detail_loading">Učitavanje detaljne otplate…</string>
   <string name="loan_repayment_detail_unit">Detaljna otplata (CNY)</string>
+  <string name="loan_type_summary_lpr">LPR</string>
+  <string name="loan_type_title">Standardna kamatna stopa</string>
   <string name="loan_unit">×10K</string>
+  <string name="lpr_ok">Razumijem</string>
+  <string name="lpr_tips_msg">"Od 8. listopada 2019. kamatna stopa na osobni poslovni stambeni zajam računat će se prema osnovnoj stopi zajma (LPR) umjesto prethodno provedene referentne kamatne stope od 4,9%. Sada, konačna stopa će biti potvrđena dodavanjem LPR bazne točke.
+
+Jednogodišnji i petogodišnji LPR će se citirati 20. u mjesecu (mogu doći do kašnjenja zbog bankovnih praznika) na web stranici Narodne banke Kine."</string>
+  <string name="lpr_tips_title">LPR (primarna stopa zajma)</string>
   <string name="medical_treatment">Liječenje</string>
+  <string name="menuDesc">izbornik</string>
+  <string name="midnight">AM</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -303,8 +375,6 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="midnight">AM</string>
-  <string name="menuDesc">izbornik</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -370,6 +440,7 @@
   <string name="mortgage_item_years">Trajanje kredita</string>
   <string name="mortgage_loans_amount">Iznos kredita</string>
   <string name="mortgage_provident_found_interest_rate">"Kamatna stopa fonda"</string>
+  <string name="mortgage_provider_east_money">Podatke pruža East Money</string>
   <string name="mortgage_repayment_amount">Iznos otplate</string>
   <string name="mortgage_result">Rezultat</string>
   <string name="mortgage_show_details">Prikaži detalje</string>
@@ -396,15 +467,15 @@
   <string name="network_confirm_title">Potrebno je dopuštenje</string>
   <string name="network_privacy">Imajte na umu da se ova aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi vam pružila usluge. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="network_purpose">Dobrodošli u Kalkulator! Kalkulator vam omogućuje pretvorbu valuta, izračunavanje otplate hipoteke i još mnogo toga.</string>
-  <string name="new_privacy_string"><Data>"Dobrodošli u Kalkulator!&lt;br/>Ova aplikacija sadrži sljedeće značajke:&lt;br/>• Osnovni kalkulator&lt;br/>• Znanstveni kalkulator&lt;br/>• Univerzalni pretvarač (npr. valute, mjerne jedinice itd.)&lt;br/>• Predlošci izračuna za zajmove, ulaganja, EMI i još mnogo toga&lt;br/>Kalkulator mora prikupiti potrebne osobne podatke kako bi vam pružio osnovne usluge. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &lt;a href= \"%1$s\">Pravila o privatnosti&lt;/a>. Pročitajte i prihvatite naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a> prije korištenja Kalkulatora. U bilo kojem trenutku možete povući svoj pristanak na Pravila o privatnosti Kalkulatora u Postavkama. Ako se ne slažete s našim Pravilima o privatnosti, nećete moći koristiti neke značajke ove aplikacije; međutim, osnovna funkcionalnost i dalje će vam biti dostupna."</Data></string>
+  <string name="new_privacy_string">&lt;Data&gt;"Dobrodo&amp;#353;li u Kalkulator!&amp;lt;br/&amp;gt;Ova aplikacija sadr&amp;#382;i sljede&amp;#263;e zna&amp;#269;ajke:&amp;lt;br/&amp;gt;&amp;#8226; Osnovni kalkulator&amp;lt;br/&amp;gt;&amp;#8226; Znanstveni kalkulator&amp;lt;br/&amp;gt;&amp;#8226; Univerzalni pretvara&amp;#269; (npr. valute, mjerne jedinice itd.)&amp;lt;br/&amp;gt;&amp;#8226; Predlo&amp;#353;ci izra&amp;#269;una za zajmove, ulaganja, EMI i jo&amp;#353; mnogo toga&amp;lt;br/&amp;gt;Kalkulator mora prikupiti potrebne osobne podatke kako bi vam pru&amp;#382;io osnovne usluge. Mo&amp;#382;ete nau&amp;#269;iti kako postupamo s podacima koje prikupljamo u na&amp;#353;im &amp;lt;a href= \"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%3$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja Kalkulatora. U bilo kojem trenutku mo&amp;#382;ete povu&amp;#263;i svoj pristanak na Pravila o privatnosti Kalkulatora u Postavkama. Ako se ne sla&amp;#382;ete s na&amp;#353;im Pravilima o privatnosti, ne&amp;#263;ete mo&amp;#263;i koristiti neke zna&amp;#269;ajke ove aplikacije; me&amp;#273;utim, osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
   <string name="nickname">Prezime</string>
   <string name="night">PM</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_sim">Nema SIM kartice</string>
   <string name="none">Ništa</string>
   <string name="noon">PM</string>
-  <string name="not_supported_due_to_language">Ova značajka dostupna je samo za kineski jezik</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="not_supported_due_to_language">Ova značajka dostupna je samo za kineski jezik</string>
   <string name="note">Bilješka</string>
   <string name="ok">U redu</string>
   <string name="organization">Organizacija</string>
@@ -412,15 +483,14 @@
   <string name="perm_payment_dspt">Dopustite aplikaciji plaćanje koristeći Mi Usluge plaćanja</string>
   <string name="perm_payment_lab">Mi Usluge plaćanja</string>
   <string name="permdesc_sendSmsNoConfirmation">Aplikacija može slati SMS poruke, bez upita za vaše dopuštenje. To može dovesti do neočekivanih troškova od vašeg davatelja usluga.</string>
-  <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
   <string name="permission_location">Pristup lokaciji</string>
   <string name="permission_location_desc">Za pružanje usluga temeljenih na lokaciji</string>
   <string name="permission_phone">Pristup statusu i ID-u uređaja</string>
   <string name="permission_phone_desc">Za prepoznavanje različitih uređaja</string>
-  <string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
   <string name="permission_purpose">"Dobrodošli u Kalkulator! Osim osnovne funkcionalnosti, Kalkulator vam omogućuje pretvaranje valuta i mjernih jedinica, izračunavanje otplate hipoteke i još mnogo toga. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
 Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:"</string>
   <string name="permission_remove_desc">Možete odlučiti deinstalirati ovu aplikaciju ili ograničiti dopuštenja i oduzeti autorizaciju u Postavkama.</string>
+  <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
   <string name="phone">Telefon</string>
   <string name="preference_about_calculator">O Kalkulatoru</string>
   <string name="preference_alert_follow_qq_group">Kopiraj i zalijepi u QQ za pov. informaciju</string>
@@ -463,9 +533,9 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="saturday_shortest">S</string>
   <string name="scannerDesc">Skener</string>
   <string name="scanner_had_been_uninstalled">Skener je deinstaliran</string>
+  <string name="search_input_description">Traži</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_mode_button_back_description">Natrag</string>
-  <string name="search_input_description">Traži</string>
   <string name="secondFunctionDesc">Prijeđi na drugu funkciju</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_item">Odaberi stavke</string>
@@ -510,16 +580,16 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="solar_term_white_dews">Bijela rosa</string>
   <string name="solar_term_winter_begins">Početak zime</string>
   <string name="solar_term_winter_solstice">Zimska kratkodnevica</string>
-  <string name="sunday">Nedjelja</string>
-  <string name="sunday_short">Ned</string>
-  <string name="sunday_shortest">N</string>
-  <string name="support_elder">Podrška za starije osobe</string>
   <string name="statistic_label_balance">Stanje</string>
   <string name="statistic_label_interest">Kamata</string>
   <string name="statistic_label_month">Mjesec</string>
   <string name="statistic_label_monthly">Mjesečno</string>
   <string name="statistic_label_yearly">Godišnje</string>
   <string name="statistic_year">Godina %d</string>
+  <string name="sunday">Nedjelja</string>
+  <string name="sunday_short">Ned</string>
+  <string name="sunday_shortest">N</string>
+  <string name="support_elder">Podrška za starije osobe</string>
   <string name="switchDesc">Promjeni</string>
   <string name="sync_one_time_sync">Sinkronizacija (%1$s)</string>
   <string name="tab_title_calculator">Kalkulator</string>
@@ -571,6 +641,7 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="tax_param_error">Unesite ispravnu stopu osiguranja</string>
   <string name="tax_payment_period">Broj rata</string>
   <string name="tax_rate_provider">Izračunava se prema novim poreznim propisima. Podatke osiguravaju hexun.com i East Money.</string>
+  <string name="tax_rate_provider_east_money">Izračunato prema novim poreznim propisima. Podatke osigurava East Money.</string>
   <string name="tax_result_real_get">Stvarna dobit</string>
   <string name="tax_social_insurance">Socijalno osiguranje</string>
   <string name="tax_thershold_foreign">%s (strano državljanstvo)</string>
@@ -632,6 +703,9 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="tv_recurrence_monthly">Mjesečno</string>
+  <string name="tv_recurrence_quaterly">Kvartalno</string>
+  <string name="tv_recurrence_yearly">Godišnje</string>
   <string name="unKnow_error">Nepoznata pogreška</string>
   <string name="unit_cm">Centimetri</string>
   <string name="unit_data_display_area_acre">Ral</string>
@@ -732,15 +806,17 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="unit_inch">Inč</string>
   <string name="unit_kg">Kilogram</string>
   <string name="unit_meter">Metar</string>
-  <string name="unit_pound">Funta</string>
   <string name="unit_myriads"/>
+  <string name="unit_pound">Funta</string>
   <string name="unit_year">G</string>
   <string name="unit_year_format">Godina %s</string>
   <string name="updating">Ažuriranje Kalkulatora…</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_experience_program_title">Program korisničkog iskustva</string>
-  <string name="view_float_window_move">Pomakni umanjeni Kalkulator</string>
   <string name="user_manual">Upute</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="view_float_window_move">Pomakni umanjeni Kalkulator</string>
   <string name="voiceDesc">Glasovne kontrole</string>
   <string name="voice_guide_text">Ovdje možete uključiti govorni izlaz</string>
   <string name="warn_locale_unsupport_for_voice">"Glasovni izlaz za ovaj jezik još nije podržan."</string>
@@ -755,6 +831,10 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="wf_word_figure">Financijski znakovi</string>
   <string name="withdraw_network_error">Vaš se uređaj mora povezati s mrežom da biste mogli povući pristanak. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="word_figure_guide_text">Pritisnite i držite tekst za pretvorbu između slučajeva.</string>
+  <string name="xiaomi_calculator_delete_description">"Kalkulator je aplikacija sustava. Nećete moći koristiti više pretvarača i dodatnih značajki nakon što deinstalirate aplikaciju."</string>
+  <string name="xiaomi_calculator_delete_title">Deinstalirati Kalkulator?</string>
+  <string name="xiaomi_calculator_remove_icon_description">"Kalkulator je aplikacija sustava. Nećete moći koristiti više pretvarača i dodatnih značajki nakon što uklonite prečac na Poč. zaslonu."</string>
+  <string name="xiaomi_calculator_remove_icon_title">Ukloniti \"Kalkulator\" s Poč. zaslona?</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu se povezati s aplikacijom s Preuzimanja. Provjerite ima li ova aplikacija sva potrebna dopuštenja u Postavke &gt; Instalirane aplikacije."</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana nije dostupna, molimo provjerite SD karticu.</string>
   <string name="xiaomi_mobile">Mi Mobile</string>

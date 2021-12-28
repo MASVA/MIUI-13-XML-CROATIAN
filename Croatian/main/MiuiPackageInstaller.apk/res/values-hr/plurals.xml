@@ -65,11 +65,31 @@
         <item quantity="one">%d dopuštenje</item>
     </plurals>
     <plurals name="miui_app_privacy_permission_number">
-        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenja povezana s privatnošću&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenje povezano s privatnošću&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenja vezanih uz privatnost&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenje vezano uz privatnost&lt;/Data></item>
     </plurals>
     <plurals name="miui_permission_detail">
         <item quantity="other">%d dopuštenja</item>
         <item quantity="one">%d dopuštenje</item>
     </plurals>
+	<plurals name="app_info_permission_count">
+        <item quantity="other">%d dopuštenja</item>
+        <item quantity="one">%d dopuštenje</item>
+     </plurals>
+     <plurals name="app_info_permission_count_">
+        <item quantity="other">%d dopuštenja,</item>
+        <item quantity="one">%d dopuštenje,</item>
+     </plurals>
+     <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s dopuštenja vezanih uz privatnost</item>
+        <item quantity="one">%1$s dopuštenje vezano uz privatnost</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%1$s pregleda</item>
+        <item quantity="one">%1$s pregled</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+         <item quantity="other">%d novih obavijesti</item>
+         <item quantity="one">%d nova obavijest</item>
+	 </plurals>
 </resources>
