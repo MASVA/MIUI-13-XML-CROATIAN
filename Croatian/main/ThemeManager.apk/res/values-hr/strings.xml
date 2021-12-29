@@ -898,7 +898,6 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="privacy_phone_logoff_theme_service_introduce">"Upravo ćete otkazati usluge Teme."</string>
   <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o ukidanju usluga Tema&lt;/a>&lt;/font>\"."</Data></string>
   <string name="privacy_phone_read_theme_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti Pravila o privatnosti Tema&lt;/a>&lt;/font>\"."</Data></string>
-  <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjavu o povla&amp;#269;enju suglasnosti Pravila o privatnosti Tema&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
   <string name="privacy_phone_revoke_agree_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
   <string name="privacy_phone_revoke_agree_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.</string>
   <string name="privacy_phone_revoke_agree_detail_content_1">"1.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
