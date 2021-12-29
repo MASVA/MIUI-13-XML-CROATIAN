@@ -849,14 +849,6 @@ Ovaj problem može biti uzrokovan dvofaktorskom provjerom autentičnosti računa
   <string name="mailbox_name_display_starred">Označeno</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
-  <string name="mailbox_name_server_all_unread">Nepročitano</string>
-  <string name="mailbox_name_server_drafts">Skice</string>
-  <string name="mailbox_name_server_inbox">Dolazna pošta</string>
-  <string name="mailbox_name_server_junk">Spam</string>
-  <string name="mailbox_name_server_outbox">Odlazna pošta</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_starred">Označeno</string>
-  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_setting_preference_sync_summary_close">Sinkr: Isključena</string>
   <string name="mailbox_setting_preference_sync_summary_open">Sinkr: Uključena</string>
   <string name="mailbox_settings_activity_title">Postavke sinkronizacije</string>
@@ -1274,7 +1266,6 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="personal_data_collection_title">Dopustite prikupljanje osobnih podataka</string>
   <string name="phone">telefon</string>
   <string name="photo_load_failed">"Ne mogu učitati sliku"</string>
-  <string name="photo_view_count">%1$d/%2$d</string>
   <string name="pl_select_age">Odaberite godine</string>
   <string name="please_fill_in_your_mailbox_information2">Unesite vaše podatke za račun e-pošte:</string>
   <string name="policy_app_blacklist">Odbaci određene aplikacije</string>
@@ -1591,7 +1582,6 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="storage">Pohrana</string>
   <string name="str_select_all">Odaberi sve</string>
   <string name="str_select_none">Poništi odabir</string>
-  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
   <string name="successfully_obtained_authorization_code">Kod za provjeru</string>
   <string name="sunday">Nedjelja</string>

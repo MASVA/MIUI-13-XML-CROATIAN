@@ -197,12 +197,7 @@ Odabrane značajke možete promijeniti u odjeljku Postavke &gt; Pristupačnost."
 Značajku na koju se taj prečac odnosi možete promijeniti u odjeljku Postavke &gt; Pristupačnost."</string>
   <string name="accessibility_shortcut_single_service_warning_title">Želite li uključiti uslugu %1$s?</string>
   <string name="accessibility_shortcut_spoken_feedback">Pritisnite i zadržite tipke za glasnoću na tri sekunde da biste koristili uslugu %1$s</string>
-  <string name="accessibility_shortcut_toogle_warning">"Kada je taj prečac uključen, pritiskom na obje tipke za glasnoću na 3 sekunde pokrenut će se značajka pristupačnosti.
-
- Trenutačna značajka pristupačnosti:
- %1$s
-
- Značajku možete promijeniti u Postavkama &gt; Pristupačnost."</string>
+  <string name="accessibility_shortcut_toogle_warning">"Kada je taj prečac uključen, pritiskom na obje tipke za glasnoću na 3 sekunde pokrenut će se značajka pristupačnosti."</string>
   <string name="accessibility_shortcut_warning_dialog_title">Želite li upotrebljavati prečac za pristupačnost?</string>
   <string name="accessibility_system_action_back_label">Natrag</string>
   <string name="accessibility_system_action_dismiss_notification_shade">Odbacivanje zaslona obavijesti</string>

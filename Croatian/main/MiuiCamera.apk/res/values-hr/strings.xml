@@ -610,7 +610,7 @@ skenirane dokumente automatski"</string>
   <string name="document_mode_use_hint_text_title">Skeniraj dokumente</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Poboljšano</string>
-  <string name="dolly_zoom_capture_tip1">Postavite predmet u okvir i držite uređaj najmanje %d metara dalje</string>
+  <string name="dolly_zoom_capture_tip1">Postavite predmet u okvir</string>
   <string name="dolly_zoom_capture_tip2">Neprestano odmmičite uređaj od predmeta</string>
   <string name="dolly_zoom_capture_tip3">Izgubljeni trag predmeta. Počnite ispočetka.</string>
   <string name="dolly_zoom_capture_tip4">Odmaknuli ste uređaj predaleko. Počnite ispočetka.</string>
@@ -714,7 +714,6 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
   <string name="eye_light_comic">Manga</string>
   <string name="eye_light_crescent">Crescent</string>
   <string name="eye_light_nature">Nature</string>
-  <string name="eye_light_off">Ništa</string>
   <string name="eye_light_rainbow">Rainbow</string>
   <string name="eye_light_star">Stars</string>
   <string name="eye_light_window">Window</string>
@@ -827,7 +826,6 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="id_card_mode_use_hint_text_body">"Kombinirajte obje strane svoje iskaznice u jednu sliku.
 Ispišite kopiju bežično na papir A4."</string>
   <string name="id_card_mode_use_hint_text_title">Skenirajte iskaznicu</string>
-  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Uvoz dovršen</string>
   <string name="import_contact">Uvezi kontakt</string>
   <string name="import_fail">Uvoz nije uspio</string>
@@ -1201,7 +1199,6 @@ izgledaju veće na fotografijama"</string>
   <string name="pano_dialog_prepare_preview">Priprema…</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Čekanje završetka prethodne panorame</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_file_name_prefix">PANO_</string>
   <string name="pano_go_on_moving">Neprekidno pomičite uređaj uz liniju</string>
   <string name="pano_how_to_use_prompt">"Da biste snimili panoramsku fotografiju,
@@ -1650,9 +1647,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
-  <string name="pref_camera_snap_value_off">Isključeno</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Slika</string>
   <string name="pref_camera_sound_title">Zvuk okidača</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_sr_enable_title">Uključi SR</string>
@@ -2167,7 +2161,6 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_effect_entry_summer_day_describe">Niski kontrast i svijetli tonovi dobro dođu kada trebate sačuvati nijanse kože. Ovaj je filtar pogodan za sunčane scene na otvorenom.</string>
   <string name="video_effect_entry_wind_sing">Povjetarac</string>
   <string name="video_err">"Ne mogu reproducirati videozapis"</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_overheat_tip_content">Čini se da vam je uređaj prevruć. Pokušajte snimiti videozapis u nižoj rezoluciji.</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
   <string name="video_shortcut_long">Videozapis</string>

@@ -1609,7 +1609,7 @@ podatke o spavanju"</string>
   <string name="tb_home_exercise_card_speed_of_progress">Vježba. %1$s. Dovršeno: %2$s. Cilj: %3$s. Napredak: %4$s.</string>
   <string name="tb_home_heart_rate_card">Otkucaji srca. %1$d otkucaja u minuti. Zabilježeno %2$s.</string>
   <string name="tb_home_heart_rate_card_no_data">Otkucaji srca. Nema podataka.</string>
-  <string name="tb_home_sleep_card">Spavanje. %1$s danas. Otišao u krevet u %2$s. Probudio se u %3$s. %4$s.</string>
+  <string name="tb_home_sleep_card">"Današnje spavanje: %1$s, %2$s"</string>
   <string name="tb_home_sleep_card_no_data">Spavanje. Nema podataka danas.</string>
   <string name="tb_home_sleep_card_not_open_trace">Spavanje. Analiza ciklusa spavanja je isključena.</string>
   <string name="tb_home_tip_open_data_sync">Sinkronizirajte stavke Xiaomi Health s Mi Cloudom kako biste im pristupili na drugim uređajima. Dvaput dodirnite za početak.</string>
@@ -1659,7 +1659,7 @@ podatke o spavanju"</string>
   <string name="tb_sleep_index_info">%1$s. Dodirnite za prikaz detalja.</string>
   <string name="tb_sleep_index_title">Prebaci na %1$s</string>
   <string name="tb_sleep_ring_info">%1$s. Spavanje: %2$s. Dodirnite za prikaz detalja.</string>
-  <string name="tb_snore_detection_main">O značajkama vezanim uz pričanje i hrkanje: %1%s. Povucite vodoravno gornjim dijelom zaslona da biste prešli na sljedeću stranicu.</string>
+  <string name="tb_snore_detection_main">O značajkama koje se odnose na pričanje i hrkanje: %1%s. Prijeđite prstom vodoravno po gornjem dijelu zaslona da biste otišli na sljedeću stranicu.</string>
   <string name="tb_snore_view_info">Grafikon pričanja i hrkanja</string>
   <string name="tb_stand_card_finish_stand">Danas, %1$s je akumulirao stajanje, cilj je završiti stajanje za 12 sati, trenutno vrijeme je %2$s-%3$s, stajanje je dovršeno</string>
   <string name="tb_stand_card_not_finish_stand">Danas, %1$s je dovršio stajanje, cilj je završiti stajanje za 12 sati, trenutno vrijeme je %2$s-%3$s, i stajanje je dovršeno</string>
@@ -1667,7 +1667,7 @@ podatke o spavanju"</string>
   <string name="tb_stand_day_ring">Danas, %1$s je akumulirao da dovrši stajanje, cilj je završiti stajanje za 12 sati</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$, Statistički podaci o završetku stajanja, povucite lijevo i desno za promjenu vremenskog raspona, kliknite na stupac za prikaz detalja</string>
   <string name="tb_stand_wm_column_click">%1$s, stajanje %2$d, %3$s</string>
-  <string name="tb_step_widget">Danas. %1$s. Napredak: %2$d%</string>
+  <string name="tb_step_widget" formatted="false">Danas. %1$s. Napredak: %2$d%</string>
   <string name="tb_unmultiple_selecte_all">Poništi odabir</string>
   <string name="tb_user_account_signed">Mi Račun: %1$s.</string>
   <string name="tb_user_account_unsigned">Dodirnite za prijavu na Mi Račun</string>

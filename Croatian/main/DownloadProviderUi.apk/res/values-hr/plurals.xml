@@ -61,8 +61,8 @@
         <item quantity="one">Izbrisati %d preuzimanje?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Preuzimanja uspješno izbrisana: %d</item>
-        <item quantity="one">%d preuzimanje uspješno izbrisano</item>
+        <item quantity="other">Preuzimanja uspješno izbrisana: %s</item>
+        <item quantity="one">%s preuzimanje uspješno izbrisano</item>
      </plurals>
 	 <plurals name="durationDays">
         <item quantity="other">%1$d dana</item>

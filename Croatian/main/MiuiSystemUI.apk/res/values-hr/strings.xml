@@ -496,7 +496,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="battery_info_status_unknown">Nepoznato</string>
   <string name="battery_low_button_not_open_power_save">Ne sada</string>
   <string name="battery_low_button_open_power_save">Uključi</string>
-  <string name="battery_low_percent_format">preostalo %d%%</string>
+  <string name="battery_low_percent_format">preostalo %s</string>
   <string name="battery_low_percent_format_hybrid" formatted="false">Preostalo je %s, još otprilike %s na temelju vaše upotrebe</string>
   <string name="battery_low_percent_format_hybrid_short" formatted="false">Preostalo je %s, još otprilike %s</string>
   <string name="battery_low_percent_format_save_mode_closed">Preostalo je manje od %d%% baterije. Priključite punjač.</string>
@@ -776,7 +776,6 @@ Audio"</string>
   <string name="connected_via_wfa">Povezano putem Wi-Fi pomoćnika</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="control_center_notification_switch_guide">Povucite za prebacivanje između Centra za kontrolu i Panela obavijesti</string>
-  <string name="control_quick_settings_tiles_super_save">gps,nfc,snimka zaslona,vibriraj</string>
   <string name="controls_added_tooltip">Otvorite izbornik Brze postavke da biste vidjeli nove kontrole</string>
   <string name="controls_confirmation_confirming">Potvrđivanje…</string>
   <string name="controls_confirmation_message">Potvrdite promjenu za uređaj %s</string>
@@ -1205,7 +1204,6 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="gxzw_quick_open_qr_code">QR kod</string>
   <string name="gxzw_quick_open_qr_code_sub">Skener</string>
   <string name="gxzw_quick_open_search">Traži</string>
-  <string name="gxzw_quick_open_search_sub">Preglednik</string>
   <string name="gxzw_quick_open_skip_teach">Preskoči tutorijal</string>
   <string name="gxzw_quick_open_title">Izbornik prečaca je otvoren</string>
   <string name="gxzw_quick_open_wechat_pay">Šifra plaćanja</string>
@@ -3194,11 +3192,9 @@ Adresa Wi-Fi-ja (BSSID)
   <string name="wifi_enhanced_mac_randomization">Nasumični odabir nepostojane MAC adrese za Wi-Fi</string>
   <string name="wifi_enhanced_mac_randomization_summary">Kada je omogućen ovaj način, MAC adresa ovog uređaja može se promijeniti svaki put kad se uređaj poveže s mrežom na kojoj je omogućen nasumični odabir MAC-a.</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_hotspot_switch_off_text">Isključeno</string>
   <string name="wifi_hotspot_switch_on_text">Uključeno</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_is_off">Wi-Fi je isključen</string>
   <string name="wifi_limited_connection">Ograničena veza</string>
   <string name="wifi_metered_label">S ograničenim prometom</string>

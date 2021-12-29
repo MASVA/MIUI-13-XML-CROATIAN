@@ -242,7 +242,7 @@
   <string name="meizu">Meizu</string>
   <string name="meizu_phone">Meizu</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
-  <string name="memory_clear_result">"Izbrisano: %1$sB | Dostupno: %2$sB"</string>
+  <string name="memory_clear_result">"%1$sB očišćeno"</string>
   <string name="messagesent">Poruka je poslana</string>
   <string name="mi_9t">Mi 9T</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>

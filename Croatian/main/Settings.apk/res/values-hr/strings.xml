@@ -1338,7 +1338,6 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_manager_on">Uključeno / Produljuje trajanje baterije na temelju upotrebe telefona</string>
   <string name="battery_manager_summary">Produljenje trajanja baterije i optimizacija punjenja</string>
   <string name="battery_missing_link_a11y_message">Dodirnite da biste saznali više o toj pogrešci</string>
-  <string name="battery_missing_link_message">Saznajte više</string>
   <string name="battery_missing_message">Problem s očitavanjem mjerača baterije.</string>
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_not_usage">Nema potrošnje od posljednjeg potpunog punjenja</string>
@@ -1368,7 +1367,7 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_saver_schedule_settings_title">Postavite raspored</string>
   <string name="battery_saver_seekbar_title">Na %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Uključi</string>
-  <string name="battery_saver_sticky_description_new">Štednja baterije isključuje se kad je telefon na %1$s</string>
+  <string name="battery_saver_sticky_description_new">Štednja baterije se isključuje kada se telefon napuni iznad ^1%</string>
   <string name="battery_saver_sticky_title_new">Isključi nakon punjenja</string>
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
   <string name="battery_saver_turn_on_automatically_pct">Na %1$s baterije</string>
@@ -1399,7 +1398,6 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_sugg_display">Smanjite svjetlinu i/ili vrijeme čekanja zaslona</string>
   <string name="battery_sugg_radio">Prebacite se na način rada u zrakoplovu u područjima loše pokrivenosti signalom da biste uštedjeli energiju</string>
   <string name="battery_sugg_wifi">Isključi Wi-Fi ako se ne upotrebljava ili ako nije dostupan</string>
-  <string name="battery_suggestion_summary">Uključite adaptivnu bateriju</string>
   <string name="battery_suggestion_title">Poboljšajte trajanje baterije telefona</string>
   <string name="battery_summary">%1$s potrošnje od posljednjeg potpunog punjenja</string>
   <string name="battery_summary_24hr">%1$s potrošnje u posljednja 24 h</string>
@@ -1407,7 +1405,7 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_system_usage_for_past_24">Upotreba sustava u posljednja 24 sata</string>
   <string name="battery_tip_dialog_message">"Budući da ste upotrebljavali telefon više nego obično, baterija bi se mogla brže isprazniti.
 
-Aplikacije koje najviše troše bateriju: %1$d"</string>
+Aplikacije koje najviše troše bateriju:"</string>
   <string name="battery_tip_dialog_message_footer">Uključuje aktivnost u pozadini s visokom potrošnjom energije</string>
   <string name="battery_tip_dialog_summary_message">"Vaše aplikacije troše bateriju uobičajenom brzinom. Ako aplikacije budu prebrzo trošile bateriju, telefon će vam predložiti što biste mogli poduzeti.
 
@@ -2161,9 +2159,9 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="call_records_name_1">Mario MASVA</string>
   <string name="call_records_name_2">MIUI Adria</string>
   <string name="call_records_name_3">Dinamo Zagreb</string>
-  <string name="call_records_summary_1">%1$d:%2$d AM | %3$d sekundi</string>
-  <string name="call_records_summary_2">Kolovoz %1$d | %2$dm %3$ds</string>
-  <string name="call_records_summary_3">Kolovoz %1$d | %2$dm %3$ds</string>
+  <string name="call_records_summary_1">9:35 | 26 sekundi</string>
+  <string name="call_records_summary_2">Kolovoz 16 | 1m 16s</string>
+  <string name="call_records_summary_3">Kolovoz 16 | 1m 16s</string>
   <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
   <string name="call_settings_title">Postavke poziva</string>
@@ -2556,7 +2554,6 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="condition_zen_summary_phone_muted">Na telefonu je isključen zvuk</string>
   <string name="condition_zen_summary_with_exceptions">Uz iznimke</string>
   <string name="condition_zen_title">\"Ne uznemiravaj\" uključen</string>
-  <string name="config_charging_function_name">Punjenje</string>
   <string name="config_list_label">Konfigurirane mreže</string>
   <string name="configure">Konfiguriraj</string>
   <string name="configure_apps">Konfiguranje aplikacija</string>
@@ -4905,7 +4902,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="interact_across_profiles_consent_dialog_app_data_title">Podaci aplikacije</string>
   <string name="interact_across_profiles_consent_dialog_permissions_summary">Ova aplikacija može upotrebljavati dopuštenja odobrena vašoj osobnoj aplikaciji %1$s, primjerice pristup lokaciji, pohrani ili kontaktima.</string>
   <string name="interact_across_profiles_consent_dialog_permissions_title">Dopuštenja</string>
-  <string name="interact_across_profiles_consent_dialog_summary">%1$s može otkriti vaše osobne podatke vašem IT administratoru.</string>
+  <string name="interact_across_profiles_consent_dialog_summary">Povežite aplikacije samo ako vjerujete da neće dijeliti osobne podatke s vašim IT administratorom.</string>
   <string name="interact_across_profiles_consent_dialog_title">Želite li povjeriti svoje osobne podatke poslovnoj aplikaciji %1$s?</string>
   <string name="interact_across_profiles_empty_text">Nema povezanih aplikacija</string>
   <string name="interact_across_profiles_install_app_summary">Dodirnite da biste preuzeli aplikaciju</string>

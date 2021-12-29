@@ -245,24 +245,24 @@
         <item quantity="one">Nikad ne omogućuj za %d aplikaciju</item>
     </plurals>
 	<plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Izrazito kratka odgoda (%1$d ms)</item>
-        <item quantity="one">Izrazito kratka odgoda (%1$d ms)</item>
+        <item quantity="other">Izrazito kratka odgoda (%1$d sek)</item>
+        <item quantity="one">Izrazito kratka odgoda (%1$d sek)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Duga odgoda (%1$d ms)</item>
-        <item quantity="one">Duga odgoda (%1$d ms)</item>
+        <item quantity="other">Duga odgoda (%1$s sek)</item>
+        <item quantity="one">Duga odgoda (%1$s sek)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Kratka odgoda (%1$d ms)</item>
-        <item quantity="one">Kratka odgoda (%1$d ms)</item>
+        <item quantity="other">Kratka odgoda (%1$s sek)</item>
+        <item quantity="one">Kratka odgoda (%1$s sek)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Vrlo duga odgoda (%1$d ms)</item>
-        <item quantity="one">Vrlo duga odgoda (%1$d ms)</item>
+        <item quantity="other">Vrlo duga odgoda (%1$d sek)</item>
+        <item quantity="one">Vrlo duga odgoda (%1$d sek)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Vrlo kratka odgoda (%1$d ms)</item>
-        <item quantity="one">Vrlo kratka odgoda (%1$d ms)</item>
+        <item quantity="other">Vrlo kratka odgoda (%1$d sek)</item>
+        <item quantity="one">Vrlo kratka odgoda (%1$d sek)</item>
      </plurals>
      <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d aplikacija smije neograničeno upotrebljavati podatkovni promet kad je uključena Štednja podatkovnog prometa</item>
@@ -728,8 +728,8 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">1 pretplata</item>
      </plurals>
      <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Obavijesti %1$d aplikacija mogu nadjačati Ne ometaj</item>
-		<item quantity="one">Obavijesti %1$d aplikacije mogu nadjačati Ne ometaj</item>
+        <item quantity="other">%s mogu prekidati</item>
+        <item quantity="one">%s može prekidati</item>
      </plurals>
 	 <plurals name="bt_usable_device_title">
         <item quantity="other">Dostupni uređaji: %d</item>
