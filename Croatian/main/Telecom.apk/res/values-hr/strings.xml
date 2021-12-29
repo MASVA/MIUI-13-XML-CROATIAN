@@ -799,11 +799,11 @@ I dalje možete upućivati hitne pozive."</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
-  <string name="sip_accounts_removed_notification_action">Go to settings</string>
-  <string name="sip_accounts_removed_notification_message">"SIP calling is no longer supported by Android platform.
-Your existing SIP accounts %s have been removed.
-Please confirm your default calling account setting."</string>
-  <string name="sip_accounts_removed_notification_title">Deprecated SIP accounts found and removed</string>
+  <string name="sip_accounts_removed_notification_action">Idite na postavke</string>
+  <string name="sip_accounts_removed_notification_message">"SIP pozivanje više nije podržano na Android platformi.
+Vaši postojeći SIP računi %s su uklonjeni.
+Potvrdite zadanu postavku računa za pozivanje."</string>
+  <string name="sip_accounts_removed_notification_title">Pronađeni i uklonjeni zastarjeli SIP računi</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
   <string name="speed_label_okay">U redu</string>

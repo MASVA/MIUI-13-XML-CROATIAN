@@ -76,4 +76,8 @@
         <item quantity="other">Pritisnite i držite %1$d sek. za resetiranje</item>
         <item quantity="one">Pritisnite i držite %1$d sekundu za resetiranje</item>
      </plurals>
+	 <plurals name="mtrl_badge_content_description">
+       <item quantity="other">%d novih obavijesti</item>
+       <item quantity="one">%d nova obavijest</item>
+    </plurals>
 </resources>

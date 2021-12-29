@@ -93,13 +93,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	    <item>Qualcomm® aptX™ Adaptivni audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Omogućivanje izbornih kodeka</item>
-        <item>Onemogućivanje izbornih kodeka</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Upotreba odabira sustava (zadano)</item>
@@ -108,13 +101,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Omogućivanje izbornih kodeka</item>
-        <item>Onemogućivanje izbornih kodeka</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -132,8 +118,6 @@
         <item>Onemogućeno</item>
         <item>Filtrirano</item>
         <item>Omogućeno</item>
-        <item>Zaglavlja filtrirana</item>
-        <item>Paketi medija filtrirani</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Poboljšane boje</item>
@@ -277,5 +261,19 @@
         <item>Brzina animacije 2x</item>
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
+     </string-array>
+	  <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Traženje…</item>
+        <item>Povezivanje…</item>
+        <item>Autentifikacija…</item>
+        <item>Dohvaćanje IP adrese…</item>
+        <item>Povezano</item>
+        <item>Obustavljeno</item>
+        <item>Isključivanje…</item>
+        <item>Nije povezano</item>
+        <item>Neuspješno</item>
+        <item>Blokirano</item>
+        <item>Privremeno izbjegavanje loše veze</item>
      </string-array>
 </resources>

@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA i EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA i LTE</item>
-        <item>TD-SCDMA, WCDMA i LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM i LTE</item>
-        <item>TD-SCDMA i GSM</item>
-        <item>TD-SCDMA i LTE</item>
-        <item>TD-SCDMA i WCDMA</item>
-        <item>TD-SCDMA samo</item>
-        <item>LTE/WCDMA</item>
-        <item>LTE samo</item>
-        <item>LTE/GSM/CDMA auto (PRL)</item>
-        <item>LTE/GSM auto (PRL)</item>
-        <item>LTE/CDMA auto (PRL)</item>
-        <item>GSM/CDMA auto (PRL)</item>
-        <item>EvDo samo</item>
-        <item>CDMA samo</item>
-        <item>CDMA auto (PRL)</item>
-        <item>GSM auto (PRL)</item>
-        <item>WCDMA samo</item>
+        <item>GSM/WCDMA preferirano</item>
         <item>GSM samo</item>
-        <item>WCDMA preferirano</item>
-    </string-array>
+        <item>WCDMA samo</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
+        <item>CDMA w/o EvDo</item>
+        <item>EvDo samo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>TDSCDMA samo</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>NR samo</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+     </string-array>
     <string-array name="ims_call_cap_types">
         <item>Glas</item>
         <item>Video</item>
@@ -299,10 +310,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
-		<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Omogućivanje izbornih kodeka</item>
-        <item>Onemogućivanje izbornih kodeka</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Upotreba odabira sustava (zadano)</item>
@@ -311,10 +318,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>		
-        <item>Omogućivanje izbornih kodeka</item>
-        <item>Onemogućivanje izbornih kodeka</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (zadano)</item>
@@ -332,11 +335,28 @@
         <item>Onemogućeno</item>
         <item>Omogućeno filtrirano</item>
         <item>Omogućeno</item>
-        <item>Omogućeno \"Zaglavlja filtrirana\"</item>
-        <item>Omogućeno \"Paketi medija filtrirani\"</item>
 	 </string-array>
      <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (zadano)</item>
         <item>OpenGL (Skia)</item>
+     </string-array>
+	 <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Napredno pozivanje</item>
+        <item>4G pozivanje</item>
+	 </string-array>
+	  <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Traženje…</item>
+        <item>Povezivanje…</item>
+        <item>Autentifikacija…</item>
+        <item>Dohvaćanje IP adrese…</item>
+        <item>Povezano</item>
+        <item>Obustavljeno</item>
+        <item>Isključivanje…</item>
+        <item>Nije povezano</item>
+        <item>Neuspješno</item>
+        <item>Blokirano</item>
+        <item>Privremeno izbjegavanje loše veze</item>
      </string-array>
 </resources>

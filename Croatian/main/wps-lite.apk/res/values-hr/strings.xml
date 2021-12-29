@@ -314,6 +314,7 @@
     <string name="reader_writer_table_edit_add_column">Dodaj stupac</string>
     <string name="reader_writer_table_edit_add_row">Dodaj redak</string>
     <string name="search_menu_title">Traži</string>
+	<string name="ss_card_mode_filter_title_text">Odaberite stavke za prikaz</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Preglednik dokumenata (Powered by WPS)</string>
     <string name="writer_characters">Znakovi (bez razmaka)</string>
     <string name="writer_characters_with_spaces">Znakovi (s razmacima)</string>
