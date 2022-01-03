@@ -2974,8 +2974,10 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="supp_service_over_ut_precautions_dual_sim">Da biste koristili uslugu %1$s, provjerite jesu li mobilni podaci za SIM %2$d uključeni. Tu opciju možete promijeniti u postavkama mobilne mreže.</string>
   <string name="supp_service_over_ut_precautions_roaming">Da biste koristili uslugu %s, provjerite jesu li mobilni podaci i roaming podataka uključeni. Tu opciju možete promijeniti u postavkama mobilne mreže.</string>
   <string name="supp_service_over_ut_precautions_roaming_dual_sim">Da biste koristili uslugu %1$s, provjerite jesu li mobilni podaci i roaming podataka za SIM %2$d uključeni. Tu opciju možete promijeniti u postavkama mobilne mreže.</string>
+  <string name="support_forbidden_fakecell">Napomena: Ograničavanje veze na lažne bazne stanice može smanjiti signal u područjima s slabom pokrivenošću.</string>
   <string name="switch_dds_to_sub_alert">Postavi ovu karticu kao zadanu podatkovnu karticu.</string>
   <string name="switch_dds_to_sub_alert_msg">Prebacite mobilne podatke na CT SIM</string>
+  <string name="switch_debug_menu">Dodatne mrežne postavke</string>
   <string name="switch_off">Isključi</string>
   <string name="switch_on">Uključi</string>
   <string name="system_visual_voicemail_client"/>
@@ -3071,6 +3073,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="traffic_mode_summary">Dajte prednost mobilnoj mrežnoj vezi za trenutno korištene aplikacije. Aplikacije u pozadini možda se neće moći povezati.</string>
   <string name="traffic_mode_switch_title">Extremni način</string>
+  <string name="transcode_default">Pretpostavimo da aplikacije podržavaju moderne formate</string>
   <string name="transcode_disable_cache">Onemogući predmemoriju za konvertiranje</string>
   <string name="transcode_enable_all">Omogući konvertiranje</string>
   <string name="transcode_notification">Prikaži obavijesti o konvertiranju</string>

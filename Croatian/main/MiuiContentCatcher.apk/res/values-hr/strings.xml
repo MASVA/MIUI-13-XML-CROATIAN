@@ -53,6 +53,7 @@
   <string name="change_passwork_dialog_title">Ažurirati zaporke?</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
+  <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete">Izbriši</string>
   <string name="expand_button_title">Napredno</string>
@@ -128,6 +129,7 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="ok">U redu</string>
   <string name="password_manager">Upravitelj zaporkama</string>
   <string name="password_manager_summary">Sinkronizirajte svoje zaporke s cloudom</string>
@@ -157,6 +159,8 @@ Izbrisati zaporku?"</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
   <string name="using_miui_autofill_message">Za automatski unos zaporke, MIUI će spremiti podatke o računu i zaporki na vaš uređaj.</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

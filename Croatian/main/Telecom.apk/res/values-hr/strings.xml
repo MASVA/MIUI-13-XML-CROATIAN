@@ -417,6 +417,9 @@ Audio"</string>
   <string name="force_resizable_activities_summary">Uključi mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">Pet</string>
   <string name="guest_exit_guest">Uklanjanje gosta</string>
   <string name="guest_new_guest">Dodavanje gosta</string>
   <string name="guest_nickname">Gost</string>

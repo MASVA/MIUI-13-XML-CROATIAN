@@ -128,6 +128,7 @@
   <string name="call_folder_name">Bilješke poziva</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="cancel_alarm_description">Otkaži alarm</string>
+  <string name="canvas_is_too_large_to_share">Ova je stavka prevelika za dijeljenje</string>
   <string name="canvas_is_too_large_to_share_phone">Ova je stavka prevelika za dijeljenje</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -288,7 +289,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="gesture_guide_cancel">Preskoči</string>
-  <string name="gesture_guide_message">Možete dodirnuti, pritisnuti i zadržati i povlačiti stavke za stvaranje i preuređivanje bilješki. Naučite geste sada?</string>
+  <string name="gesture_guide_message">Možete dodirnuti, pritisnuti i zadržati i povlačiti stavke za stvaranje i preuređivanje bilješki. Naučiti geste sada?</string>
   <string name="gesture_guide_ok">Nauči</string>
   <string name="gesture_guide_title">Geste</string>
   <string name="hand_write_only_support_tablet_editing">Rukom napisane bilješke mogu se uređivati samo na tabletima</string>
@@ -300,6 +301,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="hide_arrow_description">Sakrij</string>
   <string name="hint_cannot_view_hidden_note_content">"Ne mogu pregledati sadržaj u skrivenim bilješkama"</string>
   <string name="hint_foler_name">Naziv</string>
+  <string name="hybrid_provider">Omogućeno od strane %1$s</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="image_action_annotate">Dodajte opis slike</string>
   <string name="image_action_browse">Prikaži sliku</string>

@@ -37,6 +37,9 @@
   <string name="edit_frequent_phrases">Uredi česte fraze</string>
   <string name="frequent_phrases_des">Prilikom uređivanja teksta unesite česte fraze sa samo nekoliko dodira</string>
   <string name="frequent_phrases_size_exceeded">Može dodati do %1$d čestih fraza. Izbrišite nepotrebne da biste dodali još.</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">P</string>
   <string name="input_method_clipboard_add_to_phrase_success">Dodajte čestim izrazima</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Dodajte česte fraze</string>
   <string name="input_method_clipboard_check_more_copy">Kopiraj</string>

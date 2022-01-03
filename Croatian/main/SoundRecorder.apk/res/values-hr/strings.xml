@@ -36,6 +36,7 @@
   <string name="alert_message_delete_record">Brisanje snimke s vašeg uređaja također će izbrisati ovu snimku na Mi Cloudu. Izbrisati sada?</string>
   <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="all_record">Sve snimke</string>
+  <string name="allowed">Odobreno</string>
   <string name="app_name">Snimač</string>
   <string name="app_record">Snimke aplikacija</string>
   <string name="app_record_preference_title">Snimke aplikacija</string>
@@ -96,6 +97,7 @@
   <string name="error_sdcard_unmounted">Umetnite SD karticu</string>
   <string name="expand_button_title">Napredno</string>
   <string name="export_to_note">Izvezi u Bilješke</string>
+  <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -126,6 +128,7 @@
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
+  <string name="material_minute_suffix">%1$s min</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -254,6 +257,7 @@
   <string name="no_playback_file">Odaberite snimku za pregled pojedinosti</string>
   <string name="no_records">Ovdje još nema snimaka</string>
   <string name="normal_settings_pref_title">Opće postavke</string>
+  <string name="not_allowed">Nije odobreno</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_message_all_paused">Čekanje na Wi-Fi vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
@@ -267,6 +271,16 @@
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
   <string name="pause">Pauza</string>
+  <string name="permission_desc">Pojedinosti o dopuštenjima</string>
+  <string name="permission_dialog_cancel">Odustani</string>
+  <string name="permission_dialog_ok">Postavke</string>
+  <string name="permission_record">Snimanje zvuka</string>
+  <string name="permission_record_description">Za pružanje usluga snimanja zvuka</string>
+  <string name="permission_storage">Pristup pohrani</string>
+  <string name="permission_storage_description">Za upravljanje snimkama i njihovo preuzimanje iz clouda</string>
+  <string name="permission_storage_description_for_download">Za preuzimanje snimaka iz clouda</string>
+  <string name="permission_storage_description_for_manage_files">Za upravljanje snimkama</string>
+  <string name="play_speed">%1$.1fX brzina</string>
   <string name="playback_delete_records">Izbriši snimku</string>
   <string name="playback_share_records">Podijeli snimku</string>
   <string name="preference_clear_data">Izbriši</string>
@@ -322,6 +336,7 @@
   <string name="record_downloading_notification_complete">Preuzimanje završeno</string>
   <string name="record_downloading_notification_count">%d preuzeto</string>
   <string name="record_format_preference_title">Format snimanja</string>
+  <string name="record_list_item_recognize_text">Tekst</string>
   <string name="record_item_title_multi_choice">Odaberi</string>
   <string name="record_item_title_remark">Dodajte napomenu</string>
   <string name="record_item_title_send">Podijeli</string>
@@ -336,6 +351,11 @@
   <string name="record_mark_point">Označi %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
+  <string name="record_permission_dialog_title">Potrebna su dopuštenja za mikrofon</string>
+  <string name="recorder_record">Audio</string>
+  <string name="reg_error_audio_exist">Ova datoteka već postoji.</string>
+  <string name="reg_error_audio_large">"Audiodatoteke ne mogu biti veće od 500 MB."</string>
+  <string name="reg_error_audio_short">Audio datoteka je premala.</string>
   <string name="record_quliaty_preference_title">Kvaliteta snimanja</string>
   <string name="record_resotre">Obnovi snimke</string>
   <string name="recording">Snimanje</string>
@@ -397,6 +417,7 @@
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
+  <string name="storage_permission_dialog_title">Potrebna su dopuštenja za pohranu</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -405,7 +426,7 @@
   <string name="tab_apps">Aplikacije</string>
   <string name="tab_call">Pozivi</string>
   <string name="tab_fm">FM</string>
-  <string name="text_btn_backward_3_seconds">3 sekunde natrag</string>
+  <string name="tap_to_record">Dodirnite tipku za početak snimanja</string>  <string name="text_btn_backward_3_seconds">3 sekunde natrag</string>
   <string name="text_btn_complete">Stop</string>
   <string name="text_btn_forward_3_seconds">3 sekunde naprijed</string>
   <string name="text_btn_list">Snimke</string>
@@ -442,6 +463,7 @@
   <string name="user_feedback">Povratne inf.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="view_privacy">Pogledajte Pravila o privatnosti</string>
   <string name="webview_check_network">Mrežne postavke</string>
   <string name="webview_data_error">Dogodila se pogreška</string>
   <string name="webview_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>

@@ -39,7 +39,7 @@
   <string name="photo_editor_privacy_watermark">Zaštitna oznaka</string>
   <string name="photo_editor_watermark_default">NE KOPIRAJ</string>
   <string name="saf_hyper_link_text">Upravljajte dopuštenjima</string>
-  <string name="saf_operation_guide_1">"Galerija treba vaše dopuštenje da bi mogla zaštititi i upravljati vašim podacima. "</string>
+  <string name="saf_operation_guide_1">"Galerija treba vaše dopuštenje da bi mogla zaštititi i upravljati vašim podacima."</string>
   <string name="saf_operation_guide_2">Da biste dali dopuštenje, dodirnite \"%1$s\" a zatim odaberite \"%2$s\".</string>
   <string name="saf_operation_guide_param1">Dalje</string>
   <string name="saf_operation_guide_param2">Pristup ovoj mapi</string>
@@ -278,8 +278,8 @@
   <string name="art_still_cancel_download">Odustani</string>
   <string name="art_still_download">Preuzmi</string>
   <string name="art_still_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="art_still_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
-  <string name="art_still_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
+  <string name="art_still_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
+  <string name="art_still_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
   <string name="art_still_download_sdk_without_wifi_title">Preuzmi \"Umjetnost\" dodatak</string>
   <string name="art_still_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje izvornih datoteka može rezultirati dodatnim naknadama. Svejedno preuzeti?</string>
   <string name="art_still_download_with_metered_network_title">Plaćena mreža</string>
@@ -364,8 +364,8 @@
   <string name="backup_no_wifi_desc">Možete izraditi Sig. kopiju stavki korištenjem mob. podataka</string>
   <string name="backup_no_wifi_title">Dodirni za povezivanje na Wi-Fi</string>
   <string name="backup_only_in_wifi">Koristi samo Wi-Fi za sinkronizaciju fotografija i videozapisa</string>
-  <string name="backup_only_in_wifi_summary">Nikad ne koristi mobilne podatke za sinkronizaciju fotografija i videozapisa</string>
-  <string name="backup_only_wifi_dialog_message">Koristiti mobilne podatke za sinkronizaciju fotografija i videozapisa?</string>
+  <string name="backup_only_in_wifi_summary">Nikad ne koristi mob. podatke za sinkronizaciju fotografija i videozapisa</string>
+  <string name="backup_only_wifi_dialog_message">Koristiti mob. podatke za sinkronizaciju fotografija i videozapisa?</string>
   <string name="backup_pause">Pauziraj izradu</string>
   <string name="backup_pause_dialog_title">Pauziraj sinkronizaciju</string>
   <string name="backup_pause_title">Sinkronizacija je pauzirana</string>
@@ -742,6 +742,9 @@
   <string name="double_tap_to_higher_definition">Dvaput dodirnite ponovo da biste otvorili HD pregled</string>
   <string name="download">Preuzimanje</string>
   <string name="download_canceled">Preuzimanje otkazano</string>
+  <string name="download_delete_error_desc">"Ne možete vratiti ovu stavku jer ste je izbrisali s ovog uređaja i Clouda. Odmah ukloniti praznu datoteku?"</string>
+  <string name="download_delete_error_positive">Ukloni</string>
+  <string name="download_delete_error_title">Stavka nedostaje</string>
   <string name="download_error_format">"Ne mogu preuzeti %s"</string>
   <string name="download_error_tip">. Preuzimanje je prekinuto.</string>
   <string name="download_origin_dialog_message">"Originalne će se slike preuzeti sa Mi Clouda. Lokalne fotografije neće biti optimizirane."</string>
@@ -846,7 +849,7 @@
   <string name="error_no_network_msg">Provjerite je li uređaj povezan na Wi-Fi ili su mobilni podaci uključeni.</string>
   <string name="error_no_network_tip">"Ne mogu se povezati na mrežu"</string>
   <string name="error_no_wifi_action">Koristi mob. podatke</string>
-  <string name="error_no_wifi_msg">"Vaš uređaj nije povezan s Wi-Fi mrežom. Korištenje mobilnih podataka može generirati dodatne naknade."</string>
+  <string name="error_no_wifi_msg">"Vaš uređaj nije povezan s Wi-Fi mrežom. Korištenje mob. podataka može generirati dodatne naknade."</string>
   <string name="error_no_wifi_tip">"Ne mogu se povezati na Wi-Fi"</string>
   <string name="error_not_acceptable">Sinkr. je onemogućena</string>
   <string name="error_not_synced_action">Sinkr. sada</string>
@@ -868,7 +871,7 @@
   <string name="error_sync_off_tip">Sinkr. je isključena</string>
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
-  <string name="error_unknown_action">Pov. informacija</string>
+  <string name="error_unknown_action">Povratna inf.</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu mrežnu vezu i pokušajte ponovno."</string>
   <string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
   <string name="error_unknown_tip">Dogodila se pogreška.</string>
@@ -1078,10 +1081,10 @@ za fotografije"</string>
   <string name="filter_sky_download_failed">"Ne mogu preuzeti dodatak. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="filter_sky_download_failed_msg">"Preuzimanje nije uspjelo. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="filter_sky_download_finish">Dodatak je uspješno preuzet</string>
-  <string name="filter_sky_download_sdk_without_wifi_msg">"Ako niste povezani na Wi-Fi mrežu, pomoću mobilnih podataka možete preuzeti dodatak (%1$dMB) koji vam omogućuje zamjenu neba na fotografijama."</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Ako niste povezani na Wi-Fi mrežu, pomoću mob. podataka možete preuzeti dodatak (%1$dMB) koji vam omogućuje zamjenu neba na fotografijama."</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Preuzmi dodatak</string>
-  <string name="filter_sky_download_with_metered_network_msg">Korištenje mobilnih podataka za preuzimanje originalnih datoteka može generirati dodatne troškove mobilnog operatera. Preuzeti svejedno?</string>
-  <string name="filter_sky_download_with_metered_network_title">Korištenje mobilnih podataka</string>
+  <string name="filter_sky_download_with_metered_network_msg">Korištenje mob. podataka za preuzimanje originalnih datoteka može generirati dodatne troškove mobilnog operatera. Preuzeti svejedno?</string>
+  <string name="filter_sky_download_with_metered_network_title">Korištenje mob. podataka</string>
   <string name="filter_sky_dusk">Zora</string>
   <string name="filter_sky_dynamic_duoyun">Oblačno</string>
   <string name="filter_sky_dynamic_jiyun">Cumulus</string>
@@ -1210,6 +1213,9 @@ za fotografije"</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_pad">Moj tablet</string>
+  <string name="global_pc">Moj laptop</string>
+  <string name="global_phone">Moj telefon</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Postavi</string>
   <string name="grant_permission_go_and_set_2">Postavke</string>
@@ -1224,6 +1230,7 @@ za fotografije"</string>
   <string name="grant_permission_write_clipboard">Da biste mogli kopirati stavke, dopustite ovoj aplikaciji spremanje stavki u međuspremnik.</string>
   <string name="grayscale">Tonovi sive</string>
   <string name="group_header_title_immutable_album">Organizirajte fotografije</string>
+  <string name="group_header_title_media_group">Vrste medija</string>
   <string name="group_header_title_third_album">Više albuma</string>
   <string name="group_header_title_user_create_album">Moji albumi</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
@@ -1273,8 +1280,8 @@ za fotografije"</string>
   <string name="id_photo_cancel_download">Odustani</string>
   <string name="id_photo_download">Preuzmi</string>
   <string name="id_photo_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="id_photo_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
-  <string name="id_photo_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
+  <string name="id_photo_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
+  <string name="id_photo_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
   <string name="id_photo_download_sdk_without_wifi_title">Preuzimanje \"ID\" dodatka</string>
   <string name="id_photo_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje izvornih datoteka može rezultirati dodatnim naknadama. Svejedno preuzeti?</string>
   <string name="id_photo_download_with_metered_network_title">Plaćena mreža</string>
@@ -1305,6 +1312,7 @@ za fotografije"</string>
   <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
   <string name="input_relation_name">Unesi naziv grupe</string>
   <string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
+  <string name="install_media_editor_function_message">Preuzmite najnoviju verziju Gallery Editor da biste mogli koristiti \"%1$s\".</string>
   <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
   <string name="install_media_editor_title">Preuzmi dodatak</string>
   <string name="internal_storage_device">Unutarnja pohrana</string>
@@ -1371,7 +1379,7 @@ za fotografije"</string>
   <string name="macarons_download_dialog_message">Preuzeti dodatak čarobne vinjete?</string>
   <string name="macarons_download_dialog_title">Preuzimanje dodatka</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Preuzmi</string>
-  <string name="macarons_download_dialog_without_wifi_message">"Ne mogu se spojiti na Wi-Fi. Možete koristiti mobilne podatke za preuzimanje čarobne vinjete."</string>
+  <string name="macarons_download_dialog_without_wifi_message">"Ne mogu se spojiti na Wi-Fi. Možete koristiti mob. podatke za preuzimanje čarobne vinjete."</string>
   <string name="macarons_download_later">Pričekajte minutu ili dvije i pokušajte ponovo</string>
   <string name="macarons_download_network_fail">"Ne mogu preuzeti dodatak. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="macarons_download_other_fail">"Ne mogu preuzeti zbog pogreške"</string>
@@ -1425,8 +1433,8 @@ za fotografije"</string>
   <string name="magic_matting_cancel_download">Odustani</string>
   <string name="magic_matting_download">Preuzmi</string>
   <string name="magic_matting_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="magic_matting_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
-  <string name="magic_matting_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
+  <string name="magic_matting_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
+  <string name="magic_matting_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
   <string name="magic_matting_download_sdk_without_wifi_title">Preuzmi \"Magija\" dodatak</string>
   <string name="magic_matting_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje izvornih datoteka može rezultirati dodatnim naknadama. Svejedno preuzeti?</string>
   <string name="magic_matting_download_with_metered_network_title">Plaćena mreža</string>
@@ -1488,7 +1496,8 @@ za fotografije"</string>
   <string name="map_grant_position_permission_subtitle">Za prikazivanje obližnjih fotografija i videozapisa na karti</string>
   <string name="map_guide_message">Pogledajte svoje fotografije i videozapise na karti</string>
   <string name="map_positioning_failed_tip">"Ne mogu se dobiti informacije o lokaciji zbog slabog signala"</string>
-  <string name="map_privacy_dialog_message"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> da naučite više.</Data></string>
+  <string name="map_privacy_dialog_content"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i prihvatite &lt;a href=\"%1$s\">Gallery Map Third Party Data Sharing Statement&lt;/a> prije nego nastavite.</Data></string>
+  <string name="map_privacy_dialog_message"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i prihvatite &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> da naučite više.</Data></string>
   <string name="map_privacy_dialog_title">Karta galerije</string>
   <string name="map_privacy_policy">Pravila o privatnosti Karta galerije</string>
   <string name="map_privacy_policy_1">Pravila o privatnosti</string>
@@ -1499,6 +1508,18 @@ za fotografije"</string>
   <string name="mark_operation_processing">Obrada…</string>
   <string name="mark_operation_succeeded">Uspješno dodano</string>
   <string name="mark_people_ignore_info_message">Dodirnite i zadržite fotografije osoba da biste ih dodali u grupe</string>
+  <string name="media_type_burst_photo">Uzastopno snimanje</string>
+  <string name="media_type_clone_photo">Klonovi</string>
+  <string name="media_type_doc_photo">Dokumenti</string>
+  <string name="media_type_fast_motion_video">Time-lapse</string>
+  <string name="media_type_front_photo">Selfiji</string>
+  <string name="media_type_gif">GIF</string>
+  <string name="media_type_live_vv">Vlog</string>
+  <string name="media_type_motion_photo">Dinamično</string>
+  <string name="media_type_pano_photo">Panorame</string>
+  <string name="media_type_portrait_photo">Portret</string>
+  <string name="media_type_raw">RAW</string>
+  <string name="media_type_slow_motion_video">Usporeno</string>
   <string name="megabyteShort">MB</string>
   <string name="member_menu_vipname_free">Besplatno</string>
   <string name="member_menu_vipname_mega">Mega</string>
@@ -1542,6 +1563,7 @@ za fotografije"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -1697,7 +1719,7 @@ za fotografije"</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na Wi-Fi</string>
   <string name="negative">Negativan</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti mobilne podatke za nastavak? Korištenje mobilnih podataka može generirati dodatne naknade operatera."</string>
+  <string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti mob. podatke za nastavak? Korištenje mob. podataka može generirati dodatne naknade operatera."</string>
   <string name="network_title">Povežite se na mrežu</string>
   <string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
   <string name="new_album_invalid_byte">Naziv je predugačak</string>
@@ -1742,7 +1764,7 @@ za fotografije"</string>
   <string name="ocr_title">Rezultat</string>
   <string name="ocr_using_cellular_negative">Prepoznaj</string>
   <string name="ocr_using_cellular_positive">Odustani</string>
-  <string name="ocr_using_cellular_text">Prepoznavanje teksta putem mobilnih podataka moglo bi stvoriti dodatne troškove mobilnog operatera. Prepoznati svejedno?</string>
+  <string name="ocr_using_cellular_text">Prepoznavanje teksta putem mob. podataka moglo bi stvoriti dodatne troškove mobilnog operatera. Prepoznati svejedno?</string>
   <string name="ok">U redu</string>
   <string name="old">Staro</string>
   <string name="onekey_auto">Auto</string>
@@ -1878,7 +1900,7 @@ za fotografije"</string>
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_common_download_failed">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="photo_editor_common_download_finish">Dodatak uspješno preuzet</string>
-  <string name="photo_editor_common_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak (%1$d MB) pomoću mobilnih podataka?"</string>
+  <string name="photo_editor_common_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak (%1$d MB) pomoću mob. podataka?"</string>
   <string name="photo_editor_common_download_sdk_without_wifi_title">Preuzmi dodatak</string>
   <string name="photo_editor_compare_tip">Pritisnite i držite za prikaz originalne slike</string>
   <string name="photo_editor_crop_and_rotate">Obreži</string>
@@ -1935,7 +1957,7 @@ za fotografije"</string>
   <string name="photo_editor_remover2_download_failed">"Ne mogu preuzeti AI Erase 2.0. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="photo_editor_remover2_download_failed_msg">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="photo_editor_remover2_download_finish">AI Erase 2.0 uspješno preuzet</string>
-  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti %1$d MB mobilnih podataka za preuzimanje AI Erase 2.0?"</string>
+  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti %1$d MB mob. podataka za preuzimanje AI Erase 2.0?"</string>
   <string name="photo_editor_remover2_download_sdk_without_wifi_title">Preuzmi AI Erase 2.0</string>
   <string name="photo_editor_remover2_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje stavki može generirati dodatne naknade. Svejedno preuzeti?</string>
   <string name="photo_editor_remover2_download_with_metered_network_title">Plaćena mreža</string>
@@ -2003,7 +2025,7 @@ za fotografije"</string>
   <string name="photo_portrait_color_download_fail">"Preuzimanje dodatka nije uspjelo. Spojite se na mrežu i pokušajte ponovo."</string>
   <string name="photo_portrait_color_download_success">Filteri uspješno preuzeti</string>
   <string name="photo_portrait_color_no_face">Fokus u boji djeluje samo na fotografijama s ljudima</string>
-  <string name="photo_portrait_download_sdk_without_wifi_msg">"Izgleda da vaš uređaj nije spojen na Wi-Fi. Možete preuzeti filtre pomoću mobilnih podataka (%1$dMB)."</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">"Izgleda da vaš uređaj nije spojen na Wi-Fi. Možete preuzeti filtre pomoću mob. podataka (%1$dMB)."</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Preuzmi filtere</string>
   <string name="photo_print_menu_loading">Učitavanje dodatka…</string>
   <string name="photo_print_package_finish">Uspješno učitan dodatak ispisa…</string>
@@ -2078,6 +2100,10 @@ za fotografije"</string>
   <string name="privacy_cloud_confirm_rejected">Suglasnost na Pravila o privatnosti Mi Clouda je povučena za ovaj račun. Pokušajte koristiti drugi račun.</string>
   <string name="privacy_detail">Pogledajte Pravila o privatnosti</string>
   <string name="privacy_detail_map">Pogledajte Gallery Map Pravila o privatnosti</string>
+  <string name="privacy_map_detail_content_new">Gallery Map Third Party Data Sharing Statement</string>
+  <string name="privacy_reject_map_detail_new"><Data>"Vaše povlačenje suglasnosti za &lt;a href=\"%1$s\">Gallery Map Third Party Data Sharing Statement&lt;/a> smatrati će se da odbijate prihvatiti usluge Gallery Map. I dalje ćete moći normalno koristiti druge značajke Galerije. Povući suglasnost?"</Data></string>
+  <string name="privacy_rejected_map_new">Povlačenje suglasnosti za Gallery Map Third Party Data Sharing Statement</string>
+  <string name="privacy_rejected_pos_btn">Povuci</string>
   <string name="privacy_entrance">Privatnost</string>
   <string name="privacy_map">Gallery Map</string>
   <string name="privacy_map_detail"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i privatite &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> prije nego nastavite.</Data></string>
@@ -2220,7 +2246,7 @@ za fotografije"</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije su pohranjene na uređaju. Dodirnite fotografiju da preuzmete originalnu stavku sa Mi Clouda.</string>
   <string name="revert">Vrati</string>
   <string name="rise">Toplo</string>
-  <string name="risk_control_deleted_date">dd/MM</string>
+  <string name="risk_control_deleted_date">dd.MM</string>
   <string name="risk_control_deleted_message">Netko je izbrisao vaše stavke Galerije iz Mi Clouda koristeći %3$s %1$s u %2$s. Jeste li to bili vi?</string>
   <string name="risk_control_deleted_time">HH:mm</string>
   <string name="risk_control_deleted_title">Sigurnosno upozorenje</string>
@@ -2228,7 +2254,7 @@ za fotografije"</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
   <string name="rubbish_album_move_to_other_album_success">Te stavke sada možete pogledati u \"Ostali albumi\".</string>
   <string name="rubbish_nomedia_manager_button_text">Upravljajte albumima sa \".nomedia\" datotekama</string>
-  <string name="runtime_permission_ungranted">Aplikacija Galerija zatvorena jer nema dobivenog dopuštenja</string>
+  <string name="runtime_permission_ungranted">Aplikacija Galerija je zatvorena jer nema dobivenog dopuštenja</string>
   <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je izrađen '%s'."</string>
   <string name="saturation">Saturacija</string>
   <string name="saturation_abbr">S</string>
@@ -2752,7 +2778,7 @@ za fotografije"</string>
   <string name="tip_file_info">Detalji: </string>
   <string name="tip_file_path">Putanja: </string>
   <string name="tip_not_download">Nije na uređaju. Biti će preuzeto s Mi Clouda tijekom reprodukcije.</string>
-  <string name="tip_screenshot_package_info">Naziv aplik.: </string>
+  <string name="tip_screenshot_package_info">Naziv aplikacije: </string>
   <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="title_set_name">Unesite ime</string>
   <string name="title_tip">Savjet</string>
@@ -2763,11 +2789,11 @@ za fotografije"</string>
   <string name="to_enable_sync_dialog_positive_button_text">Idi u Postavke</string>
   <string name="to_enable_sync_dialog_title">Sinkr.</string>
   <string name="toast_download_with_metered_network_btn_continue">Preuzmi</string>
-  <string name="toast_download_with_metered_network_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti stavke pomoću mobilnih podataka?"</string>
+  <string name="toast_download_with_metered_network_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti stavke pomoću mob. podataka?"</string>
   <string name="toast_download_with_metered_network_title">Upozorenje o upotrebi podataka</string>
   <string name="toast_invalid_char">"Nazivi datoteka ne mogu sadržavati \"%s\""</string>
   <string name="toast_invalid_prefix">"Nazivi ne mogu počinjati s \".\" or \"_\""</string>
-  <string name="toast_orientation_locked">Orijentacija zaključana uspješno</string>
+  <string name="toast_orientation_locked">Orijentacija zaslona je zaključana</string>
   <string name="toast_orientation_unlock">Orijentacija zaslona je otključana</string>
   <string name="toast_rename_exit">Ova datoteka već postoji</string>
   <string name="today">Danas</string>
@@ -2796,7 +2822,7 @@ za fotografije"</string>
   <string name="tuesday_shortest">U</string>
   <string name="turn_off_and_move">Isključi i premjesti</string>
   <string name="turn_on_and_remove">Uključi i premjesti</string>
-  <string name="turn_on_sync">Uključi sinkr.</string>
+  <string name="turn_on_sync">Uključi sinkronizaciju</string>
   <string name="unchecked">Poništi odabir</string>
   <string name="unchecked_something">Poništi odabir %s</string>
   <string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
@@ -2836,12 +2862,12 @@ za fotografije"</string>
   <string name="video_analytic_cancel">Odustani</string>
   <string name="video_analytic_download">Preuzmi</string>
   <string name="video_analytic_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="video_analytic_download_sdk_without_wifi_msg">"Ne mogu se povezati na Wi-Fi. Dodatak možete preuzeti i pomoću mobilnih podataka."</string>
+  <string name="video_analytic_download_sdk_without_wifi_msg">"Ne mogu se povezati na Wi-Fi. Dodatak možete preuzeti i pomoću mob. podataka."</string>
   <string name="video_analytic_download_sdk_without_wifi_title">Preuzimanje dodatka…</string>
   <string name="video_compress_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="video_compress_encode_video">Sažimanje videozapisa…</string>
   <string name="video_compress_lib_download">Preuzmite dodatak za sažimanje videozapisa</string>
-  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s Wi-Fi-jem. Možete koristiti mobilne podatke za preuzimanje dodatka za sažimanje videozapisa (%.1f MB)."</string>
+  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s Wi-Fi-jem. Možete koristiti mob. podatke za preuzimanje dodatka za sažimanje videozapisa (%.1f MB)."</string>
   <string name="video_compress_not_with_8k">"Ne mogu se sažeti %dK videozapisi"</string>
   <string name="video_compress_not_with_format">"Sažimanje videozapisa nije podržana za ovaj format"</string>
   <string name="video_compress_not_with_low_quality">Trenutna rezolucija je najniža</string>
@@ -2909,8 +2935,8 @@ za fotografije"</string>
   <string name="video_editor_ok">U redu</string>
   <string name="video_editor_regulator">Prilagodi</string>
   <string name="video_editor_res_download_failed_tips">"Ne mogu preuzeti, provjerite mrežne postavke i pokušajte ponovno"</string>
-  <string name="video_editor_res_download_mobil_network_confirm_msg">Preuzeti glazbene podloge putem mobilnih podataka?</string>
-  <string name="video_editor_res_download_mobil_network_confirm_title">Koristi mobilne podatke</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Preuzeti glazbene podloge putem mob. podataka?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Koristi mob. podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Preuzmite glazbene podloge za korištenje ove značajke (više od 20MB).</string>
   <string name="video_editor_return">Natrag</string>
   <string name="video_editor_save">Spremi</string>
@@ -2928,7 +2954,7 @@ za fotografije"</string>
   <string name="video_editor_smart_effect_rhythm">Pulse</string>
   <string name="video_editor_smart_effect_street">Metropolis</string>
   <string name="video_editor_smart_effect_time_limit_txt_40">Ovaj se efekt može primijeniti na videozapise koji nisu duži od %d sekundi. Trajanje podešeno automatski.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_6">Ovaj efekt možete primijeniti na videozapise koji traju do %d sek.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_6">Ovaj se efekt može primijeniti na videozapise koji traju do %d sek.</string>
   <string name="video_editor_smart_effect_time_limit_txt_60">Ovaj se efekt može primijeniti na videozapise koji nisu duži od %d sekundi. Trajanje podešeno automatski.</string>
   <string name="video_editor_template_family">Obitelj</string>
   <string name="video_editor_template_forbidden_tips">"Ne mogu to učiniti kada koristite predložak"</string>
@@ -2957,8 +2983,8 @@ za fotografije"</string>
   <string name="video_post_cancel_download">Odustani</string>
   <string name="video_post_download">Preuzmi</string>
   <string name="video_post_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="video_post_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
-  <string name="video_post_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mobilnih podataka?"</string>
+  <string name="video_post_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
+  <string name="video_post_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
   <string name="video_post_download_sdk_without_wifi_title">Preuzmi \"Video efekti\" dodatak</string>
   <string name="video_post_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje izvornih datoteka može rezultirati dodatnim naknadama. Svejedno preuzeti?</string>
   <string name="video_post_download_with_metered_network_title">Plaćena mreža</string>

@@ -25,5 +25,23 @@
         <item>20 min.</item>
         <item>30 min.</item>
         <item>60 min.</item>
-    </string-array>	    
+    </string-array>	
+    <string-array name="base_day_time_space">
+         <item>Noć</item>
+         <item>Noć</item>
+         <item>Jutro</item>
+         <item>Poslijepodne</item>
+         <item>Poslijepodne</item>
+         <item>Večer</item>
+         <item>Večer</item>
+		 </string-array>  
+    <string-array name="day_time_space">
+         <item>Noć</item>
+         <item>Rano ujutro</item>
+         <item>Jutro</item>
+         <item>Podnevno</item>
+         <item>Poslijepodne</item>
+         <item>Kasno poslijepodne</item>
+         <item>Večer</item>
+	</string-array>		 
 </resources>

@@ -274,4 +274,47 @@
         <item>Iceland</item>
         <item>Kenya</item>
     </string-array>
+	<string-array name="card_last_week_day">
+         <item>Prošlog ponedjeljka</item>
+         <item>Prošli utorak</item>
+         <item>Prošle srijede</item>
+         <item>Prošli četvrtak</item>
+         <item>Prošli petak</item>
+	 </string-array>
+     <string-array name="holiday_last_year">
+         <item>"Zadnji novogodišnji dan"</item>
+         <item>"Zadnje Valentinovo"</item>
+         <item>Zadnji radni dan</item>
+         <item>"Posljednji dječji dan"</item>
+         <item>Posljednji dan državnosti</item>
+         <item>Prošli Božić</item>
+	 </string-array>
+     <string-array name="holiday_past_year">
+         <item>"Nova godina kroz godine"</item>
+         <item>"Valentinovo kroz godine"</item>
+         <item>Praznik rada kroz godine</item>
+         <item>"Dan djeteta kroz godine"</item>
+         <item>Dan državnosti kroz godine</item>
+         <item>Božić kroz godine</item>
+	 </string-array>
+     <string-array name="month_last_year">
+         <item>Prošli siječanj</item>
+         <item>Prošle veljače</item>
+         <item>Prošlog ožujka</item>
+         <item>Prošlog travnja</item>
+         <item>Prošlog svibnja</item>
+         <item>Prošli lipanj</item>
+         <item>Prošli srpanj</item>
+         <item>Prošli kolovoz</item>
+         <item>Prošli rujan</item>
+         <item>Prošli listopad</item>
+         <item>Prošli studeni</item>
+         <item>Prošlog prosinca</item>
+	 </string-array>
+     <string-array name="season_last_year">
+         <item>Prošlog proljeća</item>
+         <item>Prošlo ljeto</item>
+         <item>Prošle jeseni</item>
+         <item>Prošle zime</item>
+	</string-array>
 </resources> 

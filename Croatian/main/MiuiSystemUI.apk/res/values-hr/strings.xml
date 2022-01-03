@@ -1682,6 +1682,8 @@ snimke zaslona"</string>
   <string name="miui_guide_dialog_button_positive_text">Razumijem</string>
   <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
+  <string name="miui_lock_screen_date">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
 dd.MM"</string>
    <string name="miui_lock_screen_date_two_lines_12">"EEEE
@@ -1928,6 +1930,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="mtrl_picker_text_input_date_hint">Datum</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+  <string name="mtrl_picker_text_input_day_abbr">d</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">g</string>
   <string name="mtrl_picker_toggle_to_calendar_input_mode">Prijelaz na način unosa u Kalendaru</string>
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
@@ -2845,6 +2850,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="switch_bar_off">Isključeno</string>
   <string name="switch_bar_on">Uključeno</string>
   <string name="switch_system_user">Natrag u Prvi prostor</string>
+  <string name="system_ui_aod_date_pattern">eeedMMM</string>
   <string name="system_ui_tuner">Ugađanje korisničkog sučelja sustava</string>
   <string name="tap_again">Dodirnite ponovo</string>
   <string name="tap_to_renew_subscription_and_connect">Dodirnite da biste obnovili pretplatu i povezali se</string>

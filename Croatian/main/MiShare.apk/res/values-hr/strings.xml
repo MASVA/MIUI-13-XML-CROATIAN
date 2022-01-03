@@ -51,6 +51,8 @@
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za slanje i primanje datoteka</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_device_name">Nepoznati uređaj</string>
+  <string name="device_list_all">Svi uređaji</string>
+  <string name="device_list_more">Više</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_with_ellipsize">%1$s…</string>
   <string name="device_offline">Drugi je uređaj offline. Početi ispočetka.</string>
@@ -133,6 +135,8 @@ Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih tele
   <string name="mishare_state_protection_summary">Kad uključite Bluetooth ili Wi-Fi, automatski uključi i Mi Share</string>
   <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Mi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
   <string name="mishare_transefer_channel_desc">Obavijesti o stavkama koje je Mi Share poslao i primio</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -147,6 +151,7 @@ Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih tele
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -267,6 +272,9 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
   <string name="transfer_intercept_to_remote">Nije moguće poslati: %1$s</string>
   <string name="transfer_to_pc_summary">"Mi Share možete koristiti za slanje stavki s vašeg telefona na Mi prijenosna računala ili s jednog prijenosnog računala na drugi.
 Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je vaše prijenosno računalo na popisu, ali Mi Share nije instaliran na njemu, ažurirajte BIOS i upravljački program mrežnog adaptera vašeg prijenosnog računala i preuzmite Mi Share."</string>
+  <string name="transfer_to_pc_summary_new"><Data>"Najnovija verzija MIUI+ instalirana na Mi prijenosnim računalima kompatibilna je s Mi Share. Popis podržanih modela prijenosnih računala možete provjeriti na web stranici MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Ako je vaše prijenosno računalo na popisu, ali MIUI+ nije instaliran na njemu, ažurirajte BIOS prijenosnog računala i upravljački program mrežnog adaptera i preuzmite MIUI+."</Data></string>
+  <string name="transfer_to_summary">"Uključite Mi Share putem prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
+  <string name="transfer_to_title">Pošaljite datoteke na mobilne uređaje</string>
   <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
   <string name="transfer_to_phone_summary">Mi Share omogućuje vam slanje slika i datoteka na obližnje Mi telefone i druge kompatibilne uređaje.</string>
   <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
@@ -277,6 +285,15 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
   <string name="unrecognized_manufacture">Nepoznato</string>
   <string name="unrecognized_model">Nepoznati uređaj</string>
   <string name="user_instructions">Pažnja</string>
+  <string name="uwb_guide_summary_1">"Ako ne možete pronaći ciljni uređaj, zamolite drugu osobu da dodirne prečac Mi Share u svom kontrolnom centru."</string>
+  <string name="uwb_guide_title_1">Zamolite drugu osobu da uključi Mi Share</string>
+  <string name="uwb_guide_title_2">Brže pronađite ciljni uređaj uz Beam</string>
+  <string name="uwb_setting_guide">Saznajte više</string>
+  <string name="uwb_setting_guide_summary">Beam koristi UWB tehnologiju za bežično prepoznavanje ciljanih uređaja. Nakon što je ciljni uređaj prepoznat, njegova će ikona doći u prvi plan.</string>
+  <string name="uwb_setting_guide_title">Ovaj uređaj držite točno nasuprot kompatibilnog ciljanog uređaja</string>
+  <string name="uwb_summary">Beam koristi UWB tehnologiju za bežično prepoznavanje ciljanih uređaja. Prijenos stavki između uređaja koje pokreće UWB tehnologija brži je i praktičniji.</string>
+  <string name="uwb_support_device">"Kompatibilni uređaji: "</string>
+  <string name="uwb_title">Beam</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="view_file">Pregled</string>
