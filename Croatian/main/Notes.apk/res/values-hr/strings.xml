@@ -425,7 +425,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="miui_plus_app_state_description_view_todo">Prikaži zadatak</string>
   <string name="miui_plus_relay_waring_data_not_find">"Nije moguće pronaći stavku koju gledate na drugom uređaju. Provjerite jesu li sve stavke sinkronizirane."</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>

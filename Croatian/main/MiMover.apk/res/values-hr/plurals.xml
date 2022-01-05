@@ -108,4 +108,12 @@
         <item quantity="other">%d minuta</item>
         <item quantity="one">%d minuta</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+         <item quantity="other">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ove aplikacije da poboljšate njihove performanse.</item>
+         <item quantity="one">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ovu aplikaciju da poboljšate njezine performanse.</item>
+	  </plurals>
+     <plurals name="app_update_64_notification_title">
+        <item quantity="other">Dostupne su 64-bitne verzije za %1$d aplikacija</item>
+        <item quantity="one">Dostupna je 64-bitna verzija za %1$d aplikaciju</item>
+     </plurals>
 </resources>

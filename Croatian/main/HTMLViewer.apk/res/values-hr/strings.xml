@@ -43,6 +43,8 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="ime_privacy_policy">Odaberi tipkovnicu</string>
+  <string name="instruction">Važne sigurnosne informacije</string>
+  <string name="legal_written_offer">Pisana ponuda</string>
   <string name="license_host_unreachable">"Ne mogu se povezati s mrežom. Za pregled ove informacije,
 idite na %s"</string>
   <string name="loading">Učitavanje…</string>
@@ -123,6 +125,8 @@ idite na %s"</string>
   <string name="policy_name">Pravilo:%s</string>
   <string name="pre_installed_apps">Predinstalirane aplikacije</string>
   <string name="privacy_station_title">Privatnost u Xiaomi</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="sar">Informacije o RF izloženosti</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -152,6 +156,9 @@ idite na %s"</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="user_experience_program">Program korisničkog iskustva</string>
+  <string name="user_manual">Korisnički vodič</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

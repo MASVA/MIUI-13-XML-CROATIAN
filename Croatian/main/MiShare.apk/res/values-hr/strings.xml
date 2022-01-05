@@ -127,7 +127,7 @@
   <string name="menu_item_permission_title">Pojedinosti o dopuštenjima</string>
   <string name="menu_item_privacy_title">Pravila o privatnosti</string>
   <string name="mi_drop">Mi Share</string>
-  <string name="mishare_folder_in_file_explorer">Datoteke &gt; MiShare</string>
+  <string name="mishare_folder_in_file_explorer">Datoteke &gt; Mi Share</string>
   <string name="mishare_service_channel_desc">Obavijesti o procesima Mi Share</string>
   <string name="mishare_settings_summary_international">"Mi Share omogućuje vam bežično slanje stavki na druge uređaje u blizini.
 Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih telefona. Popis podržanih uređaja možete provjeriti na službenom web mjestu bilo koje odabrane marke."</string>
@@ -136,7 +136,7 @@ Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih tele
   <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Mi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
   <string name="mishare_transefer_channel_desc">Obavijesti o stavkama koje je Mi Share poslao i primio</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

@@ -122,6 +122,7 @@
   <string name="open_maintenance_mode">Otvori način održavanja</string>
   <string name="open_maintenance_mode_msg">Kako biste izbjegli gubitak podataka, preporuča se da uređaj pošaljete na popravak </string>
   <string name="open_maintenance_mode_msg_sub">nakon što ste sigurnosno kopirali svoje podatke</string>
+  <string name="open_maintenance_mode_tips">Upravo ste isključili način održavanja i brišete povezane podatke, pokušajte ponovo kasnije</string>
   <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
   <string name="reached_max_user">Dosegnut je maksimalni broj korisnika</string>
   <string name="reboot_maintenance_mode">Brisanje načina održavanja je završeno, ponovno pokrenite uređaj</string>

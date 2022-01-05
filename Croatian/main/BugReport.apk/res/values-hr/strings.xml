@@ -26,7 +26,7 @@
   <string name="catch_full_log_add_photo">Dodaj fotografiju</string>
   <string name="catch_full_log_add_photo_dialog_content">"Ako je problem koji prijavljujete povezan s kvalitetom slike kamere, dodajte izvornu fotografiju uzorka (neobrezanu) kako biste nam pomogli pronaći problem. Želite li sada dodati fotografiju?"</string>
   <string name="catch_full_log_dialog_confirm_text">Idi na Poč. zaslon</string>
-  <string name="catch_full_log_dialog_content">"MIUI generira zapis. To može utjecati na ukupne performanse vašeg uređaja. Ako ne možete reproducirati problem koji želite prijaviti, vratite se na zapise i dodirnite \"Odustani\"."</string>
+  <string name="catch_full_log_dialog_content">"MIUI izrađuje zapis. To može utjecati na ukupne performanse vašeg uređaja. Ako ne možete reproducirati problem koji želite prijaviti, vratite se na zapise i dodirnite \"Odustani\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Ne mogu generirati zapis laga"</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Vratite se na značajku koju želite prijaviti i reproducirajte je.
 2. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>

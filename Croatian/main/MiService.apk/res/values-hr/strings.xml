@@ -182,8 +182,8 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="miui_main_ring_arctic">Arktik</string>
   <string name="miui_main_ring_australia">Australija</string>
   <string name="miui_main_ring_defalut">Koristi trenutni zvuk obavijesti</string>
-  <string name="miui_main_ring_mute_tips">"Ne mogu reproducirati demonstracije u Bešumnom načinu"</string>
-  <string name="miui_main_ring_sub_title">Dodirnite za reprodukciju demonstracija i odaberite zvuk obavijesti</string>
+  <string name="miui_main_ring_mute_tips">"Ne mogu reproducirati demonstraciju u Bešumnom načinu"</string>
+  <string name="miui_main_ring_sub_title">Dodirnite za reprodukciju demonstracije i odaberite zvuk obavijesti</string>
   <string name="miui_main_ring_title">Zvukovi obavijesti nadahnuti prirodom</string>
   <string name="miui_main_shortcut_label_submit_feedback">Pošaljite povratne informacije</string>
   <string name="miui_main_update_back_to_home">Priprema Poč. zaslona…</string>
@@ -196,7 +196,7 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="miui_main_update_success_title_12">Samo tvoj</string>
   <string name="miui_main_update_success_title_12_5">Dobrodošli u MIUI 12.5</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

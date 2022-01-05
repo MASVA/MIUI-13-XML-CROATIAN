@@ -35,6 +35,10 @@
   <string name="am">AM</string>
   <string name="antispam">Lista blokiranih</string>
   <string name="app_name">Mi Mover</string>
+  <string name="app_update_64_dialog_cancel">Ne sada</string>
+  <string name="app_update_64_dialog_confirm">Ažuriraj</string>
+  <string name="app_update_64_dialog_title">Ažurirajte na 64-bitnu arhitekturu</string>
+  <string name="app_update_64_notfication_body">Ažurirajte za poboljšanje performansi aplikacije</string>
   <string name="app_update_title">Ažurirajte sve aplikacije</string>
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="audio">Audiozapis</string>
@@ -73,6 +77,7 @@
   <string name="button_return">Natrag</string>
   <string name="button_scanning">Skeniranje…</string>
   <string name="button_send">Pošalji</string>
+  <string name="calendar_permission_desc">Za prijenos događaja na druge uređaje</string>
   <string name="calllog">Povijest poziva</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_description">Odustani</string>
@@ -136,14 +141,21 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="connection_tips_owner_message">Mi Mover unaprijed je instalirana na svim uređajima koji koriste MIUI 11. Ukoliko Vaš uređaj koristi stariju MIUI verziju, možete preuzeti najnoviju verziju Mi Mover-a na sljedećem linku: %1$s.</string>
   <string name="connection_tips_owner_title">Ako je Vaš stari uređaj Mi telefon:</string>
   <string name="contacts">Kotakti</string>
+  <string name="contact_records_permission_desc">Za prijenos povijesti poziva na druge uređaje</string>
+  <string name="contacts_permission_desc">Za prijenos kontakata na druge uređaje</string>
+  <string name="copy">Kopiraj</string>
   <string name="current_user_not_supported_summary">Trenutne postavke sustava ograničuju prijenos podataka kod korištenja Mi Mover-a.</string>
   <string name="current_user_not_supported_title">Nije moguće prenijeti stavke</string>
+  <string name="data_read_white_permission_desc">Za prijenos stavki na druge uređaje</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete_description">Izbriši</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="deselect_all_description">Poništi sve</string>
+  <string name="dialog_airplane_mode_button">Postavke</string>
+  <string name="dialog_airplane_mode_content">"Mi Mover ne može raditi kada je uključen Zrakoplovni način. Prvo ga isključite u postavkama."</string>
+  <string name="dialog_airplane_mode_title">Isključite Zrakoplovni način</string>
   <string name="dialog_backup_password_cancel">Odustani</string>
   <string name="dialog_backup_password_change_machine_tips">Nećete moći prenijeti sigurnosne kopije zaštićene lozinkom. Isključite sigurnosnu zaporku prije upotrebe Mi Mover-a.</string>
   <string name="dialog_backup_password_verify">U redu</string>
@@ -171,6 +183,10 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="dialog_tip_upgrade_title">Ažurirajte Mi Mover</string>
   <string name="dialog_version_summary_tip">Što ima novo:</string>
   <string name="dialog_version_title_tip">Dostupno je ažuriranje</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Razumijem</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"Nije moguće prenijeti podatke aplikacije WeChat i povijest chata zbog ograničenja aplikacije. Isprobajte značajku sigurnosnog kopiranja unutar aplikacije.
+Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp; migrirati razgovore."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">"Nije moguće prenijeti podatke aplikacije WeChat"</string>
   <string name="do_not_restore_temporarily">Ne sada</string>
   <string name="document">Dokumenti</string>
   <string name="email">E-pošta</string>
@@ -309,6 +325,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="launcher">Izgled Poč. zaslona</string>
   <string name="less_than_1_minute">Manje od 1 minute</string>
   <string name="loading_data">Samo trenutak…</string>
+  <string name="location_permission_desc">Za pronalaženje uređaja u blizini</string>
   <string name="location_permission_request">Za povezivanje s drugim uređajima u blizini</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
@@ -411,6 +428,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="morning">AM</string>
+  <string name="msg_permission_desc">Za prijenos poruka na druge uređaje</string>
   <string name="name">Ime</string>
   <string name="name_password_not_consistent">Apple ID i zaporka koje ste unijeli ne podudaraju se</string>
   <string name="need_location_permission_confirm">Postavke</string>
@@ -538,6 +556,16 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="permission_storage_title">Pristup i spremanje datoteka i fotografija pohranjenih na vašem uređaju</string>
   <string name="permission_wifi_summary">Za prijenos stavki na vaš novi uređaj</string>
   <string name="permission_wifi_title">Uključivanje i isključivanje Wi-Fi-ja</string>
+  <string name="permission_grant_request">Da bi mogao prenijeti ovu stavku, Mi Moveru treba dopuštenje \"%1$s\".</string>
+  <string name="permission_request_title">\"%1$s\" dopuštenje je potrebno</string>
+  <string name="permission_setting_button">Postavke</string>
+  <string name="request_all_permission_content">"Mi Mover treba pristupiti sljedećim stavkama da bi mogao prenijeti stavke na novi uređaj:
+- Lokacija
+- Kontakti
+- Povijest poziva
+- SMS poruke
+- Pohrana"</string>
+  <string name="request_all_permission_title">Potrebna su dopuštenja</string>
   <string name="permlab_sendSmsNoConfirmation">Dopusti SMS poruke u pozadini</string>
   <string name="phone">Telefon</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
@@ -761,6 +789,7 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="update_later">Ne sada</string>
   <string name="unselected">Nije odabrano</string>
   <string name="update_now">Ažuriraj sada</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
@@ -790,6 +819,9 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
 Veličina: %2$s"</string>

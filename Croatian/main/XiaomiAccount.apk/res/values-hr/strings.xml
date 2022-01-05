@@ -342,7 +342,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miui_provision_find_status_text">"Ovaj je uređaj povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
 (Br. otključavanja: %2$s)"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

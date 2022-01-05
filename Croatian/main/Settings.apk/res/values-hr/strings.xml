@@ -6329,7 +6329,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_userguide">Korisnički vodič</string>
   <string name="miui_wifi_wakeup_summary">Wi-Fi will be turned on automatically when your device detects saved networks nearby and turned off after 15 minutes if no connection is established</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

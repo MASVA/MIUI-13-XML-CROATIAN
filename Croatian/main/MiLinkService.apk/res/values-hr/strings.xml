@@ -332,6 +332,9 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 　　•Dopuštenja za ciljanje Pronađite i otkrijte okolne uređaje."</string>
   <string name="privacy_title">Pažnja</string>
   <string name="private_protect">Zaštitite privatnost</string>
+  <string name="privacy_update_dialog_negative_btn">Odustani</string>
+  <string name="privacy_update_dialog_positive_btn">Prihvaćam</string>
+  <string name="privacy_update_dialog_quit">Izlaz</string>
   <string name="san_wait_msg_1">Ciljani uređaj mora uključiti bežično emitiranje</string>
   <string name="san_wait_msg_2">Pretraživanje uređaja može potrajati neko vrijeme…</string>
   <string name="san_wait_msg_3">"Vanjske uređaje je lakše pronaći kada su povezani na istu mrežu kao i vaš telefon"</string>

@@ -507,6 +507,7 @@ Brži protokol veze."</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="media_category">Mediji</string>
+  <string name="media_transfer_this_phone">Ovaj uređaj</string>
   <string name="media_transfer_this_device_name">Ovaj uređaj</string>
   <string name="media_transfer_wired_device_name">Žičani audiouređaj</string>
   <string name="media_transfer_wired_usb_device_name">Žičane slušalice</string>
@@ -549,7 +550,7 @@ Brži protokol veze."</string>
   <string name="mihome_update_tips">Trenutna verzija aplikacije Mi Home je prestara. Nakon ažuriranja držite telefon blizu uređaja.</string>
   <string name="mihome_update_title">Ažuriraj Mi Home aplikaciju</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

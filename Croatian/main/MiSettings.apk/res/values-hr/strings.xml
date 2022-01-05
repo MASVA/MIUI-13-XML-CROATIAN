@@ -313,6 +313,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="lion_info">Lavovi su žestoki i moćni grabežljivci. Žive u skupinama i imaju snažan osjećaj teritorija.</string>
   <string name="lock_summary">Zaštitite svoje osobne podatke</string>
   <string name="long_tai1ed_iaeger">Dugorepi jeger</string>
+  <string name="low_flicker_mode">Slabo osvjetljenje</string>
   <string name="low_flicker_mode_summary">Spriječite treperenje u uvjetima slabog osvjetljenja kako biste smanjili naprezanje očiju</string>
   <string name="low_fps_description">Niža stopa osvježavanja zaslona. Niža potrošnja energije.</string>
   <string name="low_light_preview">Pregled slabog osvjetljenja</string>
@@ -320,7 +321,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="marabou_stork_info">Marabu roda je masivna ptica, često skupljač otpadaka.</string>
   <string name="midnight">AM</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -498,6 +499,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
   <string name="several_days_use_time">Vrijeme zaslona: %2$s</string>
+  <string name="service_ringtone_title">Melodija zvona usluge</string>
   <string name="shortcut_created">Taj prečac već postoji</string>
   <string name="silent_ringtone_hint">Najprije isključite Bešumno.</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
@@ -507,6 +509,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="snowy_owl">Snježna sova</string>
   <string name="southern_elephant_seal">Južni slonski tuljan</string>
   <string name="southern_ground_hornbill">Kljunorožac</string>
+  <string name="split_page_authorization">Dobro došli u Vrijeme zaslona! Ovdje možete postaviti ograničenja vremena korištenja uređaja i pregledati statistiku. Dodirnite \"Start\" da biste uključili ovu značajku.</string>
   <string name="spotted_hyaena">Pjegava hijena</string>
   <string name="spotted_hyaena_info">Hijene su noćni grabežljivci s najsloženijim socijalnim ponašanjem.</string>
   <string name="srgb_color_region">sRGB</string>

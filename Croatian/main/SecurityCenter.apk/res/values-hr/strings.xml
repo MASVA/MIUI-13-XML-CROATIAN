@@ -2675,7 +2675,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="miui_optimization_close_final_tip">Isključiti MIUI optimizaciju?</string>
   <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje MIUI optimizacije moglo bi donijeti sljedeće promjene:</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

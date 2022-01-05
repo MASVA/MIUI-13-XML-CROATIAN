@@ -358,14 +358,14 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="max_error">Vaš %1$s treba biti kraći.</string>
   <string name="menu_copy">Kopiraj</string>
   <string name="message_label">Poruka</string>
-  <string name="mi_service_dialog_cancel">Iziđi</string>
+  <string name="mi_service_dialog_cancel">Odustani</string>
   <string name="mi_service_dialog_confirm">Otvori</string>
-  <string name="mi_service_dialog_content">Sve su značajke za povratne informacije premještene u novu aplikaciju \"Usluge i povratne informacije\". Aplikacija Povratne informacije bit će uklonjena s vašeg početnog zaslona. Dodirnite \"Otvori\" da biste isprobali \"Usluge i povratne informacije\".</string>
-  <string name="mi_service_dialog_title">Predstavljamo \"Usluge i povratne informacije\"</string>
+  <string name="mi_service_dialog_content">Sve su značajke za povratne inf. premještene u novu aplikaciju \"Usluge i povratne inf.\". Aplikacija Povratne informacije bit će uklonjena s vašeg početnog zaslona. Dodirnite \"Otvori\" da biste isprobali \"Usluge i povratne informacije\".</string>
+  <string name="mi_service_dialog_title">Predstavljamo \"Usluge i povratne inf.\"</string>
   <string name="min_error">Vaš %1$s bi trebao biti duži.</string>
   <string name="mishop_login_other">Drugi račun</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -439,7 +439,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="month_june">Lipanj</string>
   <string name="month_june_short">Lip</string>
   <string name="month_june_shortest">Lip</string>
-  <string name="month_march">ožujak</string>
+  <string name="month_march">Ožujak</string>
   <string name="month_march_short">Ožu</string>
   <string name="month_march_shortest">Ožu</string>
   <string name="month_may">Svibanj</string>
@@ -461,7 +461,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
   <string name="network_timeout_info">"Nisam se mogao povezati s mrežom. Pokušajte ponovo."</string>
   <string name="network_unavailable_dialog_button_ok">U redu</string>
-  <string name="network_unavailable_dialog_content">Vaš zapis će biti poslano kada budete imali podatkovnu vezu.</string>
+  <string name="network_unavailable_dialog_content">Vaš zapis će biti poslan kada budete imali podatkovnu vezu.</string>
   <string name="network_unavailable_dialog_title">Ne mogu se povezati na mrežu</string>
   <string name="nick_name">Nadimak</string>
   <string name="no_account">Niste prijavljeni</string>

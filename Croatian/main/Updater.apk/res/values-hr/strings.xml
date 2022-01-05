@@ -21,6 +21,7 @@
   <string name="default_filedownloader_notification_title">Preuzimatelj datoteka</string>
   <string name="dialog_3g_desc">Preuzimanje nove MIUI verzije putem mobilnih podataka može povećati mjesečnu naknadu. Preporučuje se povezivanje s Wi-Fi mrežom.</string>
   <string name="dialog_3g_title">Upozorenje!</string>
+  <string name="dialog_ab">Vaš uređaj podržava \"Seamless System Updates\", ne zaboravite odabrati \"Slot A\" kada se to od vas zatraži u TWRP-u!</string>
   <string name="dialog_btn_3g">Nastavi svejedno</string>
   <string name="dialog_btn_wifi">Promjeni na Wi-Fi</string>
   <string name="dialog_stop_desc">Možete pauzirati ili zaustaviti preuzimanje, na vama je da odaberete što želite.</string>

@@ -559,7 +559,7 @@
   <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Pronađi uređaj…</string>
   <string name="micloud_main_save_battery_on">Način rada za uštedu energije je uključen. Može uzrokovati prekid sinkronizacije.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>

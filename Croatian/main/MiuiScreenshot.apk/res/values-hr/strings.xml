@@ -47,6 +47,8 @@ snimke zaslona"</string>
   <string name="long_screenshot_intercepted_error">"Nije moguće napraviti snimku zaslona. Pokušajte ponovno."</string>
   <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
   <string name="long_screenshot_processing">Obrada…</string>
+  <string name="long_screenshot_processing_description_accessibility">Obrada</string>
+  <string name="long_screenshot_top_msg_description_accessibility">Izrada snimke zaslona</string>
   <string name="long_screenshot_stop">Gotovo</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
   <string name="long_screenshot_top_msg_manual">Obrežite snimku zaslona i dodirnite tipku da biste završili</string>
