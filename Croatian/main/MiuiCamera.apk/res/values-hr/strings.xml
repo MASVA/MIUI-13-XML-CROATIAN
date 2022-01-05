@@ -908,11 +908,14 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="live_sticker_updating">Ažuriranje…</string>
   <string name="live_workspace_title">Skice</string>
   <string name="live_workspace_title_edit">Odaberite stavke za brisanje</string>
+  <string name="live_workspace_title_pause">Zaustavi</string>
+  <string name="live_workspace_title_play">Reproduciraj</string>
+  <string name="live_workspace_title_pre_edit">Odaberite stavke za brisanje</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
   <string name="location_access_allow">Dopusti</string>
-  <string name="location_fromkeyguard_not_permission">"Kameri sada nije dopušten pristup vašoj lokaciji. Najprije otključajte svoj uređaj."</string>
+  <string name="location_fromkeyguard_not_permission">"Kameri nije dopušten pristup vašoj lokaciji. Najprije otključajte svoj uređaj."</string>
   <string name="location_permission_des">Zapamti lokacije za fotografije i videozapise</string>
   <string name="location_permission_not_ask_again">Dopustite Kameri pristup vašoj lokaciji u Postavkama.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Dopusti</string>

@@ -622,6 +622,7 @@
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="switch_open">Uključi</string>
+  <string name="switchover">Promjeni</string>
   <string name="take_a_picture">Kamera</string>
   <string name="take_the_word">Pritisnite i držite tipku dolje da preuzmete riječ</string>
   <string name="tel">Telefon</string>
@@ -638,7 +639,7 @@
   <string name="tip_no_camera">Nema kamere</string>
   <string name="tip_permission_camera">Nemate dopuštenje za korištenje kamere, odobrite dopuštenje</string>
   <string name="tip_permission_camera_storage">Nemate dopuštenja za korištenje kamere i SD kartice. </string>
-  <string name="tip_permission_storage">Nemate dopuštenja za korištenje SD kartice, odobrite dopuštenje</string>
+  <string name="tip_permission_storage">Nemate dopuštenje za korištenje SD kartice, odobrite dopuštenje</string>
   <string name="tip_tips">Savjeti</string>
   <string name="tip_type_not_image">To nije slika</string>
   <string name="tips_message">"Povežite se se na internet kako bi provjerili je li web-lokacija koju posjećujete sigurna."</string>

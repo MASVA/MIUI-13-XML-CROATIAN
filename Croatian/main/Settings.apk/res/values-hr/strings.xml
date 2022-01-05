@@ -97,24 +97,24 @@
   <string name="accessibility_banner_message_dismiss">Odbaci</string>
   <string name="accessibility_button_description">"Brzo pristupite značajkama pristupačnosti s bilo kojeg zaslona. 
 
-Za početak otvorite postavke pristupačnosti i odaberite značajku. Dodirnite prečac i odaberite gumb za pristupačnost."</string>
+Za početak otvorite postavke pristupačnosti i odaberite značajku. Dodirnite prečac i odaberite tipku za pristupačnost."</string>
   <string name="accessibility_button_fade_summary">Nakon nekoliko sekundi blijedi kako biste lakše mogli vidjeti zaslon</string>
   <string name="accessibility_button_fade_title">Blijedi kad se ne koristi</string>
   <string name="accessibility_button_gesture_description">"Brzo pristupite značajkama pristupačnosti s bilo kojeg zaslona.
 
-Za početak otvorite postavke pristupačnosti i odaberite značajku. Dodirnite prečac i odaberite gumb za Pristupačnost.
+Za početak otvorite postavke pristupačnosti i odaberite značajku. Dodirnite prečac i odaberite tipku za Pristupačnost.
 
-Da biste koristili gumb za Pristupačnost na navigacijskoj traci, prijeđite na navigaciju pomoću dva gumba ili navigaciju pomoću tri gumba."</string>
-  <string name="accessibility_button_gesture_title">Gumb i pokret za Pristupačnost</string>
+Da biste koristili tipku za Pristupačnost na navigacijskoj traci, prijeđite na navigaciju pomoću dvije tipke ili navigaciju pomoću tri tipke."</string>
+  <string name="accessibility_button_gesture_title">Tipka i gesta za Pristupačnost</string>
   <string name="accessibility_button_high_label">Neprozirno</string>
-  <string name="accessibility_button_intro">Upotreba gumba za Pristupačnost. Pokret nije dostupan uz navigaciju pomoću tri gumba.</string>
+  <string name="accessibility_button_intro">Upotreba tipke za Pristupačnost. Pokret nije dostupan uz navigaciju pomoću tri tipke.</string>
   <string name="accessibility_button_location_title">Lokacija</string>
   <string name="accessibility_button_low_label">Prozirno</string>
   <string name="accessibility_button_opacity_title">Prozirnost kad se ne koristi</string>
-  <string name="accessibility_button_or_gesture_title">Upotreba gumba ili pokreta</string>
+  <string name="accessibility_button_or_gesture_title">Upotreba tipke ili geste</string>
   <string name="accessibility_button_size_title">Veličina</string>
   <string name="accessibility_button_summary">Brz pristup značajkama pristupačnosti</string>
-  <string name="accessibility_button_title">Gumb za pristupačnost</string>
+  <string name="accessibility_button_title">Tipka za pristupačnost</string>
   <string name="accessibility_caption_master_switch_summary">Samo za podržanu aplikaciju</string>
   <string name="accessibility_caption_master_switch_title">Prikaži titlove</string>
   <string name="accessibility_caption_preference_summary">Neke aplikacije ne podržavaju postavke titlova</string>
@@ -155,7 +155,7 @@ Neke aplikacije ne podržavaju tu postavku."</string>
   <string name="accessibility_feature_state_on">Uključeno</string>
   <string name="accessibility_global_gesture_preference_description">"Kada je ova značajka uključena, možete brzo omogućiti značajke pristupačnosti u dva koraka:
 
-1. korak: pritisnite i držite gumb za uključivanje/isključivanje dok ne začujete zvuk ili osjetite vibraciju.
+1. korak: pritisnite i držite tipku za uključivanje/isključivanje dok ne začujete zvuk ili osjetite vibraciju.
 
 2. korak: dodirnite i držite s dva prsta dok ne začujete zvučnu potvrdu.
 
@@ -180,7 +180,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_magnification_area_settings_full_screen">Povećaj cijeli zaslon</string>
   <string name="accessibility_magnification_area_settings_full_screen_summary">Cijeli zaslon</string>
   <string name="accessibility_magnification_area_settings_message">Povećajte cijeli zaslon ili određeno područje ili izmjenjujte obje opcije</string>
-  <string name="accessibility_magnification_area_settings_mode_switch_summary">Dodirnite gumb za prebacivanje da biste se prebacivali između opcija</string>
+  <string name="accessibility_magnification_area_settings_mode_switch_summary">Dodirnite tipku za prebacivanje da biste se prebacivali između opcija</string>
   <string name="accessibility_magnification_area_settings_window_screen">Povećaj dio zaslona</string>
   <string name="accessibility_magnification_area_settings_window_screen_summary">Dio zaslona</string>
   <string name="accessibility_magnification_enable_mode_title">Omogućeno povećavanje</string>
@@ -194,16 +194,20 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
 
 Gumb za pristupačnost lebdi na zaslonu iznad drugih aplikacija. Dodirnite ga da biste povećali prikaz."</string>
   <string name="accessibility_magnification_switch_shortcut_negative_button">Upotrijebi trostruki dodir</string>
-  <string name="accessibility_magnification_switch_shortcut_positive_button">Prijeđi na gumb za pristupačnost</string>
-  <string name="accessibility_magnification_switch_shortcut_title">Prijeći na gumb za pristupačnost?</string>
+  <string name="accessibility_magnification_switch_shortcut_positive_button">Prijeđi na tipku za pristupačnost</string>
+  <string name="accessibility_magnification_switch_shortcut_title">Prijeći na tipku za pristupačnost?</string>
   <string name="accessibility_manual_zen_less_time">Manje vremena.</string>
   <string name="accessibility_manual_zen_more_time">Više vremena.</string>
-  <string name="accessibility_menu_description">"Izbornik pristupačnosti nudi prikladne prečace koji vam omogućuju upravljanje uređajem.
+  <string name="accessibility_menu_description">"Izbornik Pristupačnost nudi prikladne prečace koji vam omogućuju upravljanje uređajem.
 
-Uključite ovu značajku i dodirnite gumb Pristupačnost na dnu zaslona da biste otvorili izbornik."</string>
+Uključite ovu značajku i dodirnite tipku Pristupačnost na dnu zaslona da otvorite izbornik."</string>
+  <string name="accessibility_menu_description_pad">"Izbornik Pristupačnost pruža praktične prečace koji vam omogućuju upravljanje uređajem.
+
+Uključite ovu značajku i dodirnite tipku Pristupačnost pri dnu zaslona da otvorite izbornik."</string>
   <string name="accessibility_menu_item_settings">Postavke</string>
-  <string name="accessibility_menu_service_name">Izbornik pristupačnosti</string>
+  <string name="accessibility_menu_service_name">Izbornik Pristupačnost</string>
   <string name="accessibility_menu_summary">Upravljajte svojim uređajem pomoću prikladnih prečaca</string>
+  <string name="accessibility_menu_summary_pad">Upravljajte svojim uređajem pomoću praktičnih prečaca</string>
   <string name="accessibility_more_settings">Dodatne postavke</string>
   <string name="accessibility_no_calling">Bez poziva.</string>
   <string name="accessibility_no_data">Nema podataka.</string>
@@ -223,9 +227,9 @@ Uključite ovu značajku i dodirnite gumb Pristupačnost na dnu zaslona da biste
   <string name="accessibility_screen_magnification_enable">Pokreti povećavanja</string>
   <string name="accessibility_screen_magnification_gesture_navigation_warning">Pokret pristupačnosti postavljen je tako da otvara %1$s. Da biste koristili povećanje, s dva prsta prijeđite od dna zaslona prema gore i zadržite. Zatim odaberite povećanje.</string>
   <string name="accessibility_screen_magnification_gestures_title">Povećavanje trostrukim dodirom</string>
-  <string name="accessibility_screen_magnification_navbar_configuration_warning">Gumb Pristupačnost postavljen je na %1$s. Da biste upotrijebili povećanje, dodirnite i zadržite gumb Pristupačnost i zatim odaberite povećanje.</string>
-  <string name="accessibility_screen_magnification_navbar_short_summary">Dodirnite gumb za zumiranje</string>
-  <string name="accessibility_screen_magnification_navbar_summary">"Kad je povećavanje uključeno, upotrijebite gumb Pristupačnost na dnu zaslona za brzo povećavanje.
+  <string name="accessibility_screen_magnification_navbar_configuration_warning">Tipka Pristupačnost postavljen je na %1$s. Da biste upotrijebili povećanje, dodirnite i zadržite tipku Pristupačnost i zatim odaberite povećanje.</string>
+  <string name="accessibility_screen_magnification_navbar_short_summary">Dodirnite tipku za zumiranje</string>
+  <string name="accessibility_screen_magnification_navbar_summary">"Kad je povećavanje uključeno, upotrijebite tipku Pristupačnost na dnu zaslona za brzo povećavanje.
 
 "&lt;b&gt;Da biste zumirali&lt;/b&gt;", pokrenite povećanje, a zatim dodirnite bilo gdje na zaslonu.
 "&lt;ul&gt;&lt;li&gt;Povlačite s dva prsta ili vi&amp;#353;e njih da biste se pomicali.&lt;/li&gt;"
@@ -267,9 +271,9 @@ Tipkovnica i navigacijska traka ne mogu se povećati."</string>
   <string name="accessibility_settings_title">Postavke dostupnosti</string>
   <string name="accessibility_shortcut_description">Dopusti prečacu značajke da se uključi putem zaključanog zaslona. Pritisnite obje tipke za glasnoću na nekoliko sekundi.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Pritisnite i zadržite obje tipke za glasnoću</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software">"Dodirnite gumb za Pristupačnost %s pri dnu zaslona.
+  <string name="accessibility_shortcut_edit_dialog_summary_software">"Dodirnite tipku za Pristupačnost %s pri dnu zaslona.
 
-Da biste prešli na neku drugu značajku, dodirnite i zadržite gumb za Pristupačnost."</string>
+Da biste prešli na neku drugu značajku, dodirnite i zadržite tipku za Pristupačnost."</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software_floating">&lt;annotation id="link"&gt;Vi&amp;#353;e opcija&lt;/annotation&gt;</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Prijeđite s dva prsta prema gore od dna zaslona.
 
@@ -280,7 +284,7 @@ Da biste prešli na neku drugu značajku, prijeđite s tri prsta prema gore i za
   <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Brzo dodirnite zaslon tri puta. Taj prečac može usporiti uređaj.</string>
   <string name="accessibility_shortcut_edit_dialog_title_advance">Napredno</string>
   <string name="accessibility_shortcut_edit_dialog_title_hardware">Držite tipke za glasnoću</string>
-  <string name="accessibility_shortcut_edit_dialog_title_software">Dodirnite gumb za Pristupačnost</string>
+  <string name="accessibility_shortcut_edit_dialog_title_software">Dodirnite tipku za Pristupačnost</string>
   <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture">Upotreba pokreta za pristupačnost</string>
   <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Prijeđite s dva prsta prema gore</string>
   <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Prijeđite s tri prsta prema gore</string>
@@ -292,10 +296,10 @@ Da biste prešli na neku drugu značajku, prijeđite s tri prsta prema gore i za
   <string name="accessibility_shortcut_service_title">Usluga prečaca</string>
   <string name="accessibility_shortcut_settings">Postavke prečaca</string>
   <string name="accessibility_shortcut_title">Prečac za uslugu %1$s</string>
-  <string name="accessibility_shortcut_triple_tap_keyword">triput dodirnite zaslon</string>
+  <string name="accessibility_shortcut_triple_tap_keyword">Triput dodirnite zaslon</string>
   <string name="accessibility_shortcut_type_hardware">Držite tipke za glasnoću</string>
-  <string name="accessibility_shortcut_type_software">gumb za Pristupačnost</string>
-  <string name="accessibility_shortcut_type_software_gesture">prijeđite dvama prstima prema gore</string>
+  <string name="accessibility_shortcut_type_software">Tipka Pristupačnost</string>
+  <string name="accessibility_shortcut_type_software_gesture">Prijeđite dvama prstima prema gore</string>
   <string name="accessibility_shortcut_type_triple_tap">Triput dodirnite zaslon</string>
   <string name="accessibility_shortcuts_settings_title">Prečaci za pristupačnost</string>
   <string name="accessibility_summary_shortcut_disabled">Isključeno</string>
@@ -337,10 +341,10 @@ Da biste prešli na neku drugu značajku, prijeđite s tri prsta prema gore i za
   <string name="accessibility_touch_vibration_title">Reakcija na dodir</string>
   <string name="accessibility_turn_screen_darker_title">Zatamnjenje zaslona</string>
   <string name="accessibility_tutorial_dialog_button">Razumijem</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Da biste uključili ili isključili tu uslugu, dodirnite gumb pristupačnosti %s na dnu zaslona.
+  <string name="accessibility_tutorial_dialog_message_button">"Da biste uključili ili isključili tu uslugu, dodirnite tipku pristupačnosti %s na dnu zaslona.
 
-Da biste prešli na neku drugu značajku, dodirnite i zadržite gumb za Pristupačnost."</string>
-  <string name="accessibility_tutorial_dialog_message_floating_button">Da biste koristili tu značajku, dodirnite gumb za pristupačnost na zaslonu.</string>
+Da biste prešli na neku drugu značajku, dodirnite i zadržite tipku za Pristupačnost."</string>
+  <string name="accessibility_tutorial_dialog_message_floating_button">Da biste koristili tu značajku, dodirnite tipku za pristupačnost na zaslonu.</string>
   <string name="accessibility_tutorial_dialog_message_gesture">"Da biste uključili ili isključili tu značajku, prijeđite s dva prsta prema gore od dna zaslona.
 
 Da biste prešli na neku drugu značajku, prijeđite s dva prsta prema gore i zadržite."</string>
@@ -367,7 +371,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s tri prsta prema gore i 
 Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i zadržite."</string>
   <string name="accessibility_tutorial_dialog_message_triple">Da biste pokrenuli ili zaustavili povećavanje, triput dodirnite bilo gdje na zaslonu.</string>
   <string name="accessibility_tutorial_dialog_message_volume">Da biste uključili ili isključili tu značajku, pritisnite i zadržite obje tipke za glasnoću.</string>
-  <string name="accessibility_tutorial_dialog_title_button">Otvaranje pomoću gumba pristupačnosti</string>
+  <string name="accessibility_tutorial_dialog_title_button">Otvaranje pomoću tipke pristupačnosti</string>
   <string name="accessibility_tutorial_dialog_title_gesture">Otvaranje gestom</string>
   <string name="accessibility_tutorial_dialog_title_gesture_settings">Upotreba nove geste pristupačnosti</string>
   <string name="accessibility_tutorial_dialog_title_triple">Triput dodirnite zaslon za otvaranje</string>
@@ -1008,6 +1012,9 @@ Promijeniti postavke sada?"</string>
   <string name="auto_clean_description">"O ovoj značajki
 1. Pokrenite ovu značajku jednom ili dva puta ako ustanovite da je vaš zvučnik lagano blokiran od prašine.
 2. Ako je zvučnik jače blokiran, pokrenite ovu značajku 2-5 puta dok tresete svoj uređaj tako da zvučnik bude okrenut prema dolje."</string>
+  <string name="auto_clean_description_pad">"O ovoj značajci
+- Pokrenite ovu značajku jednom ili dvaput ako ustanovite da je vaš zvučnik lagano blokiran prašinom.
+- Ako je zvučnik jako blokiran, pokrenite ovu značajku %1$d-%2$d puta dok tresete uređaj sa zvučnikom okrenutim prema dolje."</string>
   <string name="auto_clean_summary">Reproduciraj zvuk u trajanju 30 sekundi da biste očistili zvučnik</string>
   <string name="auto_clean_summary_new">Reproduciraj %d-sek. zvuka da očistite zvučnik. Koristite ovu značajku više puta zaredom za znatnu količinu prljavštine.</string>
   <string name="auto_clean_title">Očisti zvučnik</string>
@@ -2371,6 +2378,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="clear_all_data">Izbriši sve podatke</string>
   <string name="clear_cache_btn_text">Isprazni predmemoriju</string>
   <string name="clear_data_alert_info">Sve Sig. kopije pohranjene na ovom uređaju trajno će se izbrisati. Izradite Sig. kopiju važnih stavki na računalo i Mi Cloud prije nego što nastavite.</string>
+  <string name="clear_data_alert_info_pad">Sve sigurnosne kopije pohranjene na ovom uređaju bit će trajno izbrisane. Sigurnosno kopirajte važne stavke na svoje računalo i Mi Cloud prije nego što nastavite.</string>
   <string name="clear_data_dlg_text">Svi podaci ove aplikacije trajno će se izbrisati. To obuhvaća sve datoteke, postavke, račune, baze podataka itd.</string>
   <string name="clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
   <string name="clear_data_failed">Podaci aplikacije nisu se mogli izbrisati.</string>
@@ -4053,7 +4061,8 @@ Otključavanje licem manje je sigurno od PIN -a, lozinke ili uzorka. Vaš uređa
   <string name="feature_title_sms">Poruke</string>
   <string name="feedback">Povratna inf.</string>
   <string name="feedback_btn_text">Pošalji povratnu inf.</string>
-  <string name="feedback_settings">Povratna inf.</string>
+  <string name="feedback_settings">Usluge &amp; Povratna inf.</string>
+  <string name="feedback_settings_new">Povratna inf.</string>
   <string name="file_privacy_password_role_instruction">Vaše privatne datoteke će biti pohranjene ovdje.</string>
   <string name="file_uploading">Učitavanje…</string>
   <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
@@ -4345,6 +4354,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="freeform_guide_slide_to_small_freeform_summary">"Pritisnite i držite dno prozora i povucite ga u gornji desni kut.
 Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povucite kut da biste minimizirali aplikaciju</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povucite kut da biste minimizirali aplikaciju</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimizirajte aplikaciju</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povuci prema gore s akcijske trake plutajućeg prozora</string>
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
@@ -5145,7 +5155,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="keywords_styles">ikona, isticanje, boja</string>
   <string name="keywords_switch_access">motorika, prekidač, ruka, asistivna tehnologija, paraliza, ALS, traženje, postupno traženje</string>
   <string name="keywords_sync">Sinkronizacija;aktivacije;Cloud</string>
-  <string name="keywords_system_navigation">navigacija za sustav, navigacija pomoću dva gumba, navigacija pomoću tri gumba, navigacija pokretima</string>
+  <string name="keywords_system_navigation">navigacija za sustav, navigacija pomoću dvije tipke, navigacija pomoću tri tipke, navigacija pokretima</string>
   <string name="keywords_system_update_settings">nadogradnja, android</string>
   <string name="keywords_systemui_theme">tamna tema</string>
   <string name="keywords_talkback">čitač zaslona, sinkronizacija, glasovna pomoć, sljepoća, slabovidnost, TTS, pretvaranje teksta u govor, govorne povratne informacije</string>
@@ -5266,8 +5276,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="legacy_control_center_title">Stara verzija</string>
   <string name="legacy_dhcp_client">Upotrebljavaj stari DHCP klijent</string>
   <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
-  <string name="legacy_navigation_summary">Za povratak, otvaranje početnog zaslona i promjenu aplikacije koristite se gumbima pri dnu zaslona.</string>
-  <string name="legacy_navigation_title">Navigacija pomoću tri gumba</string>
+  <string name="legacy_navigation_summary">Za povratak, otvaranje početnog zaslona i promjenu aplikacije koristite se tipkama pri dnu zaslona.</string>
+  <string name="legacy_navigation_title">Navigacija pomoću tri tipke</string>
   <string name="legal_information">Pravne informacije</string>
   <string name="legal_workday">Radni dani</string>
   <string name="legal_workday_invalidate">Pon-Pet (istekli podaci o praznicima)</string>
@@ -6423,6 +6433,7 @@ Prelaskom na mobilnog operatera %1$s neće se otkazati vaša usluga kod mobilnog
   <string name="model_info">Model</string>
   <string name="model_name">Naziv</string>
   <string name="model_number">Uređaj</string>
+  <string name="model_number_pad">Uređaj</string>
   <string name="model_summary">Model: %1$s</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>
   <string name="modem_tool_log_start">Započni</string>
@@ -6610,6 +6621,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="multi_user_mode_dialog_title">"Vi ste u načinu rada Više korisnika"</string>
   <string name="multi_window_cvw">Plutajući prozor</string>
   <string name="multi_window_cvw_summary">Povucite kut da biste se prebacili na plutajući prozor i prilagodili njegovu veličinu</string>
+  <string name="multi_window_cvw_summary_global">Povucite kut da biste se prebacili na plutajući prozor i prilagodili njegovu veličinu</string>
   <string name="multi_window_cvw_title">Plutajući prozor</string>
   <string name="multifunction_keyboard">Višenamjenski</string>
   <string name="multiple_users_main_switch_title">Upotreba većeg broja korisnika</string>
@@ -7121,7 +7133,7 @@ Poboljšane obavijesti mogu pristupiti sadržaju obavijesti, uključujući osobn
   <string name="notification_listener_disable_warning_confirm">Isključi</string>
   <string name="notification_listener_disable_warning_summary">Ako isključite pristup obavijesti za %1$s, pristup DND također može biti isključen.</string>
   <string name="notification_listener_not_allowed">Nije dopušteno</string>
-  <string name="notification_listener_security_warning_summary">"Aplikacija %1$s moći će čitati sve obavijesti, uključujući osobne podatke kao što su imena kontakata i tekst poruka koje primate. Moći će i odbacivati obavijesti ili pokretati gumbe za radnje koje obavijesti sadrže. 
+  <string name="notification_listener_security_warning_summary">"Aplikacija %1$s moći će čitati sve obavijesti, uključujući osobne podatke kao što su imena kontakata i tekst poruka koje primate. Moći će i odbacivati obavijesti ili pokretati tipke za radnje koje obavijesti sadrže. 
 
 Aplikacija će također moći uključiti ili isključiti značajku DND i promijeniti povezane postavke."</string>
   <string name="notification_listener_security_warning_title">Želite li dopustiti usluzi %1$s pristup obavijestima?</string>
@@ -7846,8 +7858,8 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="power_mgr">Optimizacija baterije</string>
   <string name="power_mode">Postavke energije</string>
   <string name="power_mode_balanced_title">Balansirana energija</string>
-  <string name="power_monitor_summary">Alati koji se koriste za praćenje napajanja.</string>
-  <string name="power_monitor_title">Praćenje napajanja</string>
+  <string name="power_monitor_summary">Alati za praćenje potrošnje energije</string>
+  <string name="power_monitor_title">Potrošnja energije</string>
   <string name="power_optimize">Ušteda baterije</string>
   <string name="power_overcounted">Previše obračunato</string>
   <string name="power_phone">Glasovni pozivi</string>
@@ -8399,7 +8411,8 @@ UT sučelje: %5$s"</string>
 
 Nećete izgubiti podatke nijedne aplikacije."</string>
   <string name="reset_app_preferences_title">Poništiti postavke aplikacija?</string>
-  <string name="reset_confirm_directory">"Napomena: Prije vraćanja stavki provjerite je li mapa \"MIUI-Backup-AllBackup\" postoji na vašem mobilnom uređaju. Ako ne, napravite je."</string>
+  <string name="reset_confirm_directory">"Napomena: Prije vraćanja stavki provjerite postoji li mapa \"MIUI-Backup-AllBackup\" na vašem mobilnom uređaju. Ako ne postoji, napravite je."</string>
+  <string name="reset_confirm_directory_pad">"Napomena: Prije vraćanja stavki provjerite postoji li mapa \"MIUI-Backup-AllBackup\" na vašem mobilnom uređaju. Ako ne postoji, napravite je."</string>
   <string name="reset_dashboard_summary">Mreža, aplikacije ili uređaj mogu se poništiti</string>
   <string name="reset_dashboard_summary_onlyApps">Aplikacije se mogu vratiti na zadano</string>
   <string name="reset_dashboard_title">Poništavanje opcija</string>
@@ -10345,6 +10358,12 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="storageuse_settings_title">Upotreba pohrane</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
+  <string name="string_KB">%d KB</string>
+  <string name="string_KB_per_log_buffer">%d KB po međuspremniku dnevnika</string>
+  <string name="string_MB">%d MB</string>
+  <string name="string_MB_per_log_buffer">%d MB po međuspremniku dnevnika</string>
+  <string name="string_off">Isključeno</string>
+  <string name="string_offed">Isključeno</string>
   <string name="strong_suppression_summary">"Vaš će uređaj manje reagirati na slučajni dodir, neke geste možda neće raditi blizu rubova"</string>
   <string name="strong_suppression_title">Veliko područje</string>
   <string name="structure_add_facerecoginition_text">Dodajte 3D lice</string>
@@ -10515,9 +10534,9 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="swipe_direction_rtl">Prijeđite prstom ulijevo da biste odbacili izbornik, a udesno da biste ga prikazali</string>
   <string name="swipe_direction_title">Povlačenje prstom</string>
   <string name="swipe_up_to_switch_apps_suggestion_summary">Uključite novi pokret da biste promijenili aplikaciju</string>
-  <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi gumb Poč. zaslona</string>
-  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po gumbu Poč. zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati gumb Pregled u donjem desnom kutu zaslona.</string>
-  <string name="swipe_up_to_switch_apps_title">Navigacija pomoću dva gumba</string>
+  <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi tipku Poč. zaslona</string>
+  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po tipki Poč. zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati tipku Pregled u donjem desnom kutu zaslona.</string>
+  <string name="swipe_up_to_switch_apps_title">Navigacija pomoću dvije tipke</string>
   <string name="switchNetworkToast">Povezivanje s mobilnim mrežama može generirati dodatne naknade</string>
   <string name="switch_access_service_on">Promjena pristupa</string>
   <string name="switch_bootup_sound">Boot audio</string>
@@ -13080,7 +13099,7 @@ Kada isključite način \"DND\", propuštene obavijesti pronaći ćete tako da p
   <string name="zen_mode_system">Zvukovi dodirivanja</string>
   <string name="zen_mode_system_list">zvukovi dodirivanja</string>
   <string name="zen_mode_system_list_first">Zvukovi dodirivanja</string>
-  <string name="zen_mode_system_summary">Zvukovi tipkovnice i drugih gumba</string>
+  <string name="zen_mode_system_summary">Zvukovi tipkovnice i drugih tipki</string>
   <string name="zen_mode_title">Ne ometaj</string>
   <string name="zen_mode_turned_off">Isključeno</string>
   <string name="zen_mode_turned_on">Uključeno</string>

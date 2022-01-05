@@ -33,6 +33,8 @@
   <string name="account_login">Prijavite se</string>
   <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="agree_button">Prihvaćam</string>
+  <string name="agree_revoke_permission_title">Povlačenje dopuštenja</string>
   <string name="alert_button_agree_and_continue">Dopusti</string>
   <string name="alert_button_deny">Odbijam</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite traži dopuštenje za izradu Sig. kopije na računalo. Dopustiti?</string>
@@ -44,6 +46,7 @@
   <string name="alert_title_backup_to_miasist">Izraditi Sig. kpiju stavki koristeći Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Vratiti stavke na vaš telefon?</string>
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
+  <string name="alternative_ui_content">Ova vam značajka omogućuje sigurnosno kopiranje i vraćanje stavki pomoću mobilnog uređaja i računala. Ova značajka mora se povezati s internetom i zahtijeva sljedeća obvezna dopuštenja da bi mogla normalno raditi:</string>  
   <string name="app_name">Sig. kopija</string>
   <string name="apps_and_data_item_desc">Aplik. i podaci</string>
   <string name="apps_item_desc">Aplikacija</string>
@@ -232,6 +235,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="gallery_summary">Postavke Galerije (ne uključujući fotografije)</string>
+  <string name="grant_all_permission_content">Dodijelite sva obavezna dopuštenja da biste mogli sigurnosno kopirati i vratiti stavke.</string>
+  <string name="grant_all_permission_title">Potrebna su dopuštenja</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
@@ -517,6 +522,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="permission_content_title">Potrebna dopuštenja</string>
   <string name="permission_dialog_positive_btn">Postavke</string>
   <string name="permission_intro">Pojedinosti o dopuštenjima</string>
+  <string name="permission_management_entrance">Upravljanje dopuštenjima</string>
   <string name="permission_not_admit">Nije odobreno</string>
   <string name="permission_purpose">Ova vam značajka omogućuje sigurnosno kopiranje i vraćanje stavki pomoću mobilnog uređaja, računala i USB pogona.</string>
   <string name="permission_read_apps">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
@@ -524,7 +530,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="permission_read_calllog">Pristup povijesti poziva</string>
   <string name="permission_read_contacts">Pristup kontaktima</string>
   <string name="permission_read_sms">Pristup porukama</string>
-  <string name="permission_read_storage">Pristup stavkama i spremanju u pohranu</string>
+  <string name="permission_read_storage">Pristup stavkama i spremanje u pohranu</string>
+  <string name="permission_read_storage_global">Pristup pohrani</string>
   <string name="permission_read_write_storage">Da biste mogli sigurnosno kopirati stavke, dopustite ovoj značajci da prvo pristupi pohrani.</string>
   <string name="permission_read_write_sys_app">Da biste mogli sigurnosno kopirati i vratiti poruke, kontakte i povijest poziva, dopustite ovoj značajci da prvo pristupi tim stavkama.</string>
   <string name="permission_related">Dopuštenja</string>
@@ -538,6 +545,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="permission_show_all_apps_desc">Da biste mogli vidjeti aplikacije za koje se može izraditi sigurnosna kopija, dopustite ovoj aplikaciji da prvo pristupi popisu aplikacija instaliranih na ovom uređaju.</string>
   <string name="permission_write_calllog">Uređivanje povijesti poziva</string>
   <string name="permission_write_contacts">Uređivanje kontakata</string>
+  <string name="permission_write_storage">Spremanje stavki u pohranu</string>
   <string name="phone_title">Postavke telefona</string>
   <string name="platform_chooser_item_android">Uvezi s Android uređaja</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
@@ -545,8 +553,10 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="platform_chooser_item_ios">Uvezi s iOS uređaja</string>
   <string name="platform_chooser_title">Odaberite stari uređaj</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="privacy_policy_link"><Data>"Kako biste saznali više o našim praksama obrade podataka i vašim pravima kao korisnika, pročitajte i prihvatite naše &lt;a href='%1s'>Pravila o privatnosti&lt;/a> prije nego nastavite."</Data></string>
   <string name="privacy_settings">Privatnost</string>
   <string name="privacy_settings_title">Pravila o privatnosti</string>
+  <string name="private_policy_text">Pravila o privatnosti</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="prompt_reading">Čitanje…</string>
@@ -565,6 +575,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="restore_counts">Vraćanje:</string>
   <string name="restore_data">Odaberite stavke za vraćanje</string>
   <string name="restore_failed">"Ne mogu vratiti"</string>
+  <string name="restore_files">Za vraćanje stavki</string>
   <string name="restore_finished">Uspješno vraćeno</string>
   <string name="restore_is_running">Vraćanje uređaja</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
@@ -573,6 +584,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="reverse_all">Poništi odabir</string>
+  <string name="revoke_permission_dialog_content">"Nećete moći sigurnosno kopirati ili vratiti stavke bez svih obveznih dopuštenja. Svejedno povući dopuštenja?"</string>
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
@@ -889,11 +901,12 @@ Prenesite samo važne stavke."</string>
 Vraćanje samo važnih stavki bit će brže."</string>
   <string name="usb_trans_native_no_space">"Samo je %s dostupno na vašem uređaju.
 Oslobodite prostor ili napravite više manjih prijenosa."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Za spremanje Sig. kopija potrebna je dodatan prostor. Nema dovoljno prostora za pohranu za nastavak prijenosa. Možete osloboditi prostor i izbrisati nepotrebne datoteke u aplikaciji Sigurnost ili pokušati prenijeti samo važne stavke."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za spremanje Sig. kopija potreban je dodatan prostor. Nema dovoljno prostora za pohranu za nastavak prijenosa. Možete osloboditi prostor i izbrisati nepotrebne datoteke u aplikaciji Sigurnost ili pokušati prenijeti samo važne stavke."</string>
   <string name="usb_trans_old_phone_low_space_title">Nema dovoljno prostora za pohranu</string>
   <string name="usb_trans_select_data_no_space">"Samo je %s dostupno na vašem USB uređaju.
 Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="user_feedback">Povratne inf.</string>
+  <string name="user_know_button_text">Razumijem</string>
   <string name="user_name">Apple ID ili E-pošta</string>
   <string name="user_name_null">Korisničko ime ne može biti prazno</string>
   <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>

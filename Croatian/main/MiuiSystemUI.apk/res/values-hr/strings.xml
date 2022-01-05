@@ -1303,6 +1303,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_pin_after_boot_msg">Potrebno je unijeti PIN nakon ponovnog pokretanja uređaja</string>
   <string name="input_pin_code">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>
+  <string name="input_second_pattern_after_restart_msg">Za nastavak potvrdite zaporku Drugog prostora</string>
   <string name="install_other_apps">Instalacija nepoznatih apl.</string>
   <string name="installer_cd_button_title">Instaliraj Android – Prijenos datoteka za Mac</string>
   <string name="instant_apps">Instant aplikacije</string>

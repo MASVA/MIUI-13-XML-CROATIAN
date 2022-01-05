@@ -841,6 +841,12 @@ Brži protokol veze."</string>
   <string name="storage_category">Pohrana</string>
   <string name="strict_mode">Strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
+  <string name="string_KB">%d KB</string>
+  <string name="string_KB_per_log_buffer">%d KB po međuspremniku dnevnika</string>
+  <string name="string_MB">%d MB</string>
+  <string name="string_MB_per_log_buffer">%d MB po međuspremniku dnevnika</string>
+  <string name="string_off">Isključeno</string>
+  <string name="string_offed">Isključeno</string>
   <string name="stylus_ota_check_update">Ažuriraj</string>
   <string name="summary_empty"/>
   <string name="sunday">Nedjelja</string>

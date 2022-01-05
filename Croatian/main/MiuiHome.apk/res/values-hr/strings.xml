@@ -630,6 +630,11 @@
   <string name="recents_title_market">Pronađi aplikacije</string>
   <string name="recents_title_security_scan">Sigurnosno skeniranje</string>
   <string name="recents_tv_small_window_text">Plutajući prozori</string>
+  <string name="recents_worldcirculate_text">Otpustite za odabir</string>
+  <string name="recnets_worldcirculate_button_text">Globalno</string>
+  <string name="recnets_worldcirculate_display_computer_info">Aplikacija radi na %s.</string>
+  <string name="recnets_worldcirculate_display_default_info">Dodirnite da je vratite ovdje.</string>
+  <string name="recnets_worldcirculate_display_pad_info">Aplikacija radi na %s.</string>
   <string name="recommend_app">Prijedlozi aplikacija</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
