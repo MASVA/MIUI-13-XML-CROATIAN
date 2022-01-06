@@ -40,6 +40,10 @@
   <string name="app_update_64_dialog_title">Ažurirajte na 64-bitnu arhitekturu</string>
   <string name="app_update_64_notfication_body">Ažurirajte za poboljšanje performansi aplikacije</string>
   <string name="app_update_title">Ažurirajte sve aplikacije</string>
+  <string name="apple_calendar">Događaji kalendara</string>
+  <string name="apple_contacts">Kontakti</string>
+  <string name="apple_image">Fotografije</string>
+  <string name="apple_video">Videozapisi</string>
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="audio">Audiozapis</string>
   <string name="audio_video_document">Audio, videozapisi i dokumenti</string>
@@ -80,6 +84,7 @@
   <string name="calendar_permission_desc">Za prijenos događaja na druge uređaje</string>
   <string name="calllog">Povijest poziva</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_btn">Odustani</string>
   <string name="cancel_description">Odustani</string>
   <string name="cancel_moving_dialog_message">Zaustaviti uvoz sada?</string>
   <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
@@ -232,7 +237,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="guest_unfinished_task_alert_btn_positive">Nastavi</string>
   <string name="guest_unfinished_task_alert_message">Čini se da imate nedovršene zadatke za prijenos. Želite li nastaviti s prijenosom?</string>
   <string name="guest_unfinished_task_alert_title">Nedovršeni zadaci</string>
-  <string name="guest_wainting_title">Nastavite na novom uređaju</string>
+  <string name="guest_wainting_title">Nastavite na svom novom uređaju</string>
   <string name="hide_password_description">Sakrij zaporku</string>
   <string name="high_temp_summary">Vaš se uređaj može zagrijati tijekom prijenosa velike količine podataka. To je normalno i vaš će se uređaj ohladiti nakon dovršetka prijenosa.</string>
   <string name="host_boot_installation_bottom_tips">Ne možete pronaći Mi Mover? Dodirnite za preuzimanje.</string>
@@ -294,7 +299,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="icloud_signin_fail_message">Vaš apple ID je zaključan iz sigurnosnih razloga. Odite na iforgot.apple.com i slijedite upute.</string>
   <string name="icloud_start_now">Koristi mobilne podatke</string>
   <string name="icloud_verify_tips">Na svom iOS uređaju dodirnite \"Dopusti\" i ovdje unesite kod koji se pojavljuje.</string>
-  <string name="idm_discovery_positive_text">Pošalji</string>
+  <string name="idm_discovery_positive_text">Prijenos</string>
   <string name="idm_discovery_summary">"Čini se da sada aktivirate novi uređaj. Želite li poslati stavke s ovog uređaja na novi?"</string>
   <string name="idm_discovery_title">Pošaljite stavke na novi uređaj</string>
   <string name="im_recipient">Ja sam primatelj</string>
@@ -537,6 +542,8 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="perm_read_sms">Pristup porukama</string>
   <string name="perm_storage">Pristup i spremanje stavki u pohranu</string>
   <string name="perm_write_settings">Promijeniti postavke sustava</string>
+  <string name="permission_about_contacts">Potrebno je dopuštenje za uređivanje kontakata i povijesti poziva</string>
+  <string name="permission_about_storage">Potrebno je dopuštenje za pristup pohrani uređaja</string>
   <string name="permdesc_sendSmsNoConfirmation">Aplikacija može slati SMS poruke, bez upita vašeg dopuštenja. To može dovesti do neočekivanih troškova od vašeg davatelja usluga.</string>
   <string name="permission_alert_message_usage_access">Mi Mover mora pristupiti statistikama korištenja aplikacija. Dajte Mi Mover-u potrebna dopuštenja u Postavkama.</string>
   <string name="permission_alert_title">Potrebno je dopuštenje</string>
@@ -550,6 +557,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="permission_contacts_title">Pristup kontaktima</string>
   <string name="permission_locale_summary">Za povezivanje obližnjih uređaja</string>
   <string name="permission_locale_title">Pristup lokaciji</string>
+  <string name="permission_location_content">"Dopustite Mi Mover-u pristup vašoj lokaciji kako bi se mogao povezati s vašim starim uređajem. Ako ne dopustite pristup lokaciji, nećete moći prenijeti stavke."</string>
   <string name="permission_message_summary">Za prijenos poruka na novi uređaj</string>
   <string name="permission_message_title">Pristup SMS sadržaju</string>
   <string name="permission_storage_summary">Za prijenos datoteka i fotografija na vaš novi uređaj</string>
@@ -580,8 +588,11 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="prompt_before_transmission_message4_title">Ostanite povezani tijekom cijelog prijenosa</string>
   <string name="prompt_before_transmission_message5_summary">"Prijenos velike količine podataka bežičnim putem može uzrokovati lagano pregrijavanje koje nije neuobičajeno. Vaš će se uređaj ohladiti ubrzo nakon prijenosa."</string>
   <string name="prompt_before_transmission_message5_title">Vaš se uređaj može zagrijati tijekom prijenosa.</string>
-  <string name="provision_cta_title">Prebacivanje sa starog uređaja</string>
+  <string name="provisiion_set_old_phone">Uvoz sa starog uređaja</string>
+  <string name="provisiion_set_old_phone_summary">Koristite Mi Mover za uvoz podataka sa svog starog uređaja bez povezivanja na internet</string>
+  <string name="provision_cta_title">Prijenos sa starog uređaja</string>
   <string name="provision_receiver_finish_button">Dalje</string>
+  <string name="provision_set_new_phone">Koristite kao novi uređaj</string>
   <string name="provision_select_data_null">Odaberite stavke za prijenos</string>
   <string name="qq_app">QQ</string>
   <string name="qq_app_receive_fail">"Ne mogu primiti QQ"</string>
@@ -595,6 +606,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="receiver_finish_title">"Sve je postavljeno!"</string>
   <string name="receiver_video_summary">Otključajte stari uređaj, dodirnite \"Prijenos\" i skenirajte ovu sliku</string>
   <string name="receiver_video_title">Prebacivanje sa starog uređaja</string>
+  <string name="recommend_hint">Preporučeno</string>
   <string name="reconnect">Poveži ponovno</string>
   <string name="recovery_progress">Vraćanje stavki (%1$d/%2$d)…</string>
   <string name="recreate_soft_ap_tips">Dodirnite donji gumb da biste pokušali ponovo.</string>
@@ -664,6 +676,12 @@ Oslobodite barem %s."</string>
   <string name="sender">Pošalji</string>
   <string name="sender_finish_bottom_tips">"Prije brisanja podataka na ovom uređaju provjerite jeste li napravili sigurnosnu kopiju svih važnih stavki."</string>
   <string name="sender_finish_title">Uspješno preneseno</string>
+  <string name="set_new_device_account">Sinkronizacija s Mi računom</string>
+  <string name="set_new_device_lock">Postavi zaključavanje zaslona</string>
+  <string name="set_new_device_more">Više postavki sustava...</string>
+  <string name="set_new_device_navigationbar">Postavi navigaciju sustava</string>
+  <string name="set_new_device_title">Postavljanje novog uređaja…</string>
+  <string name="set_new_device_wlan">Postavite Wi-Fi</string>
   <string name="sender_scanning_code">Postavite sliku u okvir</string>
   <string name="sender_scanning_connecting">Povezivanje s novim uređajem…</string>
   <string name="settings_phone">Postavke telefona</string>
@@ -688,6 +706,7 @@ Oslobodite barem %s."</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="sms">SMS</string>
   <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot. Pokušajte ponovo."</string>
+  <string name="soft_ap_create_failed_apple">"Ne mogu generirati QR kôd"</string>
   <string name="soft_ap_creating">Izrada hotspota…</string>
   <string name="succ_description">Dovršeno</string>
   <string name="summary_open_wlan">Mi Mover treba ovo dopuštenje da osigura stabilnost postupka prijenosa.</string>
@@ -727,6 +746,19 @@ Oslobodite barem %s."</string>
   <string name="title_request_write_settings_perm">Dopusti promjenu postavki sustava</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="trans_apple">Povežite svoj iPhone</string>
+  <string name="trans_apple_button_cancel">Otkaži prijenos</string>
+  <string name="trans_apple_button_cancel_hint">Želite li sada otkazati prijenos?</string>
+  <string name="trans_apple_button_cancel_negative">"Nemoj otkazati"</string>
+  <string name="trans_apple_button_cancel_positive">Otkaži prijenos</string>
+  <string name="trans_apple_button_reconnect">Ponovo se povežite</string>
+  <string name="trans_apple_hint">"Nemojte napuštati ovu stranicu niti koristiti Wi-Fi dok se prijenos ne dovrši."</string>
+  <string name="trans_apple_hint_1_content">"Preuzmite Mi Mover iz App Storea ili skenirajte ovaj QR kod pomoću aplikacije Kamera na svom iPhoneu."</string>
+  <string name="trans_apple_hint_1_title">%d. Instalirajte Mi Mover</string>
+  <string name="trans_apple_hint_2_content">Otvorite Mi Mover na svom iPhoneu, dodirnite \"Dodirnite za slanje stavki\" i skenirajte QR kod.</string>
+  <string name="trans_apple_hint_2_title">%d. Spojite uređaje</string>
+  <string name="trans_apple_interrupt_sub">Dodirnite u nastavku za ponovno povezivanje.</string>
+  <string name="trans_apple_interrupt_title">Prijenos je prekinut</string>
   <string name="trans_detail_item_app_data_skip_data">Nije moguće prenijeti podatke aplikacije</string>
   <string name="trans_detail_item_app_skip_data">Nije moguće premjestiti ovu aplikaciju</string>
   <string name="trans_detail_qq_data">QQ podaci (uključujući povijest razgovora)</string>
@@ -744,6 +776,8 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="trans_show_qr_code_label">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_show_qr_code_label_for_pad">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
+  <string name="trans_sync_transfer_data_list_apple">"Odaberite stavke za prijenos
+na vašem iPhoneu"</string>
   <string name="trans_sync_transfer_data_list_hint">Samo trenutak…</string>
   <string name="trans_sync_transfer_data_list_summary_for_pad">Odaberite stavke na starom uređaju i dodirnite \"Pošalji\".</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>

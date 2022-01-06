@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="app_name">CQR</string>
   <string name="close">Zatvori</string>
+  <string name="close_hit_again">Pritisnite ponovo za izlaz iz zaslona</string>
   <string name="important_ration_info">Važne kvantitativne informacije</string>
   <string name="no_important_ration_info">Nevažne kvantitativne informacije</string>
   <string name="qr_load">Učitavanje… Molimo pričekajte…</string>
