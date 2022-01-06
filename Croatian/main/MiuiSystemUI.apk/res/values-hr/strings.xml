@@ -471,7 +471,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="auto_saver_enabled_text">Štednja baterije uključit će se automatski kad razina baterije padne ispod %d%%.</string>
   <string name="auto_saver_enabled_title">Uključen je raspored štednje baterije</string>
   <string name="auto_saver_okay_action">Razumijem</string>
-  <string name="auto_saver_text">Uključuje se automatski kada je razina baterije na %d%%</string>
+  <string name="auto_saver_text">Uključuje se kada je vjerojatno da će se baterija isprazniti</string>
   <string name="auto_saver_title">Dodirnite za zakazivanje štednje baterije</string>
   <string name="available_via_app">Dostupno putem mreže %1$s</string>
   <string name="available_via_carrier">Dostupno putem %1$s</string>
