@@ -84,7 +84,15 @@
   <string name="guide_window_operation">Povucite sa strane prema sredini zaslona</string>
   <string name="guide_window_title">Natrga</string>
   <string name="http_buffer_size">HTTP veličina predmemorije</string>
+  <string name="invisible_mode_dialog_cancel">Odustani</string>
+  <string name="invisible_mode_dialog_message">"Ne možete koristiti MIUI+ Combo zaslona kada ste anonimni. Prvo isključite anonimni način."</string>
+  <string name="invisible_mode_dialog_positive">Isključi</string>
+  <string name="invisible_mode_dialog_title">"Anonimni ste"</string>
+  <string name="invisible_mode_toast">Prvo isključite anonimni način</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="loading_view_abort_close_text">Zatvori</string>
+  <string name="loading_view_abort_text">"Isteklo je vrijeme veze.
+Zatvorite ovu stranicu i pokušajte ponovno."</string>
   <string name="log_warning">"Uključivanje promjene dnevnika može povećati sigurnosne rizike i utjecati na performanse. Koristite ove promjene samo kad je to potrebno."</string>
   <string name="low_version_dialog_message">Ažurirajte MIUI+ na računalu ili preuzmite najnoviju verziju s plus.miui.com.</string>
   <string name="low_version_dialog_title">Ažurirajte MIUI+</string>

@@ -554,6 +554,8 @@
   <string name="midrive_space_full">Nema dovoljno prostora na Mi Drive-u.</string>
   <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
   <string name="midrive_welcome_title">Dobrodošli na Mi Drive</string>
+  <string name="midriver_install_button_text">Instaliraj</string>
+  <string name="midriver_not_install_title">Mi Drive je deinstaliran</string>
   <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
   <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
   <string name="midrop_send_files">Odaberite datoteke za slanje</string>
@@ -1002,6 +1004,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="recommend_topic">Preporučene teme</string>
   <string name="recommend_user">Preporučeni profili</string>
   <string name="refresh_success">Osvježavanje gotovo</string>
+  <string name="reinstall_midriver_message">Želite li sada ponovo instalirati?</string>
   <string name="release_enter_private">Otpusti za otvaranje privatne mape</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="remainder_size">Preostalo: %s</string>

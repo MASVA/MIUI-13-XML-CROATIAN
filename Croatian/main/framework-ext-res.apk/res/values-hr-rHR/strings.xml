@@ -389,6 +389,9 @@
   <string name="slavewifi_disconnect">Prekini vezu</string>
   <string name="slavewifi_notification_title">Korištenje dvopojasne Wi-Fi mreže</string>
   <string name="slavewifi_settings">Dodirnite za promjenu postavki</string>
+  <string name="small_freeform_check_memory_exception_message">%1$s prouzročio je pogrešku u memoriji. Zatvorite ovu aplikaciju da biste izbjegli kašnjenje.</string>
+  <string name="small_freeform_check_memory_exception_negative_message">Odustani</string>
+  <string name="small_freeform_check_memory_exception_positive_message">Zatvori</string>
   <string name="small_freeform_enter_warning">Plutajući prozor</string>
   <string name="small_freeform_exit_tip">Zatvori plutajući prozor</string>
   <string name="small_freeform_memory_toast_app_type">"Ne mogu sada otvoriti. Ova aplikacija zahtijeva previše memorije da bi mogla raditi."</string>

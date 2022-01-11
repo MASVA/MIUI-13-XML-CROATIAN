@@ -186,6 +186,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_charger_waiting_in">Priključite punjač</string>
   <string name="cit_charger_waiting_out">Isključite punjač</string>
   <string name="cit_dial_emergencycall">Biraj 112</string>
+  <string name="cit_digital_hall_sensor_check_summary">Vrijednost kuta prikazana u nastavku</string>
+  <string name="cit_digital_hall_sensor_check_title">Digital Hall test</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>

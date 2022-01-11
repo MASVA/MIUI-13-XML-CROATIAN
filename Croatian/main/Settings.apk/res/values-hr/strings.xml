@@ -2649,7 +2649,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="connected_wifi">Povezano</string>
   <string name="connecting_to_vpn">Povezivanje na VPN</string>
   <string name="connection_and_sharing">Povezivanje &amp; dijeljenje</string>
-  <string name="connection_control">Upravljajte vezama</string>
+  <string name="connection_control">Upravljanje vezama</string>
   <string name="contact_data">Kontakti</string>
   <string name="contact_discovery_opt_in_dialog_message">"Telefonski brojevi vaših kontakata periodički će se slati mobilnom operateru %1$s.
 
@@ -2665,7 +2665,7 @@ Na temelju tih podataka utvrđuje se mogu li vaši kontakti upotrebljavati odre�
   <string name="content_capture">Prilagodba pomoću podataka aplikacije</string>
   <string name="content_capture_summary">Dopustite aplikacijama da šalju sadržaj sustavu Android. Dodirnite da biste saznali više.</string>
   <string name="content_description_menu_button">Izbornik</string>
-  <string name="content_miui_music_mute_by_user">Reproducirati zvuk medija kada je nečujni režim uključen?</string>
+  <string name="content_miui_music_mute_by_user">Reproducirati zvuk medija kada je Bešumno uključeno?</string>
   <string name="contextual_card_dismiss_confirm_message">Ukloniti prijedlog?</string>
   <string name="contextual_card_dismiss_keep">Zadrži</string>
   <string name="contextual_card_dismiss_remove">Ukloni</string>

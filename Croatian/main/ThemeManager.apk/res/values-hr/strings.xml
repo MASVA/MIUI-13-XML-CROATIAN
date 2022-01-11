@@ -1269,6 +1269,8 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="shortcut_message">Dodajte prečac Poč. zaslona!</string>
   <string name="shortcut_show_tip">"Ne prikazuj ponovno"</string>
   <string name="shortcut_title">Sviđaju vam se slike pozadina?</string>
+  <string name="show_exchange">Prečac centra za otkup</string>
+  <string name="show_exchange_desc">Prikaži ili sakrij prečac centra za otkup</string>
   <string name="show_free">Prikaži besplatne %1$s</string>
   <string name="show_free_aod">Prikaži besplatne teme</string>
   <string name="show_free_font">Prikaži besplatne fontove</string>

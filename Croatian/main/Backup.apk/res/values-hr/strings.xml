@@ -84,6 +84,7 @@
   <string name="backup_items_app_tailer">" x podaci aplikacija"</string>
   <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
   <string name="backup_new">Novo:</string>
+  <string name="backup_notification_title">\"Sig. kopija\" se izvodi…</string>
   <string name="backup_progress">Izrada Sig. kopije…</string>
   <string name="backup_report">Prikaži detalje</string>
   <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>

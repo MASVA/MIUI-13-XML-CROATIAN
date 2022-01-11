@@ -2383,8 +2383,10 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_edit_label">Uredi</string>
   <string name="quick_settings_extreme_batterysaver_label">Ekstremna štednja baterije</string>
   <string name="quick_settings_financed_disclosure_named_management">Ovaj uređaj pruža organizacija %s</string>
-  <string name="quick_settings_flashlight_camera_in_use">Upotrebljava se kamera</string>
+  <string name="quick_settings_flashlight_camera_in_use">Kamera u upotrebi</string>
   <string name="quick_settings_flashlight_label">Svjetiljka</string>
+  <string name="quick_settings_googlehome_label">Google home</string>
+  <string name="quick_settings_googlepay_label">Google pay</string>
   <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_header_onboarding_text">Dodirnite ikone i zadržite pritisak da biste vidjeli više opcija</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -2408,7 +2410,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_nfc_on">NFC je omogućen</string>
   <string name="quick_settings_night_display_label">Noćno svjetlo</string>
   <string name="quick_settings_night_secondary_label_on_at">Uključuje se u %s</string>
-  <string name="quick_settings_night_secondary_label_on_at_sunset">Uključuje se u suton</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Uključuje se na zalasku sunca</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Do izlaska sunca</string>
   <string name="quick_settings_nightmode_label">Tamni način</string>
   <string name="quick_settings_notifications_label">Obavijesti</string>

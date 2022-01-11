@@ -46,6 +46,7 @@
   <string name="freeform_demo_title_finish">Lijepo!</string>
   <string name="freeform_demo_title_skip">Preskoči</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povucite kut da biste minimizirali aplikaciju</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povucite kut da biste minimizirali aplikaciju</string>
   <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
   <string name="freeform_slide_to_small_freeform_summary">Pritisnite i držite radnu traku i povucite u kut</string>
   <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
@@ -137,6 +138,7 @@
   <string name="more">Više</string>
   <string name="multi_window_cvw">Plutajući prozor</string>
   <string name="multi_window_cvw_summary">Povucite kut da biste se prebacili na plutajući prozor i prilagodili njegovu veličinu</string>
+  <string name="multi_window_cvw_summary_global">Povucite kut da biste se prebacili na plutajući prozor i prilagodili njegovu veličinu</string>
   <string name="multi_window_cvw_title">Plutajući prozor</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
