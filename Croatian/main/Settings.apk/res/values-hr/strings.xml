@@ -725,6 +725,8 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_style_description">Prikaži sat, datum, vrijeme, obavijesti i druge stavke kad je zaslon isključen</string>
   <string name="aod_style_title">Stil</string>
   <string name="aod_to_close">Isključi</string>
+  <string name="ap_connect_failed">Povezivanje nije uspjelo</string>
+  <string name="ap_connected_battery_level">" | baterija %1$s"</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta autentifikacije</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -6043,6 +6045,8 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="menu_item_show_more">Više</string>
   <string name="menu_key">"Izbornik"</string>
   <string name="menu_new">Novi APN</string>
+  <string name="menu_new_display_open">Otvori u novom prozoru</string>
+  <string name="menu_pc_open">Otvori na računalu</string>
   <string name="menu_proc_stats_duration">Trajanje</string>
   <string name="menu_proc_stats_type">Vrsta statističkih podataka</string>
   <string name="menu_proc_stats_type_background">Pozadina</string>

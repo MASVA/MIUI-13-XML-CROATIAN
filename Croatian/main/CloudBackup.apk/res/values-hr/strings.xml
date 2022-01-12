@@ -178,7 +178,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_app_usage_consent_title">Dopustite pristup podacima o upotrebi aplikacije</string>
-  <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za sigurnosnu kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
+  <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za Sig. kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
   <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
   <string name="dialog_btn_cancel_backup">Odustani</string>
   <string name="dialog_btn_confirm2">Razumijem</string>
@@ -201,7 +201,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="dialog_title_require_wlan">Poveži se na Wi-Fi</string>
   <string name="dialog_title_require_wlan_china">Poveži se na Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="doing_calc_backup_data_size">Izračunavanje veličine…</string>
+  <string name="doing_calc_backup_data_size">Izračun veličine…</string>
   <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>
   <string name="done_remove">Uspješno uklonjeno</string>
   <string name="download_home_data">Preuzimanje postavki Poč. zaslona…</string>
@@ -222,7 +222,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="home_hint_global_launcher">POCO pokretač</string>
   <string name="home_hint_other_launcher">Ostali pokretači</string>
   <string name="home_restore_error">"Ne mogu vratiti Poč. zaslon"</string>
-  <string name="lack_of_storage">Nedostaje prostora za pohranu</string>
+  <string name="lack_of_storage">Ponestaje prostora za pohranu</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
   <string name="load_backup_failed">"Ne mogu učitati Sig. kopije"</string>
   <string name="loading_progress_num">Učitano %s%%</string>
@@ -323,7 +323,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
   <string name="pc_mode_not_support_restore_warning">"Nije moguće vratiti stavke u PC načinu. Isključite PC način i pokušajte ponovo."</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_background_restore_more_data">Vratite više stavki u pozadini</string>
@@ -367,11 +367,11 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Najprije oslobodite prostor za pohranu.</string>
   <string name="restore_failed_reason_network_error">Pogreška mreže. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="restore_finish_description">Vraćanje je dovršeno</string>
-  <string name="restore_finished_notification_content">Vraćene su aplikacije početnog zaslona, postavke sustava itd.</string>
+  <string name="restore_finished_notification_content">Vraćene su aplikacije Poč. zaslona, postavke sustava itd.</string>
   <string name="restore_from_cloud">Vrati Sig. kopiju iz Mi Clouda</string>
-  <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Mi Movera</string>
+  <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Mi Mover-a</string>
   <string name="restore_from_this_device">Vrati koristeći ovu Sig. kopiju</string>
-  <string name="restore_home_failed">"Ne mogu vratiti Početni zaslon."</string>
+  <string name="restore_home_failed">"Ne mogu vratiti Poč. zaslon."</string>
   <string name="restore_home_screen_apps">Vrati iz Sig. kopije na Mi Cloudu</string>
   <string name="restore_init_description">Započni vraćanje</string>
   <string name="restore_network_pause">Pauzirano radi uštede mobilnih podataka. Dodirnite za nastavak.</string>
@@ -401,7 +401,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="send">Pošalji</string>
   <string name="settings_backup">Postavke sustava</string>
   <string name="size_unknown">Nepoznata veličina</string>
-  <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
+  <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloud</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="storage_manage_title">Promjena plana Mi Cloud pohrane</string>
   <string name="storage_unit_gb">%s GB</string>
