@@ -71,7 +71,6 @@
   <string name="tag_dispatch_failed">"Nisam mogao pronaći aplikaciju koja podržava NFC oznaku"</string>
   <string name="tag_read_error">"Nisam mogao pročitati informacije putem NFC-a. Pokušajte ponovo."</string>
   <string name="tap_again_to_complete">Dodirnite ponovo da biste dovršili plaćanje s %1$s</string>
-  <string name="tap_again_to_complete">Dodirnite ponovo da biste dovršili transakciju pomoću aplikacije %1$s</string>
   <string name="tap_again_to_pay">Dodirnite ponovo da biste platili pomoću aplikacije %1$s</string>
   <string name="title_bluetooth_pair">Uparite Bluetooth uređaj</string>
   <string name="title_confirm_url_open">Otvoriti vezu sada?</string>
@@ -83,7 +82,6 @@
   <string name="title_sms">Pošalji poruke</string>
   <string name="title_weblink">Otvori vezu</string>
   <string name="toast_bluetooth_enable_fail">"Uparivanje nije uspjelo. Prvo uključite Bluetooth."</string>
-  <string name="title_connect_to_network">Povezivanje s mrežom</string>
   <string name="touch">Dodirnite za emitiranje</string>
   <string name="transaction_failure">Ta transakcija nije mogla biti dovršena pomoću aplikacije %1$s.</string>
   <string name="wifi_connect">Poveži</string>
