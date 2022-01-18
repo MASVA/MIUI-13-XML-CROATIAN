@@ -455,6 +455,7 @@
   <string name="instruction">Unesite adresu u FTP klijent: </string>
   <string name="instruction_pre_pad">Dodirni za pokretanje FTP poslužitelja</string>
   <string name="instruction_pre_phone">Dodirni za pokretanje FTP poslužitelja</string>
+  <string name="internal_storage">Unutarnja pohrana</string>
   <string name="interest_recommend">Preporučeni videozapisi</string>
   <string name="is_playing">Reprodukcija…</string>
   <string name="item_view_role_description">Kartica</string>

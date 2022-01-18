@@ -595,7 +595,7 @@ koristeći %s"</string>
   <string name="eventTypeCustom">Prilagođeno</string>
   <string name="eventTypeOther">Drugo</string>
   <string name="expand_action_accessibility">promjena proširenja</string>
-  <string name="expand_button_content_description">Gumb za proširivanje</string>
+  <string name="expand_button_content_description">Tipka za proširivanje</string>
   <string name="expand_button_content_description_collapsed">Proširivanje</string>
   <string name="expand_button_content_description_expanded">Sažimanje</string>
   <string name="expires_on">Istječe dana:</string>
@@ -1010,11 +1010,11 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
   <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitne službe</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Neispravno ste pokušali otključati telefon ovoliko puta: %d. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %d.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Neispravno ste pokušali otključati telefon %d puta. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %d.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. Nakon još ovoliko neuspješnih pokušaja: %d morat ćete otključati telefon putem prijave na Google.
 
  Pokušajte ponovo za %d s."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Neispravno ste pokušali otključati telefon ovoliko puta: %d. Sada će biti vraćen na tvorničke postavke.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Neispravno ste pokušali otključati telefon o%d puta. Sada će biti vraćen na tvorničke postavke.</string>
   <string name="lockscreen_forgot_pattern_button_text">Zaboravili ste uzorak?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Zaboravili ste korisničko ime ili zaporku?
 Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
@@ -1392,8 +1392,8 @@ Poboljšane obavijesti mogu pristupiti sadržaju obavijesti, uključujući osobn
   <string name="permdesc_asec_access">Aplikaciji omogućuje dohvaćanje informacija o internoj pohrani.</string>
   <string name="permdesc_asec_create">Aplikaciji omogućuje stvaranje interne pohrane.</string>
   <string name="permdesc_asec_destroy">Aplikaciji omogućuje uništavanje interne pohrane.</string>
-  <string name="permdesc_asec_mount_unmount">Aplikaciji omogućuje uključivanje/isključivanje interne pohrane.</string>
-  <string name="permdesc_asec_rename">Aplikaciji omogućuje preimenovanje interne pohrane.</string>
+  <string name="permdesc_asec_mount_unmount">Aplikaciji omogućuje uključivanje/isključivanje unutarnje pohrane.</string>
+  <string name="permdesc_asec_rename">Aplikaciji omogućuje preimenovanje unutarnje pohrane.</string>
   <string name="permdesc_audioWrite">Omogućuje aplikaciji izmjenu vaše glazbene zbirke.</string>
   <string name="permdesc_authenticateAccounts">Aplikaciji omogućuje upotrebu mogućnosti AccountManagera za autentifikaciju računa, uključujući stvaranje računa te dobivanje i postavljanje njihovih zaporki.</string>
   <string name="permdesc_backgroundCamera">Aplikacija može snimati fotografije i videozapise pomoću kamere u svakom trenutku.</string>
@@ -1785,7 +1785,7 @@ za račun %s."</string>
   <string name="permlab_asec_access">dohvati informacije o unutarnjoj pohrani</string>
   <string name="permlab_asec_create">stvori unutarnju pohranu</string>
   <string name="permlab_asec_destroy">uništi unutarnju pohranu</string>
-  <string name="permlab_asec_mount_unmount">instaliranje/deinstaliranje interne pohrane</string>
+  <string name="permlab_asec_mount_unmount">instaliranje/deinstaliranje unutarnje pohrane</string>
   <string name="permlab_asec_rename">preimenuj unutarnju pohranu</string>
   <string name="permlab_audioWrite">izmjena vaše glazbene zbirke</string>
   <string name="permlab_authenticateAccounts">stvaranje računa i postavljanje zaporki</string>

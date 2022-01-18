@@ -297,7 +297,7 @@ Audio"</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
-  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="clearable_edittext_clear_description">Isključi</string>
   <string name="close">Isključi</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
@@ -493,6 +493,8 @@ I dalje možete upućivati hitne pozive."</string>
   <string name="media_transfer_wired_usb_device_name">Žičane slušalice</string>
   <string name="message_no_voice_capability">"Ne možete upućivati pozive na ovom uređaju"</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -507,6 +509,8 @@ I dalje možete upućivati hitne pozive."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

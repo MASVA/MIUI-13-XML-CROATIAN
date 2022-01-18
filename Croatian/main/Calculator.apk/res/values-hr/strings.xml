@@ -122,8 +122,7 @@
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
   <string name="copy">Kopiraj</string>
-  <string name="copyright">Autorska prava</string>
-  <string name="cta_agreement_declare">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+  <string name="copyright">Autorska prava</string>  
   <string name="currency_dialog_privacy_content">Konverzija valuta mora se povezati s internetom da dobije najnovije tečajeve valuta. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.</string>
   <string name="currency_update_connect_to_get_data">Tečajnu listu pruža Webull. Povežite se s mrežom kako biste dobili najnovije informacije.</string>
   <string name="currency_update_support">Tečajnu listu pruža Webull.</string>

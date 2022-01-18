@@ -147,6 +147,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="account_setup_correct_address_tips">Unesite adresu e-pošte</string>
   <string name="account_setup_creating_account_msg">Izrada računa…</string>
   <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
+  <string name="account_setup_domain_invalid_toast">Naziv domene e-pošte koji ste unijeli nije točan, provjerite</string>
   <string name="account_setup_exchange_certificate_title">Certifikat klijenta</string>
   <string name="account_setup_exchange_device_id_label">ID mobilnog uređaja</string>
   <string name="account_setup_exchange_no_certificate">Ništa</string>

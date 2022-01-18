@@ -212,7 +212,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
   <string name="find_device_error_server">Pogreška poslužitelja</string>
   <string name="find_device_error_unknown">Nepoznata pogreška.</string>
-  <string name="find_device_gdpr_prompt">Uključivanjem opcije Pronađi uređaj prihvaćate naša &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Ako trebate opozvati autorizaciju, isklju&amp;#269;ite ovu zna&amp;#269;ajku.</string>
+  <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvatite naša "<a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o privatnosti</u></a>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Pravila o privatnosti</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p3">" kako biste locirali, zaključali ili resetirali svoj uređaj na daljinu.
@@ -234,7 +234,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_service_title">Pronađi uređaj</string>
   <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>
-  <string name="find_device_status_summary">Locirajte i zaključajte uređaj, kao i daljinsko izbrišite podatke</string>
+  <string name="find_device_status_summary">Locirajte i zaključajte uređaj, također i obrišite podatke na daljinu</string>
   <string name="find_device_status_title_pad">Pronađi uređaj</string>
   <string name="find_device_status_title_phone">Pronađi uređaj</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
@@ -284,7 +284,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="keybag_password_confirm_prompt">Potvrdite zaporku</string>
   <string name="keybag_password_create_prompt">Postavi zaporku za Upravitelja zaporki</string>
   <string name="keybag_password_error_inconsistent">"Zaporke se ne podudaraju"</string>
-  <string name="keybag_password_forget">&lt;u&gt;Zaboravili ste zaporku?&lt;/u&gt;</string>
+  <string name="keybag_password_forget"><u>Zaboravili ste zaporku?</u></string>
   <string name="keybag_password_input_cancel">Odustani</string>
   <string name="keybag_password_input_hint">Unesite zaporku</string>
   <string name="keybag_password_input_next">Dalje</string>
@@ -458,8 +458,8 @@ Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ preporučuje da uključite Pronađi uređaj</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat preporučuje da uključite Pronađi uređaj</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay preporučuje da uključite Pronađi uređaj</string>
-  <string name="micloud_find_device_guide_progress">Isključivanje Pronađi uređaj…</string>
-  <string name="micloud_find_device_guide_title">Prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; sa vašim Mi Računom da locirate i zaključate uređaj, označite ga kao izgubljeni ili izbrišete podatke na daljinu. Pogledajte pojedinosti na &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
+  <string name="micloud_find_device_guide_progress">Uključivanje Pronađi uređaj…</string>
+  <string name="micloud_find_device_guide_title">Prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; sa vašim Mi Računom da locirate i zaključate uređaj, označite ga kao izgubljeni ili izbrišete podatke na daljinu. Pogledajte pojedinosti &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;ovdje&lt;/a&gt;.</string>
   <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; bit će poslana automatski za aktiviranje ove usluge.&lt;br/&gt;Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; bit će poslana automatski za aktiviranje ove usluge.&lt;br/&gt;Sve SMS naknade nastale gore spomenutim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
   <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
   <string name="micloud_find_device_opened">Pronađi uređaj je uključeno</string>
@@ -648,7 +648,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_storage_full">Mi Cloud je pun</string>
   <string name="micloud_storage_full_tip">Pohrana je puna</string>
   <string name="micloud_storage_normal_tip">%s preostalo</string>
-  <string name="micloud_storage_share_family">Family sharing</string>
+  <string name="micloud_storage_share_family">Obiteljsko dijeljenje</string>
   <string name="micloud_storage_unit_gb">%s GB</string>
   <string name="micloud_storage_unit_mb">%s MB</string>
   <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
@@ -848,7 +848,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo Wi-Fi za sinkr. fotografija.</string>
   <string name="pref_title_sync_display_photo_on_wifi_only_china">Koristi samo Wi-Fi za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo Wi-Fi za sinkr. videozapisa.</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_and_agreement">Uvjeti i odredbe</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za lociranje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za lociranje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
@@ -878,7 +878,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Cloud ako ne pristanete na njegovu novu verziju &lt;a href=%1$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Slažete li se s ažuriranim Pravilima privatnosti sada?"</string>
   <string name="privacy_policy_reject_confirm_title">Pažnja</string>
-  <string name="privacy_policy_revoked_msg">Suglasnost s Pravilima privatnosti tvrtke Mi Cloud povučena je za ovaj račun. Pokušajte upotrijebiti drugi račun.</string>
+  <string name="privacy_policy_revoked_msg">Suglasnost Pravila o privatnosti tvrtke Mi Cloud povučena je za ovaj račun. Pokušajte upotrijebiti drugi račun.</string>
   <string name="privacy_policy_update_msg">Ažurirana su pravila o privatnosti Mi Cloud-a:&lt;br/&gt;%1$s&lt;br/&gt;Pročitajte i prihvatite novu verziju &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije nego nastavite.</string>
   <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
   <string name="privacy_settings">Privatnost</string>
@@ -1148,7 +1148,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="upgrade_space_successful">Dodano: %sGB</string>
   <string name="upgrade_space_successful_total">Dostupno: %sGB</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="user_agreement">Korisnički Sporazum</string>
+  <string name="user_agreement">Korisnički ugovor</string>
   <string name="user_agreement_content">"Korištenjem ove usluge, prihvaćate %s."</string>
   <string name="user_agreement_link">"Mi Cloud Uvjeti pružanja usluge"</string>
   <string name="user_agreement_p5">"
