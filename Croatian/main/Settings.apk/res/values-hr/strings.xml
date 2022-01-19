@@ -4660,6 +4660,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="headset_remove_message">Želite li ukloniti ovaj uređaj sa svog računa?</string>
   <string name="headset_remove_message_indicate">Uklonit će se svi uređaji povezani s Mi Računom</string>
   <string name="headset_settings_title">Efekti zvuka</string>
+  <string name="headset_silent_upgrade_switch_summary">Slušalice se automatski nadograđuju pod određenim uvjetima</string>
+  <string name="headset_silent_upgrade_switch_title">Automatska nadogradnja</string>
   <string name="headset_spatial_audio">Prostorni zvuk</string>
   <string name="headset_toast_tip_disconnect_others">Čini se da su vaše slušalice sada spojene na drugi uređaj i ne mogu se postaviti</string>
   <string name="headset_unsaved_device">Ukloni uređaj</string>

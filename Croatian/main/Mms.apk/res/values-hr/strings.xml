@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_smart_sms_title">Partner Smart poruka</string>
-  <string name="action_firewall_setting">Lista blokiranih</string>
+  <string name="action_firewall_setting">Popis blokiranih</string>
   <string name="action_get_otp">Dobij kod</string>
   <string name="action_sign_in">Prijavi se</string>
   <string name="action_sign_in_short">Prijavi se</string>
@@ -466,7 +466,7 @@ dodane na Listu blokiranih"</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
   <string name="menu_send_as_common">Pošalji kao SMS</string>
-  <string name="menu_sms_block">Lista blokiranih</string>
+  <string name="menu_sms_block">Popis blokiranih</string>
   <string name="menu_traffic_destination">Odredište</string>
   <string name="menu_unlock">Ukloni iz favorita</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
@@ -819,7 +819,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_mms_retrieval_during_national_roaming">Preuzmi sadržaj MMS-a u Roamingu</string>
   <string name="pref_title_mms_retrieval_during_roaming">Preuzmi sadržaj MMS-a u Roamingu</string>
   <string name="pref_title_mms_validity_period">Valjanost MMS-a</string>
-  <string name="pref_title_msg_blocked">Lista blokiranih</string>
+  <string name="pref_title_msg_blocked">Popis blokiranih</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na Zaklj. zaslonu</string>
   <string name="pref_title_perm_audio">Snimiti zvuk</string>
   <string name="pref_title_perm_calander">Pristupiti kalendaru</string>
@@ -1042,7 +1042,7 @@ Pogledajte one preporučene!"</string>
   <string name="rcs_list_bottom_loading">Samo sekundu...</string>
   <string name="rcs_list_bottom_search">Traženje...</string>
   <string name="rcs_more_bar_title">Više informacija</string>
-  <string name="rcs_my_black_chatbot_title">Lista blokiranih</string>
+  <string name="rcs_my_black_chatbot_title">Popis blokiranih</string>
   <string name="rcs_search_group_local">Moje mini aplikacije</string>
   <string name="rcs_search_group_recommend">Preporučene mini aplikacije</string>
   <string name="rcs_search_group_server">Online mini aplikacije</string>

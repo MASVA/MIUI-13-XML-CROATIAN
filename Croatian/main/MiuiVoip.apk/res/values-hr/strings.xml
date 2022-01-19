@@ -30,7 +30,7 @@
   <string name="dlg_add_blacklist">Blokirati ovaj broj?</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Sukob iznimaka</string>
   <string name="dlg_black_address_antispam_message">Dodati ovu lokaciju na Listu blokiranih?</string>
-  <string name="dlg_black_antispam_hint">Lista blokiranih</string>
+  <string name="dlg_black_antispam_hint">Popis blokiranih</string>
   <string name="dlg_black_antispam_message">Dodati taj broj na Listu blokiranih?</string>
   <string name="dlg_import_blacklist">Dodavanje…</string>
   <string name="dlg_no_block">Odblokirati ovaj broj i vratiti povezane blokirane pozive na zapise poziva?</string>
@@ -77,7 +77,7 @@ idite na %s"</string>
   <string name="next">Dalje</string>
   <string name="no_sim_found">Nema otkrivene SIM kartice.</string>
   <string name="no_voip_contacts">Nema VOIP kontakata</string>
-  <string name="note_list_none">Lista je prazna</string>
+  <string name="note_list_none">Popis je prazan</string>
   <string name="notification_activate_failed">"Ne mogu aktivirati Mi Voice"</string>
   <string name="notification_dialing">Biranje</string>
   <string name="notification_incoming_call">Dolazni poziv</string>

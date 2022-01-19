@@ -99,6 +99,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kartica je uklonjena.</string>
   <string name="call_recording_notification_title">Poziv snimljen</string>
   <string name="call_recording_notification_title_error">"Ne mogu snimiti poziv."</string>
+  <string name="caller_info_name_delimiter">" ili "</string>
   <string name="call_title_redialing_with_times_miui">Ponovno pozvano %d puta</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>

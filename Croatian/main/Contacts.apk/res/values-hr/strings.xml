@@ -375,7 +375,7 @@
   <string name="callrecordview_menu_add_call_note">Dodaj bilješku poziva</string>
   <string name="callrecordview_menu_aiphone">AI pozivi</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
-  <string name="callrecordview_menu_blocklist">Lista blokiranih</string>
+  <string name="callrecordview_menu_blocklist">Popis blokiranih</string>
   <string name="callrecordview_menu_conference">Konferencijski poziv</string>
   <string name="callrecordview_menu_delete">Izbriši</string>
   <string name="callrecordview_menu_delete_accepted">Očisti odgovorene pozive</string>
@@ -695,7 +695,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
   <string name="dialer_empty_text_loading">"Samo trenutak…"</string>
   <string name="dialer_empty_text_no_call_log">"Nema nedavnih kontakata"</string>
   <string name="dialer_empty_text_no_search_result">Nisu pronađeni kontakti</string>
-  <string name="dialer_firewall_entry_name">Lista blokiranih poziva</string>
+  <string name="dialer_firewall_entry_name">Popis blokiranih poziva</string>
   <string name="dialer_menu_description">Prikaži izbornike</string>
   <string name="dialer_menu_title">Opcije izbornika</string>
   <string name="dialer_returnToInCallScreen">"Natrag na poziv u tijeku"</string>
@@ -793,7 +793,7 @@ Razlog: \"%s\""</string>
   <string name="favoritesFrequentCalled">Često nazivani</string>
   <string name="favoritesFrequentContacted">Često kontaktirani</string>
   <string name="favorites_list_empty">Nema favorita</string>
-  <string name="firewall_setting">Lista blokiranih</string>
+  <string name="firewall_setting">Popis blokiranih</string>
   <string name="flow_use_analyse">Statistika korištenja</string>
   <string name="followed_yellowpage">Provjereni računi</string>
   <string name="force_touch_miprofile">Kartica kontakta</string>

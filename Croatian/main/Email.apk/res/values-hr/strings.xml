@@ -314,7 +314,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="auto_sync_off">Automatska sinkronizacija nije uključena.</string>
   <string name="automatic_remind_text">Podsjeti</string>
   <string name="bContact_list_search_hint">Potraži blokirane kontakte</string>
-  <string name="b_contacts">Lista blokiranih</string>
+  <string name="b_contacts">Popis blokiranih</string>
   <string name="b_contacts_remove">Ukloni sa liste blokiranih</string>
   <string name="b_contacts_remove_tips">Ukloniti ovu adresu s liste blokiranih?</string>
   <string name="back">Natrag</string>

@@ -264,7 +264,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="answer_state_setting_summary">Postavke utišavanja zvuka, senzora blizine, itd.</string>
   <string name="answer_state_setting_title">Postavke statusa dolaznog poziva</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
-  <string name="antispam_setting">Lista blokiranih</string>
+  <string name="antispam_setting">Popis blokiranih</string>
   <string name="apn_settings">Pristupne točke</string>
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_name">Prednosti</string>
@@ -2180,7 +2180,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="password_title">Zaporka</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_answer_state_setting_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva</string>
-  <string name="path_antispam_setting">Aplikacije sustava/Telefon/Lista blokiranih</string>
+  <string name="path_antispam_setting">Aplikacije sustava/Telefon/Popis blokiranih</string>
   <string name="path_app_name">Aplikacije sustava/Telefon</string>
   <string name="path_auto_answer_pref_title">Aplikacije sustava/Telefon/Autom. odgovori</string>
   <string name="path_auto_retry_mode_title">Aplikacije sustava/Telefon/Napredne postavke/Autom. pokušaj ponovno</string>
@@ -2705,7 +2705,7 @@ UT sučelje: %5$s"</string>
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
   <string name="screen_zoom_summary_very_large">Veće</string>
-  <string name="search_antispam_setting">Lista blokiranih</string>
+  <string name="search_antispam_setting">Popis blokiranih</string>
   <string name="search_app_name">Telefon</string>
   <string name="search_menu">Opcije pretraživanja</string>
   <string name="search_menu_title">Pretraživanje</string>

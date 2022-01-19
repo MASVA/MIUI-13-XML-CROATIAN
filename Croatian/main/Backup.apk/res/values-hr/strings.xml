@@ -214,7 +214,7 @@
   <string name="fail">Nije uspjelo</string>
   <string name="failed_description">Nije uspjelo</string>
   <string name="feature_title_account">Mi Račun</string>
-  <string name="feature_title_antispam">Lista blokiranih</string>
+  <string name="feature_title_antispam">Popis blokiranih</string>
   <string name="feature_title_call_log">Povijest poziva</string>
   <string name="feature_title_contacts">Kontakti</string>
   <string name="feature_title_mms">MMS</string>
