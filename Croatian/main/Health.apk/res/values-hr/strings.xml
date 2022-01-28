@@ -1097,7 +1097,7 @@ Ako ne želite dijeliti svoje podatke, možete isključiti ovu značajku."</stri
   <string name="rem_Duration_increase_description">Vaš REM spavanje je predugo</string>
   <string name="rem_duration">Trajanje REM spavanja</string>
   <string name="rem_duration_decrease_description">Vaš REM spavanje je prekratko</string>
-  <string name="rem_duration_description" formatted="false">REM se odnosi na brzo kretanje očiju. Spavanje se može podijeliti na brzo spavanje očiju (REM) i nebrzo kretanje očiju (NREM). Brzi san spavanja čini oko 20 do 25% ukupnog trajanja spavanja. Kad se ljudi probude u ovoj fazi, njih 74 do 95% kaže da su sanjali i da se mogu sjetiti svojih snova. Mozak je vrlo aktivan, a tijelo je potpuno opušteno za vrijeme REM spavanja, što ovu fazu spavanja čini ključnom za održavanje kognitivnih funkcija.</string>
+  <string name="rem_duration_description">REM se odnosi na brzo kretanje očiju. Spavanje se može podijeliti na brzo spavanje očiju (REM) i nebrzo kretanje očiju (NREM). Brzi san spavanja čini oko 20 do 25%% ukupnog trajanja spavanja. Kad se ljudi probude u ovoj fazi, njih 74 do 95%% kaže da su sanjali i da se mogu sjetiti svojih snova. Mozak je vrlo aktivan, a tijelo je potpuno opušteno za vrijeme REM spavanja, što ovu fazu spavanja čini ključnom za održavanje kognitivnih funkcija.</string>
   <string name="rem_duration_normal_description">Trajanje REM spavanja je normalno</string>
   <string name="remarks">Napomena</string>
   <string name="remind">Podsjeti</string>
