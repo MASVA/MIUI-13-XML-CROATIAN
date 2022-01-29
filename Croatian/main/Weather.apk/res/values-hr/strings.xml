@@ -297,6 +297,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="minute_rain_pull_down_refresh">Povuci dolje za osvježiti</string>
   <string name="minute_rain_refreshing_now">Osvježavanje</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -314,6 +316,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

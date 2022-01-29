@@ -317,4 +317,139 @@
          <item>Prošle jeseni</item>
          <item>Prošle zime</item>
 	</string-array>
+	<string-array name="annual_foods_title">
+         <item>Ukusna godina</item>
+         <item>Tri tečaja. Četiri godišnja doba.</item>
+     </string-array>
+     <string-array name="annual_travel_title">
+         <item>Zdravo svijete!</item>
+         <item>Na putu</item>
+         <item>Kaleidoskop mjesta</item>
+     </string-array>
+     <string-array name="autumn_season_title">
+         <item>Jesenska raskoš</item>
+         <item>Sjajni pad</item>
+     </string-array>
+	 <string-array name="chinese_new_year_eve_title">
+         <item>Noć za pamćenje</item>
+         <item>Nova stranica</item>
+         <item>Vatromet</item>
+     </string-array>
+     <string-array name="chinese_new_year_title">
+         <item>Sretna Nova godina!</item>
+         <item>Zora nove godine</item>
+     </string-array>
+	 <string-array name="chinese_zodiac_year">
+         <item>Godina majmuna</item>
+         <item>Godina pijetla</item>
+         <item>Godina psa</item>
+         <item>Godina svinje</item>
+         <item>Godina štakora</item>
+         <item>Godina vola</item>
+         <item>Godina tigra</item>
+         <item>Godina zeca</item>
+         <item>Zmajeva godina</item>
+         <item>Godina zmije</item>
+         <item>Godina konja</item>
+         <item>Godina koze</item>
+     </string-array>
+     <string-array name="city_title">
+         <item>Gradski pejzaži</item>
+         <item>Ulice i uglovi</item>
+     </string-array>
+	 <string-array name="flowers_title">
+         <item>Nježne latice</item>
+         <item>U punom cvatu</item>
+     </string-array>
+     <string-array name="forest_title">
+         <item>U divljinu</item>
+         <item>Divlje i slobodno</item>
+     </string-array>
+	 <string-array name="group_people_title">
+         <item>Naša druženja</item>
+         <item>U društvu prijatelja</item>
+         <item>Dugo se nismo vidjeli</item>
+     </string-array>
+	 <string-array name="important_people_title">
+         <item>Vaše omiljene teme</item>
+         <item>Srodne duše</item>
+         <item>"Svjetli trenuci života"</item>
+     </string-array>
+	 <string-array name="last_some_day_babies_title">
+        <item>Zauzeti odrastanjem</item>
+        <item>Slađi i slađi</item>
+        <item>Mali istraživač</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Dnevnik fitnesa</item>
+        <item>Jače i jače</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Dobar tek!</item>
+        <item>Još jedan zalogaj?</item>
+        <item>Uživajte u obroku!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Nasmiješi se i maši!</item>
+        <item>Vrijeme igranja</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Odlično na otvorenom</item>
+        <item>Tragovi u snijegu</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Nezaustavljivo</item>
+        <item>Ostanite u formi</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Veliki dan</item>
+        <item>Dolje niz prolaz!</item>
+    </string-array>
+	<string-array name="monthly_babies_title">
+         <item>"Narastao si!"</item>
+         <item>"Opet si narastao!"</item>
+     </string-array>
+     <string-array name="monthly_foods_title">
+         <item>Moj osobni izbornik</item>
+         <item>Slatke uspomene</item>
+         <item>Druga pomoć, molim!</item>
+     </string-array>
+	 <string-array name="mountain_title">
+         <item>"Najbolji pogledi na svijetu"</item>
+         <item>Nastavi se penjati</item>
+     </string-array>
+	 <string-array name="people_travel_title">
+         <item>Kamo nas put vodi</item>
+         <item>Putovanja dobro podijeljena</item>
+     </string-array>
+     <string-array name="quarterly_babies_title">
+         <item>Veselo proljeće</item>
+         <item>Radosno ljeto</item>
+         <item>Sretna jesen</item>
+         <item>Vesela zima</item>
+     </string-array>
+     <string-array name="quarterly_foods_title">
+         <item>Proljetni obroci</item>
+         <item>Ljetne poslastice</item>
+         <item>Jesenske gozbe</item>
+         <item>Zimska odjeća</item>
+     </string-array> 
+     <string-array name="spring_season_title">
+         <item>Cvjetovi proljeća</item>
+         <item>Proljeće je u zraku</item>
+         <item>Zdravo proljeće!</item>
+     </string-array>
+     <string-array name="summer_season_title">
+         <item>Malo ljeta</item>
+         <item>Gdje ljeto nikad ne prestaje</item>
+     </string-array>
+     <string-array name="sunrise_sunset_title">
+         <item>Zlatni sati</item>
+         <item>Zrake zlata</item>
+     </string-array>
+	 <string-array name="winter_season_title">
+         <item>Zimski dani</item>
+         <item>Zimska zemlja čudesa</item>
+     </string-array>
 </resources> 
+

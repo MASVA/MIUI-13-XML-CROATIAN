@@ -20,6 +20,8 @@
   <string name="filter_popular_blues">Blues</string>
   <string name="filter_popular_sunset_gold">Radiance</string>
   <string name="hide_nearby_photos">Sakrij fotografije i videozapise u blizini</string>
+  <string name="holiday_travel_title_one">%1$s odmor</string>
+  <string name="holiday_travel_title_two">Natrag na posao</string>
   <string name="install_media_editor_latest_message">Da biste mogli uređivati stavke, prvo preuzmite najnoviji dodatak.</string>
   <string name="map_location">Premjesti na trenutnu lokaciju</string>
   <string name="migrate_msg">Neki albumi zahtijevaju dopuštenja za premještanje stavki nakon ažuriranja sustava.</string>
@@ -218,6 +220,7 @@
   <string name="album_rubbish_page_title">Smeće</string>
   <string name="album_rubbish_tip_title">Moguće suvišni albumi</string>
   <string name="album_scanner">Skener</string>
+  <string name="album_screen_record">Snimke zaslona</string>
   <string name="album_screen_recorder">Snimač zaslona</string>
   <string name="album_screenshot_and_screen_recorder_name">Snimke zaslona</string>
   <string name="album_screenshot_name">Snimke zaslona</string>
@@ -265,7 +268,12 @@
   <string name="already_share">Podijeljeno</string>
   <string name="am">AM</string>
   <string name="and"> i </string>
-  <string name="app_is_launching">%s se pokreće…</string>
+  <string name="annual_babies_title">Tako brzo rastu</string>
+  <string name="annual_group_people_title">Zajedno</string>
+  <string name="annual_pets_title">Šapa u šapi</string>
+  <string name="annual_year_title">Ove godine</string>
+  <string name="annula_sports_title">Kretati se naprijed</string>
+  <string name="app_is_launching">Aplikacija %s se pokreće…</string>
   <string name="app_is_launching_common">Pokretanje aplikacije…</string>
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliku</string>
@@ -320,6 +328,7 @@
   <string name="baby_album_sharer_recommand_face">Dodati postojeću fotografiju od %1$s?</string>
   <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
   <string name="baby_birthday">Rođendan</string>
+  <string name="baby_birthday_title">Sretan rođendan!</string>
   <string name="baby_face_desc">Dječji album</string>
   <string name="baby_lock_wallpaper">Slika Zaklj. zaslona</string>
   <string name="baby_lock_wallpaper_cancelled">Promjenjeno na zadanu pozadinu Zaklj. zaslona</string>
@@ -701,7 +710,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d sačuvano</string>
   <string name="delete_third_party_photo">Izbrisati ovu fotografiju?</string>
   <string name="delete_third_party_video">Izbrisati ovaj videozapis?</string>
-  <string name="delete_to_trash_tips">Možete pogledati nedavno izbrisane fotografije u Postavke &gt; Smeće</string>
+  <string name="delete_to_trash_tips">Možete pogledati nedavno izbrisane fotografije u Postavke > Smeće</string>
   <string name="delete_unsynced">Izbriši stavke koje nisu pohranjene</string>
   <string name="deny">Odbaci</string>
   <string name="detail_title">Pojedinosti</string>
@@ -819,7 +828,7 @@
   <string name="error_build_thumbnail_msg">"Ne mogu preuzeti minijaturu. Pokušajte preuzeti originalnu datoteku."</string>
   <string name="error_build_thumbnail_tip">"Ne mogu preuzeti minijaturu."</string>
   <string name="error_change_storage_action">Promjeni pohranu</string>
-  <string name="error_change_storage_msg">Idite u Postavke &gt; Pohrana, promjenite pohranu i pokušajte ponovno.</string>
+  <string name="error_change_storage_msg">Idite u Postavke > Pohrana, promjenite pohranu i pokušajte ponovno.</string>
   <string name="error_cloud_not_active">Nema fotografija u Mi Cloudu.</string>
   <string name="error_connect_timeout_action">Odaberi mrežu</string>
   <string name="error_connect_timeout_msg">Povežite se s drugom mrežom i pokušajte ponovno.</string>
@@ -827,7 +836,7 @@
   <string name="error_decode_tip">"Format datoteke nije podržan ili su datoteke oštećene."</string>
   <string name="error_download_tip">"Ne mogu preuzeti"</string>
   <string name="error_external_sdcard_write_action">Promjeni pohranu</string>
-  <string name="error_external_sdcard_write_msg">Idite u Postavke &gt; Pohrana, promjenite pohranu i pokušajte ponovno.</string>
+  <string name="error_external_sdcard_write_msg">Idite u Postavke > Pohrana, promjenite pohranu i pokušajte ponovno.</string>
   <string name="error_external_sdcard_write_tip">"Nije moguće spremiti stavke na SD karticu."</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom.</string>
   <string name="error_install_connect_fail">"Ne mogu učitati dodatak. Provjerite mrežnu vezu."</string>
@@ -888,7 +897,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="expand_desc">Više</string>
   <string name="expand_people">Prikaži više osoba</string>
-  <string name="ext_sdcard_first_entrance_request_failed_text">Umjesto toga, Galerija će spremiti stavke na unutarnju pohranu. To možete promijeniti u odjeljku Postavke &gt; Pohrana &gt; Postavke pohrane.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Umjesto toga, Galerija će spremiti stavke na unutarnju pohranu. To možete promijeniti u odjeljku Postavke > Pohrana > Postavke pohrane.</string>
   <string name="ext_sdcard_first_entrance_request_failed_title">"Ne mogu odobriti dopuštenje."</string>
   <string name="ext_sdcard_guide_first_page_button_text">Dalje</string>
   <string name="ext_sdcard_guide_last_page_button_text">Odobrite dopuštenje</string>
@@ -1190,6 +1199,11 @@ za fotografije"</string>
   <string name="fmt_weekday_time">W T</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
+  <string name="foods_people_title">"Raj za pupoljke"</string>
+  <string name="foods_people_travel_title">Prolazimo kroz %2$s s %1$s</string>
+  <string name="foods_travel_title_one">Okus %1$s</string>
+  <string name="foods_travel_title_three">"Za gurmane %1$s"</string>
+  <string name="foods_travel_title_two">%1$s hrana</string>
   <string name="focal_length">Žariš. duljina</string>
   <string name="frame_black">Crna</string>
   <string name="frame_button">Okvir</string>
@@ -1343,8 +1357,16 @@ za fotografije"</string>
   <string name="kick_sharer_failed">"Ne mogu ukloniti ovu osobu"</string>
   <string name="kick_sharer_successfully">Ova osoba je uklonjena</string>
   <string name="kilobyteShort">KB</string>
-  <string name="limit_height">Visina treba biti &gt; 0</string>
-  <string name="limit_width">Širina treba biti &gt; 0</string>
+  <string name="labour_day">Praznik rada</string>
+  <string name="last_some_day_pets_title">Šape i brkovi</string>
+  <string name="last_some_day_show_title">Vrijeme prikazivanja</string>
+  <string name="last_some_day_surfing_title">Lak vjetar</string>
+  <string name="last_some_day_travel_title_four">Pozdrav %1$s!</string>
+  <string name="last_some_day_travel_title_one">Za %1$s</string>
+  <string name="last_some_day_travel_title_three">Istraživanje %1$s</string>
+  <string name="last_some_day_travel_title_two">Sjećanja na %1$s</string>
+  <string name="limit_height">Visina treba biti > 0</string>
+  <string name="limit_width">Širina treba biti > 0</string>
   <string name="live_photo">Dinamična fotografija</string>
   <string name="load_complete">Nema više stavki ovdje</string>
   <string name="load_failed">"Ne mogu učitati podatke, dodirnite za ponovni pokušaj"</string>
@@ -1619,6 +1641,9 @@ za fotografije"</string>
   <string name="month_view_tip_button_text">Razumijem</string>
   <string name="month_view_tip_sub_title">Uštipnite zaslon da biste se prebacili na mjesečni prikaz</string>
   <string name="month_view_tip_title">Mjesečni prikaz</string>
+  <string name="monthly_pets_title">Pusti prijatelji</string>
+  <string name="monthly_sports_title">Pun energije</string>
+  <string name="monthly_travel_title">Putovanja u %1$s</string>
   <string name="more">Više</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_album_tip">Još albuma</string>
@@ -1713,6 +1738,7 @@ za fotografije"</string>
   <string name="must_pick_file">Odaberite fotografiju</string>
   <string name="name_split">, </string>
   <string name="nearby_share">Dijeljenje u blizini</string>
+  <string name="national_day">Dan državnosti</string>
   <string name="need_to_turn_on_network">"Uređaj nije povezan s internetom."</string>
   <string name="need_to_turn_on_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="need_to_turn_on_sync_first">Uključite prvo sinkr. sa Mi Cloudom</string>
@@ -2157,6 +2183,7 @@ za fotografije"</string>
   <string name="publish_succeeded">Album je objavljen</string>
   <string name="publishing">Objavljivanje…</string>
   <string name="purge_or_recovery_processing">Obrada…</string>
+  <string name="quarterly_pets_title">Puhljasti prijatelji</string>
   <string name="quotation">\"%s\"</string>
   <string name="recent_album_empty_title">"Niste nedavno dodali nove fotografije"</string>
   <string name="recipient_editor_count_format">%d</string>
@@ -2299,6 +2326,7 @@ za fotografije"</string>
   <string name="screen_talkback_shape">Oblik</string>
   <string name="screen_talkback_small">Jako malo</string>
   <string name="screen_talkback_text">Tekst</string>
+  <string name="sea_title">Valovi</string>
   <string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
   <string name="search_backup_full_screen_new">Uključite sinkronizaciju s Mi Cloudom kaDodajte okvir uređaja biste pretraživanje učinili učinkovitijim</string>
@@ -2532,6 +2560,17 @@ za fotografije"</string>
   <string name="solar_term_white_dews">Bijela rosa</string>
   <string name="solar_term_winter_begins">Početak zime</string>
   <string name="solar_term_winter_solstice">Zimska kratkodnevica</string>
+  <string name="solar_children_day_title">"Dan djece"</string>
+  <string name="solar_christmas_title">Božić</string>
+  <string name="solar_fathers_day_title">"Dan očeva"</string>
+  <string name="solar_halloween_title">Noć vještica</string>
+  <string name="solar_labour_day_title">Praznik rada</string>
+  <string name="solar_mothers_day_title">"Majčin dan"</string>
+  <string name="solar_national_day_title">Dan državnosti</string>
+  <string name="solar_new_year_eve_title_one">"Doček Nove godine"</string>
+  <string name="solar_new_year_eve_title_two">Posljednji trenuci %1$s</string>
+  <string name="solar_new_year_title">Nova godina</string>
+  <string name="solar_valentines_day_title">"Valentinovo"</string>
   <string name="sort">Poredaj</string>
   <string name="special_type_8k">AI 8K</string>
   <string name="special_type_ai_audio">AI Audio</string>

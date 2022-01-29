@@ -390,6 +390,11 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_sleep_goal_title">Cilj trajanja spavanja</string>
   <string name="dialog_sleep_record_auto_start">Da biste preciznije pratili san, dopustite Mi Healthu da se automatski pokrene.</string>
   <string name="dialog_sure">U redu</string>
+  <string name="dialog_upgrade_description">"1. Novi dizajn.
+2. Sinkronizirajte podatke na svim uređajima.
+3. Pregledajte zdravstvene podatke iz Health, Xiaomi Wear i drugih aplikacija na jednom mjestu."</string>
+  <string name="dialog_upgrade_positive_btn">Ažuriraj</string>
+  <string name="dialog_upgrade_title">Mi Fitness</string>
   <string name="dialog_user_agreement_purpose">Dobrodošli u Mi Health! Ovu aplikaciju možete koristiti za brojanje koraka, praćenje sna, menstruacije, težine te dobivanje zdravstvenih savjeta.</string>
   <string name="dialog_user_agreement_purpose2">Dobrodošli u Mi Health, ovu aplikaciju možete koristiti za brojanje koraka, praćenje sna, menstruacije, težine, Xiaomi Health Cloud uslugu i druge funkcije.</string>
   <string name="diastolic_pressure">Dijastolički</string>

@@ -1665,6 +1665,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_touch_focus_delay_title">Produljeno vremensko ograničenje fokusiranja na dodir</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
+  <string name="pref_camera_track_eye_preferred_description">Pratite pokrete očiju kako bi oči bile u fokusu kada je jedna osoba u kadru</string>
+  <string name="pref_camera_track_eye_preferred_title">Fokus za praćenje očiju</string>
   <string name="pref_camera_touchafaec_title">Dodirni AF/AEC</string>
   <string name="pref_camera_track_focus_intro_description">Kada snimate fotografije ili videozapise s pokretnim subjektima, ova značajka detektira ljude, mačke i pse i automatski ih drži u fokusu. Osim toga, možete dvaput dodirnuti bilo koji predmet da biste pratili kretanje.</string>
   <string name="pref_camera_track_focus_intro_goto">Uključi</string>
@@ -1750,6 +1752,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_hdr_indicator_entry_auto">Autom.</string>
   <string name="pref_hdr_indicator_entry_off">Isklj.</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>
+  <string name="pref_hybrid_video_mode_description">Koristite HLG tehnologiju za poboljšanje boja i dinamičkog raspona videozapisa snimljenih u visokoj razlučivosti</string>
   <string name="pref_i_n_r_b">Pametno smanjenje šuma</string>
   <string name="pref_k_h">Live in-ear monitor</string>
   <string name="pref_k_s_i">Pratite snimljeni zvuk pomoću žičanih slušalica kada su spojene</string>
