@@ -21,7 +21,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_app_name">O Temama</string>
   <string name="about_version_update">"Što ima novog"</string>
-  <string name="accessibility_setting_hint">"Dodirnite gumb u gornjem desnom kutu da biste uključili tu uslugu.
+  <string name="accessibility_setting_hint">"Dodirnite tipku u gornjem desnom kutu da biste uključili tu uslugu.
 Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine u aplikacijama po vašem izboru.​"</string>
   <string name="accessibiliy_description_content_account">Profil</string>
   <string name="accessibiliy_description_content_ad">Oglas</string>
@@ -83,7 +83,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="app_enable_transparent_wallpaper">Sa transparentnom pozadinom</string>
   <string name="app_name">Teme</string>
   <string name="app_name_pad">Personalizacija</string>
-  <string name="application_list_permission_desc">Za prikaz aplikacija kompatibilnih s prozirnim pozadinama</string>
+  <string name="application_list_permission_desc">Za prikaz aplikacija kompatibilnih s transparentnim pozadinama</string>
   <string name="apply_choosen_type_resource">Postavi odabrane stavke</string>
   <string name="apply_default_font_tip">"Nastaviti koristiti trenutni font sustava?"</string>
   <string name="apply_failed">"Ne mogu postaviti"</string>
@@ -98,7 +98,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="apply_success_not_support_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju. Ostali dijelovi ove teme uspješno su postavljeni."</string>
   <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
   <string name="apply_warning_get_device_dialog_message">Da biste mogli koristiti preuzeti sadržaj, prvo dopustite ovoj značajci pristup ID-u vašeg uređaja. Ovo dopuštenje možete dati u Postavke &gt; Privatnost.</string>
-  <string name="apply_warning_tip_get_device_status">Dopustite ovoj aplikaciji pristup ID-u vašeg uređaja u Profil &gt; Postavke.</string>
+  <string name="apply_warning_tip_get_device_status">Dopustite ovoj aplikaciji pristup ID-u vašeg uređaja u Profil > Postavke.</string>
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
   <string name="audition_ringtone">Reproduciraj</string>
@@ -201,13 +201,14 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="copy">Kopiraj</string>
   <string name="count_down_tip">%ds preostalo</string>
   <string name="create_home_icon">Prečac Poč. zaslona</string>
+  <string name="current_device_not_support_superwallpaper_dialog_content">"Super pozadine nisu podržane na ovom uređaju"</string>
   <string name="current_using">Trenutno</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_float_wallpaper_text">Transparentna</string>
   <string name="current_using_lockscreen_wallpaper_text">Zaklj. zaslon</string>
   <string name="current_version">Trenutna verzija: %1$s</string>
   <string name="current_version_incompatible">Ova je tema nekompatibilna</string>
-  <string name="custom_storage_permission_desc">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani. Ovo dopuštenje možete dati u Postavke &gt; Privatnost.</string>
+  <string name="custom_storage_permission_desc">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani. Ovo dopuštenje možete dati u Postavke > Privatnost.</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
@@ -254,6 +255,8 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="de_super_wp_land_position_default_des">Točka slijetanja</string>
   <string name="de_to_comment">Komentiraj</string>
   <string name="de_try">Isprobajte</string>
+  <string name="deep_sea">Duboko more</string>
+  <string name="deep_sea_resource_comment">Postanak života na Zemlji</string>
   <string name="deleting">Brisanje…</string>
   <string name="desc_more_online_wallpaper">Više slike pozadine online</string>
   <string name="description_author">Autor</string>
@@ -317,6 +320,8 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="error_icon_content_description">Pogreška</string>
   <string name="evening">PM</string>
   <string name="exchange_alert">Kupone možete dobiti tijekom naših promotivnih događanja i razmjenjivati za teme.</string>
+  <string name="exchange_code_dialog_title">Pažnja</string>
+  <string name="exchange_code_not_match_account_dialog_content">Ovaj je kôd već iskoristio drugi Mi Račun. Prijavite se s tim Mi Računom i pokušajte ponovno.</string>
   <string name="exit_extreme_mode_dialog_agree">Prihvaćam</string>
   <string name="exit_extreme_mode_dialog_cancel">Isključi</string>
   <string name="exit_extreme_mode_dialog_title">Isključi Ekstremni način</string>
@@ -496,9 +501,9 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="incall_show_apply">Profilni videozapis za odlazne pozive</string>
   <string name="incall_show_apply_fail">"Ne mogu postaviti"</string>
   <string name="incall_show_apply_success">"Uspješno postavljeno. Da biste ovu značajku isključili,
-idite u Postavke &gt; Zvuk &amp; vibracija &gt; Profilni videozapis."</string>
+idite u Postavke > Zvuk &amp; vibracija > Profilni videozapis."</string>
   <string name="incall_show_apply_success_without_ringtone">"Uspješno postavljeno. Ovaj videozapis nema zvuka. Koristiti će se originalni zvuk zvona.
-Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &gt; Profilni videozapis."</string>
+Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Profilni videozapis."</string>
   <string name="incall_show_find_more">Pronađi više</string>
   <string name="incall_show_not_set">Nema profilnog videozapisa</string>
   <string name="incall_show_remove">Ukloni profilni videozapis</string>
@@ -528,6 +533,13 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="loading_picture">Učitavanje slike…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
   <string name="loading_resource_detail_info">Samo trenutak…</string>
+  <string name="local_mode">Izvanmrežni način rada</string>
+  <string name="local_mode_close">Isključiti izvanmrežni način rada?</string>
+  <string name="local_mode_close_desc">Isključite izvanmrežni način rada ako želite koristiti mrežne usluge. Isključiti sada?</string>
+  <string name="local_mode_desc">"Izvanmrežni način rada koristi samo lokalni sadržaj i ne koristi mrežne usluge"</string>
+  <string name="local_mode_hint">"Koristite izvanmrežni način rada.
+Dodirnite za isključivanje."</string>
+  <string name="local_mode_open">Izvanmrežni način rada</string>
   <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
   <string name="lock_screen_apply">Postavi za Zaklj. zaslon</string>
@@ -695,7 +707,7 @@ mm"</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="more_icon_style">Više ikona</string>
-  <string name="more_sub_comment">Pogledaj sve odgovore (%1$d)&gt;</string>
+  <string name="more_sub_comment">Pogledaj sve odgovore (%1$d)></string>
   <string name="more_system_wallpaper">Više pozadina sustava</string>
   <string name="morning">AM</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
@@ -967,6 +979,9 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="refresh_footer_release">Otpusti za učitati više</string>
   <string name="region_not_support">Teme nisu podržane u vašem području.</string>
   <string name="reload">Pokušaj ponovno</string>
+  <string name="repeat_exchange_dialog_content">"Ne mogu iskoristiti kôd. Provjerite koje su druge nagrade sada dostupne?"</string>
+  <string name="repeat_exchange_dialog_positive_btn">Provjeri</string>
+  <string name="repeat_exchange_dialog_title">Pokušajte ponovo</string>
   <string name="request_time_out">Zahtjev je istekao. Pokušajte ponovo.</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
@@ -1303,6 +1318,7 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
   <string name="super_wallpaper_setting_view_height_title">Nadm. visina</string>
   <string name="supersave_mode_toast_message">"Ova značajka nije dostupna kada koristite Ultra štednju baterije. Isključite Ultra štednju baterije da biste je mogli koristiti."</string>
+  <string name="superwallpaper_has_bound_account_dialog_content">Ova pozadina je već povezana s drugim Mi Računom. Prijavite se s tim Mi Računom i pokušajte ponovno.</string>
   <string name="support_theme_store_des">Dobre teme uvijek stvaraju talentirani dizajneri. Naša aplikacija sadrži malu količinu oglasa što nam omogućava da podržimo njihov rad.</string>
   <string name="support_theme_store_supported">Hvala na podršci!</string>
   <string name="support_theme_store_title">Podržite naše dizajnere</string>
@@ -1396,6 +1412,7 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu ove postavke.</string>
   <string name="theme_log_out">Odjava</string>
   <string name="theme_multiple_button_title_customize">Prilagodi</string>
+  <string name="theme_need_login_dialog_content">Prijavite se na svoj Mi Račun da biste nastavili.</string>
   <string name="theme_no">Ne</string>
   <string name="theme_not_include_module_desc">"Ova tema ne sadrži sljedeće stavke: %s"</string>
   <string name="theme_on_the_phone_alert">"Ne mogu reproducirati tijekom poziva"</string>
@@ -1420,6 +1437,7 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="theme_user_agreement_remind_never">"Ne prikazuj ponovo"</string>
   <string name="theme_user_agreement_remind_summary">Prikaži upit Uvjeti Korištenja svaki put kada otvorite aplikaciju "Teme". Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>
   <string name="theme_user_agreement_title">Uvjeti Korištenja</string>
+  <string name="theme_version_need_update_prompt_dialog_content">Za nastavak ažurirajte Teme na verziju %s ili noviju</string>
   <string name="theme_wallpaper">Kategorija pozadina</string>
   <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
