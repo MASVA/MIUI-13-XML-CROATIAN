@@ -58,6 +58,8 @@
   <string name="effect_3dsurround">Okružujući zvuk</string>
   <string name="effect_3dsurround_summary">Povećajte dubinu reprodukcije zvuka za slušalice i zvučnike</string>
   <string name="effect_3dsurround_summary_headphone">Povećajte dubinu reprodukcije zvuka u slušalicama</string>
+  <string name="effect_virtual_surround">Virtualni okružujući zvuk</string>
+  <string name="effect_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju audia i videozapisa u slušalicama (Ova značajka neće raditi kada se reproducira %.1f zvuk)"</string>
   <string name="end_wireless_transmission">Stop</string>
   <string name="eq_auto">Vlastito</string>
   <string name="eq_blues">Blues</string>

@@ -88,6 +88,10 @@
         <item quantity="other">%d tjedana prije događaja</item>
         <item quantity="one">%d tjedan prije događaja</item>
     </plurals>
+	<plurals name="after_num_minutes">
+         <item quantity="other">Za %d min</item>
+         <item quantity="one">Za %d min</item>
+     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s dana</item>
         <item quantity="one">%1$s dan</item>
@@ -247,6 +251,10 @@
         <item quantity="other">Sljedeći podsjetnik za %1$d min.</item>
         <item quantity="one">Sljedeći podsjetnik za %1$d minutu</item>
     </plurals>
+	<plurals name="other_num_events">
+        <item quantity="other">još %d događaja</item>
+        <item quantity="one">još %d događaj</item>
+    </plurals>
 	 <plurals name="repeat_custom_prompt">
         <item quantity="other">svakog %1$s na %2$s</item>
         <item quantity="one">svakog %1$s na %2$s</item>
@@ -327,8 +335,36 @@
         <item quantity="other">Procijenjeni dani menstrualnog ciklusa: %1$d </item>
         <item quantity="one">Procijenjen %1$d dan menstrualnog ciklusa</item>
      </plurals>
+	 <plurals name="today_has_num_event">
+        <item quantity="other">%d događaja danas</item>
+        <item quant="one">%d događaj danas</item>
+    </plurals>
      <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minuta vožnje do %1$s.</item>
         <item quantity="one">%2$s minuta vožnje do %1$s.</item>
      </plurals>
+	 <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s dana</item>
+        <item quantity="one">%1$s dan</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+         <item quant="other">%d događaja u tijeku</item>
+         <item quantity="one">%d događaj u tijeku</item>
+	</plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+         <item quantity="other">Sljedeći događaj za %d min</item>
+         <item quantity="one">Sljedeći događaj za %d min</item>
+		 </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d događaja sutra</item>
+        <item quantity="one">%d događaj sutra</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Tjedan %d</item>
+        <item quantity="one">Tjedan %d</item>
+    </plurals>
 </resources>

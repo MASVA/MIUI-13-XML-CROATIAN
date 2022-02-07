@@ -108,6 +108,7 @@
   <string name="alert_title">Obavijesti kalendara</string>
   <string name="all_events">Svi događaji</string>
   <string name="all_records">Svi zapisi</string>
+  <string name="already_num">Vrijeme od %s</string>
   <string name="allow">Dopusti</string>
   <string name="am">AM</string>
   <string name="anniversary_event_title">Godišnjica: %1$s</string>
@@ -233,6 +234,7 @@
   <string name="copy_db">Pošalji bazu podataka</string>
   <string name="copy_email">Kopiraj adresu e-pošte</string>
   <string name="copy_number">Kopiraj broj telefona</string>
+  <string name="count_down_date_view">Odbrojavanje</string>
   <string name="countdown_event_title">Broj dana: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Broj dana: %1$s za 3 dana</string>
   <string name="countdown_notify_title">Broj dana: %1$s</string>
@@ -265,6 +267,7 @@
   <string name="date_jump_hint">Skoči izravno na određeni dan</string>
   <string name="date_jump_title">Skoči na datum</string>
   <string name="date_today">" (danas) "</string>
+  <string name="date_view">Datum</string>
   <string name="day_picker_description">Mjesečna rešetka dana</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Novi događaj</string>
@@ -455,6 +458,7 @@
   <string name="import_help">Pomoć</string>
   <string name="import_text">Uvezi</string>
   <string name="imported">Uvezeno</string>
+  <string name="in_progress">U tijeku</string>
   <string name="insert_event_dialog_btn_negative">Ne</string>
   <string name="insert_event_dialog_btn_positive">Da</string>
   <string name="insert_event_dialog_message">Dodati ovaj događaj u kalendar?</string>
@@ -675,6 +679,7 @@
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
   <string name="mtrl_slider_range_content_description">%1$s do %2$s</string>
   <string name="name_title_menstruation_today_end">Menstruacija završava danas</string>
+  <string name="near_agenda_view">Nadolazeći događaji</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="never">Nikad</string>
   <string name="new_event_description">Novo</string>
@@ -959,7 +964,10 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="skip">Preskoči</string>
   <string name="snooze_all_label">Odgodi sve</string>
   <string name="snooze_label">Odgodi</string>
+  <string name="spec_agenda_view">Posebni događaji</string>
   <string name="start_date_calculate">Izračunaj</string>
+  <string name="stats_title">Statistika</string>
+  <string name="still_num">Vrijeme do %s</string>
   <string name="storage_permission_denied">Prvo dopustite pristup pohrani</string>
   <string name="subscribe_card">Pretplatite se sada</string>
   <string name="subscribe_card_success">Uspješno pretplaćeni! Pojedinosti provjerite na početnoj stranici.</string>
@@ -1050,6 +1058,7 @@ Također možete dodati podsjetnike kako ne biste propustili ništa važno."</st
   <string name="today">Danas</string>
   <string name="today_at_time_fmt">Danas u %s</string>
   <string name="today_icon_voice_contentdescription">Natrag na danas</string>
+  <string name="today_no_event">Nema događaja za danas.</string>
   <string name="today_no_events">Nema događaja</string>
   <string name="todo_audio_event">"[Glasovni zadatak] "</string>
   <string name="todo_event">Nadolazeći zadaci</string>
@@ -1135,7 +1144,13 @@ Također možete dodati podsjetnike kako ne biste propustili ništa važno."</st
   <string name="widget_events">Nadolazeći događaj</string>
   <string name="widget_get_weather_info">Dobivanje informacija o vremenu</string>
   <string name="widget_no_events">Nema događaja</string>
+  <string name="widget_normal_agenda_tip_empty">Za danas nema događaja.</string>
+  <string name="widget_normal_agenda_today_done">Svi događaji su završeni za danas.</string>
+  <string name="widget_normal_more_event">Više događaja</string>
+  <string name="widget_normal_new_event">Dodaj događaj</string>
+  <string name="widget_normal_weekN">%d tjedan</string>
   <string name="widget_select_style">Odaberite stil</string>
+  <string name="widget_spec_agenda_birth_today">Danas</string>
   <string name="work_day_indication"/>
   <string name="xiaomi_calendar_display_name">Kalendar Mi Računa</string>
   <string name="year">Godina</string>

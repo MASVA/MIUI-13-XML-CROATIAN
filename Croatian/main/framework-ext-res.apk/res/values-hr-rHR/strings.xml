@@ -224,6 +224,14 @@
   <string name="keyboard_upgrade_failed">"Ne mogu ažurirati tipkovnicu"</string>
   <string name="keyboard_upgrade_start">Ažuriranje tipkovnice…</string>
   <string name="keyboard_upgrade_success">Tipkovnica je uspješno ažurirana</string>
+  <string name="ks_back_home">Početni zaslon</string>
+  <string name="ks_close_window">Zatvori trenutni prozor</string>
+  <string name="ks_launch_control_center">Centar za kontrolu</string>
+  <string name="ks_launch_notification_center">Panel obavijesti</string>
+  <string name="ks_launch_recents_tasks">Otvori Nedavno</string>
+  <string name="ks_lock_screen">Zaključani zaslon</string>
+  <string name="ks_regional_screen_shot">Snimka zaslona (djelomična)</string>
+  <string name="ks_screenshot">Snimka zaslona (cijeli zaslon)</string>
   <string name="kungfu">Kung fu</string>
   <string name="leisure">Dodatno vrijeme</string>
   <string name="livetalk_not_enable">Paket nadoplate isključen</string>

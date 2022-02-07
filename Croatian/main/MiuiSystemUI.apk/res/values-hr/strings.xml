@@ -1682,6 +1682,10 @@ snimke zaslona"</string>
   <string name="miui_guide_dialog_button_negative_text">Postavke</string>
   <string name="miui_guide_dialog_button_positive_text">Razumijem</string>
   <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
+  <string name="miui_keyboard_shortcut_click">Pritisnite</string>
+  <string name="miui_keyboard_shortcut_double_click">Dvaput pritisnite</string>
+  <string name="miui_keyboard_shortcut_system_dock">Prikaži priključnu stanicu aplikacije</string>
+  <string name="miui_keyboard_shortcut_system_quickly_recent">Prebacivanje između nedavnih aplikacija</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>

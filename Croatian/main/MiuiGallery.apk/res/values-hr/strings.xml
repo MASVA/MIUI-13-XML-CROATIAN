@@ -26,6 +26,8 @@
   <string name="map_location">Premjesti na trenutnu lokaciju</string>
   <string name="migrate_msg">Neki albumi zahtijevaju dopuštenja za premještanje stavki nakon ažuriranja sustava.</string>
   <string name="miplay_adjust_volume">Postavi glasnoću na %d</string>
+  <string name="miplay_circulate_failed">"Nije moguće prenijeti reprodukciju. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="miplay_circulation_msg">Prijenos reprodukcije…</string>
   <string name="miplay_pause_video">Pauza</string>
   <string name="miplay_play_video">Reproduciraj</string>
   <string name="miplay_seekbar_content_description">Napredak reprodukcije: %1$s %2$s</string>

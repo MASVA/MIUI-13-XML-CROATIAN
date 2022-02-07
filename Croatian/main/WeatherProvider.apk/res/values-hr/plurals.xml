@@ -2,6 +2,6 @@
 <resources>
     <plurals name="view_realtime_clear">
        <item quantity="other">Vedro</item>
-        <item quantity="one">Sunčano</item>
+        <item quantity="one">Vedro</item>
     </plurals>
 </resources>

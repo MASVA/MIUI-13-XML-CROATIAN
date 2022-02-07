@@ -838,6 +838,13 @@ Brži protokol veze."</string>
   <string name="start_speech">Počnite govoriti</string>
   <string name="status_unavailable">Nije dostupno</string>
   <string name="stop_speech">Prestanite govoriti</string>
+  <string name="stylus_firmware_failed_summary">Uključite usluge lokacije i ponovno pokrenite Bluetooth. Nakon toga, ponovno pričvrstite stylus i pokušajte ponovno.</string>
+  <string name="stylus_firmware_failed_title">"Nije moguće ažurirati firmware"</string>
+  <string name="stylus_firmware_success_summary">Pričvrstite stylus za uparivanje.</string>
+  <string name="stylus_firmware_success_title">Firmware uspješno ažuriran</string>
+  <string name="stylus_firmware_timeout_summary">Isteklo je vrijeme veze. Pokušajte ponovno.</string>
+  <string name="stylus_firmware_update_summary">Ažuriranje firmware-a stylusa…</string>
+  <string name="stylus_firmware_update_title">Firmware za pisaljku</string>
   <string name="storage_category">Pohrana</string>
   <string name="strict_mode">Strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
