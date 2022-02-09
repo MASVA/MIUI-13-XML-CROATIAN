@@ -10485,8 +10485,6 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="stylus_ota_downloading_firmware">Preuzimanje firmware-a</string>
   <string name="stylus_ota_firmware_info">Firmware</string>
   <string name="stylus_ota_new_version">Ažuriraj</string>
-  <string name="stylus_ota_serial_number">Serijski broj</string>
-  <string name="stylus_ota_timeout_failed">Vremensko ograničenje sesije je isteklo</string>
   <string name="stylus_ota_update_failed">"Nije moguće ažurirati firmware"</string>
   <string name="stylus_ota_updating">Ažuriranje</string>
   <string name="stylus_primary_key">Prva tipka</string>
