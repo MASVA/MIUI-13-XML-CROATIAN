@@ -1705,4 +1705,12 @@
         <item>uz_UZ</item>
         <item>vi_VN</item>
     </string-array>
+	<string-array name="inputdebuglog_select_level_entries">
+         <item>Razina 0</item>
+         <item>Razina 1</item>
+         <item>Razina 2</item>
+         <item>3. razina</item>
+         <item>4. razina</item>
+         <item>Razina 5</item>
+	</string-array>
 </resources>

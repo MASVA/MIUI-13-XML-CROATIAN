@@ -1196,6 +1196,9 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="wipe_secret_photo_dialog_title">"Skrivene fotografije nisu sinkronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Sve važne stavke na jednom mjestu</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
 </resources>

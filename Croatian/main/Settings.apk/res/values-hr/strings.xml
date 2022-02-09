@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="Intelligentpickfree">Otkrij glas</string>
   <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="a11y_settings_label">Postavke pristupačnosti</string>
   <string name="aaid_info">"
@@ -675,6 +676,9 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="ambient_display_wake_screen_summary"/>
   <string name="ambient_display_wake_screen_summary_on"/>
   <string name="ambient_display_wake_screen_title">Probudite zaslon</string>
+  <string name="anc_auto">Auto</string>
+  <string name="anc_depth">Jako</string>
+  <string name="anc_mild">Lagano</string>
   <string name="android_beam_disabled_summary">Prvo uključite NFC</string>
   <string name="android_beam_explained">"Kada je ta značajka uključena, sadržaj aplikacije možete prenijeti na drugi uređaj na kojem je omogućen NFC tako da uređaje postavite jedan uz drugi. Na primjer, možete prenositi web-stranice, videozapise s YouTubea, kontakte i još mnogo toga.
 
@@ -976,6 +980,11 @@ Promijeniti postavke sada?"</string>
   <string name="audio_share_confirm">Dijeli</string>
   <string name="auto_adjst_effect_summary">Prilagodi temperaturu boje ambijentalnom svjetlu automatski</string>
   <string name="auto_adjust_effect_title">Prilagodi temperaturu boje automatski</string>
+  <string name="auto_anc_closed">Isključeno</string>
+  <string name="auto_anc_fifteen_recover">%d sekundi</string>
+  <string name="auto_anc_five_recover">%d sekundi</string>
+  <string name="auto_anc_not_recover">Nastavi uključeno</string>
+  <string name="auto_anc_ten_recover">%d sekundi</string>
   <string name="auto_backup">Zakažite rutinsku Sig. kopiju</string>
   <string name="auto_backup_all_user_apps">Sve aplikacije</string>
   <string name="auto_backup_choose">Stavke Sig. kopije</string>
@@ -3525,6 +3534,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="done_button">Završeno</string>
   <string name="double_click_power_key">Dvoklik tipke Power</string>
   <string name="double_click_volume_down_when_lock">Dvaput pritisnite Glasnoća - kad je zaslon zaključan</string>
+  <string name="double_connect">Dvostruka veza</string>
+  <string name="double_connect_summary">Za povezivanje s dva uređaja</string>
   <string name="double_knock">Dvostruko kucanje</string>
   <string name="double_tap_power_for_camera_suggestion_title">Brzo otvaranje kamere</string>
   <string name="double_tap_power_for_camera_summary">Da biste brzo otvorili kameru, dvaput pritisnite tipku za uključivanje/isključivanje. Funkcionira na svim zaslonima.</string>
@@ -4888,6 +4899,9 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_pattern_hint_text">Iscrtajte obrazac otključavanja</string>
   <string name="input_settings">Postavke unosa</string>
   <string name="input_text">Traka za unos teksta</string>
+  <string name="inputdebuglog_select_level">Razina unosa zapisnika</string>
+  <string name="inputdebuglog_select_level_show">Razina %d</string>
+  <string name="inputdebuglog_select_level_summary">Odaberi razinu</string>
   <string name="insert_sim_card_and_try_again">Umetnite SIM karticu i pokušajte ponovo.</string>
   <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
@@ -6087,6 +6101,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="menu_stats_total">Ukupno iskorištenje</string>
   <string name="menu_stats_unplugged">%1$s od isključivanja</string>
   <string name="menu_use_uss">Upotrijebi Uss</string>
+  <string name="mi_headset_healthy">Zdravlje sluha</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_indonesia">Mi Pay Account</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
@@ -11083,6 +11098,9 @@ i Mi Mover uključen"</string>
   <string name="transcode_settings_title">Postavke konvertiranja medija</string>
   <string name="transcode_user_control">Nadjačaj zadane postavke konvertiranja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
+  <string name="transparent_human_voice">Glas</string>
+  <string name="transparent_normal">Redovno</string>
+  <string name="transparent_surroundings">Ambient</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">HR Prijevod</string>
   <string name="trigger_carrier_provisioning">Pokretanje usluga mobilnog operatera</string>
@@ -11197,6 +11215,7 @@ i Mi Mover uključen"</string>
   <string name="tx_link_speed">%1$d Mbps</string>
   <string name="tx_link_speed_label">Brzina prijenosa:</string>
   <string name="tx_wifi_speed">Brzina prijenosa</string>
+  <string name="ucar_screen_projection_title">CarWith</string>
   <string name="uicc_eject">Isključi UICC memoriju</string>
   <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>
   <string name="uicc_format">Izbriši UICC memoriju</string>
