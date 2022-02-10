@@ -41,6 +41,19 @@
   <string name="downloading">Preuzimanje:</string>
   <string name="downloading_desc">U tijeku je preuzimanje, provjerite status u području obavijesti.</string>
   <string name="fastboot_update_warning">Ovo ažuriranje je samo za fastboot instalaciju!</string>
+  <string name="fetch_notification_default_channel_name">Preuzimanja</string>
+  <string name="fetch_notification_download_cancel">Odustani</string>
+  <string name="fetch_notification_download_complete">Dovršeno</string>
+  <string name="fetch_notification_download_downloading">Preuzimanje</string>
+  <string name="fetch_notification_download_eta_hrs">Preostalo %1$dh %2$dm %3$ds</string>
+  <string name="fetch_notification_download_eta_min">Preostalo %1$dm %2$ds</string>
+  <string name="fetch_notification_download_eta_sec">Preostalo %1$ds</string>
+  <string name="fetch_notification_download_failed">Neuspješno</string>
+  <string name="fetch_notification_download_pause">Pauza</string>
+  <string name="fetch_notification_download_paused">Pauzirano</string>
+  <string name="fetch_notification_download_resume">Nastavi</string>
+  <string name="fetch_notification_download_retry">Pokušaj ponovo</string>
+  <string name="fetch_notification_download_starting">Počinje</string>
   <string name="fetching_data">Dohvaćanje veze za preuzimanje, pričekajte…</string>
   <string name="install_desc">"Uređaj će se ponovno pokrenuti u TWRP recovery i instalirati odabranu datoteku: %1$s
 Podaci neće biti izbrisani."</string>
@@ -59,7 +72,7 @@ Podaci neće biti izbrisani."</string>
   <string name="no_info">Informacije nisu dostupne</string>
   <string name="no_mirror">Sve dodatne veze su trenutno offline, pokušajte kasnije…</string>
   <string name="no_network">Nema mrežnog pristupa.</string>
-  <string name="no_update">Trenutna MIUI verzija je ažurna ili postoji problem s poslužiteljem, provjerite xiaomi.eu za novu verziju!</string>
+  <string name="no_update">Trenutna MIUI verzija je ažurna!</string>
   <string name="no_xioamieu">"Ne koristite MIUI ROM izrađen od strane Xiaomi.eu tima!
 Ažuriranja za vas nisu dostupna!"</string>
   <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na Wi-Fi za preuzimanje ažuriranja."</string>
