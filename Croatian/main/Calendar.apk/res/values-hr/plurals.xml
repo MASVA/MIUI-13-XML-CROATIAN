@@ -337,7 +337,7 @@
      </plurals>
 	 <plurals name="today_has_num_event">
         <item quantity="other">%d događaja danas</item>
-        <item quant="one">%d događaj danas</item>
+        <item quantity="one">%d događaj danas</item>
     </plurals>
      <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minuta vožnje do %1$s.</item>
@@ -352,7 +352,7 @@
         <item quantity="one">%d dan</item>
     </plurals>
     <plurals name="widget_normal_agenda_going_counts">
-         <item quant="other">%d događaja u tijeku</item>
+         <item quantity="other">%d događaja u tijeku</item>
          <item quantity="one">%d događaj u tijeku</item>
 	</plurals>
     <plurals name="widget_normal_agenda_next_minutes">
