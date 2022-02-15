@@ -251,6 +251,11 @@
   <string name="network_tip_dialog_title">Potrebno je povezivanje s Internetom</string>
   <string name="network_unavailable_tip">Povežite se na mrežu i pokušajte ponovo.</string>
   <string name="new_record_name">Nova snimka</string>
+  <string name="new_saf_permission_dialog_content">"Dopuštenja aplikacije su ažurirana. Dopustite Snimaču pristup snimkama poziva.
+
+Kako dati dopuštenje
+Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Sljedeće</string>
   <string name="no_content">Ovdje još nema stavki</string>
   <string name="no_file">Prazno</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
@@ -441,6 +446,7 @@
   <string name="text_play_speed_1_0">Normalna brzina reprodukcije</string>
   <string name="text_play_speed_1_5">Brzina reprodukcije 1.5X</string>
   <string name="text_play_speed_2_0">Brzina reprodukcije 2X</string>
+  <string name="this_folder">Koristi ovu mapu</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

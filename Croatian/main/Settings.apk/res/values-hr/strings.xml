@@ -2,6 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Računi</string>
   <string name="Intelligentpickfree">Otkrij glas</string>
+  <string name="Sound_Settings">Zvučni efekti</string>
   <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="a11y_settings_label">Postavke pristupačnosti</string>
   <string name="aaid_info">"
@@ -2391,7 +2392,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="clear_cache_btn_text">Isprazni predmemoriju</string>
   <string name="clear_data_alert_info">Sve Sig. kopije pohranjene na ovom uređaju trajno će se izbrisati. Izradite Sig. kopiju važnih stavki na računalo i Mi Cloud prije nego što nastavite.</string>
   <string name="clear_data_alert_info_pad">Sve sigurnosne kopije pohranjene na ovom uređaju bit će trajno izbrisane. Sigurnosno kopirajte važne stavke na svoje računalo i Mi Cloud prije nego što nastavite.</string>
-  <string name="clear_data_dlg_text">Svi podaci ove aplikacije trajno će se izbrisati. To obuhvaća sve datoteke, postavke, račune, baze podataka itd.</string>
+  <string name="clear_data_dlg_text">Podaci ove aplikacije bit će trajno izbrisani. To uključuje datoteke, postavke, baze podataka i druge podatke aplikacije.</string>
   <string name="clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
   <string name="clear_data_failed">Podaci aplikacije nisu se mogli izbrisati.</string>
   <string name="clear_failed_dlg_text">Brisanje pohrane za aplikaciju nije uspjelo.</string>
@@ -9000,6 +9001,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_font">Font sustava;Font;Fontovi;Veličine fonta;Veličina fonta</string>
   <string name="search_force_touch">3D dodir</string>
   <string name="search_gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje;Dvaput dodirnite za buđenje;buđenje zaslona;Dvaput dodirnite zaslon;Dvaput dodirnite</string>
+  <string name="search_gmscore_settings_title">Google;Osnovne Googleove usluge;GMS;Gmail</string>
   <string name="search_gps">GPS;Pristup lokaciji;Usluge lociranja</string>
   <string name="search_handy_mode">Rad jednom rukom;Rad jednom rukom;Rad jednom rukom;Jedna ruka</string>
   <string name="search_hint">Pretraži postavke</string>
@@ -11772,7 +11774,9 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="virtual_sim_global_description">Povežite se s podatkovnom mrežom bez SIM kartice</string>
   <string name="virtual_sim_global_title">Usluga mob. podataka</string>
   <string name="virtual_sim_search_title">Virtualni SIM</string>
-  <string name="virtual_sim_title">Roaming mreža podataka</string>
+  <string name="virtual_sim_title">Podatkovna mreža u roamingu</string>
+  <string name="virtual_surround_sound_switch_summary">"Obogatite dubinu zvuka za reprodukciju zvuka i videa u slušalicama (Ova značajka neće raditi kada se reproducira %.1f audio)"</string>
+  <string name="virtual_surround_sound_switch_title">Virtualni impresivan zvuk</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="virus_scan_app_continue">Nastavi skeniranje</string>
   <string name="virus_scan_app_find_risk">Pronađeno rizika: %d</string>

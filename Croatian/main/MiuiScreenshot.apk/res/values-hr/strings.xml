@@ -42,9 +42,10 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="garbage_count">Postoji %1$s starih primjera</string>
+  <string name="long_screenshot_error">"Ne mogu napraviti snimku zaslona. Pokušajte ponovno."</string>
   <string name="long_screenshot_guide_text">"Dodirnite za izradu pomične
 snimke zaslona"</string>
-  <string name="long_screenshot_intercepted_error">"Nije moguće napraviti snimku zaslona. Pokušajte ponovno."</string>
+  <string name="long_screenshot_intercepted_error">"Ne mogu napraviti snimku zaslona. Pokušajte ponovno."</string>
   <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
   <string name="long_screenshot_processing">Obrada…</string>
   <string name="long_screenshot_processing_description_accessibility">Obrada</string>

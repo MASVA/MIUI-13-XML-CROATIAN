@@ -18,14 +18,6 @@
         <item>Kalendar</item>
         <item>Pohrana</item>
     </string-array>
-	<string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>Za sinkronizaciju događaja</item>
-        <item>Za sinkronizaciju poruka</item>
-        <item>Za sinkronizaciju poruka</item>
-        <item>Za sinkronizaciju kontakata</item>
-        <item>Za sinkronizaciju kontakata</item>
-        <item>Za spremanje stavki na vaš uređaj (npr. slike, videozapisi, pjesme)</item>
-    </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Za identifikaciju vašeg uređaja</item>
         <item>Za lociranje uređaja i prebacivanje na izgubljeni način rada</item>
@@ -70,11 +62,6 @@
         <item>Sinkr. snimke sa Mi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
         <item>Snimač;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>Sinkr. glazbu s Mi Cloudom</item>
-        <item>Uključi sinkr.</item>
-        <item>Glazba;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>Sinkr. Bilješke s Mi Cloudom</item>
@@ -140,14 +127,6 @@
         <item>Izradite Sig. kopiju Poč. zaslona na Mi Cloud</item>
         <item>Izradite Sig. kopiju izgleda Poč. zaslona, popis instaliranih aplikacija i postavki sustava</item>
         <item>Cloud;Sig. kopija;Sig. kopija;Cloud usluge;Mi Cloud;Poč. zaslon;Izgled;Aplikacije;Postavke;Učestalost Sig. kopije;Upravljanje Sig. kopijama;Vrati</item>
-    </string-array>
-	<string-array name="privacy_dialog_sync_runtime_perm_title">
-        <item>Pristup događajima u kalendaru</item>
-        <item>Poslati SMS</item>
-        <item>Pročitati MMS</item>
-        <item>Pristup kontaktima</item>
-        <item>Uređivanje i brisanje kontakata</item>
-        <item>Pristup fotografijama i datotekama na uređaju</item>
     </string-array>
 	<string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
         <item>Za lociranje uređaja i prebacivanje u izgubljeni način rada</item>

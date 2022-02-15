@@ -120,10 +120,6 @@
          <item quantity="other">%d zapisa</item>
          <item quantity="one">%d zapis</item>
      </plurals>
-     <plurals name="dirty_music_count">
-         <item quantity="other">%d pjesama</item>
-         <item quantity="one">%d pjesma</item>
-     </plurals>
      <plurals name="dirty_browser_count">
          <item quantity="other">%d stavki preglednika</item>
          <item quantity="one">%d stavka preglednika</item>

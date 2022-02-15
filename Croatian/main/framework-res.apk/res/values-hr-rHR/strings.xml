@@ -680,6 +680,7 @@ koristeći %s"</string>
   <string name="face_error_timeout">Ponovo pokušajte otključavanje licem.</string>
   <string name="face_error_unable_to_process">Lice nije potvrđeno. Pokušajte ponovo.</string>
   <string name="face_error_user_canceled">Otključavanje licem otkazao je korisnik.</string>
+  <string name="face_error_vendor_unknown">Nešto nije u redu. Pokušajte ponovno.</string>
   <string name="face_icon_content_description">Ikona lica</string>
   <string name="face_name_template">Lice %d</string>
   <string name="face_or_screen_lock_app_setting_name">Upotreba otključavanja licem ili zaključavanja zaslona</string>
@@ -731,6 +732,7 @@ Ako imate pitanja, obratite se administratoru organizacije."</string>
   <string name="fingerprint_error_timeout">Isteklo je vrijeme čekanja za otisak prsta. Pokušajte ponovo.</string>
   <string name="fingerprint_error_unable_to_process">Pokušajte ponovo.</string>
   <string name="fingerprint_error_user_canceled">Radnju s otiskom prsta otkazao je korisnik.</string>
+  <string name="fingerprint_error_vendor_unknown">Nešto nije u redu. Pokušajte ponovno.</string>
   <string name="fingerprint_icon_content_description">Ikona otiska prsta</string>
   <string name="fingerprint_name_template">Prst %d</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>

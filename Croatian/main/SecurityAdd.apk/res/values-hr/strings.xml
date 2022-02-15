@@ -110,7 +110,8 @@
   <string name="game_net_text2">Povećajte brzinu veze mrežne igre ograničavajući brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
   <string name="game_net_title">Optimiziraj brzinu veze</string>
   <string name="game_setting">Postavke igre</string>
-  <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže na internet kako bi se koristile sve značajke uređaja za Game speed booster?</string>
+  <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže na internet kako bi se koristile sve značajke uređaja za Game Turbo?</string>
+  <string name="gamebooster_network_dialog_message_pad">Dopustiti aplikaciji Sigurnost da se poveže na internet kako bi se koristile sve značajke uređaja za Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_no_network_btn">Učitaj ponovno</string>
   <string name="gb_adv_touch_adv_title">Klasični način rada (zadani)</string>
@@ -158,6 +159,7 @@
   <string name="gb_game_speed_closed_fail">"Ne mogu isključiti Light speed način"</string>
   <string name="gb_game_speed_open">Light speed način je uključen</string>
   <string name="gb_game_speed_open_fail">"Ne mogu uključiti Light speed način"</string>
+  <string name="gb_global_settings">Opće postavke</string>
   <string name="gb_gpu_control_anisotropic_filtering">Anizotropno filtriranje</string>
   <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
   <string name="gb_gpu_control_fps">Frame rate</string>
@@ -188,6 +190,9 @@
   <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
   <string name="gb_pannel_control_mode_normal">Zadano</string>
   <string name="gb_pannel_control_mode_power_saving">Ušteda energije</string>
+  <string name="gb_webwindow_schemedialog_accept">Otvori</string>
+  <string name="gb_webwindow_schemedialog_cancel">Odustani</string>
+  <string name="gb_webwindow_schemedialog_title">Otvoriti igre sada?</string>
   <string name="gb_weixinpay_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
   <string name="gdpr_msg">"U cilju korištenja osnovnih značajki aplikacije Sigurnost, morate prihvatiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našIm &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."</string>
   <string name="get_sys_info">Dobivanje informacija…</string>

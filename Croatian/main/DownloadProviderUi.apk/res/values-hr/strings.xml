@@ -68,6 +68,7 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_running_download">Odustani</string>
   <string name="cancle">Odustani</string>
+  <string name="category">Kategorija</string>
   <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
   <string name="choose_open_picture">Odaberi radnju</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
@@ -136,6 +137,7 @@
   <string name="do_not_support_url">"Ova vrsta poveznice nije podržana"</string>
   <string name="doc_filter">Dokumenti</string>
   <string name="download">Preuzimanja</string>
+  <string name="downloadCount">Preuzimanja</string>
   <string name="download_auth">Dobivanje autorizacije…</string>
   <string name="download_complete">ZAVRŠENO</string>
   <string name="download_description_content">"Aplikacija Preuzimanja je sistemska aplikacija. Nećete moći upravljati svojim preuzimanjima nakon što je uklonite."</string>
@@ -351,6 +353,7 @@
   <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_not_support">"Takve obavijesti nisu podržane, ažurirajte sada"</string>
   <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
+  <string name="nowInstall">Instaliraj</string>
   <string name="ok">U redu</string>
   <string name="one_month">1 mjesec</string>
   <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
@@ -475,6 +478,7 @@ i pokušajte ponovno."</string>
   <string name="shortcut_dialog_create">Napravi</string>
   <string name="shortcut_dialog_title">Napraviti prečac Poč. zaslona?</string>
   <string name="show_more">Prikaži još %s</string>
+  <string name="size">Veličina</string>
   <string name="sniff_associate_text">Popularno</string>
   <string name="sniff_bt_text">Torrent</string>
   <string name="sniff_btn_text">Izvor</string>

@@ -1275,6 +1275,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="compatible_dialog_title">Pažnja</string>
   <string name="comprehensive_protection_measures">Sveobuhvatna zaštita</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
+  <string name="confirm_ai_allow_all_permission">Želite li promijeniti status dopuštenja u \"Odluči umjesto mene\" za sve aplikacije?</string>
   <string name="confirm_allow_all_permission">Želite li dopustiti svim aplikacijama upotrebu ove značajke?</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
@@ -2030,10 +2031,12 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_not_support_on_device">"Ova se aplikacija ne može koristiti na vanjskom zaslonu"</string>
   <string name="gb_operat_frequently">Ne tako brzo!</string>
   <string name="gb_performance_balance">Uravnoteženo</string>
+  <string name="gb_performance_balance_tips">"Uravnoteženi način rada štedi energiju
+uz smanjenje brzine osvježavanja i ograničenja temperature"</string>
   <string name="gb_performance_high">Performanse</string>
   <string name="gb_performance_mode">Način igranja</string>
-  <string name="gb_performance_tips">"Korištenje načina rada Performanse duže vrijeme
-može isprazniti bateriju i dovesti do pregrijavanja"</string>
+  <string name="gb_performance_tips">"Način rada Performanse poboljšava grafičke performanse,
+ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg uređaja"</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
   <string name="gb_shoulder_key">Tipke na ramenu</string>
   <string name="gb_shoulder_key_add_show_btn">Pokažite virtualne tipke tijekom igres</string>
@@ -2118,6 +2121,7 @@ vašeg igranja"</string>
   <string name="gd_setting_title">Bočna traka</string>
   <string name="gd_setting_vtb">Prikaži tijekom reprodukcije videozapisa</string>
   <string name="gd_setting_vtb_desc">Posebne značajke za reprodukciju videozapisa</string>
+  <string name="gd_sidebar_long_press_tips">Pritisnite i držite indikator da ga pomaknete dok uređaj držite okomito</string>
   <string name="gd_splite_screen_tips">"Podijeljeni zaslon ne podržava plutajuće prozore"</string>
   <string name="gdpr_msg"><Data>"Kako bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i prihvatite naša &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Pravila o privatnosti&lt;/a> prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih informacija, i dalje ćete moći koristiti ovu aplikaciju, ali vam neke značajke neće biti dostupne. "</Data></string>
   <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
@@ -2199,6 +2203,7 @@ vašeg igranja"</string>
   <string name="gtb_exit_game_to_gtb">Otvori gamebox</string>
   <string name="gtb_exit_game_to_home">Natrag na Poč. zaslon</string>
   <string name="gtb_guide_finish">Preskoči</string>
+  <string name="gtb_guide_game_mode_tips">Odaberite željeni način igranja</string>
   <string name="gtb_guide_gtb_button_done">Gotovo</string>
   <string name="gtb_guide_gtb_community_desc">Podijelite svoje iskustvo s drugim igračima</string>
   <string name="gtb_guide_gtb_community_title">Zajednica</string>
@@ -2206,7 +2211,8 @@ vašeg igranja"</string>
   <string name="gtb_guide_gtb_func_title">Poboljšajte Turbo</string>
   <string name="gtb_guide_gtb_game_effected">Primijenjeno</string>
   <string name="gtb_guide_gtb_game_new">Novo</string>
-  <string name="gtb_guide_gtb_line_new">Poboljšajte svoju igru s potpuno novim Game Turbo!</string>
+  <string name="gtb_guide_gtb_line_new">Isprobajte način rada Performance u Game Turbo!</string>
+  <string name="gtb_guide_gtb_line_xspace">Pojačajte svoju igru uz potpuno novi Game Turbo!</string>
   <string name="gtb_guide_small_window_app_desc">"Koristite druge aplikacije tijekom igre"</string>
   <string name="gtb_guide_small_window_app_title">Plutajući prozori</string>
   <string name="gtb_setting_item_summary_disable_ndds_sim">Blokirajte sve komunikacijske usluge na sekundarnoj SIM kartici tijekom sesija igranja kako biste održali stabilnu vezu i izbjegli prebacivanje između mreža. Sekundarni SIM će se deblokirati kada prestanete igrati.</string>
@@ -4923,6 +4929,7 @@ Povući suglasnost sada?"</string>
   <string name="st_title_editblacklist">Uredi popis blokiranih</string>
   <string name="st_title_editwhitelist">Uredi iznimke</string>
   <string name="st_title_keywords_blacklist">Popis blokiranih ključnih riječi</string>
+  <string name="st_title_keywords_list">Popis ključnih riječi</string>
   <string name="st_title_keywords_whitelist">Popis dopuštenih ključnih riječi</string>
   <string name="st_title_man_addblacklist">Dodaj broj na popis blokiranih</string>
   <string name="st_title_man_addwhitelist">Dodaj broj telefona u iznimke</string>
