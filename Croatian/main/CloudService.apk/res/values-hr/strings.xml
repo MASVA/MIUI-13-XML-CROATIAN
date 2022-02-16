@@ -129,7 +129,6 @@
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="error_unsupported">"Ova značajka nije podržana na ovom uređaju"</string>
   <string name="expand_button_title">Napredno</string>
-  <string name="expand_button_title">Napredno</string>
   <string name="feedback_custom_hint">"Opišite probleme s kojima ste se ovdje susreli. Ako dajete prijedloge, cijenili bismo više detalja!"</string>
   <string name="find_device">Pronađi Uređaj</string>
   <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na &lt;font color=#0097FF&gt;%s&lt;/font&gt; kako biste ga locirali, zaključali ili resetirali.

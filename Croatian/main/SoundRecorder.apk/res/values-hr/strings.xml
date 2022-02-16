@@ -255,7 +255,7 @@
 
 Kako dati dopuštenje
 Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
-  <string name="new_saf_permission_dialog_grant_permission_immediately">Sljedeće</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Dalje</string>
   <string name="no_content">Ovdje još nema stavki</string>
   <string name="no_file">Prazno</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>

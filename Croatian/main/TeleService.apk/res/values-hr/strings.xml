@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_External_Storage">Pohrana</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Pristup datotekama i fotografijama i spremanje na vaš uređaj</string>
+  <string name="HIPS_Perm_Read_Contact">Kontakti</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Pristup vašim kontaktima</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM korporativno otključavanje PIN-a</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Zahtjev za korporativno otključavanje neuspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Zahtjev za RUIM korporativno otključavanje…</string>

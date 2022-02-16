@@ -363,6 +363,7 @@
   <string name="calllog_menu_blacklist">Blokiraj</string>
   <string name="calllog_menu_edit_before_call">"Uredi"</string>
   <string name="calllog_menu_send_sms">"Pošalji poruku"</string>
+  <string name="calllog_record_none_toast">Nema zapisa poziva za prikazati</string>
   <string name="callrecordview_item_newcontact">"Novi kontakt"</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
   <string name="callrecordview_item_op_time_missed">Nije povezano</string>
@@ -561,7 +562,7 @@ Kartice kontakata su isključene"</string>
   <string name="create_group_item_label">Izrada nove grupe</string>
   <string name="create_qrcode_fail_message">"Ne mogu kreirati QR kod"</string>
   <string name="create_voip_shortcut_success">Prečac je napravljen</string>
-      <string name="cta_content_seg1"><Data>"&lt;strong>Važna obavijest
+   <string name="cta_content_seg1"><Data>"&lt;strong>Važna obavijest
 Dodirom na \"Prihvaćam\" u nastavku prihvaćate &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Ugovor o usluzi Mi Račun&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi Roaming Korisnički ugovor&lt;/a>&lt;/font>, i &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o privatnosti&lt;/a>&lt;/font>. Pažljivo pročitajte ove dokumente i u potpunosti razumite sve povezane odredbe i uvjete prije nego što prihvatite.&lt;/strong>"</Data></string>
   <string name="cta_content_seg2">"
 Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji da bi normalno radio. Uz to, Mi Roaming može prikupljati, koristiti i dijeliti vaše osobne podatke. Vaši osobni podaci bit će zaštićeni u skladu s lokalnim zakonima i propisima."</string>
@@ -1203,6 +1204,12 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="name_phonetic_middle">Fonetsko srednje ime</string>
   <string name="name_prefix">"Prefiks imena"</string>
   <string name="name_suffix">"Sufiks imena"</string>
+  <string name="new_saf_permission_dialog_content">"Dopuštenja aplikacije su ažurirana. Dopustite kontaktima pristup zapisima poziva.
+
+Kako dati dopuštenje
+Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Dalje</string>
+  <string name="new_saf_permission_dialog_title"><b>Potrebna su dopuštenja</b></string>
   <string name="next">"Dalje"</string>
   <string name="next_birthday">Sljedeći Rođendan: %s</string>
   <string name="nfc_vcard_file_name">"Kontakt primljen NFC-om"</string>
@@ -1783,6 +1790,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="theme_dialog_confirm_button">Razumijem</string>
   <string name="theme_dialog_confirm_content">"Ova verzija aplikacije Kontakti ne podržava temu koja se trenutno postavlja."</string>
   <string name="theme_dialog_confirm_title">"Ne mogu postaviti temu"</string>
+  <string name="this_folder">Koristi ovu mapu</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
