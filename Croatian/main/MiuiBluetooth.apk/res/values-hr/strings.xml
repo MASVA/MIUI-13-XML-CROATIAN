@@ -257,9 +257,9 @@ Audio"</string>
   <string name="carrier_network_change_mode">Promjena mreže mobilnog operatera</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
-  <string name="cell_data_off_content_description">Mobile data is off</string>
-  <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-  <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="cell_data_off_content_description">Mobilni podaci su isključeni</string>
+  <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašeno je %1$d od %2$d</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="chip_text">Chip tekst</string>
   <string name="choose_profile">Odabir profila</string>
@@ -267,6 +267,12 @@ Audio"</string>
   <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
+  <string name="config_net_device_connect">Poveži se</string>
+  <string name="config_net_device_find">Poveži uređaj</string>
+  <string name="config_net_not_my_device">Odustani</string>
+  <string name="confignet_app_download">Instaliraj</string>
+  <string name="confignet_cancel">Odustani</string>
+  <string name="confignet_download_title">Instalirajte Mi Fitness za nastavak</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_to_metered_access_point">Povezano s mrežom s ograničenim prometom</string>

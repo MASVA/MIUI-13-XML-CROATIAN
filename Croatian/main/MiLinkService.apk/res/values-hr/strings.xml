@@ -180,6 +180,10 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
   <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string>
   <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
+  <string name="invisible_mode_dialog_content">"Ne možete koristiti emitiranje kada ste anonimni. Prvo isključite anonimni način."</string>
+  <string name="invisible_mode_dialog_content_audio_relay">"Ne mogu prenijeti reprodukciju kada ste anonimni. Prvo isključite anonimni način."</string>
+  <string name="invisible_mode_dialog_pos">Isključi</string>
+  <string name="invisible_mode_dialog_title">"Anonimni ste"</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o privatnosti</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
