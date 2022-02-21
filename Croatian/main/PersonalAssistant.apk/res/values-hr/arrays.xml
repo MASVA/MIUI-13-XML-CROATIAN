@@ -1,47 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Zdravstveni kod</item>
+        <item>PCR</item>
+        <item>Područja visokog rizika</item>
+		</string-array>
+	<string-array name="pa_day_time_space">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Nedjelja</item>
+        <item>Ponedjeljak</item>
+        <item>Utorak</item>
+        <item>Srijeda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+	</string-array>
     <string-array name="stock_color_schema">
         <item>Crvena - gore, zelena - dolje</item>
         <item>Zelena - gore, crvena - dolje</item>
     </string-array>
-	<string-array name="detail_font_size">
-      <item>Mali</item>
-      <item>Normalan</item>
-      <item>Veliki</item>
-    </string-array>
-	<string-array name="agenda_weeks_of_year">
-        <item>Tjedan 1</item>
-        <item>Tjedan 2</item>
-        <item>Tjedan 3</item>
-        <item>Tjedan %1$d</item>
-     </string-array>
-	 <string-array name="app_commute_tab_array">
-        <item>Automobil</item>
-        <item>Javni prijevoz</item>
-        <item>Taxi</item>
-     </string-array>
-	 <string-array name="app_health_setting_text_array_duration">
-        <item>10 min.</item>
-        <item>20 min.</item>
-        <item>30 min.</item>
-        <item>60 min.</item>
-    </string-array>	
-    <string-array name="base_day_time_space">
-         <item>Noć</item>
-         <item>Noć</item>
-         <item>Jutro</item>
-         <item>Poslijepodne</item>
-         <item>Poslijepodne</item>
-         <item>Večer</item>
-         <item>Večer</item>
-		 </string-array>  
-    <string-array name="day_time_space">
-         <item>Noć</item>
-         <item>Rano ujutro</item>
-         <item>Jutro</item>
-         <item>Podnevno</item>
-         <item>Poslijepodne</item>
-         <item>Kasno poslijepodne</item>
-         <item>Večer</item>
-	</string-array>		 
 </resources>
