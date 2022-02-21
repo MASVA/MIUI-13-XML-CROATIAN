@@ -6144,7 +6144,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_auto_ack_mode">"Automatski odgovorite na pozive kada nosite slušalice"</string>
   <string name="miheadset_auto_ack_mode_summary">Automatski odgovori na pozive</string>
   <string name="miheadset_auto_answer_call">Automatski odgovori na pozive</string>
-  <string name="miheadset_bluetooth_audio_title">LC%dplus brzina uzorkovanja zvuka Bluetooth</string>
+  <string name="miheadset_bluetooth_audio_title">LC3plus brzina uzorkovanja zvuka Bluetooth</string>
   <string name="miheadset_bright">Bistro</string>
   <string name="miheadset_call_assist">Mi AI</string>
   <string name="miheadset_cancel_device">Odustani</string>
@@ -6258,7 +6258,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_unpair_device_text">%1$s bit će rasparen sa svih uređaja povezanih s ovim Mi Računom.</string>
   <string name="miheadset_voiceIncrease">Pojačajte glas</string>
   <string name="miheadset_virtual_surround">Virtualni impresivan zvuk</string>
-  <string name="miheadset_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju zvuka i videa u slušalicama. Ova značajka neće raditi kada se reproducira %1$d.%2$d audio kanal."</string>
+  <string name="miheadset_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju zvuka i videa u slušalicama. Ova značajka neće raditi kada se reproducira %s audio kanal."</string>
   <string name="miheadset_voice_control_summary">Kada je ova značajka uključena, možete reći Mi AI-u da upravlja vašim uređajem ili kontrolira reprodukciju zvuka pomoću glasovnih naredbi</string>
   <string name="miheadset_windnoise">Vjetar</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
@@ -12682,15 +12682,15 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom.</string>
   <string name="wifi_switch_to_gsm_message">Povezivanje s Wi-Fi-jem je odgođeno. Koristiti mobilnu podatkovnu vezu?</string>
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tap_to_sign_in">Dodirnite ovdje da biste se prijavili na mrežu</string>
-  <string name="wifi_tether_checkbox_kddi_text">Wi-Fi dijeljenje veze</string>
+  <string name="wifi_tether_checkbox_kddi_text">Wi-Fi hotspot</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
-  <string name="wifi_tether_configure_ap_kddi_text">Postavljanje Wi-Fi dijeljenja veze</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Postavljanje Wi-Fi hotspota</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni</string>
   <string name="wifi_tether_disabled_by_airplane">Nije dostupno jer je uključen Zrakoplovni način</string>
   <string name="wifi_tether_enabled_subtext">%1$s je aktivan</string>
-  <string name="wifi_tether_enabled_summary">%1$s je aktivan</string>
+  <string name="wifi_tether_enabled_summary">%1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>
   <string name="wifi_tether_first_use_message">Postavi Prijenosni hotspot kod prve uporabe</string>
   <string name="wifi_tether_setting_title">Postavke</string>
@@ -12701,7 +12701,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom.</string>
   <string name="wifi_title">Postavke Wi-Fi-ja</string>
   <string name="wifi_traffic_priority">Način Wi-Fi mirovanja</string>
   <string name="wifi_traffic_priority_extreme">Brza veza</string>
-  <string name="wifi_traffic_priority_extreme_summary">"Dajte prioritet aplikacijama koje koristite dok smanjujete brzinu pozadinskog preuzimanja"</string>
+  <string name="wifi_traffic_priority_extreme_summary">"Dajte prioritet aplikacijama koje koristite dok smanjujete brzinu preuzimanja u pozadini"</string>
   <string name="wifi_traffic_priority_off">Isključeno</string>
   <string name="wifi_traffic_priority_on">Uključeno</string>
   <string name="wifi_traffic_priority_regular">Uravnoteženo</string>

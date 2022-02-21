@@ -1274,6 +1274,7 @@ dodirnite tipku Okidač"</string>
   <string name="popup_tips_near_range_mode">Zatvori fokus</string>
   <string name="popup_tips_privacy_watermark_edit">Uredite zaštitnu oznaku</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
+  <string name="portait_effect_entry_cold_white">Svjetlost zvijezda</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_dusk">Zora</string>
   <string name="portait_effect_entry_fairytale">Djetinjstvo</string>
@@ -1291,6 +1292,7 @@ dodirnite tipku Okidač"</string>
   <string name="portait_effect_entry_riddle">Zagonetka</string>
   <string name="portait_effect_entry_romance">Romantika</string>
   <string name="portait_effect_entry_sepia">Sepia</string>
+  <string name="portait_effect_entry_shallots">Sunčeva zraka</string>
   <string name="portait_effect_entry_story">Priča</string>
   <string name="portait_effect_entry_tea">Čaj</string>
   <string name="portrait_bokeh_first_tips">"Upotrijebite Portretni način da biste zamagili pozadinu slike
@@ -1695,6 +1697,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Okidač</string>
   <string name="pref_camera_volumekey_function_entry_timer">Odbrojavanje okidača</string>
+  <string name="pref_camera_volumekey_function_entry_timer_new">Odbrojavanje (%ds)</string>
   <string name="pref_camera_volumekey_function_entry_volume">Glasnoća</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Funkcija tipaka glasnoće</string>

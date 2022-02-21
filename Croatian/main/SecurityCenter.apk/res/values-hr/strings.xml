@@ -1308,6 +1308,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Ne mogu ograničiti usluge sustava"</string>
   <string name="cpu_usage_app_uninstalled_toast">Ova je aplikacija deinstalirana</string>
   <string name="cpu_usage_process_run_time_little_time">Manje od 1 minute</string>
+  <string name="cpu_usage_process_run_time_little_time_new">Manje od %d min.</string>
   <string name="cpu_usage_view_action_btn_text">Dodirni za prikaz</string>
   <string name="create_gamebooster_destop">Prečac Poč. zaslona uspješno napravljen</string>
   <string name="create_shortcut">Izradi prečac Poč. zaslona za Game Turbo</string>
@@ -1744,8 +1745,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_card_apn_title">"Ne mogu se povezati s mrežom"</string>
   <string name="first_aid_card_consume_power_button1">Ograniči</string>
   <string name="first_aid_card_consume_power_button2">Isključi</string>
-  <string name="first_aid_card_consume_power_summary1">Više od 5 aplikacija dopušteno je automatsko pokretanje. Ograničite radi uštede baterije.</string>
   <string name="first_aid_card_consume_power_summary2">Isključite prijenosni hospot radi uštede baterije.</string>
+  <string name="first_aid_card_consume_power_summary_app">Dopušteno je automatsko pokretanje više od %d aplikacija. Ograničite radi uštede baterije.</string>
   <string name="first_aid_card_consume_power_title">Upotreba baterije</string>
   <string name="first_aid_card_float_window_button">Ograniči</string>
   <string name="first_aid_card_float_window_title">Omogućili ste plutajuće obavijesti</string>
@@ -2106,7 +2107,6 @@ vašeg igranja"</string>
   <string name="gd_setting_desc_action1">Otvorite plutajući prozor</string>
   <string name="gd_setting_desc_action2">Koristite prečac</string>
   <string name="gd_setting_group_custom_gtb_apps">Igre</string>
-  <string name="gd_setting_group_custom_line_location">Položaj toolbox-a</string>
   <string name="gd_setting_group_custom_settings">Personalizacije</string>
   <string name="gd_setting_group_custom_vtb_apps">Video aplikacije</string>
   <string name="gd_setting_group_smart_tool_box">Bočna traka</string>
@@ -2998,6 +2998,10 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>
+  <string name="om_app_background_restrict_1_new">%d</string>
+  <string name="om_app_background_restrict_2_new">%d</string>
+  <string name="om_app_background_restrict_3_new">%d</string>
+  <string name="om_app_background_restrict_4_new">%d</string>
   <string name="om_btn_text_quick_fix">Optimiziraj</string>
   <string name="om_cpu_overload_activity_title">Aplikacije s visokom upotrebom CPU-a</string>
   <string name="om_cpu_overload_app_fixed">Svi su problemi poravljeni</string>
@@ -3033,7 +3037,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_detail">Medijski poslužitelj radi u pozadini. Možete ograničiti njegovu aktivnost.</string>
   <string name="om_media_scan_timeout_proc_name">Medijski poslužitelj</string>
   <string name="om_memory_clean_cleaning_text">Povećanje brzine…</string>
-  <string name="om_not_finish_speedboost">POtrebno je povećanja brzine</string>
+  <string name="om_not_finish_speedboost">POtrebno je povećanje brzine</string>
+  <string name="om_occupy_memory_percent_1_new">%d</string>
+  <string name="om_occupy_memory_percent_2_new">%d</string>
+  <string name="om_occupy_memory_percent_3_new">%d</string>
+  <string name="om_occupy_memory_percent_4_new">%d</string>
   <string name="om_notify_cpu_load_too_high_summary">Ograniči aktivnosti u pozadini za povećanje brzine</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU-a od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predmemoriju za povećanje brzine</string>
@@ -5187,23 +5195,25 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_anti_fraud_dialog_confirm_btn_txt">Razumijem</string>
   <string name="system_anti_fraud_dialog_content">"Izgleda da ste upravo primili poziv prijevare ili poruku. Nastavljanje ovog plaćanja može uzrokovati financijske gubitke."</string>
   <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474&gt;Ako vas osoblje korisničke službe, vlasti ili osobe koje možda poznajete zamole da dovršite ovu uplatu, &lt;/font&gt;&lt;font = color=#F22424&gt;provjerite njihov identitet prije nego što nastavite.&lt;/font&gt;</string>
-  <string name="system_anti_fraud_dialog_image_txt">Zaštita od prijevara</string>
-  <string name="system_anti_fraud_dialog_title">Upozorenje protiv prijevara</string>
+  <string name="system_anti_fraud_dialog_image_txt">Zaštita od prijevare</string>
+  <string name="system_anti_fraud_dialog_message">Zaštita od prijevare</string>
+  <string name="system_anti_fraud_dialog_title">Upozorenje protiv prijevare</string>
+  <string name="system_anti_fraud_dialog_title2">Upozorenje protiv prijevare</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_app_permission_instruction">Ova aplikacija treba sljedeća dopuštenja za pružanje osnovnih usluga sustava. Upravljanje dopuštenjima za ovu je aplikaciju ograničeno jer će promjena statusa dopuštenja dovesti do abnormalnosti u radu sustava.</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_check_content">Rizici: %1$d</string>
   <string name="system_check_content_none">Sigurno</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
-  <string name="system_info_remind">Dodajte zaključavanja za sprečavanje neovlaštenog pristupa vašim aplikacijama</string>
-  <string name="system_permission_declare_agree">Slažem se</string>
+  <string name="system_info_remind">Dodajte zaključavanja za spriječavanje neovlaštenog pristupa vašim aplikacijama</string>
+  <string name="system_permission_declare_agree">Prihvaćam</string>
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo što ste se uključili u naš program korisničkog iskustva. Vaš uređaj mora biti povezan s internetom da bi ova značajka normalno radila. Morate također dati sljedeća dopuštenja kako biste nam omogućili prikupljanje podataka koji će nam pomoći u poboljšanju naših proizvoda i usluga. Ti se podaci prikupljaju samo u statističke svrhe. Te podatke nećemo moći koristiti za osobnu identifikaciju.
 "</string>
-  <string name="system_permission_declare_disagree">Ne slažem se</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_disagree">Ne prihvaćam</string>
+  <string name="system_permission_declare_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
-  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila privatnosti&lt;/a> prije nego što nastavite.</Data></string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
   <string name="system_permission_declare_meanwhile_user_agreement"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> prije nego što nastavite.</Data></string>
   <string name="system_permission_declare_no_say_no">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Ako ne želite odobriti ta dopuštenja, možete se odjaviti u Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Program iskustva korisnika."</string>
@@ -5214,7 +5224,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_permission_declare_privacy_no_permission">"Imajte na umu da se aplikacija Sigurnost mora povezati s internetom i prikupiti potrebne osobne podatke kako bi vam pružili usluge. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti."</string>
   <string name="system_permission_declare_privacy_policy"><Data>Pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>  
   <string name="system_permission_declare_revoke_system">Možete izaći iz ove aplikacije.</string>
-  <string name="system_permission_declare_revoke_uninstallable">Možete se odjaviti, deinstalirati tu aplikaciju ili oduzeti autorizaciju u Sigurnost &gt; Upravljaj aplikacijama &gt; Dopuštenja &gt; Dopuštenja.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Možete se odjaviti, deinstalirati tu aplikaciju ili oduzeti autorizaciju u Sigurnost > Upravljaj aplikacijama > Dopuštenja &gt; Dopuštenja.</string>
   <string name="system_permission_declare_title">Pažnja</string>
   <string name="system_permission_declare_use_network">Povezivanje s mrežom</string>
   <string name="system_permission_declare_use_network_no_permission">Poveži se s mrežom</string>

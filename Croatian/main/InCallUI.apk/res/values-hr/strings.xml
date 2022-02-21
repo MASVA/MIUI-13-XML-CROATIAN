@@ -374,7 +374,7 @@
   <string name="onscreen_note_calls_text">Bilješka</string>
   <string name="onscreen_rcs_text">Poruke</string>
   <string name="onscreen_swap_calls_text">Zamijeni</string>
-  <string name="onscreen_switch_camera">Promjeni</string>
+  <string name="onscreen_switch_camera">Promijeni</string>
   <string name="package_not_available">\"%s\" nije dostupan</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
@@ -387,6 +387,9 @@
   <string name="relay_call_device_name">Povezani uređaj (%1$s)</string>
   <string name="relay_deny_permission_msg">"Ne mogu prenijeti pozive bez dopuštenja za snimanje zvuka"</string>
   <string name="relay_grant_permissions_on_phone">Dajte dopuštenje za snimanje zvuka na svom telefonu</string>
+  <string name="relay_known">Razumijem</string>
+  <string name="relay_network_error">Mrežna pogreška</string>
+  <string name="relay_network_error_msg">"Ne mogu primati pozive na ovom uređaju zbog mrežne pogreške. Umjesto toga se vratite na svoj telefon."</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>
   <string name="respond_via_sms_custom_message">Vlastiti SMS…</string>
   <string name="saturday">Subota</string>

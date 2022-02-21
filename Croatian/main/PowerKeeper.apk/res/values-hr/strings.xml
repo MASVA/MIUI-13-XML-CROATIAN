@@ -63,8 +63,9 @@
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
-  <string name="checking_intranet">Provjera intranet veze, pričekajte…</string>
+  <string name="checking_intranet">Provjera intranet veze…</string>
   <string name="chip_text">Chip tekst</string>
+  <string name="clear_temperature">Krajnja temp.</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
@@ -94,7 +95,7 @@
   <string name="dark_mode">Tamni način rada</string>
   <string name="dark_mode_summary">Prebacite se na tamnu paletu boja kako biste uštedjeli bateriju</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
-  <string name="delete_data_confirm">Potvrdite brisanje ovih podataka</string>
+  <string name="delete_data_confirm">Izbrisati ovu stavku?</string>
   <string name="disable_hide_mode">Isključi Štednju baterije</string>
   <string name="disable_hide_mode_warning">Isključivanje Štednje baterije može povećati potrošnju energije uređaja.</string>
   <string name="disabled">Isklj.</string>
@@ -140,9 +141,9 @@
   <string name="insert_data">Unesite podatke</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
   <string name="item_view_role_description">Kartica</string>
-  <string name="kill_all_back_pro_toast_message">"Nije moguće koristiti sve pozadinske procese zbog pregrijavanja uređaja"</string>
+  <string name="kill_all_back_pro_toast_message">"Vaš uređaj je pregrijan. Zatvorene su sve aplikacije koje su pokrenute u pozadini."</string>
   <string name="kill_pkg_toast_message">"Ne mogu koristiti aplikacije zbog pregrijavanja uređaja"</string>
-  <string name="kill_some_back_pro_toast_message">"Nije moguće koristiti neke pozadinske procese zbog pregrijavanja uređaja"</string>
+  <string name="kill_some_back_pro_toast_message">"Vaš uređaj je pregrijan. Zatvorene su neke aplikacije koje su pokrenute u pozadini."</string>
   <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
   <string name="lasttime_feature_cloud">Ažurirane značajke:</string>
   <string name="location_disable_description">Aplikacije u pozadini mogu pristupiti samo uslugama lociranja za kratko vrijeme, dok je kontinuirani pristup ograničen</string>
@@ -415,6 +416,8 @@
   <string name="scenario_policies_summary">Primijenite različite strategije štednje energije za različite scenarije.</string>
   <string name="scenario_policies_title">Pametne scene</string>
   <string name="scenario_policies_warmcontrol">Kontrola temperature</string>
+  <string name="screen_off_current">Zaslon isključen DC</string>
+  <string name="screen_on_current">Zaslon uključen DC</string>
   <string name="screen_off">Zaslon je isključen</string>
   <string name="screen_off_10_min">Zaslon je isključen preko 10 min.</string>
   <string name="screen_on">Zaslon je uključen</string>
@@ -434,7 +437,7 @@
   <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Slažem se</string>
   <string name="sleepmode_disclaimer_cancel">Odustani</string>
-  <string name="sleepmode_privacy_content">Ova značajka upotrebljavati će sustav telefona i podatke o uređaju. Isti neće biti učitani na poslužitelj</string>
+  <string name="sleepmode_privacy_content">Ova značajka treba pristupiti informacijama o vašem sustavu i uređaju. Ove informacije neće biti učitane na naše poslužitelje.</string>
   <string name="sleepmode_privacy_link">Saznajte više o privatnosti i sigurnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="softbank_high_temp_toast_time_10min">Isključena bljeskalica kako bi se izbjeglo pregrijavanje</string>
@@ -445,8 +448,9 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="thermal_cancel">NE</string>
-  <string name="thermal_confirm">DA</string>
+  <string name="thermal_cancel">Odustani</string>
+  <string name="thermal_confirm">U redu</string>
+  <string name="trig_temperature">Početna temp.</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

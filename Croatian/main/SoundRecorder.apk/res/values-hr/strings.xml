@@ -279,6 +279,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="permission_desc">Pojedinosti o dopuštenjima</string>
   <string name="permission_dialog_cancel">Odustani</string>
   <string name="permission_dialog_ok">Postavke</string>
+  <string name="permission_read_phone_state">Pristup informacijama o uređaju</string>
+  <string name="permission_read_phone_state_description">Za pristup statusu poziva kako bi se automatski zaustavilo snimanje prilikom primanja poziva</string>
   <string name="permission_record">Snimanje zvuka</string>
   <string name="permission_record_description">Za pružanje usluga snimanja zvuka</string>
   <string name="permission_storage">Pristup pohrani</string>
