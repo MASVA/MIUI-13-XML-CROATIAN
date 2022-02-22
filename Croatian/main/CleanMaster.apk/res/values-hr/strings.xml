@@ -53,6 +53,7 @@
   <string name="activity_title_uninstall_apps">Aplikacije</string>
   <string name="activity_title_video">Izbriši videozapise</string>
   <string name="activity_title_white_list">Iznimke</string>
+  <string name="ad_description" formatted="false">%s | Verzija %s | %s | %s</string>
   <string name="ad_install_success_dialog_lunch">Otvori</string>
   <string name="ad_install_success_dialog_title">%1$s uspješno instaliran. Otvoriti sada?</string>
   <string name="analying">Analiziranje…</string>
@@ -65,8 +66,12 @@
   <string name="app_clean_group_document_send">Poslane datoteke</string>
   <string name="app_clean_group_image_recv">Primljene slike</string>
   <string name="app_clean_group_image_send">Poslane slike</string>
+  <string name="app_cleaned">Uspješno obrisano</string>
   <string name="app_description_content">Čistač pronalazi smeće na vašem uređaju i oslobađa prostor za pohranu.</string>
   <string name="app_description_title">O Čistaču</string>
+  <string name="app_reset">Poništi</string>
+  <string name="app_specific_clean">Čistač aplikacija</string>
+  <string name="app_unload">Deinstaliraj</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
   <string name="app_name">Čistač</string>
@@ -188,6 +193,7 @@
   <string name="cached_garbage">Predmemorija</string>
   <string name="call_log">Dnevnik poziva</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_select_all">Poništi odabir</string>
   <string name="cd_back">Natrag</string>
   <string name="cd_check_box_checked">Provjereno</string>
   <string name="cd_check_box_middle">Djelomičan izbor</string>
@@ -204,6 +210,10 @@
   <string name="clean_content_three">3 stavke</string>
   <string name="clean_content_two">2 stavke</string>
   <string name="clean_content_zero">Ništa</string>
+  <string name="clean_ing">Brisanje…</string>
+  <string name="clean_item_tip_data_app">Izbriši podatke za %s</string>
+  <string name="clean_item_tip_reset_app">Poništi %s</string>
+  <string name="clean_item_tip_unload_app">Deinstaliraj %s</string>
   <string name="clean_master_icon_recall_button_text">Dodaj</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Ne hvala</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
@@ -214,6 +224,7 @@
   <string name="clean_master_icon_recall_title">Brže očistite smeće</string>
   <string name="clean_master_icon_recall_toast_text">Prečac uspješno dodan</string>
   <string name="clean_summary">Očišćeno: %1$s</string>
+  <string name="clear_app_data">Izbriši</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Widget u panelu obavijesti</string>
@@ -226,7 +237,10 @@
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="conn_of_function_safe">Mrežno povezivanje za Sigurnost</string>
   <string name="connecting">Povezivanje…</string>
+  <string name="continue_check">Odaberi</string>
+  <string name="continue_to_do">Nastavi</string>
   <string name="copy">Kopiraj</string>
+  <string name="data_selected">Odabrane stavke</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="dc_activity_title">Duboko čišćenje</string>
   <string name="dc_advise_delete">Oslobodite prostor</string>
@@ -288,13 +302,14 @@
   <string name="deepclean_video_summary_empty">Sve izgleda dobro</string>
   <string name="delete_confirm">Izbriši</string>
   <string name="delete_confirm_msg">Izbrisati trajno sve odabrane datoteke?</string>
+  <string name="delete_slected_data">Poništi</string>
   <string name="desc_image">Slika</string>
-  <string name="dialog_content_checkbox_delete_cloud_image">Izbriši i fotografije s Mi Clouda</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Izbriši fotografije i s Mi Clouda</string>
   <string name="dialog_content_delete_image_confirm">Izbrisati ovoliko %d fotografija?</string>
   <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Ne mogu dodati ovu datoteku u iznimke"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
-  <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
+  <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavki</string>
   <string name="dialog_msg_esc_cleanmaster">Zaustaviti skeniranje u tijeku?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>
   <string name="dialog_msg_stop_scan">"Zaustaviti skeniranje u tijeku?"</string>
@@ -513,8 +528,11 @@
   <string name="install_time_invalid">--</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
+  <string name="is_Scanning">Skeniranje…</string>
+  <string name="item_content_app_reset">%s zauzeto</string>
   <string name="international_Ad">Oglas</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
+  <string name="jump_to_next">Preskoči</string>
   <string name="junk_tag_RF_EmptyFolders">Prazne mape</string>
   <string name="junk_tag_RF_ImageThumbnails">Minijature Galerije</string>
   <string name="junk_temporary_file">Privremene datoteke</string>
@@ -651,9 +669,11 @@
   <string name="net_assistant_detail">Iskorišteno %1$s, ušteđeno %2$s</string>
   <string name="net_assistant_title">Iskorišteno %s mob. pod. ovaj mjesec</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
-  <string name="news_change">Promjeni</string>
+  <string name="news_change">Promijeni</string>
+  <string name="next_step">Dalje</string>
   <string name="no_network">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
+  <string name="not_selected_tips">Prvo odaberite aplikacije.</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_apk_clean_button_text">Očisti</string>
   <string name="notification_checker_installed_apk_hint">Nije potrebno zadržati APK nakon instalacije</string>
@@ -818,6 +838,9 @@
   <string name="recommend_news">Preporučeni izvori</string>
   <string name="recommend_the_following">Izvršite sljedeće radnje da bi dobili najviše iz vašeg uređaja</string>
   <string name="recommended">Istaknuto</string>
+  <string name="reset_app_dialog_summary">"Poništit ćete aplikacije koje ste odabrali. Svi njihovi podaci o aplikacijama (uključujući vaš status prijave, postavke, predmemorirane slike, videozapise, datoteke i chatove) bit će trajno izbrisani vraćajući aplikacije u početno stanje."</string>
+  <string name="reset_app_dialog_title">Poništavanje aplikacija</string>
+  <string name="reset_selected">Poništi %s</string>
   <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> se još datoteka može izbrisati. Oslobodite više prostora.</Data></string>
   <string name="resutl_function_qq_clean_summary"><Data>Možete očistiti &lt;font color=#ff0000 >%1$s&lt;/font> predmemorije koju generira QQ</Data></string>
   <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat predmemorije. Oslobodite više prostora.</Data></string>
@@ -836,6 +859,7 @@
   <string name="search_menu_title">Traži</string>
   <string name="security_center_slogan">Sigurnost. Uvijek na oprezu.</string>
   <string name="see_more">Više</string>
+  <string name="select_all">Odaberi sve</string>
   <string name="send">Pošalji</string>
   <string name="set_immediately">Postavi</string>
   <string name="seton_immediately">Uključi</string>
@@ -846,6 +870,7 @@
   <string name="similar_image_title">Fotografije</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponzorirano</string>
+  <string name="start_clean">Započni</string>
   <string name="start_downloading_app">Započni preuzimanje: %1$s</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="storage_activity_title">Prostor za pohranu</string>
@@ -899,6 +924,11 @@
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="tips_app_reset_dialog">Poništavanje maksimalno oslobađa prostor za pohranu bez deinstaliranja aplikacije. Međutim, svi podaci aplikacije (uključujući status vaše prijave, postavke, predmemorirane slike, videozapise, datoteke i chatove) aplikacije koju ste poništili bit će trajno izbrisani.</string>
+  <string name="tips_app_reset_result_page">Poništite aplikacije kako biste izbrisali sve njihove podatke i vratili ih u početno stanje</string>
+  <string name="tips_app_reset_top">Poništavanje vraća aplikacije u početno stanje i briše sve njihove podatke</string>
+  <string name="tips_app_specific_clean_result_page">Oslobodite prostor za pohranu</string>
+  <string name="tips_data_page">Pokušajte izbrisati podatke aplikacije da biste oslobodili prostor za pohranu</string>
   <string name="tips_low_storage_dialog_cancel">Odustani</string>
   <string name="tips_low_storage_dialog_msg_qq">Veličina QQ memorije dosegla je 3 GB. To može usporiti vaš uređaj. Želite li sada očistiti QQ predmemoriju?</string>
   <string name="tips_low_storage_dialog_msg_storage">"Koristite 90% prostora za pohranu. Deinstalirajte aplikacije koje ne upotrebljavate."</string>
@@ -919,6 +949,9 @@
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podataka u panelu obavijesti</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
   <string name="tips_of_virus_scan">Skenirajte redovito svoj uređaj za virusima da ga zadržite sigurnim</string>
+  <string name="tips_reset_page">Pokušajte poništiti aplikacije kako biste izbrisali sve njihove podatke i oslobodili prostor za pohranu</string>
+  <string name="tips_result_ad">Probati ove aplikacije u oslobođenom prostoru?</string>
+  <string name="tips_unload_page">"Pokušajte deinstalirati aplikacije koje niste koristili %d dana"</string>
   <string name="title_auto_cleaner">Podsjeti za čišćenje</string>
   <string name="title_delete_cache">Očisti predmemoriju aplik.</string>
   <string name="title_delete_clipboard">Sadržaj međuspremnika</string>
@@ -935,6 +968,7 @@
   <string name="title_of_traffic_notification">Statusna traka podataka</string>
   <string name="title_optimizer">Uvjeti i Odredbe</string>
   <string name="title_share_link">Podijeli poveznicu</string>
+  <string name="to_reset_app">Poništi</string>
   <string name="toast_add_white_list_success">Uspješno dodano u iznimke</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikacija nema pohranjenih datoteka na SD kartici"</string>
   <string name="toast_backup_is_running">Sig. kopija je već pokrenuta. Pričekajte malo i pokušajte ponovno.</string>
@@ -967,7 +1001,8 @@
   <string name="unit_gb">%s GB</string>
   <string name="unit_mb">%s MB</string>
   <string name="unlike">Ne hvala</string>
-  <string name="update_date_format">dd. MMM. yyyy</string>
+  <string name="update_date_format">dd.MM.yyyy</string>
+  <string name="updating_tips">Samo trenutak…</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="video_clean">Izbriši predmemorirane videozapise</string>
