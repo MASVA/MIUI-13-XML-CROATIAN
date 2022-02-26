@@ -419,6 +419,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="my_favorite">Moj favorit</string>
   <string name="need_install_wechat">Prvo instalirajte WeChat</string>
   <string name="no_install">Nije instalirano</string>
+  <string name="no_account_or_forget_password">Izraditi račun ili ste zaboravili zaporku?</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
   <string name="no_password_set">Nije postavljeno</string>

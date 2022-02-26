@@ -274,7 +274,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="hsv_space_color_saturation">Zasićenje</string>
   <string name="hsv_space_color_value">Vrijednost</string>
   <string name="intelligent_radio_btn_summary">Dinamički prilagodite brzinu osvježavanja na temelju scenarija kako biste uravnotežili performanse s potrošnjom energije</string>
-  <string name="intelligent_radio_btn_title">Autom. (preporučeno)</string>
+  <string name="intelligent_radio_btn_title">Zadano (preporučeno)</string>
   <string name="intelligent_recognition_item_summary">Koristite označenu melodiju zvona za pozive iz dostavnih i taxi usluga. Ova će značajka raditi kada je %s postavljen kao zadana melodija zvona.</string>
   <string name="intelligent_recognition_item_title">Identificiraj usluge</string>
   <string name="item_anura">Anura</string>

@@ -393,6 +393,10 @@
   <string name="reach_upper_limit">"Ne mogu dodati više timera"</string>
   <string name="read_external_storage_permission_desc">Za postavljanje prilagođenih melodija zvona</string>
   <string name="read_internal_storage">Pristup pohrani</string>
+  <string name="read_phone_state">Pristup informacijama o uređaju</string>
+  <string name="read_phone_state_desc">Pristup statusu poziva kada alarm zvoni</string>
+  <string name="read_phone_state_desc_when_request">Za pristup statusu poziva za automatsko pauziranje alarma prilikom primanja poziva</string>
+  <string name="remark_hint">Unesite oznaku</string>
   <string name="refresh_fail">Ne mogu osvježiti</string>
   <string name="refresh_success">Osvježavanje gotovo</string>
   <string name="refreshing">Osvježavanje</string>

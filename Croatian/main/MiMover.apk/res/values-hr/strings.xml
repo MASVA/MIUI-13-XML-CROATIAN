@@ -322,8 +322,8 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="install_new_app_link_text">Instalirajte Mi Mover na svoj novi uređaj kako biste se mogli povezati. Dodirnite za instaliranje.</string>
   <string name="instruction">Važne sigurnosne informacije</string>
   <string name="international_new_trans_intro_desc_8">Prijenos tekstualnih poruka spriječen je zbog problemom s kompatibilnošću. Aplikacije trećih strana možda ograničuju prijenos podataka svojih aplikacija iz sigurnosnih razloga.</string>
-  <string name="international_new_trans_intro_question_8">8. Zašto se tekstualne poruke i podaci aplikacija nekih aplikacija trećih strana ne mogu prenijeti?</string>
-  <string name="international_scanner_send_dialog_message">Poruke i podaci nekih aplikacija treće strane ne mogu biti prenešeni. Nemojte isključivati Wi-Fi ili mijenjati mreže tokom prijenosa.</string>
+  <string name="international_new_trans_intro_question_8">8. Zašto se tekstualne poruke i podaci nekih aplikacija trećih strana ne mogu prenijeti?</string>
+  <string name="international_scanner_send_dialog_message">Poruke i podaci nekih aplikacija treće strane ne mogu biti prenešeni. Nemojte isključivati Wi-Fi ili mijenjati mreže tijekom prijenosa.</string>
   <string name="label_null"/>
   <string name="lack_perm_msg">Mi Mover treba sljedeća dopuštenja da radi normalno: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Potrebna su dopuštenja</string>
@@ -448,7 +448,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="need_more_memory_title">Nema dovoljno prostora za pohranu</string>
   <string name="new_app_name">Nova verzija</string>
   <string name="new_main_activity_label">Mi Mover</string>
-  <string name="new_trans_intro_desc_2">Ne morate ukucati zaporku u novoj verziju Mi Mover-a. Samo otvorite Mi Mover na Vašem starom uređaju, dodirnite \"Šaljem\" i dodirnite ime hotspota na koji se želite priključiti.</string>
+  <string name="new_trans_intro_desc_2">Ne morate unijeti zaporku u novoj verziju Mi Mover-a. Samo otvorite Mi Mover na Vašem starom uređaju, dodirnite \"Šaljem\" i dodirnite ime hotspota na koji se želite priključiti.</string>
   <string name="new_trans_intro_desc_3">Mi Mover treba prostor za pohranu kako bi napravila paketa za prijenos na Vašem starom uređaju prije slanja na novi. Oslobidite prostor za pohranu za nastavak.</string>
   <string name="new_trans_intro_desc_4">Moguće da postoji problem s kompatibilnošću uređaja, sistema ili verzije aplikacije koji sprečava neke aplikacije da se uspješno prenesu.</string>
   <string name="new_trans_intro_desc_5">Neke aplikacije (npr. financijske usluge i alati za plaćanje) ne dozvoljavaju prijenos zaporki iz sigurnosnih razloga.</string>
