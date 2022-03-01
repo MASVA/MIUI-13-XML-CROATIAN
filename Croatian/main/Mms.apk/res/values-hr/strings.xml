@@ -544,8 +544,14 @@ Provjerite svoju SIM karticu."</string>
   <string name="mms_block_hint">"Ovaj pošiljatelj nije u vašim kontaktima.
 Ova poruka biti neželjena."</string>
   <string name="mms_block_hint_highlight">Blokiraj MMS</string>
-  <string name="mms_main_purpose">"Da biste pristupili punoj funkcionalnosti Poruka, uključite Mi Poruka i Smart Poruka."</string>
+  <string name="mms_main_purpose">"Da biste pristupili punoj funkcionalnosti Poruka, uključite Mi Poruke i Smart Poruke."</string>
+  <string name="mms_mi_message_main_purpose">Dobro došli u Mi Poruke! Za aktivaciju Mi Poruka potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku.</string>
+  <string name="mms_mi_message_request_notice">Želimo da maksimalno iskoristite Mi Poruke.</string>
+  <string name="mms_mx_privacy_policy">Pravila o privatnosti Mi Poruka</string>
+  <string name="mms_smart_msg_main_purpose">Pametna razmjena poruka može prepoznati ID-ove pošiljatelja, pružiti usluge pametnog izbornika i identificirati sumnjive poruke.</string>
+  <string name="mms_smart_msg_privacy_policy">Pravila o privatnosti za pametne poruke</string>
   <string name="mms_title">Poruke</string>
+  <string name="mms_user_agreement">Korisnički ugovor</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -1056,6 +1062,9 @@ Pogledajte one preporučene!"</string>
   <string name="suspected_fraud_link_tip">"Nesiguran URL. "</string>
   <string name="suspected_fraud_tip">Moguća prevara</string>
   <string name="system_permission_declare_privacy_link">Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše %1s.</string>
+  <string name="system_permission_declare_rcs">Dobro došli u 5G Messaging!</string>
+  <string name="system_permission_declare_smart_message">Dobro došli u Smart Messaging!</string>
+  <string name="system_permission_declare_user_agree">Prihvaćam</string>
   <string name="received_at_time">Primljeno: %1s</string>
   <string name="received_label">"Primljeno: "</string>
   <string name="recent_label">Nedavni kontakti</string>
@@ -1070,13 +1079,13 @@ Pogledajte one preporučene!"</string>
   <string name="recommend_bar_message_smart_message">Kopirajte jednokratne zaporke, pratite pakete, koristite pametne izbornike i još mnogo toga</string>
   <string name="recommend_bar_ok">Uključi</string>
   <string name="recommend_bar_title_mx_rcs">Mi Poruka</string>
-  <string name="recommend_bar_title_smart_message">Pametne poruke</string>
+  <string name="recommend_bar_title_smart_message">Smart poruke</string>
   <string name="recommend_both_dialog_title">Dobrodošli u Poruke!</string>
-  <string name="recommend_dialog_message">Možete uključiti Mi Poruku i Pametne poruke za pristup dodatnim značajkama.</string>
-  <string name="recommend_mx_dialog_title">Dobrodošli u Mi Poruka!</string>
-  <string name="recommend_mx_setting_summary">Mi Poruka omogućuje vam slanje poruka drugim korisnicima Mi Poruka putem interneta bez dodatnog troška.</string>
+  <string name="recommend_dialog_message">Možete uključiti Mi Poruke i Smart poruke za pristup dodatnim značajkama.</string>
+  <string name="recommend_mx_dialog_title">Dobrodošli u Mi Poruke!</string>
+  <string name="recommend_mx_setting_summary">Mi Poruke omogućuju vam slanje poruka drugim korisnicima Mi Poruka putem interneta bez dodatnog troška.</string>
   <string name="recommend_smart_sms_dialog_title">Dobrodošli u Smart Messaging!</string>
-  <string name="recommend_smart_sms_setting_summary">Pametne poruke pružaju prepoznavanje ID-a pošiljatelja i pametne izbornike.</string>
+  <string name="recommend_smart_sms_setting_summary">Smart poruke pružaju prepoznavanje ID-a pošiljatelja i pametne izbornike.</string>
   <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="red_package_btn">Otvori</string>
   <string name="refill_now">Nadoplati sada</string>
@@ -1295,6 +1304,7 @@ Pogledajte one preporučene!"</string>
   <string name="system_permission_declare_disagree">Odustani</string>
   <string name="system_permission_declare_double_link" formatted="false">Pročitajte i pristanite na naše %1s i %2s prije upotrebe ove značajke.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! %2s</string>
+  <string name="system_permission_declare_mi_message">Dobro došli u Mi Poruke!</string>
   <string name="system_permission_declare_no_say_no">"Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
   
 Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju."</string>
@@ -1335,6 +1345,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="system_permission_perm_write_mms">Dopustite aplikaciji Poruke pisanje MMS-a</string>
   <string name="system_permission_perm_write_sms">Dopustite aplikaciji Poruke pisanje SMS-a</string>
   <string name="system_permission_requested">Pitaj</string>
+  <string name="system_permission_user_privacy">Prije nego nastavite, pročitajte i prihvatite sljedeće odredbe i uvjete.</string>
   <string name="tab_finance">Financije</string>
   <string name="tab_message">Poruke</string>
   <string name="tab_promotions">Promocije</string>

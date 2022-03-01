@@ -50,6 +50,7 @@
   <string name="alert_message_delete_excerpt">Želite li izbrisati ovu bilješku? Isječak će se također izbrisati.</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
+  <string name="alert_message_edit_anyway_new">Ova bilješka sadrži nepodržani sadržaj. Njeno uređivanje može uzrokovati promjene formata ili gubitak podataka.</string>
   <string name="alert_message_restore">"Ne mogu otvoriti ovu bilješku. Obnovite je da možete urediti njen sadržaj."</string>
   <string name="alert_title_delete">Izbriši bilješku</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
@@ -258,6 +259,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_send_empty_note">"Ne mogu poslati praznu bilješku"</string>
   <string name="error_send_empty_note_to_weibo">"Ne mogu poslati praznu bilješku na Weibo"</string>
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje</string>
+  <string name="error_unsupport_content_format">Ova bilješka sadrži nepodržani sadržaj. Ažurirajte na verziju %1$s ili noviju.</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="exceed_todo_text_limitation">Opis zadatka je predugačak.</string>
   <string name="excerpt">Izradite isječak</string>
@@ -730,8 +732,14 @@ Dodirnite + da napravite mapu"</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="send">Pošalji</string>
   <string name="set_alarm_description">Postavi alarm</string>
+  <string name="setting_big_screen_layout_columns">Bočna traka</string>
+  <string name="setting_big_screen_layout_flat">Pločice</string>
+  <string name="setting_big_screen_layout_title">Izgled velikog zaslona</string>
+  <string name="setting_layout">Izgled</string>
+  <string name="setting_micloud_sync_title">Sinkronizacija s cloudom</string>
+  <string name="setting_note_list_layout_title">Izgled</string>
   <string name="setting_other">OSTALO</string>
-  <string name="setting_privacy">Pravila o Privatnosti</string>
+  <string name="setting_privacy">Pravila o privatnosti</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
   <string name="sina_share_fail_content_repeat">"Već ste podijelili ovo."</string>
   <string name="sina_share_pendding">Šaljem…</string>
@@ -926,6 +934,15 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="view_all_notes">Prikaži sve</string>
+  <string name="warn_cannot_add_new_bullet">"Ne mogu dodati novi popis s grafičkim oznakama jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_checkbox">"Novi potvrdni okvir nije moguće dodati jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_doodle">"Ne mogu dodati novi doodle jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_element">"Ne mogu dodati novu stavku jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_link_card">"Ne mogu dodati novu vezu jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_picture">"Ne mogu dodati novu sliku jer je bilješka predugačka"</string>
+  <string name="warn_cannot_add_new_style">"Nije moguće dodati novi format jer je bilješka predugačka"</string>
+  <string name="warn_disable_edit_in_browse_mode">"Ne možete uređivati bilješke u načinu samo za čitanje"</string>
+  <string name="warn_enter_browse_mode">"U načinu ste samo za čitanje"</string>
   <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="webview_reload">Pokušajte ponovo</string>

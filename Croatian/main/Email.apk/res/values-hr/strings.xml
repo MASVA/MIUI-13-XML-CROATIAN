@@ -147,7 +147,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="account_setup_correct_address_tips">Unesite adresu e-pošte</string>
   <string name="account_setup_creating_account_msg">Izrada računa…</string>
   <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
-  <string name="account_setup_domain_invalid_toast">Naziv domene e-pošte koji ste unijeli nije točan, provjerite</string>
+  <string name="account_setup_domain_invalid_toast">Unesite valjanu domenu e-pošte</string>
   <string name="account_setup_exchange_certificate_title">Certifikat klijenta</string>
   <string name="account_setup_exchange_device_id_label">ID mobilnog uređaja</string>
   <string name="account_setup_exchange_no_certificate">Ništa</string>
@@ -281,6 +281,9 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="attachment_decoding">Otvaranje privitka…</string>
   <string name="attachment_detail_empty_prompt">Odaberite datoteke</string>
   <string name="attachment_download_all">Preuzmi sve</string>
+  <string name="attachment_drag_add_inline">Ugradi</string>
+  <string name="attachment_drag_add_picture_prompt">Želite li ugraditi ili priložiti odabrane slike?</string>
+  <string name="attachment_drag_create_email_prompt">Želite li priložiti odabrane datoteke novoj e-pošti?</string>
   <string name="attachment_image">Slika</string>
   <string name="attachment_list_search_hint">Traži privitke</string>
   <string name="attachment_mgr_name">Privici</string>
@@ -387,15 +390,21 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="click_download_all_content">[ Dodirnite za preuzimanje sadržaja ]</string>
   <string name="click_to_reload">Dodirnite zaslon za osvježiti</string>
   <string name="close">Zatvori</string>
+  <string name="close_custom_folder">Sakrij podmape</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="compose">Nova poruka</string>
   <string name="compose_add_attachment_permission_denied">"Nije moguće proslijediti e-poštu. Potrebna su dopuštenja za pristup vanjskoj pohrani."</string>
+  <string name="compose_encrypt_lock_description">Šifriranje</string>
+  <string name="compose_encrypt_unlock_description">Dešifriranje</string>
+  <string name="compose_encrypt_unlock_w_description">Nije pouzdan kontakt</string>
   <string name="compose_attachment_number_limit">"Ne mogu dodati više od 10 privitaka"</string>
   <string name="compose_event">Poziv</string>
   <string name="compose_paste_address_oob">Umetnuti tekst je predugačak</string>
   <string name="compose_picturesexceedlimits">"Možete dodati više slika kao privitke"</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poslano</string>
+  <string name="compose_smime_sign_description">Primijeni potpis</string>
+  <string name="compose_smime_unsign_description">Ukloni potpis</string>
   <string name="compose_to_label">To</string>
   <string name="compress_failed_and_retry">"Nije moguće sažeti. Pokušajte ponovno."</string>
   <string name="compress_img">Sažimanje slika</string>
@@ -958,6 +967,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom provjerom autentičnosti računa
   <string name="message_invite_title">Kalendarska pozivnica</string>
   <string name="message_saved">Poruka je spremljena kao skica.</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
+  <string name="mi_slide_menu">Bočna traka</string>
   <string name="mi_sync_erroe_toast">"Došlo je do mrežne pogreške: "</string>
   <string name="mi_sync_erroe_toast_other">"Došlo je do pogreške poslužitelja: "</string>
   <string name="mibill_privacy_policy_button1">Kasnije</string>
@@ -1157,6 +1167,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="one_month">1 mjesec</string>
   <string name="one_week">1 tjedan</string>
   <string name="open_calendar_and_contacts_permission">Omogućite dopuštenja korištenja Kalendara i kontakata u postavkama</string>
+  <string name="open_custom_folder">Prikaži podmape</string>
   <string name="open_external_storage_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara i pohrane u postavkama</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara,kontakata i pohrane u postavkama</string>
   <string name="open_external_storage_and_contacts_permission">Omogućite dopuštenja korištenja kontakata u postavkama</string>
@@ -1228,9 +1239,12 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="pdf_save_error">"Nije moguće pretvoriti u PDF. Ova je poruka preduga."</string>
   <string name="pdf_save_no_body">Pričekajte da se poruka u potpunosti učita prije pretvaranja u PDF</string>
   <string name="pdf_save_to">"Spremljeno u "</string>
+  <string name="pdf_signature_add">Dodajte novi potpis</string>
   <string name="pdf_signature_create_title">Nacrtajte svoj potpis</string>
+  <string name="pdf_signature_delete">Izbriši potpis</string>
   <string name="pdf_signature_manager_max_count">"Nije moguće dodati više potpisa. Izbrišite starije potpise da biste dodali nove."</string>
-  <string name="pdf_signature_manager_title">Manage signatures</string>
+  <string name="pdf_signature_manager_title">Upravljajte potpisima</string>
+  <string name="pdf_signature_select">Odaberi potpis</string>
   <string name="pdf_viewer_actionbar_more_other">Druge aplikacije</string>
   <string name="pdf_viewer_actionbar_more_wps">Otvori u WPS</string>
   <string name="pdf_viewer_file_damage_toast">PDF datoteka je oštećena. Provjerite ovu datoteku i pokušajte ponovno.</string>
@@ -1486,6 +1500,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="select_path">Odaberi putanju</string>
   <string name="selected_lable">Odabrano</string>
   <string name="send">Pošalji</string>
+  <string name="selected">Odabrano</string>
   <string name="send_att_title">Upozorenje</string>
   <string name="send_encrypt_dialog_fail_content">Ova se e-pošta ne može šifrirati jer primatelj nema certifikat pouzdanog potpisa. Da li se ova e-pošta šalje u nekodiranom obliku?</string>
   <string name="send_encrypt_dialog_fail_title">Nije moguće poslati šifriranu poštu</string>
@@ -1732,7 +1747,7 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="wait_for_sync_title">Čekaj na sinkr.</string>
   <string name="wait_help_context">Na čekanju</string>
   <string name="wait_while_update_db">Pričekajte trenutak tijekom nadogradnje baze podataka!</string>
-  <string name="web_view_load_error_tip">"Tijelo ove e-poruke nije se moglo ispravno prikazati. Prijavite nam ovaj problem u našoj QQ grupi (952315061)."</string>
+  <string name="web_view_load_error_tip">"Vaš se preglednik srušio. Preuzmite najnoviju verziju Webviewa s Google Playa da biste pomogli u rješavanju ovog problema."</string>
   <string name="webview_logout">Da li stvarno želite odustati od prijave? Dođite i pokušajte ponovno!</string>
   <string name="webview_logout_cancel">"Ne želim više pokušavati"</string>
   <string name="webview_logout_sure">Pokušaj još jednom</string>

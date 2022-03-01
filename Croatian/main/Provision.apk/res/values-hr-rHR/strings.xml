@@ -532,6 +532,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_statistics">Statistika</string>
   <string name="terms_of_use_label_systemhelper">Usluga samoregistracije</string>
   <string name="terms_of_use_label_translation">Usluga prevođenja</string>
+  <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi verzija)</string>
   <string name="terms_of_use_label_updater">Ažuriranje</string>
   <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
   <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Politiku oprivatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>

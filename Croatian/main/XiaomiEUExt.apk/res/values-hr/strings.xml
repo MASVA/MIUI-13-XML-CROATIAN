@@ -30,6 +30,7 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add">Dodaj</string>
   <string name="app_name">Xiaomi.eu Extension</string>
+  <string name="auto">Automatski</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="confirm_reset">Potvrdite resetiranje</string>
@@ -144,5 +145,6 @@
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="wifi_region">Wi-Fi regija</string>
   <string name="yesterday">Jučer</string>
 </resources>

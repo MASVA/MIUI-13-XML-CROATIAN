@@ -190,9 +190,9 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
    <string name="pa_express_empty_extra">Prati</string>
    <string name="pa_express_empty_title">Ovdje nema podataka o isporuci</string>
    <string name="pa_express_i_known">U redu</string>
+   <string name="pa_express_input_again">Ponovno unesite</string>
    <string name="pa_express_inqiury_select_logistics">Odaberite kurirsku uslugu</string>
    <string name="pa_express_inquiry">Provjeri narudžbu</string>
-
    <string name="pa_express_inquiry_frequently_used_logistics">Popularno</string>
    <string name="pa_express_inquiry_no_history">Ovdje još ništa</string>
    <string name="pa_express_install_scan_toast">Instalirajte Scanner da biste mogli koristiti ovu značajku.</string>
@@ -203,6 +203,9 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
    <string name="pa_express_manual_query_hint">Unesite broj narudžbe za pretraživanje</string>
    <string name="pa_express_manual_select_company">Odaberi</string>
    <string name="pa_express_manual_select_company_toast">Odaberite kurirsku službu</string>
+   <string name="pa_express_query_fail_content_input_again">"Nisam mogao pronaći informacije o vašoj ekspresnoj dostavi. Provjerite svoj broj za praćenje i pokušajte ponovo."</string>
+   <string name="pa_express_query_fail_content_manual_select">"Nisam mogao pronaći informacije o vašoj ekspresnoj dostavi. Umjesto toga pokušajte ručno odabrati tvrtku za dostavu."</string>
+   <string name="pa_express_query_fail_title">"Ne mogu dobiti informacije"</string>
    <string name="pa_express_order_number">Broj narudžbe: %s</string>
    <string name="pa_express_phone_binding_input_verifacation_code">Unesite kôd</string>
    <string name="pa_express_phone_binding_next_step">Sljedeće</string>
@@ -271,7 +274,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
    <string name="pa_express_tail_number">Broj narudžbe: %1$s</string>
    <string name="pa_express_title">Brza dostava</string>
    <string name="pa_express_widget_logout">Prijavite se da pratite svoje pakete</string>
-   <string name="pa_express_widget_order_42">Pratite paket</string>
+   <string name="pa_express_widget_order_42">Unesite broj za praćenje</string>
    <string name="pa_express_widget_post">Pošalji paket</string>
    <string name="pa_finish">Gotovo</string>
    <string name="pa_guide_dialog_desc">Pritisnite i držite widget za preuređivanje. Dodirnite plus za dodavanje više widgeta.</string>
@@ -354,13 +357,13 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
    <string name="pa_picker_detail_download_maml_dialog_title">Upozorenje o korištenju podataka</string>
    <string name="pa_picker_detail_edit_maml_net_unavailable">"Nisam se mogao povezati s mrežom. Provjerite postavke mreže i pokušajte ponovo."</string>
    <string name="pa_picker_detail_install_tip_un_install">Prvo instalirajte aplikaciju</string>
-
    <string name="pa_picker_detail_install_tip_un_upgrade">Prvo ažurirajte aplikaciju</string>
    <string name="pa_picker_detail_launcher_screen_lock">"Izgled vašeg početnog zaslona je zaključan. Ne mogu dodati widgete."</string>
-   <string name="pa_picker_detail_maml_download_error">"Nije moguće preuzeti"</string>
+   <string name="pa_picker_detail_maml_download_error">"Ne mogu preuzeti"</string>
+   <string name="pa_picker_detail_maml_downloading">Preuzimanje stavki…</string>
    <string name="pa_picker_detail_modify_maml">Uredi</string>
    <string name="pa_picker_detail_net_error">Mrežna pogreška. Dodirnite za ponovni pokušaj.</string>
-   <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Samo sekundu...</string>
+   <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Samo trenutak…</string>
    <string name="pa_picker_detail_small_widget">Widgeti</string>
    <string name="pa_picker_detail_theme_app_cta">Postavke</string>
    <string name="pa_picker_detail_theme_app_cta_pre">"Da biste mogli koristiti ovaj widget, prvo dopustite Temama da se povežu s internetom. "</string>
