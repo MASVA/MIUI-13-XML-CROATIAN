@@ -1664,7 +1664,7 @@ podatke o spavanju"</string>
   <string name="tb_sleep_index_info">%1$s. Dodirnite za prikaz detalja.</string>
   <string name="tb_sleep_index_title">Prebaci na %1$s</string>
   <string name="tb_sleep_ring_info">%1$s. Spavanje: %2$s. Dodirnite za prikaz detalja.</string>
-  <string name="tb_snore_detection_main">O značajkama koje se odnose na pričanje i hrkanje: %1%s. Prijeđite prstom vodoravno po gornjem dijelu zaslona da biste otišli na sljedeću stranicu.</string>
+  <string name="tb_snore_detection_main">O značajkama koje se odnose na pričanje i hrkanje: %1$s. Prijeđite prstom vodoravno po gornjem dijelu zaslona da biste otišli na sljedeću stranicu.</string>
   <string name="tb_snore_view_info">Grafikon pričanja i hrkanja</string>
   <string name="tb_stand_card_finish_stand">Danas, %1$s je akumulirao stajanje, cilj je završiti stajanje za 12 sati, trenutno vrijeme je %2$s-%3$s, stajanje je dovršeno</string>
   <string name="tb_stand_card_not_finish_stand">Danas, %1$s je dovršio stajanje, cilj je završiti stajanje za 12 sati, trenutno vrijeme je %2$s-%3$s, i stajanje je dovršeno</string>

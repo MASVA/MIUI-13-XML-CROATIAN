@@ -195,6 +195,7 @@
   <string name="click_for_create_event">Kliknite da izradite događaj za %s</string>
   <string name="click_paste">Kliknite za lijepljenje</string>
   <string name="click_to_share">Dodirnite za dijeljenje</string>
+  <string name="close">Zatvori</string>
   <string name="close_alarm">Isključi</string>
   <string name="color_picker_default_title">Odaberite boju</string>
   <string name="color_swatch_description">Boja %1$d</string>
@@ -266,6 +267,7 @@
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="date_jump_hint">Skoči izravno na određeni dan</string>
   <string name="date_jump_title">Skoči na datum</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="date_today">" (danas) "</string>
   <string name="date_view">Datum</string>
   <string name="day_picker_description">Mjesečna rešetka dana</string>
@@ -429,6 +431,7 @@
   <string name="guide_card_title">Uvezi rođendane</string>
   <string name="guide_setting">Navedite sljedeće podatke za dobivanje točne statistike o menstruaciji</string>
   <string name="hide_controls">Sakrij kontrole</string>
+  <string name="hide_menstruation_info">Sakrij informacije o menstruaciji</string>
   <string name="hint_attendees">Gosti</string>
   <string name="hint_description">Opis</string>
   <string name="hint_time_zone_search">Upišite naziv zemlje</string>
@@ -543,6 +546,8 @@
   <string name="miuishare_title_share">Podijeli</string>
   <string name="miuishare_wechat_timeline_title">WeChat Momenti</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -557,6 +562,8 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osvježeno</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -639,6 +646,7 @@
   <string name="monthly_on_day">Mjesečno (isti datum)</string>
   <string name="monthly_on_day_count">Mjesečno (%1$s)</string>
   <string name="more">Više</string>
+  <string name="more_details">Više informacija</string>
   <string name="more_string">+%1$d</string>
   <string name="morning">AM</string>
   <string name="movie_card_read_more">Read more</string>
@@ -896,6 +904,9 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="saving_event">Događaj spremljen</string>
   <string name="saving_event_with_guest">Slanje ažuriranja…</string>
   <string name="search">Traži</string>
+  <string name="search_calendar">"Datum;Solarni uvjeti;Lunar;Almanah;Fortune;Agenda;Sastanak;Podsjetnik;Odmor;Praznik;Rođendan;2016;2017;Proljetni festival;Nova godina;Međunarodni praznik rada;Sredina jeseni Festival"</string>
+  <string name="search_calendar_edit_event">Sastanak;Podsjetnik;Dnevni red</string>
+  <string name="search_calendar_settings">Kalendar;Raspored;Podsjetnik</string>
   <string name="search_events">Traži događaje</string>
   <string name="search_history">Povijest pretraživanja</string>
   <string name="search_history_cleared">Povijest pretraživanja je izbrisana</string>
@@ -914,6 +925,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
   <string name="select_weekly_off_dialog_title">Odaberite slobodne dane</string>
   <string name="select_year">Odaberite godinu</string>
+  <string name="send">Pošalji</string>
   <string name="service_rejected_temporarily">Certifikat je privremeno odbijen</string>
   <string name="set_interval">Postavi interval</string>
   <string name="set_reminder">Postavi podsjetnik</string>
@@ -958,6 +970,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_indic_date_summary">Indijski kalendar dostupan je kad je jedan od indijskih jezika postavljen kao jezik vašeg sustava</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
+  <string name="show_menstruation_info">Prikaži informacije o menstruaciji</string>
   <string name="show_older_events">Dodirnite za pregled događaja prije %1$s</string>
   <string name="simple_date_format">dd.MM.yyyy</string>
   <string name="single_selected_holiday">%1$s je slobodan dan</string>
