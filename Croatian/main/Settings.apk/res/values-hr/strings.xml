@@ -12568,7 +12568,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_protection_tip">MIUI će zaštititi vaše osobne podatke od Wi-Fi probe zahtjeva koji dolaze od nasumičnih MAC adresa i Wi-Fi probe sniffers-a kada vaš uređaj traži Wi-Fi mreže.</string>
   <string name="wifi_quick_toggle_summary">Uključi Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
-  <string name="wifi_region_summary">Postavite regiju za korištenje za Wi-Fi (ponovno se povežite za primjenu)</string>
+  <string name="wifi_region_summary">Zahtijeva ponovno pokretanje Wi-Fi-ja da bi stupilo na snagu</string>
   <string name="wifi_region_title">Wi-Fi regija</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_remembered_disabled_auto_connect">Spremljeno. Automatsko povezivanje je isključeno.</string>

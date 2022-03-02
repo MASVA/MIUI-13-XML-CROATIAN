@@ -359,6 +359,9 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="exo_download_downloading">Preuzimanje…</string>
   <string name="exo_download_failed">"Ne mogu preuzeti"</string>
   <string name="exo_download_notification_channel_name">Preuzimanja</string>
+  <string name="exo_download_paused">Preuzimanja su pauzirana</string>
+  <string name="exo_download_paused_for_network">Preuzimanja čekaju na mrežu</string>
+  <string name="exo_download_paused_for_wifi">Preuzimanja čekaju Wi-Fi</string>
   <string name="exo_download_removing">Uklanjanje preuzimanja</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_role_alternate">Alternativa</string>
