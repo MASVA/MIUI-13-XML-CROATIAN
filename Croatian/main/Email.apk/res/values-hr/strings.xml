@@ -82,6 +82,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="account_settings_description_label">Naziv računa</string>
   <string name="account_settings_display">Prikaz</string>
   <string name="account_settings_does_not_support_pop">"Ova značajke nije podržana od strane POP3"</string>
+  <string name="account_settings_does_not_support_pop_attachment">"POP3 može automatski preuzimati privitke, ali ih ne može uređivati"</string>
   <string name="account_settings_edit_quick_responses_label">Brzi odgovor</string>
   <string name="account_settings_edit_quick_responses_summary">Uredite kratke poruke za unos u e-poštu</string>
   <string name="account_settings_enforced_label">Pravila</string>
@@ -516,6 +517,10 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="del_account_questionnair_hint">"Možete li nam reći zašto brišete ovaj račun?"</string>
   <string name="delete">Izbriši</string>
   <string name="delete_contact_content">Želite li izbrisati ovaj kontakt?</string>
+  <string name="delete_message_dialog_content">Želite li izbrisati ovu e-poruku i blokirati pošiljatelja?</string>
+  <string name="delete_message_dialog_left_button">Izbriši i blokiraj</string>
+  <string name="delete_message_dialog_right_button">Samo izbriši</string>
+  <string name="delete_message_dialog_title">Brisanje e-pošte</string>
   <string name="delete_message_event">Želite li izbrisati ovu pozivnicu?</string>
   <string name="delete_message_flow">Izbriši protok poruka</string>
   <string name="delete_message_flow_keywords">Izbriši protok poruka;Izbriši preusmjerene</string>
@@ -720,6 +725,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="from_heading">"Šalje: "</string>
   <string name="general_preference_confirm_delete_label">Potvrdi prije brisanja</string>
   <string name="general_preference_confirm_send_label">Potvrdi prije slanja</string>
+  <string name="general_preference_delete_message_prompt_title">Pitaj prije brisanja</string>
   <string name="general_preference_load_picture">Učitaj online slike</string>
   <string name="general_preference_str_auto_translation">Brzi prijevod</string>
   <string name="general_preference_str_auto_translation_prompt">Kopirajte tekst da biste vidjeli prijevod</string>
@@ -787,7 +793,8 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
   <string name="installation_failed">Instalacija nije uspjela.</string>
   <string name="installing_module">Instaliranje modula:</string>
   <string name="interact_with_server_error">"Povezivanje s poslužiteljem nije uspjelo"</string>
-  <string name="invalid_recipient">Adresa %s nije važeća.</string>
+  <string name="invalid_recipient_dialog_message">Unesite valjanu adresu e-pošte primatelja</string>
+  <string name="invalid_recipient_dialog_title">"Nije moguće poslati"</string>
   <string name="invalid_recipient_title">Pogreška primatelja</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="kilobytes">%s KB</string>
@@ -1461,6 +1468,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="request_permission_activity">Traženje dopuštenja</string>
   <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
+  <string name="respond_inline_text">Uredi originalnu e-poštu</string>
   <string name="resume_draft">Uredi</string>
   <string name="retry">Pokušajte ponovo</string>
   <string name="retry_login">Prijavite se ponovno</string>
@@ -1562,6 +1570,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="show_images_all">Učitajte i prikažite sve slike</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="show_server_cet">Pogledajte certifikat</string>
+  <string name="shrink">Sažmi</string>
   <string name="sign_in_dialog_office365">Office 365</string>
   <string name="sign_in_dialog_outlook_enterprise">Outlook za posao (bez kalendara)</string>
   <string name="sign_in_dialog_outlook_exchange">EXCHANGE (s kalendarom)</string>
