@@ -93,6 +93,8 @@ ID vašeg računa: %s"</string>
   <string name="agreement_and_privacy">Uvjeti i odredbe</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
+  <string name="area_code_no_search_result">"Nisam mogao pronaći rezultate"</string>
+  <string name="area_code_search_hint">Tražite zemlju ili regiju</string>
   <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
   <string name="authorize_title">Autorizacija</string>
   <string name="bind_facebook">Povežite svoj Facebook račun</string>
@@ -611,7 +613,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_talkback_voice_captcha">Reproduciraj glasovni kontrolni kôd</string>
   <string name="passport_ticket_login_select_sim_card">Odaberite SIM karticu</string>
   <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+  <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM1: %s</string>
   <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+  <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM2: %s</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Odustani</string>
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>

@@ -1885,6 +1885,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
   <string name="gamebox_brightness">Svjetlina</string>
   <string name="gamebox_browser_not_find">Instalirajte najprije Mi Preglednik</string>
+  <string name="gamebox_bullet_chat">Komentari na zaslonu</string>
   <string name="gamebox_collimator">Pogled</string>
   <string name="gamebox_display_1">Ništa</string>
   <string name="gamebox_display_2">Zasićeno</string>
@@ -1986,6 +1987,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_dialog_record_way_ai">AI snimke se spremaju u gamebox i tamo se pohranjuju 7 dana.</string>
   <string name="gb_dialog_record_way_finish">Gotovo</string>
   <string name="gb_dialog_record_way_manual">Snimite videozapise duge do 30 sekundi ručno</string>
+  <string name="gb_dialog_record_way_manual_desc" formatted="false">Ručno snimite %d-%d sekundi videozapisa tijekom sesije igre.</string>
+  <string name="gb_dialog_record_way_setting_tip_one">Povećana potrošnja energije i kašnjenje</string>
+  <string name="gb_dialog_record_way_setting_tip_title">Ova značajka može uzrokovati sljedeće probleme:</string>
+  <string name="gb_dialog_record_way_setting_tip_two">Sukobi s drugim snimačima zaslona</string>
   <string name="gb_dialog_record_way_setting_tips">Napomena: Snimanje vaših sesija igranja zahtijeva veću potrošnju energije što može rezultirati kašnjenjem.</string>
   <string name="gb_dialog_record_way_title">Odaberite način snimanja</string>
   <string name="gb_first_guide_function_shiled_title">Isključi značajke sustava kada je Game Turbo uključen</string>
@@ -2014,6 +2019,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_game_video_page_null">Zabilježite ključne trenutke svog igranja</string>
   <string name="gb_game_video_record_finish_tips">Spremljen ručno snimljeni videozapis u Game Turbo</string>
   <string name="gb_game_video_save">Spremi</string>
+  <string name="gb_game_video_save_tip">Uspješno spremljeno</string>
   <string name="gb_game_video_type_ai">AI</string>
   <string name="gb_game_video_type_ai_record">Snimi koristeći AI</string>
   <string name="gb_game_video_type_manual">Ručno</string>
@@ -2024,6 +2030,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_gpu_driver_update_app">Ažuriraj</string>
   <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je ažurna</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
+  <string name="gb_manual_video_record_title">Snimke</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -2043,13 +2050,22 @@ uz smanjenje brzine osvježavanja i ograničenja temperature"</string>
   <string name="gb_performance_tips">"Način rada Performanse poboljšava grafičke performanse,
 ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg uređaja"</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
+  <string name="gb_shoulder_guide_message1">Pomaknite [L] na bilo koji funkcionalni položaj da biste ga koristili putem Pop-up tipke.</string>
+  <string name="gb_shoulder_guide_message2">Akcija [1] se aktivira pritiskom na gumb. Akcija [2] se aktivira otpuštanjem tipke.</string>
+  <string name="gb_shoulder_guide_tips1">Otvorite okvir s alatima i konfigurirajte okidače skočnih prozora</string>
+  <string name="gb_shoulder_guide_title1">Radnja</string>
+  <string name="gb_shoulder_guide_title2">Slijed</string>
   <string name="gb_shoulder_key">Pop-up tipke</string>
   <string name="gb_shoulder_key_add_show_btn">Pokažite virtualne tipke tijekom igres</string>
   <string name="gb_shoulder_key_add_tips">Pomaknite tipke [L] i [D] u bilo koji funkcijski položaj i koristite ih putem Pop-up tipke</string>
   <string name="gb_shoulder_key_btn_cancel">Odustani</string>
   <string name="gb_shoulder_key_btn_save_exit">Spremi</string>
   <string name="gb_shoulder_key_circle_left">L</string>
+  <string name="gb_shoulder_key_circle_left_sub1">L1</string>
+  <string name="gb_shoulder_key_circle_left_sub2">L2</string>
   <string name="gb_shoulder_key_circle_right">D</string>
+  <string name="gb_shoulder_key_circle_right_sub1">D1</string>
+  <string name="gb_shoulder_key_circle_right_sub2">D2</string>
   <string name="gb_shoulder_key_dialog_message">"Možete koristiti oba gumba za pokretanje Game Turbo -a kada ne igrate igre."</string>
   <string name="gb_shoulder_key_dialog_txt">Game Turbo možete uključiti pomoću Pop-up tipke.</string>
   <string name="gb_shoulder_key_guide_btn_done">Razumijem</string>
@@ -2058,14 +2074,22 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_shoulder_key_guide_tips1">Otvorite okvir s alatima i konfigurirajte Pop-up tipke</string>
   <string name="gb_shoulder_key_light_effect">Animacije u boji</string>
   <string name="gb_shoulder_key_light_effect_color">Boja</string>
-  <string name="gb_shoulder_key_light_effect_subtitle">"Animacije u boji bit će prikazane kada su gumbi uključeni i dok igrate igre"</string>
+  <string name="gb_shoulder_key_light_effect_subtitle">"Animacije u boji bit će prikazane kada su tipke uključene i dok igrate igre"</string>
   <string name="gb_shoulder_key_light_effect_title">Animacije</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Pomaknite tipke [L] i [D] u bilo koji funkcijski položaj da biste dovršili konfiguraciju</string>
   <string name="gb_shoulder_key_settings_guide_tips2">Upotrijebite Pop-up tipke za značajke koje ste im dodijelili tijekom igara</string>
-  <string name="gb_shoulder_key_settings_summary">"Koristite oba gumba da biste pokrenuli Game Turbo kada ne igrate igre"</string>
-  <string name="gb_shoulder_key_settings_title">Koristite gumbe za Game Turbo</string>
+  <string name="gb_shoulder_key_settings_summary">"Koristite obje tipke da biste pokrenuli Game Turbo kada ne igrate igre"</string>
+  <string name="gb_shoulder_key_settings_title">Koristite tipke za Game Turbo</string>
   <string name="gb_shoulder_key_settings_title_new">Quick start Game Turbo</string>
-  <string name="gb_sign_gift_button_text">Promaj</string>
+  <string name="gb_shoulder_set_left_right">Postavite [%s]</string>
+  <string name="gb_shoulder_set_title">Uključite Pop-up tipke da biste ih konfigurirali</string>
+  <string name="gb_shoulder_set_title2">Premjestite [%s] na bilo koju funkcionalni položaj i upotrijebite je putem Pop-up tipke</string>
+  <string name="gb_shoulder_single_trigger">Radnja</string>
+  <string name="gb_shoulder_subsection_down">Pritisnite</string>
+  <string name="gb_shoulder_subsection_trigger">Slijed</string>
+  <string name="gb_shoulder_subsection_up">Oslobodite</string>
+  <string name="gb_shoulder_update_left_right">Uredi %s</string>
+  <string name="gb_sign_gift_button_text">Primanje</string>
   <string name="gb_sign_notification_summary">Igrajte igre bez kašnjenja mreže</string>
   <string name="gb_sign_notification_title">Isprobajte Game Turbo besplatno</string>
   <string name="gb_signed_gift_loading_fail">"Ne mogu učitati"</string>
@@ -3204,7 +3228,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
   <string name="pc_fast_charge_notifi_power_threshold_title">Postavite razinu napunjenosti baterije za podsjetnike</string>
   <string name="pc_fast_charge_notifi_summary">Punjenje do %s brže nego inače…</string>
-  <string name="pc_fast_charge_notifi_summary_on">Ova značajka može zagrijati vaš uređaj</string>
+  <string name="pc_fast_charge_notifi_summary_on">Brzina punjenja se povećava kada je zaslon isključen. Vaš uređaj će se zagrijati.</string>
   <string name="pc_fast_charge_notifi_switch_summary">Obavijestite o povećanju brzine punjenja kada je isporučeni punjač %dW priključen i baterija je ispod zadane razine</string>
   <string name="pc_fast_charge_notifi_switch_title">Obavijesti o povečavanju</string>
   <string name="pc_fast_charge_notifi_title">%dW punjenje</string>
@@ -4360,6 +4384,7 @@ Povući suglasnost sada?"</string>
   <string name="result_sms_title_auth">Postoji rizik otkrivanja financijskih SMS-a</string>
   <string name="result_virus_header">Pronađeno %d virusa i nesigurnih aplikacija</string>
   <string name="result_wifi_header">Otkriven Wi-Fi rizk</string>
+  <string name="resume">Vrati</string>
   <string name="right_precent">100%</string>
   <string name="risk_app_install_agree_button">Vjeruj ovoj aplikaciji</string>
   <string name="risk_app_install_agree_checkbox">"Spreman sam preuzeti sve moguće rizike."</string>
@@ -5822,7 +5847,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_3d">Surround zvuk</string>
   <string name="vb_video_effects_3d_summary">Povećajte dubinu reprodukcije zvuka za slušalice i zvučnike</string>
   <string name="vb_video_effects_3d_summary_headset">Povećajte osjećaj uronjenosti i zaobljenosti pri slušanju zvuka u slušalicama</string>
-  <string name="vb_video_effects_3d_surround">Surround zvuk</string>
+  <string name="vb_video_effects_3d_surround">Virtualni imerzivni zvuk</string>
   <string name="vb_video_effects_display_style">Stil</string>
   <string name="vb_video_effects_dolby">Dolby Atmos</string>
   <string name="vb_video_effects_dolby_dialog_enhancer">Pojačani dijalog</string>

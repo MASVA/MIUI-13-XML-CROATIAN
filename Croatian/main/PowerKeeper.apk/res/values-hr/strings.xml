@@ -135,6 +135,7 @@
   <string name="high_temp_benchmark_state_message">"Čini se da je ovaj uređaj sada pregrijan. Koristite ovu aplikaciju nakon što se uređaj ohladi: "</string>
   <string name="high_temp_state">Pregrijavanje</string>
   <string name="high_temp_state_message">Vaš uređaj je pregrijan. Mobilni podaci, Wi-Fi hotspotovi, GPS i kamera bit će ograničeni.</string>
+  <string name="high_temp_state_message_orange_es">Neke se aplikacije nisu mogle privremeno koristiti za poboljšanje performansi telefona.</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="important_warning">Pažnja</string>

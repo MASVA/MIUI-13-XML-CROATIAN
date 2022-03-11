@@ -88,4 +88,8 @@
         <item quantity="other">" koraka"</item>
         <item quantity="one">" korak"</item>
     </plurals>
+	<plurals name="area_code_search_result_size">
+        <item quantity="other">Pronađeno %d rezultata</item>
+        <item quantity="one">Pronađen %d rezultat</item>
+    </plurals>
 </resources>
