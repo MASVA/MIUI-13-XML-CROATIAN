@@ -89,4 +89,15 @@
         <item>WhatsApp spremač statusa</item>
         <item>Privatne datoteke</item>
     </string-array>
+	 <string-array name="nf_ad_feedback_reason">
+         <item>Nije zanimljivo</item>
+         <item>Ponavlja se</item>
+         <item>Niska kvaliteta</item>
+         <item>Neprikladna fotografija</item>
+         <item>Lažne informacije</item>
+     </string-array>
+     <string-array name="setting_swipe_up_target">
+        <item>Traži</item>
+         <item>Vijesti</item>
+		</string-array>
 </resources>
