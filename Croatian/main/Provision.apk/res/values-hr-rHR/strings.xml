@@ -472,11 +472,9 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="sim_card_detection_info_sb">"Umetnite SIM karticu prije nego nastavite. Pronađi uređaj i funkcije povezane sa sinkronizacijom neće vam biti u potpunosti dostupne ako stvorite račun bez SIM kartice. Ovaj uređaj podržava eSIM. "</string>
   <string name="sim_card_detection_info_sb_esim">Dodirnite da biste aktivirali eSIM.</string>
   <string name="sim_card_detection_mobile_not_available">"SIM kartica ne može se povezati na mrežu"</string>
-  <string name="sim_card_dial_card1">SIM 1 za pozive</string>
-  <string name="sim_card_dial_card2">SIM 2 za pozive</string>
+  <string name="sim_card_dial_card">SIM %d za pozive</string>
   <string name="sim_card_do_not_select_dial_card">Odaberite SIM karticu prilikom biranja</string>
-  <string name="sim_card_network_card1">Podatkovni SIM 1</string>
-  <string name="sim_card_network_card2">Podatkovni SIM 2</string>
+  <string name="sim_card_network_card">Podatkovni SIM %d</string>
   <string name="sim_card_detection_sb_esim">Aktiviraj eSIM&gt;</string>
   <string name="sim_card_detection_sb_nonactivated">Nije aktivirano</string>
   <string name="sim_dectection_next">Nastavi</string>

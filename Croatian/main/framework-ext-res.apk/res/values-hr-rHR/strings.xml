@@ -13,6 +13,7 @@
   <string name="android_ringtone_default_with_actual">Zadana melodija zvuka (%1$s)</string>
   <string name="android_ringtone_silent">Ništa</string>
   <string name="android_ringtone_unknown">Nepoznata melodija zvona</string>
+  <string name="app_continuity_channel_name">Kontinuitet aplikacije</string>
   <string name="application_cannot_open_alipay_health_code">"Ne mogu otvoriti zdravstveni kod Alipay"</string>
   <string name="application_cannot_open_alipay_payment_code">"Ne mogu otvoriti Alipay kôd plaćanja"</string>
   <string name="application_cannot_open_alipay_scanner">"Ne mogu otvoriti Alipay skener"</string>
@@ -260,6 +261,7 @@
   <string name="miaudiovisual_notification_title">Zvučni i vizualni efekti</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">"Ne mogu isključiti, uređaj je zaključan."</string>
+  <string name="miui_landscape_compat_toast">"Ne može biti prikladno za sklopivi uređaj dok koristite aplikaciju u pejzažnom načinu, preporuča se koristiti u portretnom načinu"</string>
   <string name="miui_multiwindow_not_support_cvw">"Ne može se prilagoditi veličina prozora za ovu aplikaciju"</string>
   <string name="miui_multiwindow_not_support_small_window">"%1$s ne podržava plutajuće prozore"</string>
   <string name="miui_multiwindow_not_support_split">"%1$s ne podržava podijeljeni zaslon"</string>
@@ -335,11 +337,15 @@
   <string name="redmi_note_5">Redmi Note 5</string>
   <string name="redmi_note_7">Redmi Note 7</string>
   <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+  <string name="relaunch_action">Ponovo pokreni aplikaciju</string>
   <string name="relaunch_dialog_alwaysUsePrompt">Zapamti moj izbor</string>
   <string name="relaunch_dialog_button_cancel">Odustani</string>
   <string name="relaunch_dialog_button_confirm">U redu</string>
   <string name="relaunch_dialog_message">"Ne možete prilagoditi veličinu prozora dok upotrebljavate aplikaciju. Možete ponovo pokrenuti aplikaciju da biste prilagodili veličinu prozora, ali podaci aplikacije generirani tijekom ove sesije bit će izgubljeni. Svejedno ponovno pokrenuti?"</string>
   <string name="relaunch_dialog_title">Ponovno pokrenuti \"%s\"?</string>
+  <string name="relaunch_fold_notification_content">Aplikacija \"%s\" može se nenormalno prikazati nakon što se telefon sklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
+  <string name="relaunch_notification_title">Ponovo pokrenite aplikaciju \"%s\"</string>
+  <string name="relaunch_unfold_notification_content">Aplikacija \"%s\" može se nenormalno prikazati nakon što se telefon rasklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
   <string name="remain">Preostalo: %s</string>
   <string name="replace">Zamijeni</string>
   <string name="resolver_app_recommend_flag">Preporučeno</string>
@@ -351,6 +357,10 @@
   <string name="resolver_recommend_options_tag">Preporučene opcije</string>
   <string name="resource_select">Odaberi</string>
   <string name="reveries">Reveries (stereo)</string>
+  <string name="sc_notification_warning_content">Izgled može biti nenormalan u načinu cijelog zaslona. Možete se vratiti u stanje prije tog prebacivanja ili otići na postavke.</string>
+  <string name="sc_notification_warning_restore">Vrati</string>
+  <string name="sc_notification_warning_settings">Idite na postavke</string>
+  <string name="sc_relaunch_dialog_message">"Ne može biti prikladno za preklapanje uređaja dok koristite aplikaciju. Možete ponovo pokrenuti aplikaciju da biste se prebacili u način rada na cijelom zaslonu. Svejedno ponovno pokrenuti?"</string>
   <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite nalazi li se drugi uređaj u načinu rada otkrivanja.</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite istovremeno tipke \"Početna\" i \"Power\".</string>
   <string name="screen_button_enabled_message">Navigacijske tipke su uključene</string>

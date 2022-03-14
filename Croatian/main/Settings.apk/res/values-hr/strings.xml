@@ -2054,6 +2054,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_absVolume_open_dialog_title">Pažnja</string>
   <string name="bt_absVolume_pre_title">Apsolutna glasnoća</string>
   <string name="bt_absVolume_summary">Zadrži strogo dosljednu glasnoću Bluetooth uređaja i telefona</string>
+  <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive omogućit će reprodukciju visoke kvalitete i smanjiti kašnjenje zvuka za igre i video uz povećanje potrošnje energije. Reprodukcija može biti zaustavljena zbog hardverskih ograničenja Bluetootha i smetnji iz okoline.</string>
+  <string name="bt_aptx_adaptive_open_dialog_title">Želite li se prebaciti na aptX Adaptive?</string>
   <string name="bt_audio_repair_property">Riješite probleme sa zvukom</string>
   <string name="bt_audio_share_property">Dijeljenje</string>
   <string name="bt_audio_share_switch_summary">Dijelite zvuk s povezanim Bluetooth uređajima</string>
@@ -2069,6 +2071,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_dialog_settings">Postavke</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>
+  <string name="bt_lc3plus_open_dialog_summary">LC3plus će osigurati reprodukciju visoke kvalitete i smanjiti kašnjenje zvuka za igre i video uz povećanje potrošnje energije. Reprodukcija može biti zaustavljena zbog ograničenja Bluetooth hardvera i smetnji iz okoline.</string>
+  <string name="bt_lc3plus_open_dialog_title">Prebaciti se na LC3plus?</string>
   <string name="bt_ldac_declaration">Kada Bluetooth uređaj podržava LDAC, bit će povezan prema zadanim postavkama. LDAC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera.</string>
   <string name="bt_ldac_dialog_summary">"LDAC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije. Ova se značajka može isključiti u Postavkama"</string>
   <string name="bt_ldac_dialog_title">Trenutni uređaj podržava LDAC, koji je povezan po standardnom:</string>
@@ -2090,6 +2094,14 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Svojstva</string>
+  <string name="bt_plugin_new_version">Ažuriraj</string>
+  <string name="bt_plugin_preference_button">Ažuriraj</string>
+  <string name="bt_plugin_preference_msg">Trenutno: %1$s | Novo: %2$s</string>
+  <string name="bt_plugin_preference_title">Nova verzija</string>
+  <string name="bt_plugin_set_net_dialog_cancle">Odustani</string>
+  <string name="bt_plugin_set_net_dialog_message">Provjerite postavke mreže i pokušajte ponovno.</string>
+  <string name="bt_plugin_set_net_dialog_retry">Pokušajte ponovo</string>
+  <string name="bt_plugin_set_net_dialog_title">"Ne mogu se povezati s mrežom"</string>
   <string name="bt_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_rarely_used_device_title">Rijetko korišteni uređaji (%d)</string>
   <string name="bt_show_notification_summary">Prikaži trajnu obavijest u Panelu obavijesti</string>
@@ -6143,12 +6155,15 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_ancMedium">Dnevno</string>
   <string name="miheadset_ancMild">Lagano</string>
   <string name="miheadset_anc_indicate">Spojite i uparite slušalice</string>
+  <string name="miheadset_anc_manual">Ručno</string>
   <string name="miheadset_audio_mode">Audio način</string>
   <string name="miheadset_audio_mode_high">Visoka</string>
   <string name="miheadset_audio_mode_listen">Niska</string>
   <string name="miheadset_audio_mode_normal">Standardna</string>
   <string name="miheadset_audio_quality">Kvaliteta zvuka</string>
   <string name="miheadset_audio_quality_summary">Odaberite Bluetooth audio kodek</string>
+  <string name="miheadset_audio_sound_quality">Kvaliteta zvuka</string>
+  <string name="miheadset_audio_sound_quality_summary">Odaberite Bluetooth audio kodek</string>
   <string name="miheadset_audio_mode_summary">Promijeni audio način</string>
   <string name="miheadset_auto_ack_mode">"Automatski odgovorite na pozive kada nosite slušalice"</string>
   <string name="miheadset_auto_ack_mode_summary">Automatski odgovori na pozive</string>
@@ -6159,6 +6174,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_cancel_device">Odustani</string>
   <string name="miheadset_checkUpdate">Provjeri ima li ažuriranja</string>
   <string name="miheadset_closeAnc">Isključeno</string>
+  <string name="miheadset_codec_sample_rate">Bluetooth brzina uzorkovanja zvuka</string>
   <string name="miheadset_common_problem">FAQ</string>
   <string name="miheadset_connectHeadsetForFw">Spojite slušalice za prikaz verzije firmvera</string>
   <string name="miheadset_connect_play_music">Automatski započni reprodukciju kad su spojene slušalice</string>
@@ -6356,14 +6372,20 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_master_clear_summary">Briše sve podatke na ovom uređaju</string>
   <string name="miui_more_special_feature">Istražite nove značajke</string>
   <string name="miui_optimization_disabled">Isključi MIUI optimizaciju</string>
+  <string name="miui_sos_around_photo_summary">Priložite %d fotografija s prednje i stražnje kamere u SMS poruku poslanu vašim kontaktima za hitne slučajeve</string>
+  <string name="miui_sos_around_photo_title">Priložite fotografije</string>
+  <string name="miui_sos_around_voice_summary">Priložite audiosnimku od %d sek. SMS poruci poslanoj vašim kontaktima za hitne slučajeve</string>
+  <string name="miui_sos_around_voice_title">Priloži audiozapis od %d sek.</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
+  <string name="miui_sos_call_fire">Vatra</string>
+  <string name="miui_sos_call_hospital">Hitna pomoć</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
   <string name="miui_screensaver_state_off">Isključeno</string>
   <string name="miui_screensaver_state_on">Uključeno</string>
   <string name="miui_screensaver_title">Čuvar zaslona</string>
   <string name="miui_screensaver_usage">Čuvar zaslona započinje 5 sekundi nakon gašenja zaslona.</string>
-  <string name="miui_silent_title">omogući bešumno</string>
+  <string name="miui_silent_title">Omogući bešumno</string>
   <string name="miui_sos_audio_summary">Reproduciraj SOS poruku nakon što se hitni kontakt pokupi</string>
   <string name="miui_sos_audio_title">SOS glasovna poruka</string>
   <string name="miui_sos_call_log_duration">Trajanje</string>
@@ -6372,6 +6394,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_call_log_summary">Pošalji povijest poziva tijekom zadnjeg 1 sata hitnom kontaktu</string>
   <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
   <string name="miui_sos_call_log_title">Pošalji povijest poziva</string>
+  <string name="miui_sos_call_police">Policija</string>
   <string name="miui_sos_call_warning_sim_unable">"Nema signala. Ne mogu poslati SMS."</string>
   <string name="miui_sos_calling_summary">Vaš će uređaj uputiti automatski poziv vašim hitnim kontaktima reproducirajući SOS glasovnu poruku koju ste snimili. Poziv će biti završen nakon što poruka završi. Automatski poziv prestat će nakon prvog uspješnog pokušaja.</string>
   <string name="miui_sos_calling_title">Autom. poziv</string>
@@ -6383,14 +6406,19 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1$s je primio poruku</string>
   <string name="miui_sos_emergency_failed_sms">"Ne mogu poslati poruku na %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">"Ne mogu poslati poruku na %1s."</string>
+  <string name="miui_sos_emergency_title">Hitni SOS</string>
   <string name="miui_sos_enable_switch_summary">Brzo pritisnite tipku za uključivanje/isključivanje 5 puta kako biste poslali SOS tekstualnu poruku s vašom lokacijom svojim hitnim kontaktima</string>
   <string name="miui_sos_enable_switch_title">Hitni SOS</string>
   <string name="miui_sos_exit_dialog_cancel">Odustani</string>
   <string name="miui_sos_exit_dialog_message">Aktivirali ste Hitni SOS. Vaši podaci o lokaciji šalju se vašim hitnim kontaktima. Isključiti svejedno?</string>
   <string name="miui_sos_exit_dialog_ok">U redu</string>
   <string name="miui_sos_exit_dialog_title">Isključivanje Hitnog SOS-a</string>
+  <string name="miui_sos_exit_emergency_title">Isključi</string>
+  <string name="miui_sos_exit_send_location_title">Dijeljenje vaše lokacije s kontaktima za hitne slučajeve u stvarnom vremenu</string>
   <string name="miui_sos_green_guard_summary">Podijeli informacije o lokaciji u stvarnom vremenu</string>
   <string name="miui_sos_green_guard_title">Roditeljski nadzor</string>
+  <string name="miui_sos_hospital_card">Medicinska iskaznica</string>
+  <string name="miui_sos_hospital_card_important_info">Vaše kritične medicinske informacije za prve odgovore</string>
   <string name="miui_sos_launch_error">"Ne mogu aktivirati Hitni SOS"</string>
   <string name="miui_sos_launch_error_confirm">Razumijem</string>
   <string name="miui_sos_launch_error_message">"Ne mogu se povezati s mobilnom mrežom. Ne može se koristiti Hitni SOS."</string>
@@ -6417,12 +6445,13 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_settings_category">SOS postavke</string>
   <string name="miui_sos_statusbar_summary">Dodirni za isključiti</string>
   <string name="miui_sos_statusbar_title">Uključen je hitni SOS</string>
+  <string name="miui_sos_unknow_contract">Nepoznati kontakt</string>
   <string name="miui_special_feature">Posebne značajke</string>
   <string name="miui_touch_filtered_touchassistant_warning">Dijaloški okvir dopuštenja pokriven je Izbornikom Prečaca. Pomaknite Izbornik Prečaca ili isključite ovu značajku.</string>
   <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>
-  <string name="miui_wifi_wakeup_summary">Wi-Fi will be turned on automatically when your device detects saved networks nearby and turned off after 15 minutes if no connection is established</string>
+  <string name="miui_wifi_wakeup_summary">Wi-Fi će se automatski uključiti kada vaš uređaj otkrije spremljene mreže u blizini i isključit će se nakon 15 minuta ako se veza ne uspostavi</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -9837,6 +9866,7 @@ Možda je PIN pogrešan."</string>
   <string name="sim_multi_sims_title">Pronađeno je više SIM-ova</string>
   <string name="sim_name_hint">Unesite naziv SIM-a</string>
   <string name="sim_no_inserted_msg">SIM kartica nije umetnuta</string>
+  <string name="sim_no_service">Nema usluge</string>
   <string name="sim_notification_summary">Dodirnite za postavljanje</string>
   <string name="sim_notification_title">SIM kartica je promijenjena.</string>
   <string name="sim_other_call_settings">Ostale postavke poziva</string>
@@ -10008,7 +10038,11 @@ Za označavanje kontakata u hitnim kontaktima
 • Slanje SMS-a
 Za slanje tekstualnih poruka kontaktima hitne pomoći
 • Pristupanje lokaciji
-Za dijeljenje svoje lokacije s kontaktima za hitne slučajeve
+Za dijeljenje svoje lokacije kontaktima za hitne slučajeve
+• Snimanje zvuka
+Za slanje snimaka ambijentalnog zvuka kontaktima za hitne slučajeve
+• Korištenje kamere
+Za slanje fotografija kontaktima za hitne slučajeve
 Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete odlučiti isključiti ili ne koristiti SOS za hitne slučajeve.
 Prije upotrebe naših usluga, pročitajte i prihvatite naše %s."</string>
   <string name="sos_privacy_dialog_title">Uvjeti i Odredbe</string>
@@ -12727,12 +12761,13 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom.</string>
   <string name="wifi_switch_to_gsm_message">Povezivanje s Wi-Fi-jem je odgođeno. Koristiti mobilnu podatkovnu vezu?</string>
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tap_to_sign_in">Dodirnite ovdje da biste se prijavili na mrežu</string>
-  <string name="wifi_tether_checkbox_kddi_text">Wi-Fi hotspot</string>
+  <string name="wifi_tether_checkbox_kddi_text">Wi-Fi modemsko povezivanje</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
-  <string name="wifi_tether_configure_ap_kddi_text">Postavljanje Wi-Fi hotspota</string>
-  <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Postavljanje Wi-Fi modemsko povezivanje</string>
+  <string name="wifi_tether_configure_ap_text">Postavljanje prijenosnog hotspota</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni</string>
+  <string name="wifi_tether_enabled_nosecurity_summary">"%1$s nije šifriran"</string>
   <string name="wifi_tether_disabled_by_airplane">Nije dostupno jer je uključen Zrakoplovni način</string>
   <string name="wifi_tether_enabled_subtext">%1$s je aktivan</string>
   <string name="wifi_tether_enabled_summary">%1$s</string>

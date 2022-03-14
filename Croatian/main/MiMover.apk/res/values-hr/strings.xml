@@ -45,6 +45,10 @@
   <string name="apple_image">Fotografije</string>
   <string name="apple_video">Videozapisi</string>
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
+  <string name="apps_cannot_be_transfered_confirm_button">Pokreni</string>
+  <string name="apps_cannot_be_transfered_next_button">Dalje</string>
+  <string name="apps_cannot_be_transfered_summary">"Ove 64-bitne aplikacije ne mogu se prenijeti na 32-bitni uređaj. Možete ih preuzeti izravno iz GetAppsa nakon prijenosa."</string>
+  <string name="apps_cannot_be_transfered_title">"Ne mogu prenijeti ove aplikacije"</string>
   <string name="audio">Audiozapis</string>
   <string name="audio_video_document">Audio, videozapisi i dokumenti</string>
   <string name="back">Natrag</string>
@@ -610,12 +614,13 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
   <string name="reconnect">Poveži ponovno</string>
   <string name="recovery_progress">Vraćanje stavki (%1$d/%2$d)…</string>
   <string name="recreate_soft_ap_tips">Dodirnite donji gumb da biste pokušali ponovo.</string>
+  <string name="refuse_accept">"Ne prihvaćam"</string>
   <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Mi Cloudom.
 Prijavite se na svoj Mi Račun kako biste ih vratili."</string>
   <string name="restore_data_to_device_title">Vratite stavke na ovaj uređaj</string>
   <string name="revoke">Povlačenje suglasnosti</string>
   <string name="revoke_agree">Povlačenje suglasnosti</string>
-  <string name="revoke_confirm_dialog_statement">"Ako nastavite, povući ćete svoju suglasnost na Politiku o privatnosti Mi Movera. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Mover pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrati će se odbijanjem prihvaćanja usluga Mi Mover."</string>
+  <string name="revoke_confirm_dialog_statement">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Movera. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Mover pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrati će se odbijanjem prihvaćanja usluga Mi Mover."</string>
   <string name="revoke_confirm_dialog_yes">U redu</string>
   <string name="restore_right_now">Vrati</string>
   <string name="retry">Pokušajte ponovno</string>

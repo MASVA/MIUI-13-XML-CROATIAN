@@ -391,7 +391,17 @@
   <string name="relay_network_error">Mrežna pogreška</string>
   <string name="relay_network_error_msg">"Ne mogu primati pozive na ovom uređaju zbog mrežne pogreške. Umjesto toga se vratite na svoj telefon."</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>
-  <string name="respond_via_sms_custom_message">Vlastiti SMS…</string>
+  <string name="remind_unlock_screen_message">Otključajte svoj uređaj da biste mogli koristiti \"%s\". Otključati sada?</string>
+  <string name="respond_via_sms_custom_message">Vlastiti SMS</string>
+  <string name="saf_permission_content">"Dopuštenja sustava su ažurirana. Da biste mogli snimati pozive, prvo dajte svoje dopuštenje.
+
+Kako dati dopuštenje
+Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
+  <string name="saf_permission_grant_permission_immediately">Sljedeće</string>
+  <string name="saf_permission_later">Ne sada</string>
+  <string name="saf_permission_refused">"Ne mogu snimati pozive zbog nedostajućih dopuštenja"</string>
+  <string name="saf_permission_title">Potrebna su dopuštenja</string>
+  <string name="saf_permission_use_this_folder">Koristi ovu mapu</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>

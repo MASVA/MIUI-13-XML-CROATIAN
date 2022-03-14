@@ -45,6 +45,10 @@
         <item quantity="other">%s sek.</item>
         <item quantity="one">%s sek.</item>
     </plurals>
+	<plurals name="file_type_detail_count">
+        <item quantity="other">%1$d datoteka</item>
+        <item quantity="one">%1$d datoteka</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
@@ -72,4 +76,100 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
      </plurals>
+	 <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d instal. paketa (%3$s) od %1$s</item>
+        <item quantity="one">%2$d instal. paket (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d instal. paketa (%3$s) od %1$s</item>
+        <item quantity="one">Primljen %2$d instal. paket (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d instal. paketa (%3$s) od %1$s…</item>
+        <item quantity="one">Primanje %2$d instal. paketa (%3$s) od %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d audio datoteka (%3$s) od %1$s</item>
+        <item quantity="one">%2$d audio datoteka (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d audio datoteka (%3$s) od %1$s</item>
+        <item quantity="one">Primljena %2$d audio datoteka (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d audio datoteka (%3$s) od %1$s…</item>
+        <item quantity="one">Primanje %2$d audio datoteka (%3$s) od %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s datoteka (%4$s) od %1$s</item>
+        <item quantity="one">%2$d %3$s datoteka (%4$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d %3$s datoteka (%4$s) od %1$s</item>
+        <item quantity="one">Primljena %2$d %3$s datoteka (%4$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d %3$s datoteka (%4$s) od %1$s…</item>
+        <item quantity="one">Primanje %2$d %3$s datoteka (%4$s) od %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d slika od %1$s</item>
+        <item quantity="one">%2$d slika od %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d slika od %1$s</item>
+        <item quantity="one">Primljena %2$d slika od %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d slika od %1$s…</item>
+        <item quantity="one">Primanje %2$d slike od %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d slika i videozapisa od %1$s</item>
+        <item quantity="one">%2$d slike ili videozapisa od %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d slika i videozapisa od %1$s</item>
+        <item quantity="one">Primljena %2$d slika ili videozapis od %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d slika i videozapisa od %1$s…</item>
+        <item quantity="one">Primanje %2$d slike ili videozapisa od %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d datoteka od %1$s</item>
+        <item quantity="one">%2$d datoteku od %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d datoteka od %1$s</item>
+        <item quantity="one">Primljena %2$d datoteka od %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d datoteka od %1$s…</item>
+        <item quantity="one">Primanje %2$d datoteke od %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videozapisa od %1$s</item>
+        <item quantity="one">%2$d videozapis od %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d videozapisa od %1$s</item>
+        <item quantity="one">Primljen %2$d videozapis od %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d videozapisa od %1$s…</item>
+        <item quantity="one">Primanje %2$d videozapisa od %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arhiva (%3$s) od %1$s</item>
+        <item quantity="one">%2$d arhiva (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d arhiva (%3$s) od %1$s</item>
+        <item quantity="one">Primljena %2$d arhiva (%3$s) od %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d arhiva (%3$s) od %1$s…</item>
+        <item quantity="one">Primanje %2$d arhive (%3$s) od %1$s…</item>
+    </plurals>
 </resources>

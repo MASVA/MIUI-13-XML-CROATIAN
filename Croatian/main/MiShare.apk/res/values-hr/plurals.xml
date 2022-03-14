@@ -142,7 +142,7 @@
      </plurals>
      <plurals name="send_audio_dialog_desc_received">
         <item quantity="other">Primljeno %2$d audio datoteka (%3$s) od %1$s</item>
-        <item quantity="one">Primljeno %2$d audio datoteka (%3$s) od %1$s</item>
+        <item quantity="one">Primljena %2$d audio datoteka (%3$s) od %1$s</item>
      </plurals>
      <plurals name="send_audio_dialog_desc_receiving">
         <item quantity="other">Primanje %2$d audio datoteka (%3$s) od %1$s…</item>
@@ -154,7 +154,7 @@
      </plurals>
      <plurals name="send_file_dialog_desc_received">
         <item quantity="other">Primljeno %2$d %3$s datoteka (%4$s) od %1$s</item>
-        <item quantity="one">Primljeno %2$d %3$s datoteka (%4$s) od %1$s</item>
+        <item quantity="one">Primljena %2$d %3$s datoteka (%4$s) od %1$s</item>
      </plurals>
      <plurals name="send_file_dialog_desc_receiving">
         <item quantity="other">Primanje %2$d %3$s datoteka (%4$s) od %1$s…</item>

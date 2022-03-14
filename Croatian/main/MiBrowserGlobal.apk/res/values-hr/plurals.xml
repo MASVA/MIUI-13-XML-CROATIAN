@@ -48,10 +48,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
     </plurals>	
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">odabrano %d stavki</item>
-        <item quantity="one">odabrana %d stavka</item>
-    </plurals>
 	<plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
