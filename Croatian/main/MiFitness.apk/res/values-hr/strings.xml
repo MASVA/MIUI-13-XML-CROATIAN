@@ -2692,6 +2692,7 @@ Počnite ispočetka."</string>
   <string name="mapbox_offline_error_region_definition_invalid">"Provided OfflineRegionDefinition doesn't fit the world bounds: %s"</string>
   <string name="mapbox_telemetryImproveMap">Poboljšajte ovu kartu</string>
   <string name="mapbox_telemetrySettings">Postavke telemetrije</string>
+  <string name="material_clock_toggle_content_description">Odaberite prijepodne ili popodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
@@ -3452,7 +3453,7 @@ Počnite ispočetka."</string>
   <string name="passport_login_failed">"Nisam se mogao prijaviti"</string>
   <string name="passport_next">Sljedeće</string>
   <string name="passport_next_step">DALJE</string>
-  <string name="passport_password_req_notice">Lozinka mora imati 8-16 znakova i kombinirati najmanje dvije od sljedećeg: znamenke, slova i posebne simbole (npr. 123abc@#, ili 123abc, ili abc@#).</string >
+  <string name="passport_password_req_notice">Zaporka mora imati 8-16 znakova i kombinirati najmanje dvije od sljedećeg: znamenke, slova i posebne simbole (npr. 123abc@#, ili 123abc, ili abc@#).</string >
   <string name="passport_querying_phone_info">Traženje podataka o računu…</string>
   <string name="passport_quick_login_dialog_step2_title">Potvrda u 2 koraka</string>
   <string name="passport_quick_login_dialog_title">Potvrdite zaporku</string>
@@ -3942,14 +3943,14 @@ Počnite ispočetka."</string>
   <string name="trail_data_rate_distribute5">VO₂ max</string>
   <string name="trail_data_sport_avg_freq">Učestalost</string>
   <string name="trail_data_sport_freq_chart">Učestalost (JPM)</string>
-  <string name="trail_data_sport_pullling_duration">Vrijeme vožnje i oporavka (s)</string>
-  <string name="trail_data_sport_pullling_duration_avg">Prosj. oporavak</string>
-  <string name="trail_data_sport_pullling_duration_best">Brza vožnja</string>
-  <string name="trail_data_sport_pullling_retract_duration">Vožnja &amp; Vrijeme oporavka (s)</string>
+  <string name="trail_data_sport_pulling_duration">Vrijeme vožnje i oporavka (sek)</string>
+  <string name="trail_data_sport_pulling_duration_avg">Prosj. oporavak</string>
+  <string name="trail_data_sport_pulling_duration_best">Brza vožnja</string>
+  <string name="trail_data_sport_pulling_retract_duration">Vožnja &amp; Vrijeme oporavka (sek)</string>
   <string name="trail_data_sport_record_empty">Nema podataka o vježbanju. Zabilježite svoj prvi trening.</string>
   <string name="trail_data_sport_rest_duration">Odmor</string>
   <string name="trail_data_sport_retract_duration">Oporavak</string>
-  <string name="trail_data_sport_retract_duration_avg">Prosj. oporavak (s)</string>
+  <string name="trail_data_sport_retract_duration_avg">Prosj. oporavak (sek)</string>
   <string name="trail_data_sport_retract_duration_best">Brzi oporavak</string>
   <string name="trail_data_sport_row_count">Zaveslaji</string>
   <string name="trail_data_sport_row_freq">SPM</string>

@@ -358,4 +358,13 @@
         <item>Da</item>
         <item>Ne</item>
      </string-array>
+	  <string-array name="week_label">
+        <item>N</item>
+		   <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+     </string-array>
 </resources>

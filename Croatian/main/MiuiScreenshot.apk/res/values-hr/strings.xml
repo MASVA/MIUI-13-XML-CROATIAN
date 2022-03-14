@@ -236,11 +236,7 @@ snimke zaslona"</string>
   <string name="screenshot_feedback_txt">Povratne inf.</string>
   <string name="screenshot_insert_failed">"Ne mogu učitati snimku zaslona. Snimite novu ili pogledajte sliku u Galeriji."</string>
   <string name="screenshot_long_screenshot">Pomicanje</string>
-  <string name="screenshot_save">Spremi</string>
-  <string name="screenshot_send">Pošalji</string>
-  <string name="screenshot_thumbnail">Minijatura slike zaslona</string>
   <string name="search_menu_title">Traži</string>
-  <string name="send">Pošalji</string>
   <string name="send_files_by">Dijelite datoteke putem</string>
   <string name="send_files_to">Pošalji stavke na</string>
   <string name="share_and_delete_picture">Izbriši nakon dijeljenja</string>
@@ -252,9 +248,6 @@ snimke zaslona"</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
-  <string name="sunday">Nedjelja</string>
-  <string name="sunday_short">Ned</string>
-  <string name="sunday_shortest">N</string>
   <string name="take_screenshot">Cijeli zaslon</string>
   <string name="text_append_hint">Unesite tekst</string>
   <string name="text_edit_dialog_font">Font</string>
@@ -277,10 +270,8 @@ snimke zaslona"</string>
   <string name="text_item_type_talkback_bubble_rectangle">Kvadratni govorni oblačić 1</string>
   <string name="text_item_type_talkback_bubble_rectangle2">Kvadratni govorni oblačić 2</string>
   <string name="text_item_type_talkback_bubble_signature">Potpis</string>
-  <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_send">Pošalji</string>
   <string name="screenshot_thumbnail">Minijature snimki zaslona</string>
-  <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
