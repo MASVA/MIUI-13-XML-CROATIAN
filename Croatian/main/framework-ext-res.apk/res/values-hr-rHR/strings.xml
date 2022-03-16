@@ -477,6 +477,9 @@
   <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" na 3 sekunde da ga isključite</string>
   <string name="throwing_print">Ispiši</string>
   <string name="throwing_screen">Emitiraj</string>
+  <string name="tip_close_screen_phone">Prebacite se na handsfree ili preklopite uređaj da biste koristili ugrađeni zvučnik</string>
+  <string name="tip_for_phone_and_camera">Sklopite uređaj da biste koristili ugrađeni zvučnik ili prednju kameru</string>
+  <string name="tip_use_front_camera">Sklopite uređaj da biste koristili prednju kameru</string>
   <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="total">DND</string>
   <string name="total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>

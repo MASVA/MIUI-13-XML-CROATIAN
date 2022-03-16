@@ -164,8 +164,8 @@
   <string name="auto_add_app_shortcut">Postavi nove aplikacije na Poč. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutačne aplikacije bit će uklonjene iz ove kategorije, a kategorija će se izbrisati. Želite li sada izbrisati ovu kategoriju?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
-  <string name="auto_disable_screenbuttons_summary">Dvaput dodirnite bilo koji navigacijsku tipku da ih ponovo omogućite</string>
-  <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske gumbe</string>
+  <string name="auto_disable_screenbuttons_summary">"Automatski onemogući navigacijske tipke kada statusna traka nije prikazana. Dvaput dodirnite bilo koju tipku za navigaciju da biste je ponovno omogućili."</string>
+  <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
   <string name="back">Natrag</string>
   <string name="backup_fail">Ne mogu napraviti Sig. kopiju Pokretača.</string>
   <string name="bad_wallpaper_source_prompt">"Ne mogu učitati pozadinu"</string>
@@ -176,7 +176,7 @@
   <string name="cant_remove_folder">"Ne mogu ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Ne mogu ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Ne mogu ukloniti aplikaciju sustava"</string>
-  <string name="cate_order_reset">Resetiraj</string>
+  <string name="cate_order_reset">Poništi</string>
   <string name="category_already_exists">Ova kategorija već postoji</string>
   <string name="category_cannot_empty">Prvo unesite kategoriju</string>
   <string name="category_choose_no_app_select_tip">Svaka kategorija mora sadržavati najmanje 1 aplikaciju.</string>

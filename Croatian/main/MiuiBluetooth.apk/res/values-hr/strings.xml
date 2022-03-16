@@ -243,6 +243,14 @@ Audio"</string>
   <string name="bluetooth_talkback_imaging">Snimanje</string>
   <string name="bluetooth_talkback_input_peripheral">Periferni uređaj za unos</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
+  <string name="bt_plugin_update_dialog_cancle">Ne sada</string>
+  <string name="bt_plugin_update_dialog_title">Bluetooth ažuriranje</string>
+  <string name="bt_plugin_update_dialog_update">Ažuriraj</string>
+  <string name="bt_plugin_update_done_dialog_exit">Primijeni</string>
+  <string name="bt_plugin_update_done_dialog_msg">Da biste primijenili promjene, Postavke će se zatvoriti, a Bluetooth će se prekinuti.</string>
+  <string name="bt_plugin_update_done_dialog_title">Primijeni promjene</string>
+  <string name="bt_plugin_update_done_toast">Uspješno ažurirano</string>
+  <string name="bt_plugin_update_notification_updating">Bluetooth ažuriranje</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>

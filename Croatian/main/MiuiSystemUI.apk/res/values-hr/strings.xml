@@ -2251,6 +2251,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="priority_conversations">Prioritetni razgovori</string>
+  <string name="privacy_dialog_title">Obavijesti o osjetljivim radnjama</string>
+  <string name="privacy_recent_used_title">Nedavno</string>
   <string name="priority_onboarding_appear_as_bubble_text">Prikazuje se kao lebdeći oblačić iznad aplikacija</string>
   <string name="priority_onboarding_behavior">Prioritetni razgovori će:</string>
   <string name="priority_onboarding_done_button_title">Razumijem</string>
@@ -2265,6 +2267,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
+  <string name="privacy_using_title">Trenutno</string>
   <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezivanje nije moguće</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
@@ -2474,6 +2477,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="reboot_info_shutdown_alarm_global">Shutdown alarm: %s</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_conversations">Nedavni razgovori</string>
+  <string name="recent_used_camera">Ova je aplikacija koristila kameru</string>
+  <string name="recent_used_camera_and_microphone">Ova je aplikacija snimala zvuk i koristila kameru</string>
+  <string name="recent_used_microphone">Ova je aplikacija snimila zvuk</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>
   <string name="recent_menu_item_info">Info</string>
   <string name="recent_menu_item_lock">Zaključaj</string>
@@ -3083,6 +3089,9 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_setup_dialog_title">Želite li postaviti korisnika?</string>
   <string name="user_setup_profile_dialog_message">Želite li sada postaviti profil?</string>
   <string name="user_switch_to_user">Prelazak na korisnika %s</string>
+  <string name="using_camera">Ova aplikacija koristi kameru</string>
+  <string name="using_camera_and_microphone">Ova aplikacija snima zvuk i koristi kameru</string>
+  <string name="using_microphone">Ova aplikacija snima zvuk</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>

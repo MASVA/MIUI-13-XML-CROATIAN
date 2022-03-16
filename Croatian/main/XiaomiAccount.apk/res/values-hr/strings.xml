@@ -613,9 +613,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_talkback_voice_captcha">Reproduciraj glasovni kontrolni kôd</string>
   <string name="passport_ticket_login_select_sim_card">Odaberite SIM karticu</string>
   <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
-  <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM1: %s</string>
+  <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
   <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
-  <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM2: %s</string>
+  <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Odustani</string>
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
