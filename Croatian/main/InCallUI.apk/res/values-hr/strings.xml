@@ -42,7 +42,11 @@
   <string name="antispam_notification_title">Nepoznati broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
   <string name="areacode_set_default">Postavi kao zadano</string>
-  <string name="callFailed_cb_enabled">Ne možete napraviti odlazne pozive dok je uključena zabrana poziva.</string>
+  <string name="bluetooth_permission_content">Zbog ažuriranja autorizacije sustava, vaša je autorizacija potrebna za dobivanje popisa vaših Bluetooth uređaja</string>
+  <string name="bluetooth_permission_grant_immediately">Autoriziraj odmah</string>
+  <string name="bluetooth_permission_later">Kasnije</string>
+  <string name="bluetooth_permission_title">Omogućuje pristup bluetooth uređajima</string>
+  <string name="callFailed_cb_enabled">"Ne možete upućivati odlazne pozive dok je zabrana poziva uključena."</string>
   <string name="callFailed_congestion">Mreža zauzeta</string>
   <string name="callFailed_dialToDial">DIAL zahtjev modificiran za DIAL s različitim brojem.</string>
   <string name="callFailed_dialToSs">DIAL zahtjev modificiran za SS zahtjev.</string>
@@ -202,6 +206,7 @@
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Odbij</string>
   <string name="fraud_call_waring">Budite oprezni: Uvijek provjerite identitet osobe s kojom razgovarate putem telefona ili videopoziva prije odgovora na bilo kakva pitanja koja uključuju vaše osobne informacije.</string>
+  <string name="font_camera_tip">Sklopite uređaj da biste koristili prednju kameru</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
