@@ -546,7 +546,10 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
      <plurals name="number_of_device_admins">
         <item quantity="other">%d aktivnih aplikacija</item>
         <item quantity="one">%d aktivna aplikacija</item>
-     </plurals>
+	 </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Traži aplikacije</item>
+    </plurals>
      <plurals name="seconds">
         <item quantity="other">%s sekundi</item>
         <item quantity="one">%s sekunda</item>

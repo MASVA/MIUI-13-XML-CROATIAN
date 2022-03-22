@@ -78,6 +78,7 @@
   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
   <string name="garbage_count">Postoji %1$s starih primjera</string>
   <string name="global_main_purpose">Dobro došli u Uređivač snimki zaslona! Ovu aplikaciju možete koristiti za obrezivanje i uređivanje snimaka zaslona. Ova se aplikacija mora povezati s internetom da bi mogla normalno raditi.</string>
+  <string name="help">"Ne možete pronaći uređaje?"</string>
   <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
   <string name="image_decode_failed">"Nisam mogao dekodirati sliku"</string>
   <string name="image_not_found">"Nisam mogao pronaći sliku"</string>
@@ -270,6 +271,8 @@ snimke zaslona"</string>
   <string name="text_item_type_talkback_bubble_rectangle">Kvadratni govorni oblačić 1</string>
   <string name="text_item_type_talkback_bubble_rectangle2">Kvadratni govorni oblačić 2</string>
   <string name="text_item_type_talkback_bubble_signature">Potpis</string>
+  <string name="throwing_print">Ispis</string>
+  <string name="throwing_screen">Emitiranje</string>
   <string name="screenshot_send">Pošalji</string>
   <string name="screenshot_thumbnail">Minijature snimki zaslona</string>
   <string name="send">Pošalji</string>

@@ -282,6 +282,7 @@ i prilagodite postavke automatski"</string>
   <string name="aiwatermark_location_list_title">Lokacija</string>
   <string name="aiwatermark_location_tips">Dopustite Kameri da pristupi vašoj lokaciji kako bi dobila relevantnije oznake</string>
   <string name="albums">Albumi</string>
+  <string name="altitude_text">Vis.</string>
   <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O dužoj ekspoziciji</string>
   <string name="ambilight_intro_crowd_moving_part1">Prilikom snimanja u prometnoj ulici zamolite svog subjekta da miruje. Drugi će se ljudi pojaviti kao mutni tragovi.</string>
@@ -309,7 +310,7 @@ i prilagodite postavke automatski"</string>
   <string name="audio_map_summary_tip">Pratite glasnoću lijevog i desnog kanala u stvarnom vremenu i prilagodite ga pomoću klizača</string>
   <string name="auto">Autom.</string>
   <string name="auto_hibernation_enter_tip">O isključivanju zaslona…</string>
-  <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje 3 metra za najbolji efekat."</string>
+  <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje %d m za najbolji efekat."</string>
   <string name="autozoom_disabled_hint">Praćenje objekta u pokretu zaustavljeno</string>
   <string name="autozoom_hint">Prati objekt u pokretu</string>
   <string name="autozoom_landscape_hint">Snimajte u pejzažnom načinu za najbolji efekat</string>
@@ -380,8 +381,9 @@ i na trenutak izađite iz pregleda"</string>
   <string name="button_fisheye_camera_title">Riblje oko</string>
   <string name="button_front_camera_title">Napravi selfie</string>
   <string name="button_normal_video_title">Snimi videozapis</string>
-  <string name="camcorder_tip_8k_max_video_duration">Možete snimiti do 6 minuta u 8K</string>
+  <string name="camcorder_tip_8k_max_video_duration">Možete snimiti do %1$d min. u 8K</string>
   <string name="camcorder_tip_current_max_video_duration">Možete snimiti do %d min. videozapisa u trenutnoj rezoluciji</string>
+  <string name="camcorder_tip_super_night_video_4k_max_video_duration" formatted="false">%dK Najduže vrijeme snimanja je %d minuta</string>
   <string name="camera_disabled">Kamera je onemogućena</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="camera_facedetection_sub_option_hint">Eksperimentalna značajka</string>
@@ -1255,7 +1257,7 @@ dodirnite tipku Okidač"</string>
   <string name="parameter_peak_raw_description">Ovaj format slike bilježi sve slikovne podatke koje je snimio senzor kad fotografirate. Nekomprimirani podaci pružaju više mogućnosti u naknadnoj obradi.</string>
   <string name="parameter_peak_raw_title">RAW format</string>
   <string name="parameter_videos_title">Filmski efekti</string>
-  <string name="parameter_wb_description">Uz prethodno postavljene postavke bijele boje (žarulja, dnevna svjetlost, fluorescentna, oblačno), možete postaviti i ravnotežu bijele boje na prilagođenu vrijednost unutar raspona 2000–8000 Kelvina.</string>
+  <string name="parameter_wb_description">Uz prethodno postavljene postavke bijele boje (žarulja, dnevna svjetlost, fluorescentna, oblačno), možete postaviti i ravnotežu bijele boje na prilagođenu vrijednost unutar raspona %1$d-%2$d Kelvina.</string>
   <string name="parameter_wb_title">Balans bijele boje</string>
   <string name="parameter_zoom_slider_description">Povucite klizač Zoom-a vodoravno da biste glatko promijenili snimak iz dugog u krupni plan.</string>
   <string name="parameter_zoom_slider_title">Zoom</string>
@@ -1858,20 +1860,20 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Brzina snimanja videozapisa</string>
   <string name="pref_video_subtitle">Titlovi</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_10">Interval od 0.3 sek. (10 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_120">Interval od 4 sek. (120 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_150">Interval od 5 sek. (150 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_1800">Interval od 60 sek. (1800 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_2">Interval od 0.06 sek. (2 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_240">Interval od 8 sek. (240 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_30">Interval od 1 sek. (30 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_300">Interval od 10 sek. (300 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_4">Interval od 0.12 sek. (4 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_450">Interval od 15 sek. (450 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_60">Interval od 2 sek. (60 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_90">Interval od 3 sek. (90 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_900">Interval od 30 sek. (900 puta)</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Interval protoka vremena</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_10">10X (%.1f-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_120">120X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_150">150X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_2">2X (%.2f-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_240">240X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_30">30X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_300">300X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_4">4X (%.2f-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_450">450X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_60">60X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-sek. interval)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-sek. interval)</string>
+	<string name="pref_video_time_lapse_frame_interval_title">Interval protoka vremena</string>
   <string name="pref_watermark_off">Isklj.</string>
   <string name="pref_watermark_on">Uklj.</string>
   <string name="pref_watermark_style_entry_dualcamera">Dvojna kamera</string>
@@ -2123,13 +2125,13 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="unknow_error">Nepoznata pogreška</string>
   <string name="unsupported_microphones_3d_record_tips">"3D zvuk ne podržava vanjske mikrofone"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom ne podržava vanjske mikrofone"</string>
-  <string name="update_loading">Preuzeto %1$d%%</string>
+  <string name="update_loading">Preuzeto %1$s</string>
   <string name="update_start">Ažuriraj %1$s</string>
   <string name="user_agree">Prihvaćam</string>
   <string name="user_define_watermark_cancel">Odustani</string>
   <string name="user_define_watermark_save">Spremi</string>
   <string name="user_disagree">"Ne prihvaćam"</string>
-  <string name="user_notice_identify_summary_format">Prije korištenja Kamere morate prihvatiti naše &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Pravila o Privatnosti&lt;/a&gt;. Kamera se također mora povezati s internetom kako bi radila normalno. Prihvaćate?</string>
+  <string name="user_notice_identify_summary_format">Prije korištenja Kamere morate prihvatiti naše &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Pravila o privatnosti&lt;/a&gt;. Kamera se također mora povezati s internetom kako bi radila normalno. Prihvaćate?</string>
   <string name="user_notice_title">Uvjeti i odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

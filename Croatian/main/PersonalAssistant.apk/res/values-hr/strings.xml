@@ -108,6 +108,7 @@
    <string name="month_september_shortest">Ruj</string>
    <string name="more">Više</string>
    <string name="morning">Jutro</string>
+   <string name="not_set">Nije postavljeno</string>
    <string name="pa_accessibility_home_search">Traži, dvaput dodirnite za početak</string>
    <string name="pa_accessibility_home_widget_drag">Prevlačenje stavke</string>
    <string name="pa_accessibility_home_widget_drag_move">Premjesti u redak %1$d, pozicija %2$d</string>

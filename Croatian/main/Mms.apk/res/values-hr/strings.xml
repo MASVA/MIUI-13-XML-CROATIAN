@@ -379,6 +379,8 @@ dodane na Listu blokiranih"</string>
   <string name="from_pkg_name">Iz aplik: </string>
   <string name="ft_cfs_dialog_content">"Datoteke se ne mogu isporučiti pomoću RCS-a. Poslati poveznicu u SMS poruci?"</string>
   <string name="ft_cfs_dialog_title">Alternativni prijenos datoteka</string>
+  <string name="go_close">Postavke</string>
+  <string name="go_to">Idi na</string>
   <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz detalja&lt;/a&gt;&lt;/font&gt;.</string>
   <string name="google_message_promo_title">Nadogradite svoju aplikaciju za razmjenu poruka</string>
   <string name="group_already_kicked_hint">"Ne mogu slati poruke. Nisi član ovog grupnog razgovora."</string>
@@ -465,6 +467,7 @@ dodane na Listu blokiranih"</string>
   <string name="menu_new_manual">Unesite broj ručno</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
+  <string name="menu_report">Povratne inf.</string>
   <string name="menu_send_as_common">Pošalji kao SMS</string>
   <string name="menu_sms_block">Popis blokiranih</string>
   <string name="menu_traffic_destination">Odredište</string>

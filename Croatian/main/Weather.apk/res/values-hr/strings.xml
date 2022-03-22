@@ -157,6 +157,11 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="dialog_msg_score_midrop">Kako vam se sviđa aplikacija Vrijeme?</string>
   <string name="dialog_msg_score_not_good">Možete li nam dati i svoje povratnu informaciju?</string>
   <string name="dialog_msg_score_perfect">Lijepo! Ocijeniti aplikaciju Vrijeme i u Trgovini Play?</string>
+  <string name="dialog_score_bad">Nezadovoljan</string>
+  <string name="dialog_score_general">Neutralan</string>
+  <string name="dialog_score_good">Zadovoljan</string>
+  <string name="dialog_score_very_bad">Vrlo nezadovoljan</string>
+  <string name="dialog_score_very_good">Vrlo zadovoljan</string>
   <string name="dialog_title_score">Ocijenite aplikaciju Vrijeme</string>
   <string name="download_rsc_tips">Učitavanje pozadinskog zvuka…</string>
   <string name="dynamic_weather">Vrijeme</string>
@@ -401,6 +406,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="pad_keyboard_add_city">Dodaj lokaciju</string>
   <string name="pad_keyboard_left_switch">Prethodna lokacija</string>
   <string name="pad_keyboard_right_switch">Sljedeća lokacija</string>
+  <string name="pad_real_time_detail_title">Udobno</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
   <string name="particulate_matter_serious_exceeded">Previsoko</string>

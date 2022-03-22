@@ -138,6 +138,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="bluetooth_bc_profile_summary_connected">Povezano s BA poslužiteljem</string>
   <string name="bluetooth_bc_profile_summary_use_for">Upotreba za BA</string>
   <string name="bluetooth_connected">Upareno</string>
+  <string name="bluetooth_connected_active">Povezano %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (bez medija )%1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija) | Baterija %1$s %2$s</string>

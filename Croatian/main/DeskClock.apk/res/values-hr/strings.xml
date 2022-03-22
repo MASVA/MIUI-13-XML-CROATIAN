@@ -90,7 +90,7 @@
   <string name="bedtime_analysis_more">Više podataka</string>
   <string name="bedtime_banner_desc">Važan je dosljedan san</string>
   <string name="bedtime_banner_guide_desc">Zakažite vrijeme za spavanje</string>
-  <string name="bedtime_guide_back_desc">"Nećete moći primati upozorenja vremena za spavanje ako sada izađete. Izlaći svejedno?"</string>
+  <string name="bedtime_guide_back_desc">"Nećete moći primati upozorenja vremena za spavanje ako sada izađete. Izaći svejedno?"</string>
   <string name="bedtime_manage">Upravljaj vremenom za spavanje</string>
   <string name="bedtime_manage_desc">Zakažite podsjetnike za vrijeme za spavanje i pratite san</string>
   <string name="bedtime_manage_open">Zakažite vrijeme za spavanje</string>
@@ -200,10 +200,10 @@
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
   <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
-  <string name="invalid_timer_length">Nevažeća duljina odbrojavanja</string>
+  <string name="invalid_timer_length">Nevažeća duljina timera</string>
   <string name="keep_screen_on">Drži zaslon uključen</string>
   <string name="korea_permission_calendar">Kalendar</string>
-  <string name="korea_permission_calendar_desc">Za pristupanje informacijama o događaju i slanje podsjetnika</string>
+  <string name="korea_permission_calendar_desc">Za pristup informacijama o događaju i slanje podsjetnika</string>
   <string name="korea_permission_phone">Telefon</string>
   <string name="korea_permission_phone_desc">Za pristup statusu uređaja i utišavanje podsjetnika tijekom poziva</string>
   <string name="korea_permission_storage">Pohrana</string>
@@ -450,7 +450,7 @@
   <string name="silent_alarm_summary">Bešumno</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="sleep_analysis">Statistika</string>
-  <string name="sleep_analysis_chart_date_format">dd.MM</string>
+  <string name="sleep_analysis_chart_date_format">dd.MM.</string>
   <string name="sleep_date_provider_text">Podatke o spavanju pruža Mi Health</string>
   <string name="sleep_date_provider_text_new">Podatke o spavanju pruža Mi Fitness</string>
   <string name="sleep_duration">"Trajanje spavanja: "</string>
@@ -461,7 +461,7 @@
   <string name="sleep_duration_text">%1$s %2$s</string>
   <string name="sleep_duration_text_avg">%1$s %2$s</string>
   <string name="sleep_no_disturbance">DND način</string>
-  <string name="sleep_no_disturbance_desc">Prebaci na DND način dok se ne probudite</string>
+  <string name="sleep_no_disturbance_desc">Prebaci na DND način dok se ne probudim</string>
   <string name="sleep_no_record_text">Započnite praćenje sna da biste pogledali statistiku</string>
   <string name="sleep_notification_desc">Pridržavajte se svog rasporeda za spavanje</string>
   <string name="sleep_notification_title">Vrijeme je za odlazak u krevet</string>
@@ -618,7 +618,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="worldcolock_time_date">dd.MM.yyyy</string>
   <string name="worldcolock_timezone_current">Trenutno: %1$s</string>
   <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
-  <string name="worldcolock_timezone_date">dd.MM</string>
+  <string name="worldcolock_timezone_date">dd.MM.</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
   <string name="wednesday">Srijeda</string>

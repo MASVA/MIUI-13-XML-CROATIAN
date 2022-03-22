@@ -1458,7 +1458,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_privacy_settings_title">Privatnost</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
   <string name="preference_show_firewall_calllog">Prikaži blokirane pozive u povijesti poziva</string>
-  <string name="preference_show_yellowpage_tab_description">Yellow pages  možda neće ispravno raditi kada je ova značajka isključena.</string>
+  <string name="preference_show_yellowpage_tab_description">"Yellow pages i njegove usluge neće se prikazati ako isključite ovu značajku"</string>
   <string name="preference_show_yellowpage_tab_title">Prikaži Yellow pages </string>
   <string name="preference_simple_mode_description">Prikaži slike i ostale informacije o kontaktima u popisnom pregledu</string>
   <string name="preference_simple_mode_title">Prikaži slike i informacije</string>
@@ -1475,6 +1475,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_telocation_summary_teloc_on">Pokaži lokaciju kontakta</string>
   <string name="preference_telocation_title">Lokacija</string>
   <string name="preference_tone_title">Tonovi</string>
+  <string name="preference_yellowpage_function_setting">Yellow pages postavke</string>
   <string name="prepare_import">"Uvoz kontakata"</string>
   <string name="preview_contact_card_title">"Uvoz kontakata…"</string>
   <string name="preview_incall_show_entry">Pregled videozapisa</string>

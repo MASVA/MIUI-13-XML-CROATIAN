@@ -1328,7 +1328,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
-  <string name="cta_main_purpose">Dobro došli u Sigurnost! Možete koristiti Sigurnost i njezine module (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara, upravljate aplikacijama, primate rana upozorenja o potresu i još mnogo toga.</string>
+  <string name="cta_main_purpose">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. MIUI Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
   <string name="cta_settings">Dopusti povezivanje s internetom i pristup lokaciji</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za korištenje popisa blokiranih i upućivanje poziva kontaktima za hitne slučajeve kada se izdaju upozorenja o potresu</string>
@@ -1621,6 +1621,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
   <string name="exit_dialog_release_memory_title"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+  <string name="exit_dialog_release_memory_title_new"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%s&lt;/font></Data></string>
   <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_message_new">Više od %s prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
@@ -1833,22 +1834,30 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="full_fill_sim_location">Prvo postavite lokaciju</string>
   <string name="fully_informed_privacy">Svijest o privatnosti</string>
   <string name="function_auto_reject_detail">"O ovoj značajki:
-1. Dok igrate igre, svi dolazni pozivi na SIM karticu bez mobilne podatkovne usluge automatski će se odbiti.
-2. Vidjet ćete obavijesti o propuštenim pozivima, a druga će osoba čuti zvučnu poruku koja govori da ste trenutno zauzeti.
+1. Dok igrate igre, svi dolazni pozivi na SIM karticu bez mobilne podatkovne usluge bit će automatski odbijeni.
+2. Vidjet ćete obavijesti o propuštenim pozivima, a druga osoba će čuti zvučnu poruku koja kaže da ste trenutno zauzeti.
 3. Ovu značajku podržavaju samo mobilni operateri u Kini."</string>
-  <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
+  <string name="function_auto_reject_detail_new">"O ovoj značajki:
+%1$d. Dok igrate igre, svi dolazni pozivi na SIM karticu bez mobilne podatkovne usluge bit će automatski odbijeni.
+%2$d. Vidjet ćete obavijesti o propuštenim pozivima, a druga osoba će čuti zvučnu poruku koja kaže da ste trenutno zauzeti.
+%3$d. Ovu značajku podržavaju samo mobilni operateri u Kini."</string>
+  <string name="function_auto_reject_title">>Odbijte VoLTE pozive na SIM karticu bez mobilne podatkovne usluge</string>
   <string name="function_close">Isključi</string>
   <string name="function_gwsd_detail">"O ovoj značajki:
-  1. Kada koristite mobilne podatke na podatkovnoj SIM ili uobičajenoj SIM kartici spojenoj na VoLTE mrežu, dolazni pozivi neće se prekinuti dok se ne javite.
-  2. Kada je ova značajka uključena, druga osoba neće moći čuti vaše tonove zvona osim ako ne koristite običnu SIM karticu. Dolazni pozivi bit će automatski odbijeni nakon 7-10 sekundi neaktivnosti.
-  3. Podržane su podatkovne SIM kartice koje su izdali China Mobile i China Unicom. Podržane su redovne SIM kartice koje su izdali China Mobile, China Unicom i China Telecom."</string>
+ 1. Kada koristite mobilne podatke na podatkovnoj SIM kartici ili običnoj SIM kartici spojenoj na VoLTE mrežu, veza neće biti prekinuta dolaznim pozivima dok se ne javite.
+ 2. Kada je ova značajka uključena, druga osoba neće moći čuti vaše melodije zvona osim ako ne koristite običnu SIM karticu. Dolazni pozivi bit će automatski odbijeni nakon 7-10 sekundi neaktivnosti.
+ 3. Podržane su podatkovne SIM kartice koje su izdali China Mobile i China Unicom. Podržane su obične SIM kartice koje izdaju China Mobile, China Unicom i China Telecom."</string>
+  <string name="function_gwsd_detail_new">"O ovoj značajki:
+ %1$d. Kada koristite mobilne podatke na podatkovnoj SIM kartici ili običnoj SIM kartici spojenoj na VoLTE mrežu, veza neće biti prekinuta dolaznim pozivima dok se ne javite.
+ %2$d. Kada je ova značajka uključena, druga osoba neće moći čuti vaše melodije zvona osim ako ne koristite običnu SIM karticu. Dolazni pozivi bit će automatski odbijeni nakon %3$d-%4$d sekundi neaktivnosti.
+ %5$d. Podržane su podatkovne SIM kartice koje su izdali China Mobile i China Unicom. Podržane su obične SIM kartice koje izdaju China Mobile, China Unicom i China Telecom."</string>
   <string name="function_gwsd_title">"Ne dopusti dolaznim pozivima da prekidaju podatkovnu SIM vezu"</string>
   <string name="function_shield_auto_bright">Isključi autom. svjetlinu</string>
   <string name="function_shield_eye_shield">Isključi način čitanja</string>
   <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
   <string name="function_shield_settings_title">Prilikom igranja igara ograničite sljedeće značajke</string>
   <string name="function_shield_summary">Prilikom igranja igara ograničite odabrane značajke</string>
-  <string name="function_shield_summary_m">Ograničite automatsku svjetlinu i pokrete zaslona</string>
+  <string name="function_shield_summary_m">Ograničite automatsku svjetlinu i geste zaslona</string>
   <string name="function_shield_three_finger">Ograničite geste snimaka zaslona</string>
   <string name="function_shield_title">Poboljšano iskustvo</string>
   <string name="function_shield_voice_trigger">"Ne budi Mi AI sa glasom"</string>
@@ -1877,7 +1886,6 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="game_video_network_eror">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="game_wid_viewpoint_buttom">Napravite kratku pauzu.</string>
   <string name="gamebooster_lowbattery_notification_summary">Napunite uređaj prije nego što se isključi.</string>
-  <string name="gamebooster_lowbattery_notification_title">Baterija je na manje od 5%%</string>
   <string name="gamebooster_main_activity_back">Natrag</string>
   <string name="gamebooster_network_dialog_cn_message">"Ne možete koristiti Game Turbo kada aplikacija Sigurnost ne smije uspostaviti vezu s internetom i pristupiti vašoj lokaciji. Dopustiti sada?"</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže s mrežom kako bi se koristile sve značajke Game Turbo?</string>
@@ -1984,10 +1992,12 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_dialog_game_uninstall_tips_message">Svi podaci aplikacije biti će izbrisani.</string>
   <string name="gb_dialog_game_uninstall_tips_message_xspace">Svi podaci aplikacije i povezane dvojne aplikacije biti će izbrisani.</string>
   <string name="gb_dialog_game_uninstall_tips_title">Deinstaliraj %s</string>
-  <string name="gb_dialog_record_way_ai">AI snimke se spremaju u gamebox i tamo se pohranjuju 7 dana.</string>
+  <string name="gb_dialog_record_way_ai">AI snimke spremaju se u gamebox i tamo se pohranjuju 7 dana.</string>
+  <string name="gb_dialog_record_way_ai_new">AI snimke spremaju se u gamebox i tamo se pohranjuju %d dana.</string>
   <string name="gb_dialog_record_way_finish">Gotovo</string>
   <string name="gb_dialog_record_way_manual">Snimite videozapise duge do 30 sekundi ručno</string>
   <string name="gb_dialog_record_way_manual_desc" formatted="false">Ručno snimite %d-%d sekundi videozapisa tijekom sesije igre.</string>
+  <string name="gb_dialog_record_way_manual_new">Ručno snimite videozapise duljine do %d sekundi</string>
   <string name="gb_dialog_record_way_setting_tip_one">Povećana potrošnja energije i kašnjenje</string>
   <string name="gb_dialog_record_way_setting_tip_title">Ova značajka može uzrokovati sljedeće probleme:</string>
   <string name="gb_dialog_record_way_setting_tip_two">Sukobi s drugim snimačima zaslona</string>
@@ -2014,6 +2024,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
 Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_game_time_toast">Timer je sada dostupan!</string>
   <string name="gb_game_video_bottom_tips">Ponovno pogledajte ključne trenutke sa svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon 7 dana.</string>
+  <string name="gb_game_video_bottom_tips_new">Ponovo pogledajte ključne trenutke svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon %d dana.</string>
   <string name="gb_game_video_item_tag">Ključni trenutak</string>
   <string name="gb_game_video_page_delete_success">Uspješno izbrisano</string>
   <string name="gb_game_video_page_null">Zabilježite ključne trenutke svog igranja</string>
@@ -2187,11 +2198,9 @@ vašeg igranja"</string>
   <string name="gs_dialog_confirm_close_title">Isključi</string>
   <string name="gs_forbid_autosync">Ograniči sinkronizaciju u pozadini</string>
   <string name="gs_game_ai_record">Snimi koristeći AI</string>
-  <string name="gs_game_ai_record_subtitle">"Snimite ključne trenutke automatski i generirajte video zapise sa istaknutim sesijama. Videozapisi će se automatski izbrisati nakon 7 dana. Možete ih trajno spremiti nakon svake sesije igranja."</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Vrijeme</string>
   <string name="gs_game_manual_record">Snimi ručno</string>
-  <string name="gs_game_manual_record_subtitle">"Koristite plutajuću prečicu za snimanje do 30 sekundi videozapisa istodobno. Videozapisi će se automatski izbrisati nakon 7 dana."</string>
   <string name="gs_game_manual_record_subtitle_child">Možda ćete naići na neke probleme dok koristite ovu značajku:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Snimanje vaših sesija igranja zahtijeva veću potrošnju energije što može rezultirati kašnjenjem.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Ostale značajke snimanja na zaslonu možda neće raditi ispravno.</string>
@@ -2212,6 +2221,7 @@ vašeg igranja"</string>
   <string name="gs_show_way_horizontal">Vodoravno</string>
   <string name="gs_show_way_vertical">Okomito</string>
   <string name="gs_sign_notification">Podsjeti se da prijavim svaki dan u 20 sati</string>
+  <string name="gs_sign_notification_new">Podsjeti da se prijavim svaki dan u %d</string>
   <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
   <string name="gtb_brightness_dialog_right_btn">Drži uključenim</string>
   <string name="gtb_brightness_dialog_sub_message">*Ovu značajku možete uključiti i isključiti u Postavkama.</string>
@@ -2246,6 +2256,7 @@ vašeg igranja"</string>
   <string name="gtb_setting_item_summary_disable_ndds_sim">Blokirajte sve komunikacijske usluge na sekundarnoj SIM kartici tijekom sesija igranja kako biste održali stabilnu vezu i izbjegli prebacivanje između mreža. Sekundarni SIM će se deblokirati kada prestanete igrati.</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed_new">Povećaj brzinu veze za %1$s-%2$s kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_title_brightness">Automatski smanji svjetlinu zaslona</string>
   <string name="gtb_setting_item_title_disable_ndds_sim">Blokiraj sekundarni SIM</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
@@ -2279,7 +2290,7 @@ vašeg igranja"</string>
   <string name="help_label">Pomoć</string>
   <string name="hide_mode_app_background_setting_text">Štednja baterije aplikacija</string>
   <string name="hide_mode_result_summary_text">Prilagodite postavke štednje baterije za pojedinačne aplikacije</string>
-  <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za uštedu baterije"</string>
+  <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za štednju baterije"</string>
   <string name="hide_mode_title_text">Štednja baterije</string>
   <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
@@ -2606,6 +2617,8 @@ podatkovnu vezu"</string>
   <string name="memory_clean_no_need_clean_1" formatted="false">"Oslobođeno %s.
   
 Vaš je uređaj sad %d%% brži."</string>
+  <string name="memory_clean_no_need_clean_1_new" formatted="false">"Oslobođeno %s.
+Vaš je uređaj sad %s brži."</string>
   <string name="memory_clean_no_running_process">Nema zadataka za brisanje</string>
   <string name="memory_clean_running_process_title">Praćenje aplikacija (%d)</string>
   <string name="memory_cleaned_memory_info">Dostupna memorija</string>
@@ -2640,6 +2653,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Greška</string>
   <string name="menu_item_notification_optimize_text">%d%% zauzeto</string>
+  <string name="menu_item_notification_optimize_text_new">%s zauzeto</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Prikaži izbornik u panelu obavijesti</string>
   <string name="menu_item_settings_title">Postavke</string>
@@ -2663,12 +2677,14 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_summary_garbage_cleanup">Nema pronađenog smeća</string>
   <string name="menu_summary_garbage_cleanup_ex">Oslobodite %s</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% prostora za pohranu</string>
+  <string name="menu_summary_garbage_cleanup_new_new">%s prostora za pohranu</string>
   <string name="menu_summary_networkassistants">Upravljajte svojim planom podataka</string>
   <string name="menu_summary_networkassistants_2">Ograničenje prekoračeno</string>
   <string name="menu_summary_networkassistants_3">Preostalo je dovoljno podataka</string>
   <string name="menu_summary_networkassistants_4">Ponestaje podataka</string>
   <string name="menu_summary_optimize_manage">Očisti memoriju</string>
-  <string name="menu_summary_optimize_manage_1">Učinite vaš uređaj %d%% bržim</string>
+  <string name="menu_summary_optimize_manage_1">Učinite svoj uređaj %d%% bržim</string>
+  <string name="menu_summary_optimize_manage_1_new">Učinite svoj uređaj %s bržim</string>
   <string name="menu_summary_power_manager">Štednja baterije daje vam više vremena između punjenja</string>
   <string name="menu_summary_power_manager_1">Baterija je napunjena</string>
   <string name="menu_summary_power_manager_2">Preostalo %s</string>
@@ -2955,6 +2971,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_link_cleaner_3002">Očistite WeChat smeće</string>
   <string name="notification_link_cleaner_4000">Očistite QQ smeće</string>
   <string name="notification_link_optimizemanage_1011">%d%% memorije zauzeto. Očistite sada.</string>
+  <string name="notification_link_optimizemanage_1011_new">%s memorije zauzeto. Očistite sada.</string>
   <string name="notification_low_battery_need_charge">Priključite punjač</string>
   <string name="notification_low_battery_open_save_mode">Uključi Štednju baterije</string>
   <string name="notification_low_battery_title">Preostalo je manje od %s baterije</string>
@@ -2972,6 +2989,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_optimize_button_text">Očisti</string>
   <string name="notification_optimize_message">Očistite memoriju za povećanje brzine</string>
   <string name="notification_optimize_title">%d%% memorije zauzeto</string>
+  <string name="notification_optimize_title_new">%s memorije zauzeto</string>
   <string name="notification_power_consume_issue_summary">Velika potrošnja energije</string>
   <string name="notification_power_consume_suggest_summary">Popravite probleme radi uštede baterije</string>
   <string name="notification_qq_clean_hint">Smeće usporava vaš uređaj</string>
@@ -3462,7 +3480,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_consume_time">%1$s preostalo</string>
   <string name="power_center_custom_title">Profili baterije</string>
   <string name="power_center_dialog_msg_bottom">Trajanje baterije možete povećati do %1$dh %2$dm. Uključiti Štednju baterije?</string>
-  <string name="power_center_dialog_msg_title">Uključite da dobijete %1$s dodatnog vremena. Sljedeće radnje će se poduzeti za uštedu baterije:</string>
+  <string name="power_center_dialog_msg_title">Uključite da dobijete %1$s dodatnog vremena. Sljedeće radnje će se poduzeti za štednju baterije:</string>
   <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, MIUI će izvršiti sljedeće optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
@@ -3674,9 +3692,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_optimize_close_wlan_summary">Uštedite energiju kada nema spojenih uređaja</string>
   <string name="power_optimize_darkmode">Prebacite se na tamni način rada</string>
   <string name="power_optimize_darkmode_dialog_confirm">Uključi</string>
-  <string name="power_optimize_darkmode_dialog_summary">Tamni način rada mijenja shemu boja korisničkog sučelja sustava i odabranih aplikacija što vam omogućuje uštedu baterije i smanjenje naprezanja očiju.</string>
+  <string name="power_optimize_darkmode_dialog_summary">Tamni način rada mijenja shemu boja korisničkog sučelja sustava i odabranih aplikacija što vam omogućuje štednju baterije i smanjenje naprezanja očiju.</string>
   <string name="power_optimize_darkmode_dialog_title">Uključi tamni način rada</string>
-  <string name="power_optimize_darkmode_extend_summary">Tamni način rada mijenja shemu boja korisničkog sučelja sustava i odabranih aplikacija što vam omogućuje uštedu baterije i smanjenje naprezanja očiju</string>
+  <string name="power_optimize_darkmode_extend_summary">Tamni način rada mijenja shemu boja korisničkog sučelja sustava i odabranih aplikacija što vam omogućuje štednju baterije i smanjenje naprezanja očiju</string>
   <string name="power_optimize_darkmode_summary">Tamni način rada troši manje energije</string>
   <string name="power_optimize_disable_5g">Ograniči 5G povezivanje</string>
   <string name="power_optimize_disable_5g_summary">5G veza troši više energije</string>
@@ -4463,6 +4481,7 @@ Povući suglasnost sada?"</string>
   <string name="scanning_bar_cache_title">Skeniranje otpada…</string>
   <string name="scanning_bar_memory_title">Skeniranje predmemorije…</string>
   <string name="scanning_bar_number">%d%%</string>
+  <string name="scanning_bar_number_new">%s</string>
   <string name="scanning_bar_system_text">Dopuštenja aplikacija</string>
   <string name="scanning_bar_system_title">Skeniranje sustava…</string>
   <string name="screenrecord_not_find">Instalirajte najnoviju verziju Snimača zaslona i pokušajte ponovo.</string>
@@ -4532,7 +4551,7 @@ Povući suglasnost sada?"</string>
   <string name="settings_battery_consume_abnormal_title">Obavijesti prebrzog pražnjenja</string>
   <string name="settings_battery_over_heat_summary">Obavijesti kada uređaj postaje topliji nego što je normalno</string>
   <string name="settings_battery_over_heat_title">Obavijesti pregrijavanja</string>
-  <string name="settings_battery_power_save_suggest_title">Prijedlozi i upozorenja za uštedu baterije</string>
+  <string name="settings_battery_power_save_suggest_title">Prijedlozi i upozorenja za štednju baterije</string>
   <string name="settings_camera_subtitle_no">Nema meta podataka</string>
   <string name="settings_category_other">Ostale postavke</string>
   <string name="settings_category_overheat">Pregrijavanje</string>
@@ -5183,7 +5202,8 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="superpower_dialog_massage">"Ultra štednja baterije ograničava značajke koje najviše troše energiju i smanjuje performanse uređaja kako bi osnovne funkcije (npr. pozivi, SMS poruke i povezivanje s mrežom) bile dostupne koliko god je to moguće. Uključiti Ultra štednju baterije?"</string>
   <string name="superpower_dialog_title">Ultra štednja baterije</string>
   <string name="superpower_notification_new_title">Preostalo je manje od %s baterije</string>
-  <string name="superpower_notification_summary">Napunite uređaj ili uključite Ultra uštedu baterije</string>
+  <string name="superpower_notification_new_title_new">>Preostalo je manje od %s baterije</string>
+  <string name="superpower_notification_summary">Napunite bateriju ili uključite Ultra štednju baterije</string>
   <string name="superpower_notification_time_12">EEEE, dd.MM</string>
   <string name="superpower_notification_time_24">EEEE, dd.MM</string>
   <string name="superpower_notification_title">Preostalo manje od 10% baterije</string>
@@ -5683,7 +5703,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_notify_no_apps_saving_content">Dodirnite za uključivanje uštede.</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
   <string name="traffic_saving_notify_start_title">Štednja mob. podataka</string>
-  <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>
+  <string name="traffic_saving_one_key_optimize">Optimiziraj za štednju podataka</string>
   <string name="traffic_saving_optimized">Već optimizirano</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Uporaba podataka smanjena %.2f%%</string>
@@ -5697,7 +5717,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_title">Štednja podataka</string>
   <string name="traffic_saving_toast_start_mobile">Štednja podataka uključena</string>
   <string name="traffic_saving_toast_start_none_mobile">Štednja će se aktivirati kad god koristite mobilne podatke</string>
-  <string name="traffic_saving_toast_start_unreachable">"Ne mogu pokrenuti uštedu"</string>
+  <string name="traffic_saving_toast_start_unreachable">"Ne mogu pokrenuti štednju"</string>
   <string name="traffic_saving_toast_stop">Štednja podataka isključena</string>
   <string name="traffic_saving_whitelist_btn_add">Dodaj</string>
   <string name="traffic_saving_whitelist_btn_add_app">Dodaj</string>
