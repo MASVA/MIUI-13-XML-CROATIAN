@@ -2097,6 +2097,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Svojstva</string>
+  <string name="bt_plugin_current_version">Trenutna verzija</string>
   <string name="bt_plugin_new_version">Ažuriraj</string>
   <string name="bt_plugin_preference_button">Ažuriraj</string>
   <string name="bt_plugin_preference_msg">Trenutno: %1$s | Novo: %2$s</string>
@@ -4003,6 +4004,8 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="external_storage_turn_on">Vanjska pohrana je uključena</string>
   <string name="extreme_threats_summary">Primanje upozorenja za ekstremne prijetnje po život/imovinu</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
+  <string name="eye_gaze_summary">"Uređaj se neće zaključati kada otkrije da gledate u zaslon"</string>
+  <string name="eye_gaze_title">Otkrij pogled</string>
   <string name="face_add_max">Ne možete dodati više od %d lica</string>
   <string name="face_data_apply_for_category_title">Otključajte pomoću lica</string>
   <string name="face_data_apply_for_keyguard_title">Zaklj. zaslon</string>

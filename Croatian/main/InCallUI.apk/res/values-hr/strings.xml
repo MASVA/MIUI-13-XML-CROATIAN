@@ -42,11 +42,11 @@
   <string name="antispam_notification_title">Nepoznati broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
   <string name="areacode_set_default">Postavi kao zadano</string>
-  <string name="bluetooth_permission_content">Zbog ažuriranja autorizacije sustava, vaša je autorizacija potrebna za dobivanje popisa vaših Bluetooth uređaja</string>
-  <string name="bluetooth_permission_grant_immediately">Autoriziraj odmah</string>
-  <string name="bluetooth_permission_later">Kasnije</string>
-  <string name="bluetooth_permission_title">Omogućuje pristup bluetooth uređajima</string>
-  <string name="callFailed_cb_enabled">"Ne možete upućivati odlazne pozive dok je zabrana poziva uključena."</string>
+  <string name="bluetooth_permission_content">Dopuštenja sustava su ažurirana. Dopustite ovoj aplikaciji pristup nazivima vaših Bluetooth uređaja kako biste ih mogli vidjeti.</string>
+  <string name="bluetooth_permission_grant_immediately">Dopusti</string>
+  <string name="bluetooth_permission_later">Ne sada</string>
+  <string name="bluetooth_permission_title">Potrebna su dopuštenja</string>
+	<string name="callFailed_cb_enabled">"Ne možete upućivati odlazne pozive dok je zabrana poziva uključena."</string>
   <string name="callFailed_congestion">Mreža zauzeta</string>
   <string name="callFailed_dialToDial">DIAL zahtjev modificiran za DIAL s različitim brojem.</string>
   <string name="callFailed_dialToSs">DIAL zahtjev modificiran za SS zahtjev.</string>

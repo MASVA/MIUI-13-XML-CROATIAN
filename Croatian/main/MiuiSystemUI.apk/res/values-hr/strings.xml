@@ -18,7 +18,7 @@
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">svemir</string>
+  <string name="abc_menu_space_shortcut_label">razmaknica</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Pretražite…</string>
@@ -58,6 +58,7 @@
   <string name="accessibility_action_pip_unstash">Poništite sakrivanje</string>
   <string name="accessibility_action_start_one_handed">Pokretanje načina rada jednom rukom</string>
   <string name="accessibility_action_stop_one_handed">Izlaz iz načina rada jednom rukom</string>
+  <string name="accessibility_brightness">Svjetlina zaslona</string>
   <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_ambient_display_charging">Punjenje</string>
   <string name="accessibility_aspect_button">Cijeli zaslon</string>
@@ -78,7 +79,7 @@
   <string name="accessibility_bluetooth_disconnected">Bluetooth isključen.</string>
   <string name="accessibility_bluetooth_name">Spojen na %s.</string>
   <string name="accessibility_bluetooth_tether">Posredno povezivanje Bluetootha.</string>
-  <string name="accessibility_brightness">Svjetlina zaslona</string>
+  <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_brightness_slider">Klizač za svjetlinu</string>
   <string name="accessibility_bubble_dismissed">Oblačić odbačen.</string>
   <string name="accessibility_camera_button">"Kamera"</string>
@@ -782,7 +783,7 @@ Audio"</string>
   <string name="controls_dialog_confirmation">Kontrole su ažurirane</string>
   <string name="controls_dialog_message">Preporuka s kanala %s</string>
   <string name="controls_dialog_ok">Dodaj</string>
-  <string name="controls_dialog_title">Dodavanje kontrolama uređaja</string>
+  <string name="controls_dialog_title">Dodaj kontrolama uređaja</string>
   <string name="controls_error_failed">Pogreška, pokušajte ponovo</string>
   <string name="controls_error_generic">Status se ne može učitati</string>
   <string name="controls_error_removed">Nije pronađeno</string>
@@ -794,7 +795,7 @@ Audio"</string>
   <string name="controls_favorite_load_error">Kontrole se ne mogu učitati. U aplikaciji %s provjerite da se postavke aplikacije nisu promijenile.</string>
   <string name="controls_favorite_load_none">Kompatibilne kontrole nisu dostupne</string>
   <string name="controls_favorite_other_zone_header">Drugo</string>
-  <string name="controls_favorite_rearrange">Zadržite i povucite da biste promijenili raspored kontrola</string>
+  <string name="controls_favorite_rearrange">Držite i povucite kontrolu za pomicanje</string>
   <string name="controls_favorite_removed">Sve su kontrole uklonjene</string>
   <string name="controls_favorite_see_other_apps">Pogledajte ostale aplikacije</string>
   <string name="controls_favorite_subtitle">Odaberite kontrole kojima želite pristupati iz izbornika napajanja</string>
@@ -2248,7 +2249,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="power_suggestion_battery_run_out">Baterija bi se mogla isprazniti do %1$s</string>
   <string name="power_suggestion_extend_battery">Produžite vijek trajanja baterije %1$s</string>
   <string name="pref_show_lunar_calendar_title">Prikažite tradicionalni kineski kalendar na Zaklj. zaslonu</string>
-  <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
+  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="priority_conversations">Prioritetni razgovori</string>
   <string name="privacy_dialog_title">Obavijesti o osjetljivim radnjama</string>
@@ -2317,7 +2318,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings">Brze postavke</string>
   <string name="quick_settings_autobrightness_label">Autom. svjetlina</string>
   <string name="quick_settings_batterysaver_label">Štednja baterije</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">Upareni uređaji nisu dostupni</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (broj uređaja: %d)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth isključen</string>
@@ -2473,8 +2474,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_work_mode_label">Poslovne aplikacije</string>
   <string name="quick_step_accessibility_toggle_overview">Uključivanje/isključivanje pregleda</string>
   <string name="rapid_charge_mode_tip">Brzo punjenje</string>
-  <string name="reboot_info_auto_boot_global">Upcoming alarm: %s</string>
-  <string name="reboot_info_shutdown_alarm_global">Shutdown alarm: %s</string>
+  <string name="reboot_info_auto_boot_global">Nadolazeći alarm: %s</string>
+  <string name="reboot_info_shutdown_alarm_global">Alarm za isključivanje: %s</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_conversations">Nedavni razgovori</string>
   <string name="recent_used_camera">Ova je aplikacija koristila kameru</string>
