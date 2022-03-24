@@ -29,7 +29,6 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_back">Natrag</string>
-  <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_desc_close">Zatvori</string>
   <string name="accessibility_desc_edit">Uredi</string>
   <string name="accessibility_description_hours">Sati</string>
@@ -138,10 +137,6 @@
   <string name="hearing_assist_exit_btn_continue">Nastavi</string>
   <string name="hearing_assist_exit_btn_stop">Isključi</string>
   <string name="hearing_assist_exit_tips_summary">Live in-ear sada radi. Isključiti?</string>
-  <string name="hearing_assist_bluetooth_enable_tips_cancle">Odustani</string>
-  <string name="hearing_assist_bluetooth_enable_tips_start">Uključi</string>
-  <string name="hearing_assist_bluetooth_enable_tips_summary">Live in-ear radi kada je Bluetooth uključen. Želite li sada uključiti Bluetooth?</string>
-  <string name="hearing_assist_bluetooth_enable_tips_title">Uključite Bluetooth</string>
   <string name="hearing_assist_transmission_label">Live in-ear</string>
   <string name="hearing_assist_transmission_tips_cancel">Odustani</string>
   <string name="hearing_assist_transmission_tips_continue">Uključi</string>

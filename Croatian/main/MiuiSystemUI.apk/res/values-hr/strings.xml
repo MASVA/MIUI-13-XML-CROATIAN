@@ -79,7 +79,6 @@
   <string name="accessibility_bluetooth_disconnected">Bluetooth isključen.</string>
   <string name="accessibility_bluetooth_name">Spojen na %s.</string>
   <string name="accessibility_bluetooth_tether">Posredno povezivanje Bluetootha.</string>
-  <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_brightness_slider">Klizač za svjetlinu</string>
   <string name="accessibility_bubble_dismissed">Oblačić odbačen.</string>
   <string name="accessibility_camera_button">"Kamera"</string>
