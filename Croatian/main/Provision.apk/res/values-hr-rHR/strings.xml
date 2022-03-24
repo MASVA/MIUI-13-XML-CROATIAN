@@ -277,6 +277,8 @@ Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke
 Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; Privatnost &gt; Korištenje i dijagnostika."</string>
   <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.</string>
   <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
+  <string name="other_settings_quality_service">Dopuštenja za MIUI Daemon</string>
+  <string name="other_settings_quality_service_summary">MIUI Daemon koristi se za poboljšanje stabilnosti i performansi sustava. Da bi mogla normalno raditi, ovoj usluzi su potrebna dopuštenja za pristup i spremanje stavki u pohranu uređaja.</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o privatnosti</string>
