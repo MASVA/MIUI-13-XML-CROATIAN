@@ -1369,6 +1369,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="title_allow_network_access">Ažuriraj podatke automatski</string>
   <string name="title_collapse_sp_messages">Obavijesti grupe</string>
   <string name="title_hide_verification_code">Autom. sakrij OTP na Zaklj. zaslonu</string>
+  <string name="title_not_show_read_mms_perm_req">Potrebna su dopuštenja</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
@@ -1393,6 +1394,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="toast_not_show_email_perm_req">Dopustite aplikaciji Poruke pristup vašoj e-pošti za korištenje ove značajke</string>
   <string name="toast_not_show_location_perm_req">Dopustite aplikaciji Poruke pristup vašoj lokaciji da biste koristili ovu značajku</string>
   <string name="toast_not_show_microphone_perm_req">Dopustite aplikaciji Poruke korištenje mikrofona da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_read_mms_perm_req">Da biste mogli vidjeti primljene poruke, morate dopustiti aplikaciji Poruke čitanje SMS i MMS poruka. Ovo dopuštenje možete dati u Postavkama.</string>
   <string name="toast_not_show_send_sms_perm_req">Da biste mogli koristiti ovu značajku, dopustite najprije ovoj aplikaciji slanje poruka.</string>
   <string name="toast_not_show_storage_perm_req">Dopustite aplikaciji Poruke pristup pohrani da bi mogla koristiti ovu značajku</string>
   <string name="toast_not_show_write_contacts_perm_req">Dopustite aplikaciji Poruke uređivanje kontakata za korištenje ove značajke</string>

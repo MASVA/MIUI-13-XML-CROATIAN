@@ -4238,6 +4238,8 @@ Da biste saznali više, obratite se operateru."</string>
   <string name="firmware_version">Verzija sustava Android</string>
   <string name="fiveg_sa_switch_summary">Koristi SA mrežu na drugoj SIM kartici (samo za testiranje)</string>
   <string name="fiveg_sa_vice_switch_title">SA na drugoj SIM kartici</string>
+  <string name="fiveg_vonr_switch_summary">Koristite VoNR u 5G mrežnim okruženjima kako biste poboljšali iskustvo pozivanja. Ova je značajka dostupna samo u svrhu testiranja.</string>
+  <string name="fiveg_vonr_switch_title">Postavke VoNR-a</string>
   <string name="fix_connectivity">Rješavanje problema s povezivošću</string>
   <string name="flash_drive_backup_btn">Izradi Sig. kopiju na USB uređaj</string>
   <string name="flash_drive_backup_disable">Prvo spojite USB pogon</string>
@@ -4278,6 +4280,10 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="fold_rule_important">Važno</string>
   <string name="fold_rule_unimportant">Nevažno</string>
   <string name="fold_title">Pravila za grupirane obavijesti</string>
+  <string name="font_cta_alert_btn_negative">Odustani</string>
+  <string name="font_cta_alert_btn_positive">Prihvaćam</string>
+  <string name="font_cta_alert_message">Pročitajte i prihvatite uvjete i odredbe Tema da biste nastavili.</string>
+  <string name="font_cta_alert_title">Uvjeti i odredbe</string>
   <string name="following_us_title">Pratite nas</string>
   <string name="font_setting_weight_toast">"Trenutni font ne podržava podešavanje debljine fonta"</string>
   <string name="font_settings_jump">Pristupačnost &gt; Veličina zaslona</string>
@@ -4563,6 +4569,16 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="guest_reset_guest_confirm_button">Poništi</string>
   <string name="guest_reset_guest_dialog_title">Poništiti gostujuću sesiju?</string>
   <string name="guest_resetting">Poništavanje gostujuće sesije…</string>
+  <string name="guide_button_text">Razumijem</string>
+  <string name="guide_text_center">"Prijeđite prstom udesno prema gore po sredini zaslona.
+Područje u kojem možete potvrditi zaključavanje zaslona bit će poravnato po sredini."</string>
+  <string name="guide_text_left">"Povucite prstom ravno prema gore iz donjeg lijevog kuta.
+Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se ulijevo."</string>
+  <string name="guide_text_right">"Povucite prstom ravno prema gore iz donjeg desnog kuta.
+Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesno."</string>
+  <string name="guide_title_center">Povucite prstom prema gore u sredini</string>
+  <string name="guide_title_left">Povucite prstom prema gore s lijeve strane</string>
+  <string name="guide_title_right">Povucite prstom prema gore udesno</string>
   <string name="gxzw_add_fingerprint_area">Skener otiska prsta</string>
   <string name="gxzw_add_fingerprint_continue">Nastavi</string>
   <string name="gxzw_add_fingerprint_edge_message">Pomičite prst da snimite rubove otiska prsta.</string>
@@ -9020,6 +9036,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_app_invisible">Aplik. skrivena;Skrivene aplikacije</string>
   <string name="search_app_permission">Dopuštenja;ROOT pristup</string>
   <string name="search_app_switch_key">Nedavno;Nedavno;Izbornik;Tipka izbornika;Upravitelj zadataka</string>
+  <string name="search_application_count">Traži aplikacije</string>
   <string name="search_application_lock_name">Zaklj. aplikacije</string>
   <string name="search_applications_settings">Instalirane aplikacije</string>
   <string name="search_back_key">Natrag;Tipka natrag;Tipka natrag</string>
@@ -9904,6 +9921,7 @@ Možda je PIN pogrešan."</string>
   <string name="sim_status_title_sim_softbank">SIM status %1$d</string>
   <string name="sim_switch_button">Prebaci</string>
   <string name="sim_switch_channel_id">Promjena mobilnog operatera</string>
+  <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
   <string name="single_key_use">Jedna tipka</string>
   <string name="single_key_use_summary">"Koristi tipku Početna za funkcije koje obavljaju druge 2 tipke.
@@ -11976,6 +11994,7 @@ Tijekom glasovnog poziva ne možete upotrebljavati internet i neke aplikacije mo
   <string name="volume_ring_mute">Isključivanje zvuka zvona i obavijesti</string>
   <string name="volume_system_description">Kamera, snimke zaslona, tipke i ostale obavijesti sustava</string>
   <string name="volume_voice_description">Glas tijekom poziva</string>
+  <string name="vonr_switch_title">Koristi VoNR</string>
   <string name="vpn_always_on_active">Značajka Always-on aktivna</string>
   <string name="vpn_always_on_invalid_reason_dns">Adrese DNS poslužitelja za Always-on VPN moraju biti numeričke</string>
   <string name="vpn_always_on_invalid_reason_no_dns">Za Always-on VPN mora biti naveden DNS poslužitelj</string>

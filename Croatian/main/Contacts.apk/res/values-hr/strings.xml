@@ -1488,6 +1488,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="privacy_password_title2">Koristi zaporku za zaštitu privatnosti</string>
   <string name="privacy_password_title3">Nadogradite vašu zaporku</string>
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
+  <string name="privacy_settings_blue_scan_connect">Povezivanje s uređajima u blizini</string>
   <string name="privacy_settings_call_phone">Napravi</string>
   <string name="privacy_settings_call_phone_description">Za upućivanje poziva putem prečaca na početnom zaslonu</string>
   <string name="privacy_settings_call_phone_description_for_pad">Za upućivanje poziva u aplikacijama trećih strana</string>
@@ -1812,6 +1813,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_for_failed_saving_nickname">Spremanje nadimka nije uspjelo</string>
   <string name="toast_for_saving_nickname">Nadimak spremljen</string>
   <string name="toast_join_with_empty_contact">Upišite ime kontakta prije nego što ga pridružite drugom kontaktu.</string>
+  <string name="toast_not_show_blue_scan_connect_perm_req">Dopustite ovoj značajci povezivanje s uređajima u blizini putem Bluetootha kako biste mogli uvesti kontakte s drugih uređaja.</string>
   <string name="toast_making_personal_copy">Stvaranje osobne kopije…</string>
   <string name="toast_not_show_camera_perm_req">Da biste mogli koristiti kameru za snimanje fotografija profila, dopustite najprije ovoj aplikaciji fotografiranje i snimanje videozapise.</string>
   <string name="toast_not_show_location_perm_req">Da biste mogli uvesti kontakte s drugih uređaja putem Bluetootha, dopustite najprije ovoj aplikaciji da pristupi vašoj lokaciji.</string>

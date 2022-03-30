@@ -339,6 +339,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">"Izbriši"</string>
   <string name="menu_delete_forever">Izbriši trajno</string>
+  <string name="menu_edit">Uredi</string>
   <string name="menu_folders">Mape</string>
   <string name="menu_group">Izradi mapu</string>
   <string name="menu_hide">Sakrij</string>
@@ -564,6 +565,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_mindnote_entrance_hint_newversion">"Počnite tipkati "</string>
   <string name="note_mindnote_entrance_icon_text">Stvorite umnu mapu</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Stvorite umnu mapu</string>
+  <string name="note_module_name">Bilješke</string>
   <string name="note_not_text_stub">Nema teksta</string>
   <string name="note_sort_way">Poredaj</string>
   <string name="notealert_enter">Otvori bilješku</string>
@@ -734,10 +736,11 @@ Dodirnite + da napravite mapu"</string>
   <string name="set_alarm_description">Postavi alarm</string>
   <string name="setting_big_screen_layout_columns">Bočna traka</string>
   <string name="setting_big_screen_layout_flat">Pločice</string>
-  <string name="setting_big_screen_layout_title">Izgled velikog zaslona</string>
-  <string name="setting_layout">Izgled</string>
-  <string name="setting_micloud_sync_title">Sinkronizacija s cloudom</string>
-  <string name="setting_note_list_layout_title">Izgled</string>
+  <string name="setting_big_screen_layout_title">Raspored velikog zaslona</string>
+  <string name="setting_cloud_service">Cloud usluge</string>
+  <string name="setting_layout">Raspored</string>
+  <string name="setting_micloud_sync_title">Mi Cloud</string>
+  <string name="setting_note_list_layout_title">Raspored</string>
   <string name="setting_other">OSTALO</string>
   <string name="setting_privacy">Pravila o privatnosti</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
