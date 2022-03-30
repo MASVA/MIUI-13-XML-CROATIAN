@@ -222,14 +222,30 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
   <string name="activate_failed_no_retry">Molimo kontaktirajte korisničku službu banke</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_device">Dodaj uređaj</string>
+  <string name="add_test_env_permission">dodaj dopuštenje testnog okruženja</string>
+  <string name="add_test_env_permission_hint">Upozorenje: jednom u testnom okruženju uređaj više ne može pristupiti proizvodnom okruženju.</string>
+  <string name="add_test_key">Dodaj sigurnosni ključ</string>
+  <string name="add_test_key_hint">Odobreno, dodirnite tipku ključa za dodavanje testnog ključa</string>
   <string name="add_to_trust_device">Ovo je pouzdan uređaj</string>
   <string name="add_wifi_desc">Da biste svoj nosivi uređaj povezali s Wi-Fi mrežom, unesite zaporku za \"%1$s\".</string>
   <string name="add_wifi_title">Unesite zaporku</string>
   <string name="agree">Slažem se</string>
+  <string name="agree_protocol">Prihvaćam protokol</string>
   <string name="aivs_huami_operate_on_app">Nastavite u aplikaciji na svom telefonu</string>
-  <string name="aivs_huami_timer_limit">Možete postaviti mjerač vremena na najviše 99 minuta 59 sekundi</string>
+  <string name="aivs_huami_timer_limit">Možete postaviti timer na najviše 99 minuta 59 sekundi</string>
   <string name="app_name">Mi Fitness</string>
   <string name="app_upgrade_no_newer_version">Trenutačna verzija je ažurna</string>
+  <string name="apply_add_test_key">Uđite u dev način</string>
+  <string name="apply_add_test_key_data_exception">"Nisam mogao dešifrirati podatke"</string>
+  <string name="apply_add_test_key_error_data">Parametri nisu točni</string>
+  <string name="apply_add_test_key_no_data">Nevažeći parametri</string>
+  <string name="apply_add_test_key_reason">Razlog primjene</string>
+  <string name="apply_add_test_key_reason_not_null">"Razlog ne dopušta null"</string>
+  <string name="apply_add_test_key_repeat">Došlo je do pogreške, pokušajte ponovo</string>
+  <string name="apply_se_key_status_applying">Primjena</string>
+  <string name="apply_se_key_status_denied">Odbijeno</string>
+  <string name="apply_se_key_status_original">"Nisu primijenjeni, koristi se izvorni ključ"</string>
+  <string name="apply_se_key_status_succeed">Odobreno</string>
   <string name="apply_times_exceed_limit">Vremena primjene premašuju maksimalno ograničenje</string>
   <string name="auth_fail_warning">Sesija je istekla. Prijavite se ponovo.</string>
   <string name="bank_card_not_supported">Nije podržano</string>
@@ -552,6 +568,8 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
   <string name="device_add_discovery_paired">Pronađen je upareni uređaj</string>
   <string name="device_add_failed">"Ne mogu dodati"</string>
   <string name="device_add_new">Dodaj uređaj</string>
+  <string name="device_agree_all">Slažem se sa svime</string>
+  <string name="device_agree_to_terms">Uvjeti i odredbe</string>
   <string name="device_alarm_notify">Sinkronizacija alarma s telefona</string>
   <string name="device_all_skills">Sve značajke</string>
   <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -649,7 +667,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
   <string name="device_language_setting">Jezik</string>
   <string name="device_location_dialog_message">"Nećete moći koristiti ovu uslugu osim ako ne date potrebna dopuštenja, ali to neće utjecati na vašu upotrebu drugih usluga. Uvijek možete ograničiti dopuštenja u postavkama."</string>
   <string name="device_location_dialog_title">Potrebna su dopuštenja</string>
-  <string name="device_lock_off_wrist">Otkrivanje zapešća</string>
+  <string name="device_lock_off_wrist">PIN</string>
   <string name="device_manager">Uređaji</string>
   <string name="device_mi_band">Band</string>
   <string name="device_mi_sport_health">Mi Fitness (trenutačno)</string>
@@ -679,6 +697,8 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
   <string name="device_remove_device_in_other">Idite na stranicu uređaja i dodirnite Prekini uparivanje.</string>
   <string name="device_remove_fail">"Ne mogu ukloniti"</string>
   <string name="device_remove_fail_many_time">Da biste prekinuli uparivanje uređaja, idite na stranicu Uređaj i dodirnite Prekini uparivanje.</string>
+  <string name="device_required_agree_collect_info">&lt;Data>Prihvaćam &lt;a href=\"%1$s\">Prikupljanje i korištenje osobnih podataka&lt;/a> (obvezno)&lt;/Data></string>
+  <string name="device_required_agree_use_location">&lt;Data>Prihvaćam &lt;a href=\"%1$s\">Prikupljanje informacija o lokaciji&lt;/a> (obvezno)&lt;/Data></string>
   <string name="device_retry">Pokušajte ponovo</string>
   <string name="device_scan_login">Skener</string>
   <string name="device_scan_qr_add_device">Dodaj uređaj</string>
@@ -838,6 +858,19 @@ Da biste svoje promjene primijenili na svoj nosivi uređaj, idite na Izgled apli
   <string name="device_settings_common_wechat_pay">WeChat</string>
   <string name="device_settings_common_world_clock">Svjetski sat</string>
   <string name="device_settings_common_xiaoai">Mi AI</string>
+  <string name="device_settings_contact">Omiljeni kontakti</string>
+  <string name="device_settings_contact_add">Dodaj</string>
+  <string name="device_settings_contact_add_fail">"Ne mogu dodati u omiljene kontakte. Pokušajte ponovo."</string>
+  <string name="device_settings_contact_delete_fail">"Ne mogu izbrisati. Pokušajte ponovo."</string>
+  <string name="device_settings_contact_edit">Uredi</string>
+  <string name="device_settings_contact_list_fail">"Ne mogu dobiti podatke za kontakt. Pokušajte ponovo."</string>
+  <string name="device_settings_contact_list_tips1">1. Da biste pozvali svoje kontakte na svom nosivom uređaju, dodajte ih u svoje omiljene kontakte.</string>
+  <string name="device_settings_contact_list_tips2">2. Možete dodati do 10 omiljenih kontakata.</string>
+  <string name="device_settings_contact_search">Traži kontakte</string>
+  <string name="device_settings_contact_select">Odaberi kontakt</string>
+  <string name="device_settings_contact_sort">Razvrstaj</string>
+  <string name="device_settings_contact_sync_failt">"Sinkronizacija nije uspjela. Pokušajte ponovo."</string>
+  <string name="device_settings_contact_sync_success">Uspješno sinkronizirano</string>
   <string name="device_settings_continue">Sljedeće</string>
   <string name="device_settings_customize_schedule">Raspored</string>
   <string name="device_settings_desc_pressure">Izmjerite razinu stresa tijekom dana</string>
@@ -941,7 +974,7 @@ Uključivanje ove značajke utjecat će na trajanje baterije, svejedno nastaviti
   <string name="device_settings_heart_rate_warning_unit">BPM</string>
   <string name="device_settings_helper_keep_alive">Pozadinska dopuštenja</string>
   <string name="device_settings_high_hr_notify">Visoki broj otkucaja srca</string>
-  <string name="device_settings_high_hr_notify_des">"Obavijesti kada otkucaji srca prijeđu iznad postavljene razine dok ste bili neaktivni 10 minuta"</string>
+  <string name="device_settings_high_hr_notify_des">"Obavijesti kada broj otkucaja srca ostane iznad postavljene razine dok ste bili neaktivni"</string>
   <string name="device_settings_high_hr_notify_threshold">Vrijednost upozorenja</string>
   <string name="device_settings_high_pressure_notice_des">Potaknite vježbu disanja kada razina stresa ostane iznad 80 tijekom budnog vremena</string>
   <string name="device_settings_high_pressure_notice_title">Podsjetnik za opuštanje</string>
@@ -970,7 +1003,7 @@ Uključivanje ove značajke utjecat će na trajanje baterije, svejedno nastaviti
   <string name="device_settings_limit_bind_switch_tips">Ograničite svoj nosivi uređaj od uparivanja s drugom aplikacijom</string>
   <string name="device_settings_limit_hint">Savjeti</string>
   <string name="device_settings_load_data_failed">"Ne mogu učitati podatke"</string>
-  <string name="device_settings_lock_off_wrist">Otkrivanje zapešća</string>
+  <string name="device_settings_lock_off_wrist">PIN</string>
   <string name="device_settings_lock_off_wrist_set_pwd">Postavi PIN</string>
   <string name="device_settings_long_sit">Upozorenje u mirovanju</string>
   <string name="device_settings_low_hr_warning_title">Nizak broj otkucaja srca</string>
@@ -997,6 +1030,7 @@ Ovaj je korak potreban za plaćanje vašim uređajem."</string>
   <string name="device_settings_night_model_sunset_open">Isključeno do zalaska sunca</string>
   <string name="device_settings_night_model_tomorrow">Sutra</string>
   <string name="device_settings_night_start_time">Pokreni</string>
+  <string name="device_settings_no_contact">Još nema favorita</string>
   <string name="device_settings_not_open_for_now">Ne sada</string>
   <string name="device_settings_notify_permission_is_not_enabled">Dopusti pristup obavijesti</string>
   <string name="device_settings_nromal_alarm">Redovno</string>
@@ -1126,8 +1160,9 @@ Povezani podaci uređaja bit će obrisani u roku od 7 dana."</string>
   <string name="device_settings_unlock_phone_unlock_distance">Domet</string>
   <string name="device_settings_unwear_alert">"Zaključajte svoj nosivi uređaj kada ga ne nosite"</string>
   <string name="device_settings_unwear_close_cofirm_msg">"Nakon što isključite PIN, nećete moći koristiti ovu značajku, ipak nastavite?"</string>
-  <string name="device_settings_unwear_close_cofirm_title">Isključiti PIN?</string>
+  <string name="device_settings_unwear_close_cofirm_title">Isključi PIN</string>
   <string name="device_settings_unwear_close_pwd">Isključi PIN</string>
+  <string name="device_settings_unwear_get_status_fail">"Nije moguće sinkronizirati podatke"</string>
   <string name="device_settings_unwear_no_set">Nije postavljeno</string>
   <string name="device_settings_unwear_set_pwd">PIN</string>
   <string name="device_settings_unwear_set_pwd_huami_alert">Unesite 6-znamenkasti PIN</string>
@@ -2280,6 +2315,7 @@ Uobičajeni raspon: 10%–30%"</string>
   <string name="health_sleep_whether_to_override_history_records">Zapis spavanja već postoji u ovom vremenskom razdoblju. Izbrisati prethodni zapis?</string>
   <string name="health_snore_detection_close_title">Isključiti otkrivanje hrkanja i govora?</string>
   <string name="health_snore_duration">Hrkanje</string>
+  <string name="health_spo2_abnormal_count">Upozorenja</string>
   <string name="health_spo2_abnormal_low">Upozorenja</string>
   <string name="health_spo2_avg">Prosjek</string>
   <string name="health_spo2_desc_day">Kisik u krvi %1$s</string>
@@ -3552,6 +3588,8 @@ Počnite ispočetka."</string>
   <string name="privacy_permission_read_call_log">Pristup povijesti poziva</string>
   <string name="privacy_permission_read_contacts">Pristup kontaktima</string>
   <string name="privacy_permission_read_phone_state">Pristup informacijama o uređaju</string>
+  <string name="privacy_permission_record_audio">Snimanje zvuka</string>
+  <string name="privacy_permission_record_audio_des">Za snimanje razgovora i hrkanja tijekom analize ciklusa spavanja</string>
   <string name="privacy_permission_write_read_file">Pristup pohrani</string>
   <string name="privacy_sensitive_notify_des">Kako bismo pratili vaše vježbanje i napredak u kondiciji, prikupljamo i obrađujemo vaše podatke uključujući rute vježbanja, podatke o spavanju, broj otkucaja srca i težinu.</string>
   <string name="privacy_sensitive_notify_msg">"&lt;Data>Pročitajte i prihvatite naše &lt;a href=\"%1$s\">Prikupljanje i korištenje osjetljivih podataka&lt;/a> kako biste bolje razumjeli kako prikupljamo i obrađujemo vaše podatke. Nećete moći koristiti ovu uslugu ako ne pristanete na naše prikupljanje i obradu.&lt;/Data>"</string>
@@ -3636,9 +3674,10 @@ Počnite ispočetka."</string>
   <string name="share_wx_not_support_timeline">Prvo ažurirajte WeChat.</string>
   <string name="share_wx_session">WeChat</string>
   <string name="share_wx_timeline">Trenuci</string>
+  <string name="show_info_text">Želite li svom uređaju dodati ključ za testiranje sigurnosti?</string>
   <string name="sign_in">Prijava</string>
   <string name="sign_in_progress">Prijava…</string>
-  <string name="sign_in_title">Prijavite se sa svojim Mi računom</string>
+  <string name="sign_in_title">Prijavite se sa svojim Mi Računom</string>
   <string name="skip_query_account">Preskoči</string>
   <string name="sleep_detection_stop">Ova će sesija završiti kada ustanete</string>
   <string name="sleep_detector_content">Mi Fitness prati vaš san u pozadini</string>
@@ -3882,6 +3921,7 @@ Počnite ispočetka."</string>
   <string name="stand_notice_title4">Ustanite i malo se istegnite</string>
   <string name="stand_notice_title5">"Izgleda da niste ustali u posljednjih sat vremena"</string>
   <string name="stand_notice_title6">Jeste li ustali u posljednjih sat vremena?</string>
+  <string name="success">Gotovo</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -3889,6 +3929,8 @@ Počnite ispočetka."</string>
   <string name="sync_password">Lozinka</string>
   <string name="sync_user_name">Korisničko ime</string>
   <string name="sync_weather_notification_message">Ažuriranje vremenskih podataka na vašem nosivom uređaju…</string>
+  <string name="sync_wifi_no_permission_desc">Želite li podijeliti zaporku za Wi-Fi sa svojim nosivim uređajem?</string>
+  <string name="sync_wifi_no_permission_title">Podijeli zaporku</string>
   <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="taiwan">Tajvan</string>
   <string name="tb_current_select">%1$s</string>
@@ -4001,6 +4043,9 @@ Počnite ispočetka."</string>
   <string name="trail_label_type">Vrsta</string>
   <string name="trail_lactate_threshold">Prag</string>
   <string name="trail_low_intensity_description">Mogao bi pričati bez puhanja</string>
+  <string name="trail_map_style_common">Zadano</string>
+  <string name="trail_map_style_no_label">Ništa</string>
+  <string name="trail_map_style_satillite">Satelit</string>
   <string name="trail_max_stress">Maks.</string>
   <string name="trail_middle_intensity_description">Mogao bi pričati, ali ne i pjevati</string>
   <string name="trail_month_dialog_go_today">Odabrano danas</string>

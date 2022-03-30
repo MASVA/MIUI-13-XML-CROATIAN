@@ -3976,7 +3976,8 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="exceptional_case">Iznimke</string>
   <string name="exchange_account">Promijeni račun</string>
   <string name="expand_button_title">Napredno</string>
-  <string name="expandable_under_keyguard_title">Proširivo na Zaklj. zaslonu</string>
+  <string name="expand_card_action">Dodatne kartice</string>
+  <string name="expandable_under_keyguard_title">Prikaži na Zaklj. zaslonu</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Eksperimentalno</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
@@ -6806,6 +6807,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_dolby_surround_virtualizer">Surround virtualizator</string>
   <string name="music_dolby_volume_leveler">Izjednačitelj glasnoće</string>
   <string name="music_equalizer">Equalizer</string>
+  <string name="music_playback_control_cross_device_flow">Prenesite reprodukciju zvuka na više uređaja</string>
+  <string name="music_video_flow_across_device">Kontrola i prijenos audioreprodukcije između uređaja</string>
   <string name="music_equalizer_summary">Prilagodite individualne razine za različite vrste glazbe</string>
   <string name="music_hd_title">HD Zvuk</string>
   <string name="music_headphone_settings">Odaberite vrstu slušalica</string>
@@ -10046,46 +10049,59 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
 Za upućivanje poziva hitnim kontaktima
 • Nadzor stanja uređaja
 Za reprodukciju SOS snimke kada se kontakti za hitne slučajeve jave na poziv
-Ako se ne slažete davati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
+Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
   <string name="sos_phone_call_privacy_dialog_message_confirm">Dopusti</string>
   <string name="sos_phone_log_privacy_dialog_message">"Ovoj aplikaciji potrebno je dopuštenje za pristup vašoj povijesti poziva da biste je mogli dijeliti sa svojim kontaktima za hitne slučajeve.
-Ako se ne slažete davati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
+Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
   <string name="sos_privacy_and_content_policy">Korisnički sporazum i Pravila o Privatnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Odustani</string>
   <string name="sos_privacy_dialog_button_ok">Prihvaćam</string>
-  <string name="sos_privacy_dialog_message">"Pročitajte i složite se s našim %s prije korištenja ove značajke. 
-Ova značajka treba dopuštenja za pristup vašoj lokaciji, korištenje mobilnih mreža i čitanje kontakata. Slažete li se?"</string>
-  <string name="sos_privacy_dialog_message_new_version">"Hitni SOS omogućuje vam dijeljenje svoje lokacije u stvarnom vremenu i slanje tekstualnih poruka hitnim kontaktima.
-Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+  <string name="sos_privacy_dialog_message">"Pročitajte i prihvatite naše %s prije korištenja ove značajke. 
+Ova značajka treba dopuštenja za pristup vašoj lokaciji, korištenje mobilnih mreža i čitanje kontakata. Prihvaćate li?"</string>
+  <string name="sos_privacy_dialog_message_new_version">"Hitni SOS omogućuje vam dijeljenje svoje lokacije u stvarnom vremenu i slanje tekstualnih vašim kontaktima za hitne slučajeve.
+Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti.
 Imajte na umu da se ova aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:
 • Pristup pohrani
 Za spremanje kontakata u hitnim slučajevima
 • Pristup kontaktima
-Za označavanje kontakata u hitnim kontaktima
+Za označavanje kontakata kao kontakata za hitne slučajeve
 • Slanje SMS-a
-Za slanje tekstualnih poruka kontaktima hitne pomoći
+Za slanje tekstualnih poruka kontaktima za hitne slučajeve
 • Pristupanje lokaciji
 Za dijeljenje svoje lokacije kontaktima za hitne slučajeve
 • Snimanje zvuka
-Za slanje snimaka ambijentalnog zvuka kontaktima za hitne slučajeve
+Za slanje snimaka okolnog zvuka kontaktima za hitne slučajeve
 • Korištenje kamere
 Za slanje fotografija kontaktima za hitne slučajeve
-Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete odlučiti isključiti ili ne koristiti SOS za hitne slučajeve.
-Prije upotrebe naših usluga, pročitajte i prihvatite naše %s."</string>
-  <string name="sos_privacy_dialog_title">Uvjeti i Odredbe</string>
+Ako ne pristanete dati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete odlučiti isključiti ili ne koristiti hitni SOS.
+Prije korištenja naših usluga, pročitajte i prihvatite naše %s."</string>
+    <string name="sos_privacy_dialog_message_old_version">"Hitni SOS omogućuje vam dijeljenje svoje lokacije u stvarnom vremenu i slanje tekstualnih poruka vašim kontaktima za hitne slučajeve.
+Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti.
+Imajte na umu da se ova aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:
+• Pristup pohrani
+Za spremanje kontakata u hitnim slučajevima
+• Pristup kontaktima
+Za označavanje kontakata kao kontakata za hitne slučajeve
+• Slanje SMS-a
+Za slanje tekstualnih poruka kontaktima za hitne slučajeve
+• Pristup lokaciji
+Za dijeljenje svoje lokacije kontaktima za hitne slučajeve
+Ako ne pristanete dati takva dopuštenja ili podijeliti i prenijeti svoje osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete isključiti ili ne koristiti Hitni SOS.
+Prije korištenja naših usluga, pročitajte i prihvatite naše %s.</string>
+  <string name="sos_privacy_dialog_title">Uvjeti i odredbe</string>
   <string name="sos_privacy_policy">Pravila o privatnosti</string>
   <string name="sos_privacy_policy_change_endtitle">Pročitajte i prihvatite novu verziju %s prije nego nastavite.</string>
-  <string name="sos_privacy_policy_change_message_reject">"Nećete moći nastaviti koristiti SOS za hitne slučajeve ako ne pristanete na novu verziju Pravila o privatnosti. Slažete li se s ažuriranim %s sada?"</string>
-  <string name="sos_privacy_policy_change_subtitle">SOS Pravila o privatnosti za hitne slučajeve su ažurirana:</string>
+  <string name="sos_privacy_policy_change_message_reject">"Nećete moći nastaviti koristiti Hitni SOS ako ne pristanete na novu verziju Pravila o privatnosti. Prihvaćate li ažurirana %s?"</string>
+  <string name="sos_privacy_policy_change_subtitle">Hitni SOS Pravila o privatnosti za hitne slučajeve su ažurirana:</string>
   <string name="sos_privacy_policy_change_title">Pravila o privatnosti su ažurirana</string>
   <string name="sos_privacy_policy_change_title_reject">"Ne mogu koristiti aplikaciju"</string>
   <string name="sos_privacy_policy_no_net_button">Razumijem</string>
   <string name="sos_privacy_policy_no_net_message">Vaš se uređaj mora povezati s mrežom da biste mogli povući suglasnost. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="sos_privacy_policy_no_net_title">"Ne mogu se povezati s mrežom"</string>
   <string name="sos_privacy_policy_revoke">Povlačenje suglasnosti</string>
-  <string name="sos_privacy_policy_revoke_message_reject">"Ako nastavite, povući ćete suglasnost na Pravila o privatnosti Emergency SOS -a. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije.
+  <string name="sos_privacy_policy_revoke_message_reject">"Ako nastavite, povući ćete suglasnost na Pravila o privatnosti za Hitni SOS. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije.
 
-Budući da Emergency SOS pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja sigurnosnih usluga.
+Budući da Hitni SOS pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja sigurnosnih usluga.
 
 Povući suglasnost za %s?"</string>
   <string name="sos_privacy_policy_revoke_title_reject">Pažnja</string>
