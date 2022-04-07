@@ -105,6 +105,10 @@
   <string name="customer_location_judgment">Kina</string>
   <string name="cut">Izreži</string>
   <string name="dance">Ples</string>
+  <string name="dark_mode_enable">Uključi</string>
+  <string name="dark_mode_suggest_message">Možete se automatski prebaciti na Tamni način rada na zalasku sunca kako biste dobili ugodnije iskustvo gledanja</string>
+  <string name="dark_mode_suggest_title">"Smračilo se"</string>
+  <string name="dark_mode_suggest_toast">Tamni način rada će se automatski uključiti pri zalasku sunca, a od sada će se isključiti s izlaskom sunca</string>
   <string name="data_usage_context">Ako Wi-Fi nije uključen, vaš će se uređaj povezati s mobilnom mrežom, što može rezultirati dodatnim troškovima, ovisno o vašem stanju računa. Hvala!</string>
   <string name="daydream">Sanjarenje</string>
   <string name="default_device_name">Nepoznati uređaj</string>

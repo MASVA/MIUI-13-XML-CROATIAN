@@ -3142,6 +3142,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="default_theme">Zadano</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="default_vol_stream_title">Zadana kontrola glasnoće streama</string>
+  <string name="deferred_setup_hintViewTitle">Provjera…</string>
   <string name="delete">Izbriši</string>
   <string name="delete_backup_process">Brisanje…</string>
   <string name="delete_backup_title">Izbriši Sig. kopiju</string>
@@ -4406,9 +4407,13 @@ Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</stri
   <string name="freeform_guide_slide_to_small_freeform_title">Minimizirajte aplikaciju</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povuci prema gore s akcijske trake plutajućeg prozora</string>
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
+  <string name="freeform_guide_to_sidehide_summary">Brzo povucite aplikaciju na stranu zaslona da je sakrijete</string>
+  <string name="freeform_guide_to_sidehide_title">Skrivanje plutajućih prozora</string>
   <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
   <string name="freeform_vedio_description">"·Dodirnite i zadržite, a zatim povucite prema dolje da otvorite obavijest u plutajućem prozoru.
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
+  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
+· Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili na stranu da biste koristili Podijeljeni zaslon."</string>
   <string name="freeform_vedio_description_pad">Povucite stavke s doka da otvorite plutajuće prozore</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
@@ -9780,9 +9785,10 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="show_wifi_master_key_title">Otkrivena dijeljena Wi-Fi mreža</string>
   <string name="show_wifi_name_title">Prikaži Wi-Fi</string>
   <string name="shut_down_find_device_failure_confirm">U redu</string>
-  <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li vaš uređaj povezan na internet."</string>
+  <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti značajku Pronađi uređaj. Provjerite je li vaš uređaj povezan na internet."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
-  <string name="shuting_down_find_device">Isključivanje Pronađi uređaj…</string>
+  <string name="shuting_down_find_device">Isključivanje značajke Pronađi uređaj…</string>
+  <string name="sidebar_setting">Postavke bočne trake</string>
   <string name="silent_duration">Trajanje</string>
   <string name="silent_mode">Bešumni način</string>
   <string name="silent_mode_disable_media">Utišaj sve</string>
