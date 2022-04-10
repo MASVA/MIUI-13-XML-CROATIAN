@@ -43,6 +43,7 @@
   <string name="add_clock">Dodaj sat</string>
   <string name="add_common_timer">Dodaj timer</string>
   <string name="add_timer">Česti timer</string>
+  <string name="add_timer_dialog_title">Dodaj timer</string>
   <string name="add_timezone_title">Dodaj vremensku zonu</string>
   <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
   <string name="agree">Prihvaćam</string>
@@ -528,6 +529,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="timer_alert_type_beach">Plaža</string>
   <string name="timer_alert_type_forest">Šuma</string>
   <string name="timer_alert_type_mute">Zadano</string>
+  <string name="timer_alert_type_no">Ništa</string>
   <string name="timer_alert_type_rain">Drizzle</string>
   <string name="timer_alert_type_spring_rain">Ljetna kiša</string>
   <string name="timer_alert_type_stove_fire">Stove fire</string>
@@ -539,6 +541,9 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="timer_continue">Nastavi</string>
   <string name="timer_continue_timer">Nastavi timer</string>
   <string name="timer_created">Timer je postavljen</string>
+  <string name="timer_desc_use_brush_teeth">Operite zube</string>
+  <string name="timer_desc_use_facial_mask">Maska za lice</string>
+  <string name="timer_desc_use_sleep">Drijemanje</string>
   <string name="timer_end_time">Timer će se zaustaviti u %s</string>
   <string name="timer_end_time_format">HH:mm dd.MM</string>
   <string name="timer_end_time_format_today">HH:mm</string>
@@ -547,6 +552,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="timer_is_paused">Timer je pauziran</string>
   <string name="timer_item_delete">Izbriši</string>
   <string name="timer_item_duration_display">%1$d min %2$d sek</string>
+  <string name="timer_item_edit">Uredi</string>
   <string name="timer_item_label_hint">Naziv timera</string>
   <string name="timer_item_picker_hour">Sat</string>
   <string name="timer_item_picker_minute">Min</string>
@@ -601,6 +607,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="wake_up_ringtone">Melodija zvona alarma</string>
   <string name="wake_up_time">Vrijeme buđenja</string>
   <string name="white_noise">Ambijentalna buka</string>
+  <string name="white_noise_guide_desc">Dodajte pozadinski zvuk kako biste bili usredotočeni</string>
   <string name="white_noise_selector">Odaberi zvuk</string>
   <string name="worldclock_edit_label">Svjetski sat</string>
   <string name="workday_alarm_clock">Alarm u radne dane</string>

@@ -56,7 +56,7 @@
   <string name="dialog_connect_verify_perssion_fail">"Nije moguće autorizirati emitiranje na vašem televizoru. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezivanje…</string>
-  <string name="dialog_location_permission_message">Ova aplikacija treba pristupiti vašoj lokaciji da bi mogla pronaći vanjske monitore u blizini. Odaberite \"Uvijek dopusti\" dok dajete ovo dopuštenje kako biste izbjegli moguće pogreške.</string>
+  <string name="dialog_location_permission_message">Ova aplikacija treba pristupiti vašoj lokaciji da bi mogla pronaći vanjske monitore u blizini. Odaberite \"Dopusti cijelo vrijeme\" dok dajete ovo dopuštenje kako biste izbjegli moguće pogreške.</string>
   <string name="dialog_location_permission_title">Potrebna su dopuštenja</string>
   <string name="dialog_miplay_permission_message">Dopustite Castingu da snima zvuk, pristup datotekama u unutarnjoj pohrani i vašoj lokaciji kako bi mogli normalno koristiti ovu značajku. Dodirnite \"Postavke\" i odaberite \"Dopuštenja aplikacije\" za nastavak.</string>
   <string name="dialog_miplay_permission_positive">Postavke</string>

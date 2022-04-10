@@ -177,7 +177,9 @@
   <string name="bh_not_contact">"Ovaj broj nije u vašim kontaktima"</string>
   <string name="bh_notice">Pažnja</string>
   <string name="bh_online_service">Online podrška</string>
-  <string name="bh_option_agree_dec">Dopustite Mi Carrier Services da se povežu s internetom i dodijelite potrebna dopuštenja prije upotrebe aplikacije.</string>
+  <string name="bh_open_carrier_services_short">Mi Carrier usluge</string>
+  <string name="bh_open_carrier_services_short_reason">Uključite usluge Mi Carrier da biste mogli koristiti ovu značajku.</string>
+  <string name="bh_option_agree_dec">Dopustite Mi Carrier usluge da se povežu s internetom i dodijelite potrebna dopuštenja prije upotrebe aplikacije.</string>
   <string name="bh_order_detail">Detalji narudžbe</string>
   <string name="bh_order_id">Order ID</string>
   <string name="bh_order_loading">Samo trenutak…</string>
@@ -206,6 +208,7 @@
   <string name="bh_please_fill_total_limit">Dodajte mobilne podatke uključene u vaš plan</string>
   <string name="bh_please_set_pkg">Postavite svoj plan kako biste mogli provjeriti svoj saldo.</string>
   <string name="bh_privacy_policy">Pravila o privatnosti</string>
+  <string name="bh_qualification_and_certificate">Licence i certifikat</string>
   <string name="bh_receive_zero_card">Besplatan SIM</string>
   <string name="bh_recharge_money">Iznos</string>
   <string name="bh_recharge_record">Zabilježi nadoplatu</string>
@@ -224,7 +227,7 @@
   <string name="bh_stop_carrier_services_short">Uključi Mi Carrier Services</string>
   <string name="bh_stop_result">"Nećete moći upravljati svojim planom operatera ili kupovati podatke i minute poziva ako isključite usluge Mi Carrier. Isključiti svejedno?"</string>
   <string name="bh_system_recommend">Preporuke sustava</string>
-  <string name="bh_system_recommend_des">Dopustite nam da analiziramo vaš promet i na temelju rezultata preporučimo digitalne proizvode</string>
+  <string name="bh_system_recommend_des">"Kada su prilagođene preporuke isključene, i dalje ćete vidjeti istu količinu oglasa kao kada je značajka uključena, ali oni neće biti toliko relevantni za vas"</string>
   <string name="bh_tag_phones">Često korišteni telefonski brojevi</string>
   <string name="bh_tags_number_exceed">"Nije moguće spremiti više telefonskih brojeva"</string>
   <string name="bh_tb">TB</string>

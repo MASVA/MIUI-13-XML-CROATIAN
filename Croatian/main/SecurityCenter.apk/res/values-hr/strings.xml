@@ -3754,16 +3754,12 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_save_mode_start_time">Početak</string>
   <string name="power_save_mode_summary">Prati procese u pozadini i isključi sinkronizaciju.</string>
   <string name="power_save_on_time_auto_save_title">Odabir rasporeda profila</string>
-  <string name="power_save_on_time_end_time_summary">Do</string>
   <string name="power_save_on_time_end_time_summary_na">Od</string>
-  <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Nakon ovog razdoblja vrati natrag na</string>
   <string name="power_save_on_time_option_recovery_title">Kada to razdoblje završi, promjeni na</string>
   <string name="power_save_on_time_option_summary">Na kraju tog razdoblja uređaj će primjeniti često korišteni profil</string>
   <string name="power_save_on_time_option_title">Tijekom tog perioda promjeni na</string>
-  <string name="power_save_on_time_start_time_summary">Od</string>
   <string name="power_save_on_time_start_time_summary_na">Do</string>
-  <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Raspored promjene profila</string>
   <string name="power_save_ps_clean">Očisti predmemoriju svaki put kad je uređaj zaključan</string>
   <string name="power_save_ps_close_setting_3">Isključi usluge i značajke s velikom potrošnjom energije (%1$s, %2$s, %3$s)</string>

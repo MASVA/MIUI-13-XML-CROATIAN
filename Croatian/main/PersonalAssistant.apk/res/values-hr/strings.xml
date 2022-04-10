@@ -368,6 +368,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
    <string name="pa_picker_detail_small_widget">Widgeti</string>
    <string name="pa_picker_detail_theme_app_cta">Postavke</string>
    <string name="pa_picker_detail_theme_app_cta_pre">"Da biste mogli koristiti ovaj widget, prvo dopustite Temama da se povežu s internetom. "</string>
+   <string name="pa_picker_detail_vp2_indicator">Odabrana stranica %1$d od %2$d</string>
    <string name="pa_picker_detail_wait_wifi_download_maml">Ova će se stavka preuzeti putem Wi-Fi mreže</string>
    <string name="pa_picker_home_app_group_title">Aplikacije s widgetima</string>
    <string name="pa_picker_home_group_more">Sve</string>

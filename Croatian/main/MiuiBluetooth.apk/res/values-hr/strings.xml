@@ -123,7 +123,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="ble_device_address">Bluetooth Smart uređaj MAC</string>
   <string name="ble_device_profile">Profil Bluetooth uređaja</string>
-  <string name="ble_device_profile_header_title">Postavke</string>
+  <string name="ble_device_profile_header_title">Više</string>
+  <string name="ble_device_profile_summary">Upravljajte ovim uređajem</string>
   <string name="ble_device_profile_title">Upareni Bluetooth Smart uređaj</string>
   <string name="ble_device_rename">Preimenuj</string>
   <string name="blob_expires_text">Istječe %s</string>
