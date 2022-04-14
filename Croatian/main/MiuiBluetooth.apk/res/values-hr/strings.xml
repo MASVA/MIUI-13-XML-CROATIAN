@@ -450,6 +450,10 @@ Brži protokol veze."</string>
   <string name="headset_fw_error_failed">"Ažuriranje nije moguće. Podaci o firmware-u nisu točni."</string>
   <string name="headset_fw_file_position_failed">"Ne mogu pristupiti datoteci"</string>
   <string name="headset_fw_file_readfailed">Nije uspjelo</string>
+  <string name="headset_incall_answer">Odgovori</string>
+  <string name="headset_incall_reject">Odustani</string>
+  <string name="headset_incall_summary">Odgovoriti na poziv na %1$s sa slušalicama? Vaše će slušalice ostati povezane s tim uređajem nakon završetka poziva.</string>
+  <string name="headset_incall_title">Odgovorite na poziv sa slušalicama</string>
   <string name="headset_loss_notify_summary">Čini se da barem jedna od vaših slušalica nije u kućištu za punjenje. Potražite okolo!</string>
   <string name="headset_loss_notify_summary1">"Čini se da barem jedna od vaših slušalica nije u kućištu. Stavite je na punjenje."</string>
   <string name="headset_loss_notify_title">Upozorenje: nedostaje slušalica</string>

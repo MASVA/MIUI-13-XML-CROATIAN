@@ -45,6 +45,7 @@
   <string name="app_name">Mi Cloud</string>
   <string name="bad_authentication">Pogrešan račun ili zaporka</string>
   <string name="btn_return">Natrag</string>
+  <string name="btn_revoke_permission">Povlačenje suglasnosti</string>
   <string name="button_agree">Prihvaćam</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_quit">Izlaz</string>

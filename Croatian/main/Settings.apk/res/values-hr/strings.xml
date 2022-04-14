@@ -1549,7 +1549,7 @@ u razdoblju ^2"</string>
   <string name="block_list_no_device">Nema povezanih uređaja na Listi blokiranih</string>
   <string name="block_list_qcom_dialog_content">Ova radnja će prekinuti vezu %s s ovim uređajem i dodati ga na Listu blokiranih</string>
   <string name="block_list_remove_dialog_content">Uređaj %s će se moći povezati na ovaj hotspot</string>
-  <string name="block_list_remove_dialog_title">Ukloni %s s Liste blokiranih</string>
+  <string name="block_list_remove_dialog_title">Pažnja</string>
   <string name="block_list_summary">Prikaži uređaje koji ne smiju povezati na ovaj hotspot</string>
   <string name="block_list_title">Popis blokiranih</string>
   <string name="block_title">Prikaži obavijesti</string>
@@ -5360,6 +5360,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="layout_size_normal_text">Maleni</string>
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra malen</string>
+  <string name="le_audio_title">LE Audio</string>
   <string name="learn_more">Saznajte više</string>
   <string name="led_colors_summary">Boja LED svjetla</string>
   <string name="led_frequence_summary">Podesite interval pulsiranja LED svjetla</string>
@@ -10656,6 +10657,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="stylus_success">Gotovo</string>
   <string name="stylus_vice_key">Druga tipka</string>
   <string name="stylus_welcome">Upoznajte Xiaomi Smart Pen</string>
+  <string name="subscreen_title">Stražnji zaslon</string>
   <string name="stylus_ota_check_failed_battery">"Ne mogu provjeriti. Baterija stylusa je pri kraju."</string>
   <string name="stylus_ota_check_failed_info">"Ne mogu provjeriti firmware verziju. Ponovno pričvrstite stylus."</string>
   <string name="stylus_ota_completed">Uspješno ažurirano</string>

@@ -43,6 +43,12 @@
   <string name="apple_calendar">Događaji kalendara</string>
   <string name="apple_contacts">Kontakti</string>
   <string name="apple_image">Fotografije</string>
+  <string name="apple_install_background_downloading">Preuzimanje aplikacija u pozadini…</string>
+  <string name="apple_install_get_data_faild">Dogodila se pogreška</string>
+  <string name="apple_install_install_immediately_default">Instaliraj</string>
+  <string name="apple_install_skip">Preskoči</string>
+  <string name="apple_install_sub_title">Odabrane aplikacije bit će preuzete s GetAppsa</string>
+  <string name="apple_install_title">Aplikacije sa vašeg starog uređaja</string>
   <string name="apple_video">Videozapisi</string>
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="apps_cannot_be_transfered_confirm_button">Pokreni</string>

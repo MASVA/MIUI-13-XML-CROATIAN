@@ -364,6 +364,7 @@
   <string name="sc_notification_warning_content">Izgled može biti nenormalan u načinu cijelog zaslona. Možete se vratiti u stanje prije tog prebacivanja ili otići na postavke.</string>
   <string name="sc_notification_warning_restore">Vrati</string>
   <string name="sc_notification_warning_settings">Idite na postavke</string>
+  <string name="sc_notification_warning_title">Promijena način prikazivanja</string>
   <string name="sc_relaunch_dialog_message">"Ne može biti prikladno za preklapanje uređaja dok koristite aplikaciju. Možete ponovo pokrenuti aplikaciju da biste se prebacili u način rada na cijelom zaslonu. Svejedno ponovno pokrenuti?"</string>
   <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite nalazi li se drugi uređaj u načinu rada otkrivanja.</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite istovremeno tipke \"Početna\" i \"Power\".</string>
