@@ -98,6 +98,16 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (zadano)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogućeno</item>
+        <item>Omogućeno filtrirano</item>
+        <item>Omogućeno</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Poboljšane boje</item>
         <item>Prirodan doživljaj boje</item>
@@ -243,28 +253,9 @@
         <item>Blokirano</item>
         <item>Privremeno izbjegavanje loše veze</item>
     </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animacija isključena</item>
-        <item>Brzina animacije 0,5x</item>
-        <item>Brzina animacije 1x</item>
-        <item>Brzina animacije 1,5x</item>
-        <item>Brzina animacije 2x</item>
-        <item>Brzina animacije 5x</item>
-        <item>Brzina animacije 10x</item>
-    </string-array>
-	     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (zadano)</item>
-        <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
-     </string-array>
-     <string-array name="bt_hci_snoop_log_entries">
-        <item>Onemogućeno</item>
-        <item>Omogućeno filtrirano</item>
-        <item>Omogućeno</item>
-     </string-array>
-     <string-array name="wifitrackerlib_wifi_status">
+    <string-array name="wifitrackerlib_wifi_status">
         <item></item>
-         <item>Traženje…</item>
+        <item>Traženje…</item>
         <item>Povezivanje…</item>
         <item>Autentifikacija…</item>
         <item>Dohvaćanje IP adrese…</item>
@@ -275,5 +266,14 @@
         <item>Neuspješno</item>
         <item>Blokirano</item>
         <item>Privremeno izbjegavanje loše veze</item>
-     </string-array>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animacija isključena</item>
+        <item>Brzina animacije 0,5x</item>
+        <item>Brzina animacije 1x</item>
+        <item>Brzina animacije 1,5x</item>
+        <item>Brzina animacije 2x</item>
+        <item>Brzina animacije 5x</item>
+        <item>Brzina animacije 10x</item>
+    </string-array>
 </resources>

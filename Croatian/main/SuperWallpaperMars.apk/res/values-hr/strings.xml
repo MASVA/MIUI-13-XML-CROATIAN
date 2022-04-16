@@ -29,21 +29,21 @@
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="copy">Kopiraj</string>
     <string name="expand_button_title">Napredno</string>
-	<string name="mars_position_content_0">"Ovo područje sadrži litice, ostrvce i široke ravne doline za koje se vjeruje da su uzrokovane ledenjacima prekrivenim krhotinama. Ovdje su otkriveni i glineni minerali koji su od velikog interesa za potragu za dokazima života na drevnom Marsu.
+    <string name="mars_position_content_0">"Ovo područje sadrži litice, ostrvce i široke ravne doline za koje se vjeruje da su uzrokovane ledenjacima prekrivenim krhotinama. Ovdje su otkriveni i glineni minerali koji su od velikog interesa za potragu za dokazima života na drevnom Marsu.
 
 NASA/JPL/University of Arizona"</string>
-   <string name="mars_position_content_1">"Ponavljajuće nizine padina (RSL) aktivni su tokovi na toplim marsovskim padinama koji mogu nastati uslijed propuštanja vode. RSL u krateru Hale ima neobično "crvenkastu" boju u odnosu na većinu RSL-a, možda zbog oksidiranih spojeva željeza, poput hrđe.
+    <string name="mars_position_content_1">"Ponavljajuće nizine padina (RSL) aktivni su tokovi na toplim marsovskim padinama koji mogu nastati uslijed propuštanja vode. RSL u krateru Hale ima neobično "crvenkastu" boju u odnosu na većinu RSL-a, možda zbog oksidiranih spojeva željeza, poput hrđe.
 
 NASA/JPL/University of Arizona"</string>
-  <string name="mars_position_content_2">"Mawrth Vallis drevni je kanal za odvod vode sa svijetloplavim stijenama bogatim glinom. Glineni minerali lako čuvaju mikroskopski život na Zemlji, pa su možda na Mawrthu pronađeni tragovi drevnog života.
+    <string name="mars_position_content_2">"Mawrth Vallis drevni je kanal za odvod vode sa svijetloplavim stijenama bogatim glinom. Glineni minerali lako čuvaju mikroskopski život na Zemlji, pa su možda na Mawrthu pronađeni tragovi drevnog života.
 
 NASA/JPL/University of Arizona"</string>
-  <string name="mars_position_title_0">"Regija
+    <string name="mars_position_title_0">"Regija
 Nilosyrtis Mensae"</string>
-  <string name="mars_position_title_1">"Središnje
+    <string name="mars_position_title_1">"Središnje
 Planine
 Kratera Hale"</string>
-  <string name="mars_position_title_2">"Krater u
+    <string name="mars_position_title_2">"Krater u
 Mawrth Vallis"</string>
     <string name="mars_summary">Mnogobrojne pustinje Marsa uvijek su u strahu držale čovječanstvo</string>
     <string name="not_set">Nije postavljeno</string>

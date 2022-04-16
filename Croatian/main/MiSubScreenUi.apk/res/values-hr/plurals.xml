@@ -41,10 +41,10 @@
         <item quantity="other">Prije pola sata</item>
     </plurals>
     <plurals name="in_a_hour">
-         <item quantity="other">Za 1 sat</item>
+        <item quantity="other">Za 1 sat</item>
     </plurals>
     <plurals name="in_half_hour">
-         <item quantity="other">Za pola sata</item>
+        <item quantity="other">Za pola sata</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Odmah</item>

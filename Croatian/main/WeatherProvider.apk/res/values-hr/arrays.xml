@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabije</item>
+        <item>Slabije</item>
+        <item>Srednje</item>
+        <item>Snažno</item>
+        <item>Najsnažnije</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Vedro</item>
         <item>Oblačno</item>
@@ -28,12 +35,5 @@
         <item>Sumaglica</item>
         <item>Ledena kiša</item>
         <item>Nema podataka</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Najslabije</item>
-        <item>Slabije</item>
-        <item>Srednje</item>
-        <item>Snažno</item>
-        <item>Najsnažnije</item>
     </string-array>
 </resources>

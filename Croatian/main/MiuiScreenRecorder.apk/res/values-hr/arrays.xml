@@ -8,9 +8,9 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Utišaj</item>
         <item>Mikrofon</item>
-		<item>Zvukovi sustava</item>
+        <item>Zvukovi sustava</item>
     </string-array>
-	 <string-array name="screenrecorder_settings_storage_location">
+    <string-array name="screenrecorder_settings_storage_location">
         <item>Unutarnja pohrana</item>
         <item>Vanjska pohrana</item>
     </string-array>

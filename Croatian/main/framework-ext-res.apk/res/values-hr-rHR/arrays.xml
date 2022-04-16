@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="fingerprint_acquired_vendor">
+    <string-array name="fingerprint_acquired_vendor">
         <item>Pokušajte ponovno</item>
         <item></item>
         <item></item>
@@ -26,10 +26,10 @@
         <item></item>
         <item></item>
         <item></item>
-		<item>Pomaknite prst lagano</item>
+        <item>Pomaknite prst lagano</item>
         <item>Ovaj otisak prsta je dodan, koristite drugi prst</item>
-    </string-array>	
-	 <string-array name="organized_languages_international">
+    </string-array>
+    <string-array name="organized_languages_international">
         <item>az_AZ</item>
         <item>ms_MY</item>
         <item>bs_BA</item>

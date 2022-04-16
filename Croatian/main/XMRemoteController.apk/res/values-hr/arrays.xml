@@ -11,20 +11,6 @@
         <item>"Provjerite jeste li odabrali A/C u procesu uparivanja. Slijedite upute na uređaju dok postupak uparivanja nije dovršen."</item>
         <item>Ne. Trenutno možete koristiti Mi 4, Mi 4c i Redmi Note 2 kao daljinski upravljač.</item>
     </string-array>
-    <string-array name="epg_week_tab">
-        <item>Ned.</item>
-        <item>Pon.</item>
-        <item>Uto.</item>
-        <item>Sri.</item>
-        <item>Čet.</item>
-        <item>Pet.</item>
-        <item>Sub.</item>
-    </string-array>
-    <string-array name="question">
-        <item>Zašto moj telefon stalno pretražuje bežične uređaje?</item>
-        <item>"Zašto samo mogu uključiti a ne i isključiti A/C ?"</item>
-        <item>Mogu li koristiti Mi 3, Mi 2i Redmi kao IR daljinski?</item>
-    </string-array>
     <string-array name="assistant_tab">
         <item>Video</item>
         <item>Snimka zaslona</item>
@@ -45,6 +31,15 @@
         <item>Satelitski TV kanali</item>
         <item>HD kanali</item>
         <item>Nedavno gledano</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned.</item>
+        <item>Pon.</item>
+        <item>Uto.</item>
+        <item>Sri.</item>
+        <item>Čet.</item>
+        <item>Pet.</item>
+        <item>Sub.</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -74,5 +69,10 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="question">
+        <item>Zašto moj telefon stalno pretražuje bežične uređaje?</item>
+        <item>"Zašto samo mogu uključiti a ne i isključiti A/C ?"</item>
+        <item>Mogu li koristiti Mi 3, Mi 2i Redmi kao IR daljinski?</item>
     </string-array>
 </resources>

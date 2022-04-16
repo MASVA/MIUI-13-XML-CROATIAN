@@ -17,7 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
-    <string name="search_menu_title">Pretraživanje</string>
     <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
     <string name="alert_frequency_duplicate">Ova frekvencija već postoji</string>
     <string name="alert_invalid_frequency">Pogrešna frekvencija</string>
@@ -106,6 +105,7 @@
     <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
     <string name="runtime_permission_ungranted">Zapis nije moguće pokrenuti zbog nedopuštenih dopuštenja</string>
     <string name="search_dialog_title">Skeniraj postaje</string>
+    <string name="search_menu_title">Pretraživanje</string>
     <string name="sign_in_title">Prijavite se na Mi Račun</string>
     <string name="sns_sign_in">Drugi načini za prijavu</string>
     <string name="station_check_favorite">Dodaj u pred-postavke</string>

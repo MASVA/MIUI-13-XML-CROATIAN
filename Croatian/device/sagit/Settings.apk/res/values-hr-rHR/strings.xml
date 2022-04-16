@@ -245,8 +245,8 @@ brzina uzorkovanja"</string>
     <string name="cell_warning_and_limit">Upozorenje o potrošnji podataka za %1$s/Podaci su ograničeni na %2$s</string>
     <string name="cell_warning_only">Upozori na potrošnju podataka na %1$s</string>
     <string name="cellular_data_usage">Potrošnja mobilnih podataka</string>
-    <string name="channel_notifications_off_desc">Android blokira prikazivanje te kategorije obavijesti na ovom uređaju</string>
     <string name="change_theme_reboot">Promjena teme zahtijeva ponovno pokretanje.</string>
+    <string name="channel_notifications_off_desc">Android blokira prikazivanje te kategorije obavijesti na ovom uređaju</string>
     <string name="charge_length_format">Prije %1$s</string>
     <string name="choose_spell_checker">Odabir provjere pravopisa</string>
     <string name="clear_instant_app_confirmation">Želite li ukloniti tu instant aplikaciju?</string>

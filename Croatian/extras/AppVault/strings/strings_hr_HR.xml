@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- General -->
-    <string name="app_needs_update">Aplikaciju je potrebno ažurirati</string>
-    <string name="app_not_installed">Aplikaciju je potrebno instalirati</string>
-    <string name="widget_apps">Aplikacije s podrškom za widgete</string>
-    <string name="widget_num_limit">Ne mogu dodati više widgeta u Zaklj. aplikacija. Izbrišite starije widgete da biste dodali nove.</string>
-    <string name="widget_num_warn">Uspješno dodano. Imajte na umu da postavljanje previše widgeta na početni zaslon može usporiti vaš uređaj.</string>
-	 <!-- App names -->
     <string name="app_appvault">Zaklj. aplikacija</string>
     <string name="app_calculator">Kalkulator</string>
     <string name="app_calendar">Kalendar</string>
@@ -16,6 +9,8 @@
     <string name="app_health">Zdravlje</string>
     <string name="app_midrop">ShareMe</string>
     <string name="app_mihome">Mi Home</string>
+    <string name="app_needs_update">Aplikaciju je potrebno ažurirati</string>
+    <string name="app_not_installed">Aplikaciju je potrebno instalirati</string>
     <string name="app_notes">Bilješke</string>
     <string name="app_recorder">Snimač</string>
     <string name="app_scanner">Skener</string>
@@ -23,10 +18,6 @@
     <string name="app_settings">Postavke</string>
     <string name="app_weather">Vrijeme</string>
     <string name="app_whatsapp">WhatsApp</string>
-    <!-- Shortcut groups -->
-    <string name="shortcuts_external">Vanjski prečaci</string>
-    <string name="shortcuts_system">Prečaci sustava</string>
-    <!-- Shortcut names -->
     <string name="auto_optimize">Optimiziraj</string>
     <string name="battery_history">Baterija</string>
     <string name="calculator_convert">Pretvarač</string>
@@ -42,8 +33,10 @@
     <string name="recorder_new">Nova snimka</string>
     <string name="scanner_document">Dokument</string>
     <string name="scanner_qrcode">QR kod</string>
+    <string name="shortcuts_external">Vanjski prečaci</string>
+    <string name="shortcuts_system">Prečaci sustava</string>
     <string name="whatsapp_photos">Fotografije</string>
-    <!-- Widgets -->
+    <string name="widget_apps">Aplikacije s podrškom za widgete</string>
     <string name="widget_appvault_shortcuts">Prečaci</string>
     <string name="widget_appvault_shortcuts_desc">Brzo pokretanje često korištenih aplikacija i funkcija</string>
     <string name="widget_appvault_smart_shortcuts">Prijedlozi aplikacija</string>
@@ -76,6 +69,8 @@
     <string name="widget_notes_tasks_desc">Pregledajte i otvorite svoje zadatke</string>
     <string name="widget_notes_view">Bilješke</string>
     <string name="widget_notes_view_desc">Pregledajte i otvorite svoje bilješke</string>
+    <string name="widget_num_limit">Ne mogu dodati više widgeta u Zaklj. aplikacija. Izbrišite starije widgete da biste dodali nove.</string>
+    <string name="widget_num_warn">Uspješno dodano. Imajte na umu da postavljanje previše widgeta na početni zaslon može usporiti vaš uređaj.</string>
     <string name="widget_security_app_behavior">Privatnost</string>
     <string name="widget_security_app_behavior_desc">Prikaz statistike ponašanja aplikacije</string>
     <string name="widget_security_app_predict">Prijedlozi aplikacija</string>

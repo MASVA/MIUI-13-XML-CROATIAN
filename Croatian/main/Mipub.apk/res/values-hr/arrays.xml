@@ -4,7 +4,7 @@
         <item>Primljeno</item>
         <item>Poslano</item>
     </string-array>
-	<string-array name="prefEntries_ringtone_repeat">
+    <string-array name="prefEntries_ringtone_repeat">
         <item>1x</item>
         <item>2x</item>
         <item>3x</item>

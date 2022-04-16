@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources">
+<resources>
     <string-array name="wifi_status">
         <item></item>
         <item>Skeniranje…</item>
@@ -27,5 +27,5 @@
         <item>Neuspješno</item>
         <item>Blokirano</item>
         <item>Privremeno izbjegavanje loše veze</item>
-  </string-array>
+    </string-array>
 </resources>

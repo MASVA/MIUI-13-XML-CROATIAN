@@ -1,34 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="first_guide_contents">
-        <item>Dobro došli u Bilješke!</item>
-        <item>Izradite bilješku</item>
-        <item>U svojim bilješkama možete koristiti tekst, slike i snimke glasa. Bogata knjižnica stilova i fontova učinit će da vaše jednostavne šablone izgledaju zapanjujuće</item>
-        <item>Kontrolne liste i podsjetnici dolaze da vam pomognu kada vam je potreban osnovni i učinkoviti alat za planiranje vašeg sljedećeg putovanja ili sastavljanje popisa za kupovinu.</item>
-        <item>Podijelite bilješke</item>
-        <item>Snimke zaslona možete izraditi u Bilješkama automatski, a zatim ih podijelite s prijateljima.</item>
-        <item>Izradi &amp; promjeni između mapa</item>
-        <item>Pritisnite strelicu ispod da biste stvorili novu mapu ili prebacivali između postojećih.</item>
-     </string-array>
-	 <string-array name="second_guide_contents_pad_or_inter">
-        <item>Glasovne bilješke</item>
-        <item>Sada možete izraditi glasovne bilješke. Jednostavno dodirnite ikonu, snimite svoj glas i spremite audio datoteku u bilješku.</item>
-    </string-array>
-	 <string-array name="second_guide_contents">
-        <item>Glasovne bilješke</item>
-        <item>Izradite bilješke pomoću našeg ugrađenog tekst-u-govor alata koji pričvršćuje izvorne snimke vašeg glasa u bilješke.</item>
-     </string-array>
-    <string-array name="folder_operations">
-        <item>Preimenuj</item>
-        <item>Izbriši</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Kamera</item>
         <item>Galerija</item>
-    </string-array>
-	<string-array name="note_sort_way">
-         <item>Po datumu izmjene</item>
-         <item>Po datumu izrade</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Ime</item>
@@ -42,12 +16,38 @@
         <item>Web-lokacija</item>
         <item>Adresa</item>
         <item>Bilješka</item>
-    </string-array>   
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Dobro došli u Bilješke!</item>
+        <item>Izradite bilješku</item>
+        <item>U svojim bilješkama možete koristiti tekst, slike i snimke glasa. Bogata knjižnica stilova i fontova učinit će da vaše jednostavne šablone izgledaju zapanjujuće</item>
+        <item>Kontrolne liste i podsjetnici dolaze da vam pomognu kada vam je potreban osnovni i učinkoviti alat za planiranje vašeg sljedećeg putovanja ili sastavljanje popisa za kupovinu.</item>
+        <item>Podijelite bilješke</item>
+        <item>Snimke zaslona možete izraditi u Bilješkama automatski, a zatim ih podijelite s prijateljima.</item>
+        <item>Izradi &amp; promjeni između mapa</item>
+        <item>Pritisnite strelicu ispod da biste stvorili novu mapu ili prebacivali između postojećih.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>Mali</item>
         <item>Srednji</item>
         <item>Velik</item>
         <item>Ogroman</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Po datumu izmjene</item>
+        <item>Po datumu izrade</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Glasovne bilješke</item>
+        <item>Izradite bilješke pomoću našeg ugrađenog tekst-u-govor alata koji pričvršćuje izvorne snimke vašeg glasa u bilješke.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Glasovne bilješke</item>
+        <item>Sada možete izraditi glasovne bilješke. Jednostavno dodirnite ikonu, snimite svoj glas i spremite audio datoteku u bilješku.</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Dobro došli u Bilješke

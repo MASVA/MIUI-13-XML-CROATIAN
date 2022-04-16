@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
-	<string name="about">"XiaomiEU Alati v1.0 je koncept koji se temelji na MIUI aplikaciji Sigurnost kojeg je projektirao ZduneX25
+    <string name="about">"XiaomiEU Alati v1.0 je koncept koji se temelji na MIUI aplikaciji Sigurnost kojeg je projektirao ZduneX25
 2018 Sva prava pridržana."</string>
     <string name="app_name">XiaomiEU Alati</string>
     <string name="btn_cancel">Odustani</string>

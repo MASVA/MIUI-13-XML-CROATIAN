@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="dislike_alert_dialog_selectitems">
+    <string-array name="aqi_detail_title">
+        <item>Dobro</item>
+        <item>Umjereno</item>
+        <item>Nezdravo za osjetljive</item>
+        <item>Nezdravo</item>
+        <item>Vrlo nezdravo</item>
+        <item>Riskantno</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
         <item>Nisam zainteresiran</item>
         <item>Loša kvaliteta sadržaja</item>
     </string-array>
@@ -26,13 +41,32 @@
         <item>Split</item>
         <item>Dubrovnik</item>
     </string-array>
-	<string-array name="aqi_detail_title">
-         <item>Dobro</item>
-         <item>Umjereno</item>
-         <item>Nezdravo za osjetljive</item>
-         <item>Nezdravo</item>
-         <item>Vrlo nezdravo</item>
-         <item>Riskantno</item>
+    <string-array name="indices_car_wash">
+        <item>Pogodno</item>
+        <item>Nepogodno</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Pogodno</item>
+        <item>Nepogodno</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Jak</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Teška</item>
+        <item>Umjerena</item>
+        <item>Lagana</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Izvrsno</item>
+        <item>Dobro</item>
+        <item>Lagano zagađen</item>
+        <item>Umjereno zagađen</item>
+        <item>Jako zagađen</item>
+        <item>Ozbiljno zagađen</item>
+        <item>Iznad indeksa</item>
     </string-array>
     <string-array name="weather_type">
         <item>Vedro</item>
@@ -61,31 +95,18 @@
         <item>Prašina</item>
         <item>Sumaglica</item>
         <item>Ledena kiša</item>
-		<item></item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Slab</item>
-        <item>Srednji</item>
-        <item>Jak</item>
-    </string-array>
-	<string-array name="indices_sport">
-        <item>Pogodno</item>
-        <item>Nepogodno</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Pogodno</item>
-        <item>Nepogodno</item>
+        <item></item>
     </string-array>
     <string-array name="wind_direction">
-         <item>Sjeverni</item>
-         <item>Sjeveroistočni</item>
-         <item>Istočni</item>
-         <item>Jugoistočni</item>
-         <item>Južni</item>
-         <item>Jugozapadni</item>
-         <item>Zapadni</item>
-         <item>Sjeverozapadni</item>
-    </string-array>	 
+        <item>Sjeverni</item>
+        <item>Sjeveroistočni</item>
+        <item>Istočni</item>
+        <item>Jugoistočni</item>
+        <item>Južni</item>
+        <item>Jugozapadni</item>
+        <item>Zapadni</item>
+        <item>Sjeverozapadni</item>
+    </string-array>
     <string-array name="wind_direction_simple">
         <item>S</item>
         <item>SI</item>
@@ -95,20 +116,6 @@
         <item>JZ</item>
         <item>Z</item>
         <item>SZ</item>
-	</string-array>	
-	<string-array name="wind_unit_simple">
-        <item>Beaufort ljestvica</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;Sila 2</item>
-        <item>&lt;6.0km/h</item>
-        <item>&lt;1.7m/s</item>
-        <item>&lt;3.7mph</item>
-        <item>&lt;3.2kn</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Beaufort ljestvica</item>
@@ -124,18 +131,11 @@
         <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>
-	<string-array name="minute_rain_array">
-         <item>Teška</item>
-         <item>Umjerena</item>
-         <item>Lagana</item>
-     </string-array>
-	 <string-array name="pollution_level_desc_arr">
-         <item>Izvrsno</item>
-         <item>Dobro</item>
-         <item>Lagano zagađen</item>
-         <item>Umjereno zagađen</item>
-         <item>Jako zagađen</item>
-         <item>Ozbiljno zagađen</item>
-         <item>Iznad indeksa</item>
-     </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Beaufort ljestvica</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
 </resources>

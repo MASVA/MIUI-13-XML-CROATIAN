@@ -29,30 +29,15 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Prije pola sata</item>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ove aplikacije da poboljšate njihove performanse.</item>
+        <item quantity="one">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ovu aplikaciju da poboljšate njezine performanse.</item>
     </plurals>
-    <plurals name="in_a_hour">
-         <item quantity="other">Za 1 sat</item>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Dostupne su 64-bitne verzije za %1$d aplikacija</item>
+        <item quantity="one">Dostupna je 64-bitna verzija za %1$d aplikaciju</item>
     </plurals>
-    <plurals name="in_half_hour">
-         <item quantity="other">Za pola sata</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-         <item quantity="other">Odmah</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-         <item quantity="other">za %d min</item>
-         <item quantity="one">za 1 minutu</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">prije %d min</item>
-        <item quantity="one">prije 1 minutu</item>
-    </plurals>
-	<plurals name="apple_install_install_immediately">
+    <plurals name="apple_install_install_immediately">
         <item quantity="other">Instaliraj %d aplikacija</item>
         <item quantity="one">Instaliraj %d aplikaciju</item>
     </plurals>
@@ -68,6 +53,9 @@
         <item quantity="other">%1$d/%2$d stavki</item>
         <item quantity="one">%1$d/%2$d stavka</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d sati</item>
         <item quantity="one">%1$d sat</item>
@@ -76,6 +64,22 @@
         <item quantity="other">Uvezeno %d stavki</item>
         <item quantity="one">Uvezena %d stavka</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d min.</item>
         <item quantity="one">%1$d min.</item>
@@ -83,6 +87,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"Uvezeno %d stavki. "</item>
@@ -112,12 +120,4 @@
         <item quantity="other">%d minuta</item>
         <item quantity="one">%d minuta</item>
     </plurals>
-    <plurals name="app_update_64_dialog_message">
-         <item quantity="other">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ove aplikacije da poboljšate njihove performanse.</item>
-         <item quantity="one">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ovu aplikaciju da poboljšate njezine performanse.</item>
-	  </plurals>
-     <plurals name="app_update_64_notification_title">
-        <item quantity="other">Dostupne su 64-bitne verzije za %1$d aplikacija</item>
-        <item quantity="one">Dostupna je 64-bitna verzija za %1$d aplikaciju</item>
-     </plurals>
 </resources>

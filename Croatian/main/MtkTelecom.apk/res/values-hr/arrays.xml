@@ -39,56 +39,56 @@
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
-     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizirano za kvalitetu audioreprodukcije</item>
         <item>Uravnotežena kvaliteta audioreprodukcije i veze</item>
         <item>Optimizirano za kvalitetu veze</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizirano za kvalitetu audioreprodukcije (990 kbps/909 kbps)</item>
         <item>Uravnotežena kvaliteta audioreprodukcije i veze (660 kbps/606 kbps)</item>
         <item>Optimizirano za kvalitetu veze (330 kbps/303 kbps)</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
+        <item>Qualcomm® aptX™ Adaptivni audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
+        <item>Qualcomm® aptX™ Adaptivni audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
-     </string-array>
+    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, aktivno</item>
@@ -185,7 +185,7 @@
         <item>Plavo nepravokutno područje isječka</item>
         <item>Istakni testirane naredbe zelenom</item>
     </string-array>
-        <string-array name="track_frame_time_entries">
+    <string-array name="track_frame_time_entries">
         <item>Isključeno</item>
         <item>Na zaslonu u obliku traka</item>
         <item>U naredbi adb shell dumpsys gfxinfo</item>
@@ -199,7 +199,7 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
-       <string-array name="usb_configuration_titles">
+    <string-array name="usb_configuration_titles">
         <item>Punjenje</item>
         <item>MTP (protokol za prijenos medija)</item>
         <item>PTP (protokol za prijenos fotografija)</item>
@@ -220,8 +220,8 @@
         <item>Neuspješno</item>
         <item>Blokirano</item>
         <item>Privremeno izbjegavanje loše veze</item>
-     </string-array>
-     <string-array name="wifi_status_with_ssid">
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Skeniranje…</item>
         <item>Povezivanje na mrežu %1$s…</item>
