@@ -243,7 +243,6 @@
   <string name="msim_setting_default_voice">Zadani SIM za pozive</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
   <string name="multisim_settings_sb_title">Otkrivena %d SIM kartica</string>
-  <string name="multisim_settings_sb_title">Otkrivena je 1 SIM kartica</string>
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="navigation_picker_gesture_guide">Vodič za geste</string>
   <string name="navigation_picker_radio_text_full_screen">Geste u cijelom zaslonu</string>
@@ -476,7 +475,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
-  <string name="sim_card_detection_info_sb">"Umetnite SIM karticu prije nego što nastavite. Funkcija pronalaženja uređaja i sinkronizacije neće vam biti u potpunosti dostupna ako izradite račun bez SIM kartice. Ovaj uređaj podržava eSIM."</ niz>
+  <string name="sim_card_detection_info_sb">"Umetnite SIM karticu prije nego što nastavite. Funkcija pronalaženja uređaja i sinkronizacije neće vam biti u potpunosti dostupna ako izradite račun bez SIM kartice. Ovaj uređaj podržava eSIM."</string>
   <string name="sim_card_detection_info_sb_esim">Dodirnite za aktiviranje eSIM-a.</string>
   <string name="sim_card_detection_mobile_not_available">"SIM kartica ne može se povezati na mrežu"</string>
   <string name="sim_card_dial_card">SIM %d za pozive</string>
