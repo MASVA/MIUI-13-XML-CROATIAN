@@ -5037,6 +5037,10 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="kddi_nfc_secure_toggle_summary">Omogućite funkciju NFC/Osaifu-keitai dok je zaslon otključan</string>
     <string name="keep_legacy_fingerprint">Zadrži</string>
     <string name="keep_screen_on">Ne pokreći mirovanje</string>
+	 <string name="keep_screen_on_after_folding_off_summary">Neka vanjski zaslon ostane uključen nakon preklapanja tijekom poziva ili kada se koristi kamera</string>
+    <string name="keep_screen_on_after_folding_on_summary">Neka vanjski zaslon ostane uključen nakon preklapanja da nastavite sa svojim trenutnim zadacima</string>
+    <string name="keep_screen_on_after_folding_text">Neka vanjski zaslon ostane uključen nakon preklapanja da nastavite sa svojim trenutnim zadacima</string>
+    <string name="keep_screen_on_after_folding_title">Neka zaslon ostane uključen nakon preklapanja</string>
     <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
     <string name="kernel_version">Verzija jezgre</string>
     <string name="key_combination_power_back">Power i Natrag</string>

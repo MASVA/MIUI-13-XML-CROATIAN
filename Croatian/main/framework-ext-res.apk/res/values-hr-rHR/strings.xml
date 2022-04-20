@@ -347,9 +347,9 @@
     <string name="relaunch_dialog_button_confirm">U redu</string>
     <string name="relaunch_dialog_message">"Ne možete prilagoditi veličinu prozora dok upotrebljavate aplikaciju. Možete ponovo pokrenuti aplikaciju da biste prilagodili veličinu prozora, ali podaci aplikacije generirani tijekom ove sesije bit će izgubljeni. Svejedno ponovno pokrenuti?"</string>
     <string name="relaunch_dialog_title">Ponovno pokrenuti \"%s\"?</string>
-    <string name="relaunch_fold_notification_content">Aplikacija \"%s\" može se nenormalno prikazati nakon što se telefon sklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
+    <string name="relaunch_fold_notification_content">Ova se aplikacija može se nenormalno prikazati nakon što se telefon sklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
     <string name="relaunch_notification_title">Ponovo pokrenite aplikaciju \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">Aplikacija \"%s\" može se nenormalno prikazati nakon što se telefon rasklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
+    <string name="relaunch_unfold_notification_content">Ova se aplikacija može se nenormalno prikazati nakon što se telefon rasklopi i potrebno ju je ponovno pokrenuti da bi se vratila u normalu.</string>
     <string name="remain">Preostalo: %s</string>
     <string name="replace">Zamijeni</string>
     <string name="resolver_app_recommend_flag">Preporučeno</string>
