@@ -400,6 +400,7 @@
     <string name="set_password_action">Postavite zaporku</string>
     <string name="set_password_message">Postavite zaporku za korištenje ove značajke</string>
     <string name="set_password_title">Postavite zaporku</string>
+	 <string name="shortcut_no_support_on_pc_mode">"Ova gesta nije podržana u PC načinu"</string>
     <string name="shutdown_confirm_title">"Isključiti vaš uređaj?"</string>
     <string name="shutdown_progress">"Isključivanje…"</string>
     <string name="silence_mode">Bešumni način</string>

@@ -66,6 +66,9 @@
     <string name="accessibility_camera_switch_capture_recording">Prebacivanje između foto i video načina</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Način cijelog tijela je isključen</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Način cijelog tijela je uključen</string>
+	 <string name="accessibility_camera_video_960fps_120">%d FPS-a</string>
+    <string name="accessibility_camera_video_960fps_240">%d FPS-a</string>
+    <string name="accessibility_camera_video_960fps_960">%d FPS-a</string>
     <string name="accessibility_close_more_ptions">Onemogući više opcija</string>
     <string name="accessibility_closed">Isključeno</string>
     <string name="accessibility_color">Boja</string>
@@ -348,15 +351,24 @@ i prilagodite postavke automatski"</string>
     <string name="beauty_lens_none">Zamućenje</string>
     <string name="beauty_lens_use_hint">Koristite veliki otvor blende da zamutite pozadinu i učinite da se stavke u prvom planu istaknu.</string>
     <string name="beauty_makeups_bluefemale">Mraz</string>
+	 <string name="beauty_makeups_danyan">Akt</string>
     <string name="beauty_makeups_gentleman">Srebro</string>
     <string name="beauty_makeups_nude">Akt</string>
+  	 <string name="beauty_makeups_qianjin">Auburn</string>
+    <string name="beauty_makeups_ruanmei">Teen</string>
     <string name="beauty_makeups_pinkfemale">Latica</string>
     <string name="beauty_makeups_solid">Kontura</string>
+	 <string name="beauty_makeups_subeffect_filter">Filteri</string>
+    <string name="beauty_makeups_subeffect_makeup">Uljepšanje</string>
     <string name="beauty_makeups_toughman">Bronca</string>
+	 <string name="beauty_makeups_xiazhi">Sjenilo za donje kapke</string>
+    <string name="beauty_makeups_yanku">Ledena kraljica</string>
+    <string name="beauty_makeups_yuanqi">Svjež</string>
     <string name="beauty_mo_fe">Prirodno</string>
     <string name="beauty_mo_ma">Klasično</string>
     <string name="beauty_mo_or">Original</string>
     <string name="beauty_mode_reset_toast">Efekti remodeliranja izbrisani</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=>Isključite&lt;/a> najprije efekte uljepšanja</string>
     <string name="beauty_ne">Original</string>
     <string name="beauty_no_t">Uljepšanje je isključeno</string>
     <string name="beauty_origin_skincolor">Original</string>
@@ -383,6 +395,7 @@ i na trenutak izađite iz pregleda"</string>
     <string name="button_normal_video_title">Snimi videozapis</string>
     <string name="camcorder_tip_8k_max_video_duration">Možete snimiti do %1$d min. u 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Možete snimiti do %d min. videozapisa u trenutnoj rezoluciji</string>
+	 <string name="camcorder_tip_super_night_video_4k_max_video_duration">Možete snimiti do %d min. videozapisa u 4K</string>
     <string name="camcorder_tip_super_night_video_4k_max_video_duration" formatted="false">%dK Najduže vrijeme snimanja je %d minuta</string>
     <string name="camera_disabled">Kamera je onemogućena</string>
     <string name="camera_error_title">Pogreška kamere</string>
@@ -517,7 +530,7 @@ i na trenutak izađite iz pregleda"</string>
     <string name="confirm_install_scanner_message">"Skener vam omogućuje skeniranje QR kodova, barkodova i još mnogo toga. Ne morate se povezati s internetom da biste ga instalirali."</string>
     <string name="confirm_install_scanner_title">Instalirajte Skener aplikaciju</string>
     <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
-    <string name="confirm_location_message">Označite svoje fotografije i videozapise na lokacijama gdje su snimljene.</string>
+	 <string name="confirm_location_message"><Data>Dobro došli u kameru! Označavanje vaših fotografija i videozapisa lokacijama na kojima su snimljene učinit će vašu galeriju organiziranijom i pomoći vam da brže pronađete stavke. Neke značajke možda neće biti dostupne ako ograničite dodavanje informacija o lokaciji.&lt;br/>&lt;br/>Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti.</Data></string>
     <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
     <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
     <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
@@ -543,7 +556,7 @@ i na trenutak izađite iz pregleda"</string>
     <string name="crop_saved">Obrezana slika spremljena je u %s.</string>
     <string name="cta_mimoji_msg">Dobrodošli u Fun Cam! Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa. Da bi mogla normalno raditi, ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:</string>
     <string name="cta_mimoji_perm_type">Obavezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
-    <string name="cta_mimoji_user_links">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+    <string name="cta_mimoji_user_links"><Data>Pročitajte i prihvatite naš &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
     <string name="cta_mimoji_user_tips">"Ako se ne slažete s dodjeljivanjem obveznih dopuštenja ili dijeljenjem i slanjem vaših osobnih podataka, nećete moći koristiti ovu aplikaciju. Ako ne odobrite neobavezna dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete ograničiti dozvole ili povući svoj pristanak u Postavkama."</string>
     <string name="cta_msg">Dobrodošli u Kameru! Ovu aplikaciju možete koristiti za fotografiranje i snimanje videozapisa. Ova se aplikacija treba povezati s internetom i zahtijeva sljedeća neobavezna dopuštenja:</string>
     <string name="cta_perm_cam">Koristi Kameru</string>
@@ -555,8 +568,9 @@ i na trenutak izađite iz pregleda"</string>
     <string name="cta_perm_type">"Izborna dopuštenja (koristi se za dodatne značajke dok ih upotrebljavate)"</string>
     <string name="cta_perm_voice">Korištenje mikrofona</string>
     <string name="cta_perm_voice_desc">Za snimanje zvuka tijekom snimanja videozapisa</string>
-    <string name="cta_user_tips">&lt;Data&gt;Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i pristanite na naša &amp;lt;a href =%1$s&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="custom_sound_art">Retro</string>
+    <string name="cta_user_tips"><Data>Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naša &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a>.</Data></string>
+	 <string name="custom_content_unavailable_alert">"Ne mogu koristiti tekst koji ste unijeli. Pokušajte nešto drugo."</string>
+	 <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Zadano</string>
     <string name="custom_sound_modern">Moderno</string>
     <string name="custom_sound_old">Film</string>
@@ -670,6 +684,7 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
     <string name="duration">Trajanje</string>
     <string name="edit">Uredi</string>
     <string name="edit_blusher">Ruž</string>
+	 <string name="edit_cheekbone">Jagodice</string>
     <string name="edit_chin">Brada</string>
     <string name="edit_color_skin">Ton kože</string>
     <string name="edit_eye_large">Velike oči</string>
@@ -677,11 +692,14 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
     <string name="edit_face_ruddy">Rumen</string>
     <string name="edit_face_slender">Vitko</string>
     <string name="edit_hairline">Rub kose</string>
+	 <string name="edit_head_narrow">Veličina glave</string>
+    <string name="edit_jaw">Donja čeljust</string>
     <string name="edit_jelly_lips">Sjajilo za usne</string>
     <string name="edit_lips">Usne</string>
     <string name="edit_makeup">Makeup</string>
     <string name="edit_neck">Vrat</string>
     <string name="edit_nose">Nos</string>
+    <string name="edit_nose_tip">Vrh nosa</string>
     <string name="edit_pupil_line">Olovka za oči</string>
     <string name="edit_risorius">Risorius</string>
     <string name="edit_skin_smooth">Smooth</string>
@@ -689,6 +707,8 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
     <string name="edit_slim_nose">Nos</string>
     <string name="edit_smile">Osmijeh</string>
     <string name="edit_solid">Contour</string>
+	 <string name="edit_temple">Hramovi</string>
+    <string name="edit_touch_up">Uljepšanje</string>
     <string name="effect_backdropper_disco">Disco</string>
     <string name="effect_backdropper_gallery">Odaberi vlastito</string>
     <string name="effect_backdropper_space">U svemiru</string>
@@ -1174,12 +1194,12 @@ izgledaju veće na fotografijama"</string>
     <string name="more_mode_style_tab">Kartica \"Više\"</string>
     <string name="multi_window_mode_not_supported">"Kamera se ne može koristiti u načinu rada s više prozora"</string>
     <string name="music_hint_tt">Izvor usluga</string>
-    <string name="network_access_user_notice_agree">Slažem se</string>
-    <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati s internetom za pružanje efekata, glazbe i ostalih funkcija za kratke videozapise.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
-    <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli u kratke videozapise! Naša se usluga mora povezati s internetom da vam pružimo glazbu i druge značajke. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Prije upotrebe naše usluge, morate pročitati i pristati naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, kao i omogućiti aplikaciji da se poveže s internetom.&lt;/Data&gt;</string>
-    <string name="network_access_user_notice_message_sticker">"Kamera se treba povezati s internetom kako bi se osigurale naljepnice za ovu značajku.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
-    <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na Internet kako bi se osigurala funkcionalnost govora u tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
-    <string name="network_access_user_notice_title">Povezivanje na internet</string>
+    <string name="network_access_user_notice_agree">Prihvaćam</string>
+    <string name="network_access_user_notice_message_live_video"><Data>"Kamera se mora povezati s internetom kako bi osigurala efekte, glazbu i druge značajke za kratke videozapise.&lt;br/>&lt;br/>Dodirom na \"Prihvaćam\", prihvaćate naše &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a>, kao i dopustiti aplikaciji da se poveže s internetom."</Data></string>
+    <string name="network_access_user_notice_message_mi_live_video"><Data>Dobrodošli u kratke videozapise! Naša se usluga mora povezati s internetom da vam pružimo glazbu i druge značajke. &lt;br/>&lt;br/>Prije korištenja naše usluge, morate pročitati i prihvatiti naše &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a>, kao i dopustiti aplikaciji da se poveže s internetom.</Data></string>
+    <string name="network_access_user_notice_message_sticker"><Data>"Kamera se mora povezati s internetom kako bi pružila naljepnice za ovu značajku.&lt;br/>&lt;br/>Dodirom na \"Prihvaćam\", prihvaćate naše &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a>, kao i dopustiti aplikaciji da se poveže s internetom."</Data></string>
+    <string name="network_access_user_notice_message_voice_caption"><Data>"Kamera se mora povezati s internetom kako bi omogućila funkciju govor u tekst.&lt;br/>&lt;br/>Dodirom na \"Prihvaćam\", prihvaćate naše &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a>, kao i dopustiti aplikaciji da se poveže s internetom."</Data></string>
+	 <string name="network_access_user_notice_title">Povezivanje na internet</string>
     <string name="network_connection_failed">"Ne mogu se povezati"</string>
     <string name="network_connection_ongoing">Povezivanje…</string>
     <string name="network_connection_prerequisites">Uključite Bluetooth i Wi-Fi u Centru za kontrolu da biste mogli upotrebljavati snimanje s dva uređaja.</string>
@@ -1335,6 +1355,10 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_auto_boot">Autom. pokretanje</string>
     <string name="pref_auto_boot_summary">Učinite kameru osjetljivijom tako što ćete joj omogućiti automatsko pokretanje. Dopuštenjima za automatsko pokretanje možete upravljati u pojedinostima aplikacije.</string>
     <string name="pref_burst_shoot_title">Brzo snimanje</string>
+	 <string name="pref_beauty_me_mp_switch_desc">Prilagodite efekte uljepšanja za muškarce na grupnim fotografijama</string>
+    <string name="pref_beauty_me_mp_switch_title">Prilagodite efekte uljepšanja za muškarce</string>
+    <string name="pref_beauty_nvs_wp_desc">Uklonite madeže kada se koriste efekti zaglađivanja kože</string>
+    <string name="pref_beauty_nvs_wp_title">Uklanjanje madeža</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Postavke</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -1739,6 +1763,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_exposure_title">Ekspozicija</string>
     <string name="pref_face_beauty_title">Uljepšanje</string>
     <string name="pref_fingerprint_capture_title">Okidanje otiskom prsta</string>
+	 <string name="pref_focus_view_bg_tip">AE/AF zaključan</string>
     <string name="pref_front_denoise_summary">Smanjite buku koja se stvara iza prednje kamere</string>
     <string name="pref_front_denoise_title">Selfie filter buke</string>
     <string name="pref_front_mirror_entry_auto">Kada je otkriveno lice</string>
@@ -1841,14 +1866,14 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">Način izoštravanja</string>
     <string name="pref_video_hfr_title">Frame rate</string>
-    <string name="pref_video_quality_entry_1080p">FULL HD</string>
-    <string name="pref_video_quality_entry_480p">SD</string>
-    <string name="pref_video_quality_entry_4kuhd">4K</string>
-    <string name="pref_video_quality_entry_720p">HD</string>
-    <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-    <string name="pref_video_quality_entry_vga">VGA</string>
-    <string name="pref_video_quality_entry_wqvga">WQVGA</string>
-    <string name="pref_video_quality_entry_wvga">WVGA</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Potpuna visoka definicija, 1080p, 24 sličica u sekundi</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra visoka definicija, 4K, 24 sličica u sekundi</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
     <string name="pref_video_quality_hfr_title">Frame rate &amp; kvaliteta slike</string>
     <string name="pref_video_quality_summary">4K videozapis ne može biti podržavan u 120FPS načinu rada </string>
     <string name="pref_video_quality_title">Kvaliteta videozapisa</string>
@@ -2183,7 +2208,7 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
     <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom zaslona za pregled.</string>
     <string name="video_tag_flag_title">Označi</string>
     <string name="videocamera_settings_label">Postavke Video kamere</string>
-    <string name="view_privacy_policy">Prikaži Pravila o Privatnosti</string>
+    <string name="view_privacy_policy">Prikaži Pravila o privatnosti</string>
     <string name="visit_cloud_album">Posjetite Cloud album</string>
     <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
     <string name="vv_hint">VLOG možete snimati samo u pejzažnom načinu</string>

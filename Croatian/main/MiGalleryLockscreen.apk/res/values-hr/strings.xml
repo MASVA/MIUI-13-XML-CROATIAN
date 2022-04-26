@@ -308,8 +308,8 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="lks_cta_ok">Slažem se</string>
     <string name="lks_cta_reject">"Ne slažem se"</string>
     <string name="lks_cta_summary1">Wallpaper Carousel pruža sljedeće značajke:</string>
-    <string name="lks_cta_summary2">"1. Automatski ažurirane pozadine&lt;br>2. Svježe slike i priče isporučuju se na vaš zaključani zaslon&lt;br>3. Opcije prilagodbe&lt;br>Ova značajka mora se povezati s internetom da bi normalno radila. &lt;br>&lt;br>Za pružanje dodatnih usluga, mogli bismo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. Pročitajte i prihvatite naš &lt;font color ='#37A5FF'>&lt;a href='% 1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije nego što nastavite."</string>
-    <string name="lks_cta_title">Uvjeti i odredbe</string>
+    <string name="lks_cta_summary2">"1. Automatski ažurirane pozadine&lt;br>2. Svježe slike i priče isporučuju se na vaš Zaklj. zaslon&lt;br>3. Opcije prilagodbe&lt;br>Ova značajka mora se povezati s internetom da bi normalno radila.&lt;br>&lt;br>Za pružanje dodatnih usluga, mogli bismo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. Pročitajte i prihvatite naš &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnost&lt;/font>&lt;/a> prije nego što nastavite."</string>
+	 <string name="lks_cta_title">Uvjeti i odredbe</string>
     <string name="lks_current_lks_wallpaper">Trenutni zaključani zaslon</string>
     <string name="lks_data_warning_toast_1">"Za pregledavanje pozadina koristite mobilne podatke.
 To može generirati dodatne naknade."</string>

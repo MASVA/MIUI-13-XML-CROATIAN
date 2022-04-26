@@ -6016,7 +6016,7 @@ Pokušajte povećati rezoluciju!"</string>
     <string name="warningcenter_policeassist_open_btn">Uključi</string>
     <string name="warningcenter_policeassist_open_content">"Pošaljite podatke o lokaciji policiji automatski koristeći SMS ili mobilne podatke dok zovete 110, 120, 119, 122 ili 12122."</string>
     <string name="warningcenter_policeassist_open_title">Podijelite svoju lokaciju s policijom tijekom hitnih poziva</string>
-    <string name="warningcenter_policeassist_privacy"><Data>"Pročitao sam i prihvatio &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$ s\">Pravila o privatnosti&lt;/a>."</Data></string>
+	  <string name="warningcenter_policeassist_privacy"><Data>"Pročitao sam i prihvaćam &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">Lokacija za hitne slučajeve</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">MIUI Centar za upozoravanje</string>

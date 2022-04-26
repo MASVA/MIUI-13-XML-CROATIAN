@@ -79,8 +79,8 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
 2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
     <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
     <string name="dialog_scanning_precondition">Uključite Wi-Fi i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
-    <string name="dialog_scanning_precondition_new_china">Uključite Wi-Fi, Bluetooth i usluge lokacije da biste mogli upotrebljavati emitiranje. Uključiti sada?</string>
-    <string name="dialog_scanning_precondition_new_global">Uključite Wi-Fi, Bluetooth i usluge lokacije da biste mogli upotrebljavati emitiranje. Uključiti sada?</string>
+    <string name="dialog_scanning_precondition_new_china">Uključite Wi-Fi, Bluetooth i usluge lokacije da biste mogli koristiti emitiranje. Uključiti sada?</string>
+    <string name="dialog_scanning_precondition_new_global">Uključite Wi-Fi i usluge lokacije da biste mogli koristiti emitiranje. Uključiti sada?</string>
     <string name="dialog_select_tv">Odaberite uređaj (%1$d)</string>
     <string name="dialog_show_help">Pomoć</string>
     <string name="disconnect">Zaustavi emitiranje</string>

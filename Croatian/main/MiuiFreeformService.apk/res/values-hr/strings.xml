@@ -47,6 +47,8 @@
     <string name="freeform_demo_title_skip">Preskoči</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povucite kut da biste minimizirali aplikaciju</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povucite kut da biste minimizirali aplikaciju</string>
+	 <string name="freeform_guide_to_sidehide_summary">Brzo povucite prozor uz radnu traku do ruba zaslona</string>
+    <string name="freeform_guide_to_sidehide_title">Skrivanje plutajućih prozora</string>
     <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
     <string name="freeform_slide_to_small_freeform_summary">Pritisnite i držite radnu traku i povucite u kut</string>
     <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
