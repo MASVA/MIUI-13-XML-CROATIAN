@@ -138,7 +138,8 @@
     <string name="install_preinstall_app">Učitavanje aplikacija…</string>
     <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
     <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
-    <string name="item_fingerprint">Otisak prsta</string>
+    <string name="item_facerecognition">Otključavanje licem</string>
+	 <string name="item_fingerprint">Otisak prsta</string>
     <string name="item_lock_screen_password">Samo Zaklj. zaslona</string>
     <string name="item_lock_screen_password_only">Zaklj. zaslon</string>
     <string name="item_return">Postavi</string>

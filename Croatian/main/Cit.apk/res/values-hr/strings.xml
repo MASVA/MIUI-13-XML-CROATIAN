@@ -670,6 +670,8 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
     <string name="navigation_drawer_close">Zatvori ladicu za navigaciju</string>
     <string name="navigation_drawer_open">Otvori ladicu za navigaciju</string>
     <string name="next">Dalje</string>
+	 <string name="motor_calibration">Kalibracija motora</string>
+    <string name="mtb_tool_modem_user_panel">Korisnička ploča</string>
     <string name="nfc_disable_tip">Uključi NFC</string>
     <string name="noise">Buka:</string>
     <string name="none">N/A</string>

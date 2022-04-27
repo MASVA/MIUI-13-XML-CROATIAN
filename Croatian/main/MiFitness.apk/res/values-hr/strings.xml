@@ -264,6 +264,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="ble_ota_push_error_info">Ažuriranje zahtijeva najmanje 20% baterije na vašem nosivom uređaju.</string>
     <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
     <string name="cancel">Odustani</string>
+	 <string name="cancel_text">Odustani</string>
     <string name="card_recharge_promo_code_exhausted">"Oh, malo ste zakasnili, veselite se sljedećoj promociji"</string>
     <string name="card_status_no_apply_privilege">Status vaše kartice nema privilegiju za primjenu poslovanja</string>
     <string name="card_type_no_apply_privilege">Vaša vrsta kartice nema privilegiju za primjenu poslovanja</string>
@@ -273,6 +274,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="character_counter_overflowed_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="checkupdate_check_update">Ažuriraj</string>
+	 <string name="chip_text">Chip tekst</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">"Ne, napravit ću jedan"</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
@@ -356,6 +358,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="confirm_new_pwd">Potvrdite novu lozinku</string>
     <string name="confirm_unbundled_phone_dialog_message">Ovaj telefonski broj bio je povezan s Mi Računom %2$s na %1$s. Više neće biti povezan s Mi Računom %3$s ako nastavite. Nastaviti?</string>
     <string name="copy">Kopiraj</string>
+	 <string name="continue_text">Nastavi</string>
     <string name="country_or_region_AE">Ujedinjeni Arapski Emirati</string>
     <string name="country_or_region_AR">Argentina</string>
     <string name="country_or_region_AT">Austrija</string>
@@ -525,6 +528,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
+	  <string name="create_session_failed">Izrada sesije nije uspjela</string>
     <string name="data_sleep_reference_detail">"1. Načela i praksa medicine spavanja, 4. izdanje.
 2. Osnove medicine spavanja.
 3. Patel, A.K., Reddy, V., &amp; Araujo, J. F. (2020, travanj). Fiziologija, faze spavanja. StatPearls Publishing.
@@ -1724,6 +1728,11 @@ Send this code to the supervisor."</string>
     <string name="get_phone_bind_exceed_limit">"Možete povezati do 3 Mi Računa s telefonskim brojem. Ne možete dodati nove račune."</string>
     <string name="get_phone_verifycode_exceed_limit">Na ovaj broj poslano je previše kontrolnih kodova. Pričekajte 24 sata i pokušajte ponovno.</string>
     <string name="goto_sign_up">Izradite račun</string>
+	  <string name="get_permission_failed">Dobivanje dopuštenja nije uspjelo, otvorite Postavke-Dopuštenja</string>
+    <string name="get_test_key_duplicate_access_data">Duplicirani pristupni podaci</string>
+    <string name="get_test_key_invalid_access_data">Nevažeći pristupni podaci</string>
+    <string name="get_test_key_invalid_param">Nevažeći parametar</string>
+    <string name="get_test_key_no_access_data">Nema pristupnih podataka</string>
     <string name="habit_add_day_time_empty">Odaberite vrijeme</string>
     <string name="habit_add_evety_day">Dnevno</string>
     <string name="habit_add_holiday">Slobodni dani</string>
@@ -3616,6 +3625,7 @@ Počnite ispočetka."</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_code_desc">Postavite QR kod u okvir</string>
     <string name="qr_code_title">Skener</string>
+	  <string name="query_se_key_status">Provjeri status sigurnosnog ključa</string>
     <string name="register_by_local_phone_long_text">Izradi račun</string>
     <string name="register_by_local_phone_short_text">Izradi račun</string>
     <string name="reject">Odbij</string>
@@ -4051,6 +4061,7 @@ Počnite ispočetka."</string>
     <string name="trail_month_dialog_go_today">Odabrano danas</string>
     <string name="trail_month_dialog_select_date">Odabrano %1$s</string>
     <string name="trail_not_exercising">Ne sada</string>
+	 <string name="trail_open_mail_points">Oznake kilometara</string>
     <string name="trail_pace_best">Tempo</string>
     <string name="trail_press_gym_button">Pritisnite tipku</string>
     <string name="trail_rate_average_heart_rate">BPM</string>
@@ -4184,6 +4195,7 @@ Počnite ispočetka."</string>
     <string name="trail_sport_hang_in_air_duration">Vrijeme čekanja</string>
     <string name="trail_sport_list_record">Prikaži sve</string>
     <string name="trail_sport_location_amap">Amap GPS lokacija</string>
+	 <string name="trail_sport_map_edit">Karta</string>
     <string name="trail_sport_max_cadence_desc">Maks: %1$s</string>
     <string name="trail_sport_max_height_desc">Maks: %1$s</string>
     <string name="trail_sport_max_rate_desc">Maks: %1$s</string>
@@ -4242,6 +4254,7 @@ Počnite ispočetka."</string>
     <string name="trail_sport_summary_rise_height">Porast visine (m)</string>
     <string name="trail_sport_summary_skipping_height">Visina skoka (cm)</string>
     <string name="trail_sport_summary_sport_time">Vrijeme</string>
+	 <string name="trail_sport_summary_speed">Brzina (km/h)</string>
     <string name="trail_sport_summary_steps">Koraci</string>
     <string name="trail_sport_summary_stroke_count">Udarci</string>
     <string name="trail_sport_summary_swimming_posture">Glavni stil</string>
@@ -4304,6 +4317,12 @@ Počnite ispočetka."</string>
     <string name="trail_stroke_avg_feq">SPM</string>
     <string name="trail_stroke_count">Zamaha</string>
     <string name="trail_summary_best">Zapisi</string>
+    <string name="trail_summary_avg_hrm">BPM</string>
+    <string name="trail_summary_detail_fall_height">Gubitak nad. visine (m)</string>
+    <string name="trail_summary_detail_rise_height">Pojačanje nad.visine (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Brzina (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Rad (kJ)</string>
     <string name="trail_swim_avg_swolf">Prosj.</string>
     <string name="trail_swim_best_swolf">Najbolji</string>
     <string name="trail_swim_consume_time">%1$s | %2$s</string>
@@ -4605,6 +4624,8 @@ Počnite ispočetka."</string>
     <string name="xms_thirdapp_permission_notify_name">Slanje obavijesti</string>
     <string name="xms_thirdapp_permission_request_info">%s aplikacija može:</string>
     <string name="xms_thirdapp_revoke_auth">Dopuštenja možete promijeniti u Profilu > Dopuštenja uređaja.</string>
-    <string name="yesterday">Jučer</string>
+    <string name="v7_preference_off">ISKLJUČENO</string>
+    <string name="v7_preference_on">UKLJUČENO</string>
+	 <string name="yesterday">Jučer</string>
     <string name="yuan">RMB</string>
 </resources>
