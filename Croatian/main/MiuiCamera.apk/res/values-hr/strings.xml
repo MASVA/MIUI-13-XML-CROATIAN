@@ -396,7 +396,6 @@ i na trenutak izađite iz pregleda"</string>
     <string name="camcorder_tip_8k_max_video_duration">Možete snimiti do %1$d min. u 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Možete snimiti do %d min. videozapisa u trenutnoj rezoluciji</string>
 	 <string name="camcorder_tip_super_night_video_4k_max_video_duration">Možete snimiti do %d min. videozapisa u 4K</string>
-    <string name="camcorder_tip_super_night_video_4k_max_video_duration" formatted="false">%dK Najduže vrijeme snimanja je %d minuta</string>
     <string name="camera_disabled">Kamera je onemogućena</string>
     <string name="camera_error_title">Pogreška kamere</string>
     <string name="camera_facedetection_sub_option_hint">Eksperimentalna značajka</string>
