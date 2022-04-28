@@ -505,7 +505,8 @@
     <string name="cloud_full_space_tip_message">Nadogradite plan pohrane u cloudu kako biste mogli sinkronizirati sve svoje fotografije i videozapise u cloud.</string>
     <string name="cloud_full_space_tip_negative">Ne sad</string>
     <string name="cloud_full_space_tip_positive">Nadogradi</string>
-    <string name="cloud_full_space_tip_title">Nedovoljna pohrana u cloudu</string>
+    <string name="cloud_full_space_tip_title">Nedovoljno prostora u cloudu</string>
+	 <string name="cloud_full_space_tip_title_completely">Pohrana u cloudu je puna</string>
     <string name="cloud_guide_auto_backup_title">Odaberite albume za sinkronizaciju</string>
     <string name="cloud_guide_login_title">Automatski izradi Sig. kopiju fotografija i videozapisa</string>
     <string name="cloud_guide_slim_text">Automatski izradi Sig. kopiju. Uštedite više od 90% lokalne pohrane.</string>
@@ -598,6 +599,7 @@
     <string name="correct_photo_time">Ispravi datum i vrijeme za fotografije</string>
     <string name="correct_time_success">Uspješno ispravljeno</string>
     <string name="correct_time_tip">Ispravljanje datuma i vremena…</string>
+	 <string name="create_album_failed_because_dup">Ovaj album već postoji. Želite li sada dodati stavke u ovaj album?</string>
     <string name="create_baby_album">Izradi Dječji album</string>
     <string name="create_baby_album_dialog_msg">Izraditi album za \"%s\"?</string>
     <string name="create_baby_album_later_toast">Izradite Dječji album bilo kada u Postavkama</string>
@@ -1191,6 +1193,8 @@ za fotografije"</string>
     <string name="grant_permission_go_and_set">Postavi</string>
     <string name="grant_permission_go_and_set_2">Postavke</string>
     <string name="grant_permission_go_and_set_3">Postavke</string>
+	 <string name="grant_permission_manage_storage">Potrebna su dopuštenja</string>
+    <string name="grant_permission_manage_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji pristup svim datotekama kako biste mogli vidjeti stavke.</string>
     <string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
     <string name="grant_permission_storage">Dopustite ovoj aplikaciji prvo pristup pohrani.</string>
     <string name="grant_permission_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji da prvo pristupi pohrani.</string>
@@ -1326,6 +1330,9 @@ za fotografije"</string>
     <string name="last_some_day_travel_title_one">Za %1$s</string>
     <string name="last_some_day_travel_title_three">Istraživanje %1$s</string>
     <string name="last_some_day_travel_title_two">Sjećanja na %1$s</string>
+	  <string name="last_some_performance_title">Stvari koje sam vidio</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo telefon</string>
     <string name="limit_height">Visina treba biti > 0</string>
     <string name="limit_width">Širina treba biti > 0</string>
     <string name="live_photo">Dinamična fotografija</string>
@@ -1840,6 +1847,7 @@ za fotografije"</string>
     <string name="operation_too_often">Previše je zahtjeva napravljeno s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="operation_unforce_top">Otkači</string>
     <string name="operation_unhide">Prikaži</string>
+	 <string name="operation_upgrade_gallery">Ažuriraj</string>
     <string name="operation_video_compress">Sažmi videozapis</string>
     <string name="operation_watermark">Zaštitna oznaka</string>
     <string name="orientation_lock_tip">Autom. rotacija isključena</string>
@@ -2049,7 +2057,7 @@ za fotografije"</string>
     <string name="photo_vlog_module_loading">Preuzimanje Uređivača videozapisa…</string>
     <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
     <string name="photodetail_rename_failed">"Nije moguće preimenovati"</string>
-    <string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;>|.\""</string>
     <string name="photodetail_rename_success">Uspješno preimenovano</string>
     <string name="photodetail_rename_title">Preimenuj</string>
     <string name="photodetail_rename_too_long">Naziv datoteke koji ste unijeli je predug</string>
@@ -2422,8 +2430,8 @@ za fotografije"</string>
     <string name="send_file_beautify_failed">"Ne mogu podijeliti"</string>
     <string name="send_files_by">Podijelite datoteke putem</string>
     <string name="send_files_to">Pošalji stavke na</string>
-    <string name="send_heif_summary">Pretvorite HEIF slike u JPEG kako biste osigurali kompatibilnost</string>
-    <string name="send_heif_title">Pretvorite HEIF u JPEG prije slanja</string>
+    <string name="send_heif_summary">Pretvorite HEIF slike u JPEG prije slanja</string>
+    <string name="send_heif_title">Pretvorite HEIF prije slanja</string>
     <string name="send_invitation_fail">"Ne mogu poslati pozivnicu"</string>
     <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
     <string name="send_public_url">Pošalji poveznicu albuma</string>
