@@ -278,7 +278,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="input_new_pwd">Unesite novu zaporku</string>
     <string name="io_error_title">Potvrdite vašu mrežu</string>
     <string name="just_a_second">Samo trenutak…</string>
-    <string name="kr_license_desc">Za Mi Račun i Mi Cloud Usluge trebate prihvatiti Korisnički Sporazum i Pravila o Privatnosti.</string>
+    <string name="kr_license_desc">Za Mi Račun i Mi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
     <string name="kr_permission_contacts_desc">Koristi se za čitanje informacija o kontaktima</string>
     <string name="kr_permission_desc">U nastavku pročitajte potrebna dopuštenja</string>
     <string name="kr_permission_phone_desc">Koristi se za sigurnost računa</string>
@@ -289,6 +289,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
     <string name="login_check_find_device_failed_title">"Ne mogu provjeriti informacije o sigurnosti uređaja"</string>
     <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
+	 <string name="login_notification_button_text">Prijavite se</string>
+    <string name="login_notification_desc">Uživajte u Cloud uslugama, obiteljskom prostoru za pohranu i više</string>
+    <string name="login_notification_title">Prijavite se na svoj Mi Račun</string>
     <string name="login_with_other">Više opcija</string>
     <string name="logout_account">Odjava</string>
     <string name="logout_failed">"Ne mogu se odjaviti"</string>

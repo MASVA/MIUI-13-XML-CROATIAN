@@ -6173,7 +6173,10 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadet_up_music">Prethodna pjesma</string>
     <string name="miheadset_Box">Box</string>
     <string name="miheadset_Intelligentpickfree_summary">Kada je uključeno uklanjanje buke, vaše će se slušalice automatski prebaciti na transparentnost na kratko vrijeme kada otkriju glasove</string>
-    <string name="miheadset_LeftEar">Lijeva</string>
+    <string name="miheadset_LEAudio_summary">"Neke značajke neće biti dostupne kada je LE Audio uključen."</string>
+    <string name="miheadset_LEAudio_title">Želite li uključiti LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Provjerite jesu li obje slušalice napunjene i izvadite ih iz kućišta prije nego što uključite ovu značajku</string>
+	 <string name="miheadset_LeftEar">Lijeva</string>
     <string name="miheadset_RightEar">Desna</string>
     <string name="miheadset_active">Energično</string>
     <string name="miheadset_adaptive">Prilagodljivo</string>
@@ -6232,6 +6235,8 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_enhence_low">Pojačani bas</string>
     <string name="miheadset_equalizer">Equalizer</string>
     <string name="miheadset_feedback">Povratne informacije</string>
+	 <string name="miheadset_feedback_summary">Da biste mogli slati zapise, stavite obje slušalice u kućište za punjenje i držite poklopac otvoren.</string>
+    <string name="miheadset_feedback_title">Pošalji zapise</string>
     <string name="miheadset_fitness_check">Test pristajanja slušalica</string>
     <string name="miheadset_fitness_check_checking">Testiranje…</string>
     <string name="miheadset_fitness_check_continue">Dalje</string>
@@ -6301,6 +6306,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_shared_contacts">Dijeljenje kontakata</string>
     <string name="miheadset_shared_contacts_summary">Za dijeljenje kontakata</string>
     <string name="miheadset_single_ear_indicate">Nosite obje slušalice kako biste koristili prigušivanje buke</string>
+    <string name="miheadset_singleear_toast">Nije podržano za samo jednu slušalicu</string>
     <string name="miheadset_soft">Nježno</string>
     <string name="miheadset_sound_settings">Audio</string>
     <string name="miheadset_spatial_audio_off">Isključeno</string>
