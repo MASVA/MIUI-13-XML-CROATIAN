@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+       <item>Elegantno</item>
+       <item>Uravnoteženo</item>
+       <item>Minimalistički</item>
+	 </string-array>
     <string-array name="editing_mode_entries">
         <item>Pozadina</item>
         <item>Widgeti</item>

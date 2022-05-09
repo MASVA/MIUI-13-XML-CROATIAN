@@ -1260,6 +1260,8 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Odaberite način 5G mreže</string>
     <string name="fiveg_network_title">5G mreže</string>
+	 <string name="fiveg_nrca_switch_summary">Koristite agregaciju 5G operatera za bolju povezanost</string>
+    <string name="fiveg_nrca_switch_title">Agregacija 5G operatera</string>
     <string name="fiveg_plmn_info_list1">PLMN popis podataka:</string>
     <string name="fiveg_power_secret_code_tip">Upravljajte ovime kroz Sigurnost - Baterija - 5G Štednja baterije</string>
     <string name="fiveg_power_switch_summary">Smanjite potrošnju energije za 5G povezivanje u određenim scenarijima</string>
@@ -2080,7 +2082,9 @@ Kontaktirajte vašeg operatera."</string>
     <string name="nr_usaged_network_rate">Najveća brzina</string>
     <string name="nr_usaged_network_usaged">"Današnji podaci"</string>
     <string name="nr_usaged_operator">Mobilni operater</string>
-    <string name="nr_usaged_used_time">Trajanje upotrebe</string>
+    <string name="nr_usaged_used_time">Trajanje korištenja</string>
+	 <string name="nrca_switch_summary">Koristite agregaciju 5G operatera za bolju povezanost</string>
+    <string name="nrca_switch_title">Koristi NRCA</string>
     <string name="number">Broj</string>
     <string name="numerous_emergency_numbers_title">Brojevi za hitne slučajeve</string>
     <string name="nw_subset_unlock_failed">Otključavanje podskupa SIM-a Mreže nije uspjelo.</string>
@@ -3132,10 +3136,12 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
     <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
     <string name="undefined">Ništa</string>
     <string name="undefined_setting">Ništa</string>
-    <string name="unfold_close_camera_pref_summary">Otklopite uređaj tijekom videopoziva da biste isključili kameru</string>
-    <string name="unfold_close_camera_pref_title">Otklopite da biste isključili kameru</string>
-    <string name="unfold_speaker_pref_summary">Otklopite uređaj tijekom poziva da biste uključili zvučnik</string>
-    <string name="unfold_speaker_pref_title">Otklopite da biste koristili zvučnik</string>
+    <string name="unfold_close_camera_pref_summary">Rasklopite uređaj tijekom videopoziva da biste isključili kameru</string>
+    <string name="unfold_close_camera_pref_title">Rasklopite da biste isključili kameru</string>
+	 <string name="unfold_show_bublle_pref_summary">Rasklopite uređaj tijekom poziva kako biste ga prikazali u plutajućim prozorima</string>
+    <string name="unfold_show_bublle_pref_title">Rasklopite da minimizirate pozive</string>
+    <string name="unfold_speaker_pref_summary">Rasklopite uređaj tijekom poziva da biste uključili zvučnik</string>
+    <string name="unfold_speaker_pref_title">Rasklopite da biste koristili zvučnik</string>
     <string name="unknown">Nepoznato</string>
     <string name="unlock_chances_left">Preostalo pokušaja:</string>
     <string name="unlock_failed">Neuspješan zahtjev za otključavanje mreže.</string>

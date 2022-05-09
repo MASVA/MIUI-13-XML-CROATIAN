@@ -344,9 +344,9 @@ dodane na Listu blokiranih"</string>
     <string name="favorite_at_time">Dodano u favorite: %1s</string>
     <string name="fdn_check_failure">Poruke možete slati samo brojevima za fiksno biranje.</string>
     <string name="feature_mx">Mi Poruka</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mi Poruka omogućuje vam slanje poruka drugim korisnicima Mi Poruka putem interneta bez dodatnog troška&lt;/b&gt;. Odlazna SMS poruka potrebna je za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Pročitajte i pristanite na naše &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisnički sporazum&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije korištenja ove značajke.</string>
+    <string name="feature_mx_summary"><b>Mi Poruka vam omogućuje slanje poruka drugim korisnicima Mi Poruka putem interneta bez naplate</b>. Za aktivaciju ove usluge potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku. Pročitajte i prihvatite naše <a href="http://url1"><font color="#B3000000">User Agreement</font></a> i <a href="http://url2"><font color="#B3000000">Pravila o privatnosti</font></a> prije korištenja ove značajke.</string>
     <string name="feature_smart_sms">Smart Messaging</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;Smart Messaging nudi prepoznavanje ID-a pošiljatelja i pametne izbornike&lt;/b&gt;". Smart Messaging dijelom nudi Yulore. Pročitajte i pristanite na Yulore-ove "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije korištenja ove značajke.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging omogućuje prepoznavanje ID-a pošiljatelja i pametne izbornike</b>". Smart Messaging djelomično osigurava Yulore. Pročitajte i prihvatite Yulore "<a href="http://url3"><font color="#B3000000">Pravila o privatnosti</font></a> prije korištenja ove značajke.</string>
     <string name="festival">Brzi odgovori</string>
     <string name="festival_continue">U redu</string>
     <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom za normalan rad.</string>
@@ -381,7 +381,7 @@ dodane na Listu blokiranih"</string>
     <string name="ft_cfs_dialog_title">Alternativni prijenos datoteka</string>
     <string name="go_close">Postavke</string>
     <string name="go_to">Idi na</string>
-    <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz detalja&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Saznajte više</font></a></string>
     <string name="google_message_promo_title">Nadogradite svoju aplikaciju za razmjenu poruka</string>
     <string name="group_already_kicked_hint">"Ne mogu slati poruke. Nisi član ovog grupnog razgovora."</string>
     <string name="group_member_is_composing">Tipka…</string>

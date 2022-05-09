@@ -143,7 +143,7 @@ Neke aplikacije ne podržavaju tu postavku."</string>
     <string name="accessibility_dialog_button_deny">Odbij</string>
     <string name="accessibility_dialog_button_stop">Zaustavi</string>
     <string name="accessibility_disable_animations">Uklanjanje animacija</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:&lt;br/&gt;&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;vidjeti boje točnije&lt;/li&gt; &lt;li&gt;&amp;nbsp;ukloniti boje kako biste se lakše usredotočili.&lt;/li&gt; &lt;/ol&gt;</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:<br><br></br></br><ol><li> Vidjeti boje točnije<li></li> Ukloniti boje kako biste se lakše usredotočili.</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Korekcija boja</string>
     <string name="accessibility_display_inversion_preference_subtitle">Inverzijom boja svijetli zasloni postaju tamni.&lt;br/&gt;&lt;br/&gt; Napomena: &lt;ol&gt; &lt;li&gt; Inverzijom boja tamni zasloni postat će svijetli.&lt;/li&gt; &lt;li&gt; Boje se mijenjaju u medijima i na slikama.&lt;/li&gt; &lt;li&gt; Za prikaz tamne pozadine možete upotrijebiti Tamnu temu. Tamna tema radi s podržanim aplikacijama. Inverzija boja radi u svim aplikacijama.&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_inversion_preference_title">Inverzija boja</string>
@@ -1695,6 +1695,8 @@ Dosad se niste povezivali s uređajem %2$s."</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN sadrži slova ili simbole</string>
     <string name="bluetooth_enable_gabeldorsche">Onemogući Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
+	  <string name="bluetooth_enable_opp_high_speed">Bluetooth prijenosi velike brzine</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Koristite Bluetooth P2P protokole velike brzine za prijenose</string>
     <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
     <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
     <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
@@ -4239,6 +4241,8 @@ Da biste saznali više, obratite se operateru."</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati na internet putem Wi-Fi-ja kad je ova značajka isključena."</string>
     <string name="firmware_version">Verzija sustava Android</string>
+	 <string name="fiveg_nrca_switch_summary">Poboljšajte 5G vezu za okruženja za testiranje</string>
+    <string name="fiveg_nrca_switch_title">Agregacija 5G operatera</string>
     <string name="fiveg_sa_switch_summary">Koristi SA mrežu na drugoj SIM kartici (samo za testiranje)</string>
     <string name="fiveg_sa_vice_switch_title">SA na drugoj SIM kartici</string>
     <string name="fiveg_vonr_switch_summary">Koristite VoNR u 5G mrežnim okruženjima kako biste poboljšali iskustvo pozivanja. Ova je značajka dostupna samo u svrhu testiranja.</string>
@@ -4415,6 +4419,7 @@ Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</stri
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili na stranu da biste koristili Podijeljeni zaslon."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povucite aplikaciju sa bočne trake u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon</string>
     <string name="freeform_vedio_description_pad">Povucite stavke s doka da otvorite plutajuće prozore</string>
     <string name="frequently_fragment_delete">Ukloni</string>
     <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
@@ -5875,6 +5880,8 @@ kao i PIN za Prvi prostor"</string>
     <string name="lte_ram_dump_off">Isključi LTE RAM kopiranje</string>
     <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
     <string name="macaddr_label">MAC adresa:</string>
+	 <string name="magic_list_empty_text_pad">Sada nema aplikacija kompatibilnih s ovom značajkom</string>
+    <string name="magic_window_name_pad">Optimizirajte aplikacije za pejzažni prikaz</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 
@@ -6173,7 +6180,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadet_up_music">Prethodna pjesma</string>
     <string name="miheadset_Box">Box</string>
     <string name="miheadset_Intelligentpickfree_summary">Kada je uključeno uklanjanje buke, vaše će se slušalice automatski prebaciti na transparentnost na kratko vrijeme kada otkriju glasove</string>
-    <string name="miheadset_LEAudio_summary">"Neke značajke neće biti dostupne kada je LE Audio uključen."</string>
+	 <string name="miheadset_LEAudio_summary">"Neke značajke neće biti dostupne kada je LE Audio uključen."</string>
     <string name="miheadset_LEAudio_title">Želite li uključiti LE Audio?</string>
     <string name="miheadset_LE_on_toast">Provjerite jesu li obje slušalice napunjene i izvadite ih iz kućišta prije nego što uključite ovu značajku</string>
 	 <string name="miheadset_LeftEar">Lijeva</string>

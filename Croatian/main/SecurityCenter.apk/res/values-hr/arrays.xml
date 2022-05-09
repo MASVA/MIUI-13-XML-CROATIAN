@@ -38,6 +38,10 @@
         <item>Jako veliki</item>
         <item>XXL</item>
     </string-array>
+	 <string-array name="cache_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -195,15 +199,13 @@
         <item>Uporaba podataka</item>
         <item>Stanje računa</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Poredaj po statusu</item>
+    <string-array name="sort_title_new">
         <item>Poredaj po nazivu aplikacije</item>
         <item>Poredaj po učestalosti korištenja</item>
         <item>Poredaj po iskor. pros. za pohranu</item>
         <item>Poredaj po vremenu instalacije</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Status</item>
+    <string-array name="sort_type_new">
         <item>Naziv aplikacije</item>
         <item>Učestalost korištenja</item>
         <item>Iskorišteni prostor za pohranu</item>

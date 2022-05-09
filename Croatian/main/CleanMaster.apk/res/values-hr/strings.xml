@@ -873,6 +873,7 @@
     <string name="start_clean">Započni</string>
     <string name="start_downloading_app">Započni preuzimanje: %1$s</string>
     <string name="start_install">Instaliraj sada</string>
+	 <string name="storage_system_log">Zapisi sustava</string>
     <string name="storage_activity_title">Prostor za pohranu</string>
     <string name="storage_app_detail_activity_title">Zauzeti prostor</string>
     <string name="storage_app_detail_cache">Predmemorija</string>

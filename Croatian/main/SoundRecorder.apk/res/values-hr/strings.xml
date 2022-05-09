@@ -123,6 +123,8 @@
     <string name="low_battery_error_confirm">U redu</string>
     <string name="low_battery_error_for_pad">"Preostalo je manje od %s baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
     <string name="low_battery_error_title">Slaba baterija</string>
+	 <string name="lyric_item_point_count">%1$d do %2$d</string>
+    <string name="manage_external_storage">Pristup svim datotekama</string>
     <string name="mark_point_list_title">Označi</string>
     <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_hour_selection">Odaberite sat</string>
@@ -429,6 +431,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	 <string name="sync_desc_state_complete">Sinkronizirano s cloudom: %1$s</string>
     <string name="tab_all">Sve</string>
     <string name="tab_apps">Aplikacije</string>
     <string name="tab_call">Pozivi</string>

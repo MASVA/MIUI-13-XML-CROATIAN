@@ -645,6 +645,7 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="notification_disconnectedCall_body">Poziv upućen %s prekinut je zbog uspostavljanja hitnog poziva.</string>
     <string name="notification_disconnectedCall_generic_body">Poziv je prekinut zbog hitnog poziva.</string>
     <string name="notification_disconnectedCall_title">Prekinuti poziv</string>
+	 <string name="notification_disconnectedDialing_message">Ne mogu uputiti poziv jer se već bira drugi odlazni poziv.</string>
     <string name="notification_incallservice_not_responding_body">U pozivu ste koristili telefonsku aplikaciju koja ste dobili s uređajem</string>
     <string name="notification_incallservice_not_responding_title">%s prestao je reagirati</string>
     <string name="notification_incoming_call">Poziv u aplikaciji %1$s od korisnika %2$s</string>
