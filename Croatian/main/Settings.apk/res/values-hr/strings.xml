@@ -6310,6 +6310,8 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_preferences">Preference</string>
     <string name="miheadset_rename">Preimenuj</string>
     <string name="miheadset_rename_device">Preimenuj</string>
+	 <string name="miheadset_same_account_incall">Primite pozive sa svih sinkroniziranih uređaja</string>
+    <string name="miheadset_same_account_incall_summary">Povežite slušalice s drugim sinkroniziranim uređajima za primanje dolaznih poziva</string>
     <string name="miheadset_shared_contacts">Dijeljenje kontakata</string>
     <string name="miheadset_shared_contacts_summary">Za dijeljenje kontakata</string>
     <string name="miheadset_single_ear_indicate">Nosite obje slušalice kako biste koristili prigušivanje buke</string>

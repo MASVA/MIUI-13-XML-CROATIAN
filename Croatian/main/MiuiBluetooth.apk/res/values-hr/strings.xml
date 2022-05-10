@@ -436,7 +436,7 @@ Brži protokol veze."</string>
     <string name="headset_device_error_disconnect">Obje slušalice su odspojene. Zatvorite kućište za punjenje i ponovno ga otvorite da biste pokrenuli ažuriranje.</string>
     <string name="headset_device_error_failed">"Ne mogu ažurirati"</string>
     <string name="headset_device_error_multconnect">"Nije moguće ažurirati kada je povezano više uređaja"</string>
-    <string name="headset_device_error_no_device">Na kućištu za punjenje nedostaje barem jedna slušalica</string>
+    <string name="headset_device_error_no_device">Stavite obje slušalice u kućište i držite ih napunjene</string>
     <string name="headset_device_error_single_device">"Nije moguće ažurirati jednu slušalicu. Ponovno uparite."</string>
     <string name="headset_device_sync">Sinkronizacija…</string>
     <string name="headset_device_sync_donot_move_device">Sinkronizacija… Pričekajte dok se sinkronizacija ne završi prije upotrebe slušalica.</string>
