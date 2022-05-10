@@ -182,7 +182,6 @@
     <string name="document_ocr_result_save">Spremi u Bilješke</string>
     <string name="document_ocr_result_title">Fotografija dokumenta</string>
     <string name="document_ocr_tip_msg">Čitanje…</string>
-    <string name="document_region">Automatski odabir</string>
     <string name="document_region_tips">Automatski odabir</string>
     <string name="document_ocr_vendor_info">OCR powered by Kingsoft</string>
     <string name="document_read">Pročitaj</string>

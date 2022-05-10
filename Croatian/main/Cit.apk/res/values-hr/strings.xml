@@ -207,7 +207,6 @@ Before test you have to insert the headset"</string>
     <string name="cit_gps_satellite_snr">SNR: %s</string>
     <string name="cit_gyrodata_sensor_check_summary">U nastavku bi se trebale prikazati vrijednosti za X, Y, Z, koordinata</string>
     <string name="cit_gyrodata_sensor_check_title">Žiroskop</string>
-    <string name="cit_gyrodata_sensor_check_title">Gyroscope</string>
     <string name="cit_gyrodata_sensor_second_screen_check_title">Second Screen Gyroscope</string>
     <string name="cit_gyroscope_second_cali_title">Second Gyroscope sensor calibration test</string>
     <string name="cit_gyroscope_sensor_cali_title">Gyroscope sensor calibration test</string>
