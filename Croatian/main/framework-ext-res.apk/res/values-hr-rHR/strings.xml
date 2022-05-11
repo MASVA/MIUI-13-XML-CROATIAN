@@ -122,6 +122,7 @@
     <string name="dewdrops">Jutarnja rosa</string>
     <string name="digitaluniverse">Digitalni svemir (stereo)</string>
     <string name="disable_nfc">Isključen NFC za bežično punjenje</string>
+	 <string name="disable_nfc_haptic_reverse">Isključen NFC i vibracija za obrnuto bežično punjenje</string>
     <string name="disable_nfc_reverse">Isključen NFC za obrnuto bežično punjenje</string>
     <string name="dock_tip_floatwindow">Držite traku i povucite je do ruba zaslona da biste otvorili prikaz podijeljenog zaslona.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Povucite traku vodoravno da biste zamijenili položaje dva prozora aplikacije.</string>
@@ -133,8 +134,9 @@
     <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
     <string name="enable_livetalk_title">Uključi paket nadoplate</string>
     <string name="enable_midrop">Uključi</string>
-    <string name="enable_nfc">Nema više punjenja. NFC ponovno uključen.</string>
-    <string name="enable_nfc_reverse">Nema više obrnutog bežičnog punjenja. NFC ponovno uključen.</string>
+    <string name="enable_nfc">Zaustavljeno punjenje. NFC ponovno uključen.</string>
+	 <string name="enable_nfc_haptic_reverse">Zaustavljeno obrnuto punjenje. NFC i vibracije su ponovno uključeni.</string>
+    <string name="enable_nfc_reverse">Zaustavljeno punjenje obrnuto bežično punjenje. NFC ponovno uključen.</string>
     <string name="expect">Uzbuđenje</string>
     <string name="fadein">Nestati</string>
     <string name="fadeout">Izblijediti</string>
@@ -159,8 +161,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne sada</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Uključi</string>
     <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
-    <string name="freeform_exchange_tip">Release to open app</string>
-    <string name="freeform_exchange_tip2">Povucite u kut da biste odustali</string>
+    <string name="freeform_exchange_tip">Otvori plutajući prozor u načinu cijelog zaslona</string>
     <string name="frenchchic">Šik</string>
     <string name="frequent_email">Česta adresa e-pošte</string>
     <string name="frequent_phrases">Česti izrazi</string>

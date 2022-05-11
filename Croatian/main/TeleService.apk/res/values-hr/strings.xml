@@ -1056,6 +1056,11 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="disable_cfb_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon zauzet.</string>
     <string name="disable_cfnrc_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon nedostupan.</string>
     <string name="disable_cfnry_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako se na vaš telefon nitko ne javi.</string>
+	 <string name="disable_esim_dialog_summary">"SIM %s će se aktivirati ako sada deaktivirate eSIM.
+Svejedno deaktivirati eSIM?"</string>
+    <string name="disable_esim_dialog_title">Deaktiviranje eSIM-a</string>
+    <string name="disable_esim_error_toast_message">"Nije moguće deaktivirati eSIM"</string>
+    <string name="disable_esim_progress_activating_message">Deaktiviranje eSIM-a…</string>
     <string name="disable_fdn">Isključi FDN</string>
     <string name="disable_fdn_ok">Uključi FDN</string>
     <string name="disable_overlays">Isključi dijeljenje mem.</string>
@@ -1146,6 +1151,12 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="enable_disable_technology_news">Vijesti iz tehnologije</string>
     <string name="enable_dual_4g_if_dual_ct">Preferirajte 4G mreže za obje SIM kartice kako bi VoLTE koristio na sekundarnoj SIM kartici kada su instalirane dvije SIM kartice China Telecom.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE zahtijeva 4G povezivost za oba SIM utora. Promjeniti sada na Dvostruki 4G?</string>
+	 <string name="enable_esim_dialog_summary">"SIM %s bit će deaktiviran ako sada aktivirate eSIM.
+Ipak aktivirati eSIM?"</string>
+    <string name="enable_esim_dialog_title">Aktiviranje eSIM-a</string>
+    <string name="enable_esim_error_toast_message">"Nije moguće aktivirati eSIM"</string>
+    <string name="enable_esim_progress_activating_message">Aktiviranje eSIM-a…</string>
+    <string name="enable_esim_title">Koristi eSIM</string>
     <string name="enable_fdn">Uključi FDN</string>
     <string name="enable_fdn_ok">Isključi FDN</string>
     <string name="enable_freeform_support">Uključi prozore slobodnog oblika</string>
@@ -1183,7 +1194,8 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="enterName">Unesite Ime:</string>
     <string name="enterNumber">Unesite Broj telefona:</string>
     <string name="enter_callbarring_password">Unesite zaporku zabrane poziva(%d znamenke)</string>
-    <string name="enter_esim_manager">Upravljanje eSIM</string>
+    <string name="enter_esim_manager">Upravljanje eSIM-om</string>
+	 <string name="enter_esim_manager_title">Upravljanje eSIM-om</string>
     <string name="enter_input" formatted="false">USSD poruka mora imati ovoliko znakova: %d – %d. Pokušajte ponovo.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN za SIM:</string>
@@ -1206,7 +1218,10 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="esim_goto_active">Aktiviraj</string>
     <string name="esim_inactive_message">Neaktivan eSIM</string>
     <string name="esim_inactive_notification_message">SIM kartica nije otkrivena. Dodirnite za aktiviranje eSIM -a.</string>
-    <string name="esim_inactive_settings_title">Dvostruki SIM i; mobilne mreže</string>
+	 <string name="esim_inactive_notification_message_global">SIM kartica nije otkrivena. Dodirnite za aktiviranje eSIM-a.</string>
+    <string name="esim_inactive_notification_title_global">Dvostruki SIM &amp; mobilne mreže</string>
+    <string name="esim_inactive_settings_title">Dvostruki SIM &amp; mobilne mreže</string>
+  	 <string name="esim_setting_title">Postavke eSIM-a</string>
     <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
     <string name="expand_button_title">Napredno</string>
     <string name="expected_avaiable_minute">Preostalo minuta</string>
@@ -1965,7 +1980,7 @@ Uvijek koristi ovaj broj"</string>
     <string name="network_active">Aktivne mreže</string>
     <string name="network_available">Dostupne mreže</string>
     <string name="network_connected">Povezano</string>
-    <string name="network_connecting">Povezivanje...</string>
+    <string name="network_connecting">Povezivanje…</string>
     <string name="network_could_not_connect">Povezivanje nije uspjelo</string>
     <string name="network_disconnected">Veza je prekinuta</string>
     <string name="network_error_message">"Ne mogu se povezati na mrežu"</string>
@@ -2009,6 +2024,7 @@ Koristiti će se željena mreža umjesto toga."</string>
     <string name="new_password_label">Nova %d-znamenkasta zaporka</string>
     <string name="new_pin2_label">Novi PIN2</string>
     <string name="new_pin_label">Novi PIN</string>
+	 <string name="no_active_esim_text">Neaktivan eSIM</string>
     <string name="new_sim_detected">Otkrivena nova SIM kartica:</string>
     <string name="no_application">Ništa</string>
     <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem paketu nadoplate. Pokušajte napraviti redoviti poziv.</string>
@@ -2745,6 +2761,7 @@ UT sučelje: %5$s"</string>
     <string name="send_order_failed">"Ne mogu poslati narudžbu"</string>
     <string name="sensor_answer_summary">Približite telefon uhu da automatski odgovorite na dolazni poziv</string>
     <string name="sensor_answer_title">Podignite da odgovorite</string>
+	 <string name="set_esim_toast_phone_in_call">"Ovu radnju ne mogu izvesti tijekom poziva"</string>
     <string name="set_primary_summary">Upotrebljava se za odlazne pozive</string>
     <string name="set_primary_title">Postavi kao primarni račun</string>
     <string name="set_smsc_address_error">"Ne mogu postaviti broj"</string>
@@ -2983,6 +3000,8 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
     <string name="supp_service_over_ut_precautions_roaming">Da biste koristili uslugu %s, provjerite jesu li mobilni podaci i roaming podataka uključeni. Tu opciju možete promijeniti u postavkama mobilne mreže.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Da biste koristili uslugu %1$s, provjerite jesu li mobilni podaci i roaming podataka za SIM %2$d uključeni. Tu opciju možete promijeniti u postavkama mobilne mreže.</string>
     <string name="support_forbidden_fakecell">Napomena: Ograničavanje veze na lažne bazne stanice može smanjiti signal u područjima s slabom pokrivenošću.</string>
+	  <string name="switch_cancel_btn_text">Odustani</string>
+    <string name="switch_confirm_btn_text">U redu</string>
     <string name="switch_dds_to_sub_alert">Postavi ovu karticu kao zadanu podatkovnu karticu.</string>
     <string name="switch_dds_to_sub_alert_msg">Prebacite mobilne podatke na CT SIM</string>
     <string name="switch_debug_menu">Dodatne mrežne postavke</string>

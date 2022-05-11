@@ -30,6 +30,8 @@
     <string name="access_non_personal_data">Ako povučete suglasnost za pristup i korištenje neosobnih podataka sa svog uređaja, usluge Wallpaper Carousel bit će deaktivirane, a svi prikupljeni podaci izbrisani u roku određenom važećim zakonima i propisima.</string>
     <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
     <string name="actionbar_button_up_description">Natrag</string>
+	  <string name="activate_esim_tips">"Aktivacija nije uspjela. Pokušajte ponovo."</string>
+    <string name="activating_esim_tips">Aktiviranje…</string>
     <string name="address_dialing_introduction">Ovu aplikaciju možete koristiti za upućivanje poziva, pregled povijesti poziva i upravljanje kontaktima.</string>
     <string name="agree">Prihvaćam</string>
     <string name="agree_and_next">Prihvaćam</string>

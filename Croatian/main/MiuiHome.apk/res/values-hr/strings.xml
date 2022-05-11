@@ -390,6 +390,7 @@
     <string name="gadget_weather_title">Vrijeme</string>
     <string name="gadget_weather_title_14">Vrijeme</string>
     <string name="gadget_weather_title_24">Vrijeme</string>
+	 <string name="garbage_count">Postoji %1$s starih primjera</string>
     <string name="global_search_hint">Unesite traženi pojam</string>
     <string name="got_it_botton">Razumijem</string>
     <string name="group_folder">Nova mapa</string>
@@ -465,6 +466,7 @@
     <string name="memory_clear_result">Očišćeno %1$sB</string>
     <string name="memory_clear_result_giga">Očišćeno %1$sGB</string>
     <string name="memory_clear_result_mega">Očišćeno %1$sMB</string>
+	 <string name="memory_leak">Gubitak memorije</string>
     <string name="menu_add">Dodaj</string>
     <string name="menu_auto_fill_of_uninstall">Ispuni mjesta deinstaliranih aplikacija</string>
     <string name="menu_back_desktop">Natrag na Poč. zaslon</string>
@@ -633,6 +635,7 @@
     <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
     <string name="normal_wallpaper">Slika pozadine</string>
     <string name="not_set">Nije postavljeno</string>
+	 <string name="notification_channel_alerts">Upozorenja</string>
     <string name="notification_installed">Uspješno instalirano</string>
     <string name="notification_open_button">Otvori</string>
     <string name="notification_reset_description">%1$s%1$s Ne mogu resetirati Pokretač na %2$s</string>
