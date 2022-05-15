@@ -1448,7 +1448,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
     <string name="deep_power_save_item_title_lock_screen_time">Isključi zaslon</string>
     <string name="deep_save_memory_clean_summary">Izbriši predmemoriju kada je uređaj zaključan da spriječite aplikacije od korištenja baterije</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Odredite vrijeme za uključivanje i isključivanje uređaja</string>
-    <string name="default_condition_summary">Npr. \"Baterija je manje od %s\"</string>
+    <string name="default_condition_summary">Npr. \"Baterija je manje od 20%\"</string>
     <string name="default_condition_title">Dodaj stanje</string>
     <string name="default_condition_title_continue">Dodaj stanje</string>
     <string name="default_result_summary">Npr. \"Isključi Zrakoplovni način\"</string>
