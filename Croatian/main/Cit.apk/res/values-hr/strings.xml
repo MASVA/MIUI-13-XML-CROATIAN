@@ -56,12 +56,45 @@
     <string name="cancel">Odustani</string>
     <string name="charger_test_end">"
 Završetak testa punjača, isključite punjač"</string>
+    <string name="cit_DP_check_summary">DP linije trebaju biti spojene tijekom procesa testiranja</string>
+    <string name="cit_DP_check_title">DP</string>
+    <string name="cit_DP_in_start_test">Molimo umetnite DP liniju da započnete testiranje</string>
+    <string name="cit_DP_plug_err">"Test nije uspio
+ Nisam dobio vrijednost"</string>
+    <string name="cit_DP_plug_fail">"Test nije uspio
+ Ova linija nije DP linija, zamijenite drugu liniju za testiranje"</string>
+    <string name="cit_DP_plug_out_err">"Test nije uspio
+Nisam dobio vrijednost"</string>
+    <string name="cit_DP_plug_out_fail">"Otkrivena je prekinuta veza
+Test nije uspio
+"</string>
+    <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
+Test je uspio"</string>
+    <string name="cit_DP_plug_pass">Priključena DP linija je otkrivena, molimo provjerite je li projekcija zaslona uspješna i kliknite odgovarajući gumb</string>
+    <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i kliknite odgovarajući gumb</string>
     <string name="cit_OTG_plug_check_summary">Tijekom testa, uključite i obrnuto uključite USB_OTG uređaj</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_waiting_in">Molimo priključite USB_OTG uređaj</string>
     <string name="cit_OTG_waiting_in_charge">Sada povežite USB OTG uređaj</string>
     <string name="cit_OTG_waiting_out">Molimo priključite USB_OTG uređaj, i obrnuto</string>
     <string name="cit_OTG_waiting_out_end">Molimo priključite USB_OTG uređaj, završite test</string>
+	 <string name="cit_USB3_OTG_error_condition">"Otkriveno je umetanje OTG uređaja, ali nije moguće dobiti informacije o uređaju
+ Test nije uspio"</string>
+    <string name="cit_USB3_check_summary">Uređaji koji podržavaju USB3.0 moraju biti umetnuti tijekom testiranja</string>
+    <string name="cit_USB3_check_title">USB3.0</string>
+    <string name="cit_USB3_error_condition">"Otkriveno je umetanje uređaja, ali nije bilo moguće dobiti informacije o uređaju
+ Test nije uspio"</string>
+    <string name="cit_USB3_in_need_plugout">Otkriven je spojeni USB uređaj, izvucite za početak testiranja</string>
+    <string name="cit_USB3_in_start_test">Umetnite uređaje na kojima je omogućen USB3.0 i počnite testirati</string>
+    <string name="cit_USB3_plug_err">Nisam pročitao ispravnu vrijednost, kontaktirajte razvojnog stručnjaka da vidite razlog</string>
+    <string name="cit_USB3_plug_fail">Testni uređaj ne podržava USB3.0 i test nije uspio</string>
+    <string name="cit_USB3_plug_out_test_err">"Uređaj se izvukao, test nije uspio
+Niste dobili točnu vrijednost, kontaktirajte studenta istraživanja i razvoja kako biste saznali razlog"</string>
+    <string name="cit_USB3_plug_out_test_fail">"Uređaj se izvukao, test nije uspio
+Preporuča se ponovno testiranje zamjenske opreme"</string>
+    <string name="cit_USB3_plug_out_test_pass">Uređaj se izvukao, test prošao</string>
+    <string name="cit_USB3_plug_pass">USB3.0 propusnica, izvucite uređaje</string>
+    <string name="cit_USB3_plug_re_plugin">"USB3.0 test je završio, nemojte ponavljati test"</string>
     <string name="cit_abnormal_reboot_summary">Pričekajte… Čitanje podataka o stabilnosti na ovom uređaju.</string>
     <string name="cit_abnormal_reboot_title">Podaci o stabilnosti uređaja</string>
     <string name="cit_ac_charger_in">Punjenje putem (USB_DCP)</string>

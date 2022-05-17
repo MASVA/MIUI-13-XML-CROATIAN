@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="about_device_info">Prikaži pojedinosti o uređaju</string>
+	 <string name="about_mi_account">O Mi Računu</string>
     <string name="accept">Dopusti</string>
     <string name="access_token_expired_warning">Weibo račun je istekao</string>
     <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
@@ -119,6 +120,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="change_phone_number">Promjeni broj telefona</string>
     <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+	 <string name="check_apk_update">Provjeri ažuriranja</string>
     <string name="checking_phone_num_availible">Provjera telefona…</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
@@ -245,6 +247,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="find_device_title">Pronađi uređaj</string>
     <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
     <string name="find_equipment">Pronađi uređaj</string>
+	 <string name="find_new_apk_version">Dostupno je ažuriranje</string>
     <string name="first_login_time">Prvi pokušaj prijave: %s</string>
     <string name="for_diagnosis_usage_only">Koristi se samo za pronalaženje problema.</string>
     <string name="forward_to_bind">Dodaj</string>
@@ -261,6 +264,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="google_login">Prijavite se s Google računom</string>
     <string name="goto_accept">U redu</string>
     <string name="guest_account_label">Račun Mi Gosta</string>
+	 <string name="has_no_new_version">Ažurirano</string>
     <string name="health_action_activate">Aktiviraj</string>
     <string name="health_action_install">Instaliraj</string>
     <string name="health_action_update">Ažuriraj</string>
@@ -381,6 +385,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
     <string name="my_device_title">Trenutan uređaj</string>
     <string name="need_install_wechat">Prvo instalirajte WeChat</string>
+	 <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
+    <string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovo."</string>
+    <string name="new_version">Nova verzija</string>
     <string name="no_account_or_forget_password">Izraditi račun ili ste zaboravili zaporku?</string>
     <string name="no_install">Nije instalirano</string>
     <string name="no_network_btn">Osvježi</string>
@@ -808,6 +815,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
 1. Ako ste zaboravili svoju zaporku, idite na id.mi.com da je poništite.
 2. Ako ne možete poništiti zaporku ili je netko zaključao vaš uređaj, idite na i.mi.com da biste ga otključali.
 3. Vaš broj otključavanja: %s"</string>
+    <string name="update_apk_version_later">Ne sada</string>
+    <string name="update_apk_version_now">Ažuriraj</string>
     <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
     <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
     <string name="update_phone_notice">Promijeni sigurnosne postavke</string>

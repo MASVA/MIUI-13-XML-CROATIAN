@@ -3228,6 +3228,8 @@ Ta postavka utječe na sve korisnike telefona."</string>
     <string name="device_edit_title">Preimenuj uređaj</string>
     <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
     <string name="device_id">ID uređaja za prilagođene preporuke</string>
+	 <string name="device_ime_keyboard_fold">Opcije tipkovnice za sklopive uređaje</string>
+    <string name="device_ime_keyboard_pad">Opcije tipkovnice za tablete</string>
     <string name="device_info_default">Nepoznato</string>
     <string name="device_info_label">Informacije o uređaju</string>
     <string name="device_info_not_available">Nije dostupno</string>
@@ -3563,6 +3565,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
     <string name="double_click_volume_down_when_lock">Dvaput pritisnite Glasnoća - kad je zaslon zaključan</string>
     <string name="double_connect">Dvostruka veza</string>
     <string name="double_connect_summary">Za povezivanje s dva uređaja</string>
+	 <string name="double_g_v">Dupliciraj G i V</string>
+    <string name="double_g_v_sumary">Duplicirane središnje tipke na ergonomskoj tipkovnici za fleksibilnije iskustvo</string>
     <string name="double_knock">Dvostruko kucanje</string>
     <string name="double_tap_power_for_camera_suggestion_title">Brzo otvaranje kamere</string>
     <string name="double_tap_power_for_camera_summary">Da biste brzo otvorili kameru, dvaput pritisnite tipku za uključivanje/isključivanje. Funkcionira na svim zaslonima.</string>
@@ -4283,9 +4287,11 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>
     <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
     <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanji korištenje RAM-a</string>
+	 <string name="fold_game_adaptation">Igre</string>
     <string name="fold_rule_default">Preporučeno</string>
     <string name="fold_rule_important">Važno</string>
     <string name="fold_rule_unimportant">Nevažno</string>
+	 <string name="fold_screen_settings_title">Značajke za veliki zaslon</string>
     <string name="fold_title">Pravila za grupirane obavijesti</string>
     <string name="following_us_title">Pratite nas</string>
     <string name="font_cta_alert_btn_negative">Odustani</string>
@@ -4857,6 +4863,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="imei_information_summary">Relativne informacije IMEI-ja</string>
     <string name="imei_information_title">Informacije IMEI-ja</string>
     <string name="imei_multi_sim">IMEI (utor za SIM %1$d)</string>
+	 <string name="imitate_real_keyboard">Tradicionalna tipkovnica</string>
+    <string name="imitate_real_keyboard_summary">Prikladno kada vaš uređaj leži na ravnoj površini</string>
     <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
     <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
@@ -5379,6 +5387,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="led_settings">LED svjetlo</string>
     <string name="left_edge">Lijevi rub</string>
     <string name="left_function_key">Lijevi prečac</string>
+	 <string name="left_right_hand_switch">Lijevo i desno</string>
+    <string name="left_right_hand_switch_summary">Učinite da lijevi i desni dijelovi tipkovnice mijenjaju mjesta jednim dodirom</string>
     <string name="left_shoulder_key">Lijevi</string>
     <string name="legacy_control_center_desc">Povucite dolje traku statusa za prikaz prečaca i obavijesti</string>
     <string name="legacy_control_center_title">Stara verzija</string>
@@ -6369,6 +6379,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="misc_files">Razne datoteke</string>
     <string name="misc_files_selected_count">odabrano %1$d od %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
+	 <string name="mishow_disable_password_setting">"Ne mogu postaviti zaporke u demo načinu rada"</string>
     <string name="miui_accessibility_asr_summary">Prepišite audio i spremite tekst</string>
     <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">Alarmi</string>
@@ -6397,7 +6408,8 @@ Nastavite pristupiti dodatnim postavkama."</string>
     <string name="miui_lab_ai_preload_title">AI pred-učitavanje</string>
     <string name="miui_lab_aiasst_call_screen_desc">Odgovaraj na pozive pomoću AI</string>
     <string name="miui_lab_aiasst_call_screen_title">AI Pomoćnik poziva</string>
-    <string name="miui_lab_drive_mode_desc">Upotrijebite glasovne kontrole &amp; slušajte WeChat poruke</string>
+    <string name="miui_lab_drive_mode_desc">Koristite glasovne kontrole &amp; slušajte WeChat poruke</string>
+	 <string name="miui_lab_drive_mode_desc_new">Koristite glasovne kontrole</string>
     <string name="miui_lab_drive_mode_title">Autombil. način</string>
     <string name="miui_lab_feature_applied">Postavljeno</string>
     <string name="miui_lab_feature_off">Isključeno</string>
@@ -9627,6 +9639,9 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
     <string name="send">Pošalji</string>
     <string name="sensor_toggle_description">Za sve aplikacije i usluge</string>
     <string name="sensors_off_quick_settings_title">Senzori su isključeni</string>
+	 <string name="separate_keyboard">Ergonomska tipkovnica</string>
+    <string name="separate_keyboard_summary_fold">Odvojite tipkovnicu pregradom u sredini da biste udobnije tipkali dok držite uređaj s obje ruke</string>
+    <string name="separate_keyboard_summary_pad">Odvojite tipkovnicu pregradom u sredini kako biste tipkanje učinili brže i ugodnije</string>
     <string name="service_background_processes">%1$s slobodno</string>
     <string name="service_foreground_processes">%1$s up.</string>
     <string name="service_manage">Postavke</string>
@@ -10806,6 +10821,8 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
     <string name="switch_sim_dialog_title">Želite li upotrijebiti uslugu %1$s?</string>
     <string name="switch_to_removable_notification">Prešli ste na mobilnog operatera %1$s</string>
     <string name="switch_to_removable_notification_no_carrier_name">Prešli ste na drugog mobilnog operatera</string>
+	 <string name="symbol_fast_input">Posebni znakovi</string>
+    <string name="symbol_fast_input_summary">Dodirnite određenu tipku da ostanete na tipkovnici s posebnim znakovima i unesete više simbola odjednom</string>
     <string name="symbols_not_allowed_for_password">"Zaporka može sadržavati samo znamenke i slova"</string>
     <string name="sync_active">Sinkronizacija aktivna</string>
     <string name="sync_automatically">Automat. sink. podataka aplikacije</string>
@@ -10862,6 +10879,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
     <string name="systemui_theme_light">Svijetlo</string>
     <string name="systemui_theme_wallpaper">Automatski (na temelju pozadine)</string>
     <string name="tab_text">Kartica</string>
+	 <string name="tablet_screen_settings_title">Značajke za tablete</string>
     <string name="take_call_on_title">Preuzmi poziv na uređaju</string>
     <string name="talkback_summary">Čitač zaslona namijenjen prvenstveno slijepim i slabovidnim osobama</string>
     <string name="talkback_title">TalkBack</string>
@@ -12154,7 +12172,8 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
     <string name="wallpaper_desktop">Poč. zaslon</string>
     <string name="wallpaper_live">Animirana pozadina</string>
     <string name="wallpaper_lockscreen">Pozadina Zaklj. zaslona</string>
-    <string name="wallpaper_settings_fragment_title">Odabir pozadinske slike iz</string>
+	 <string name="wallpaper_setting_title">Slika pozadine</string>
+    <string name="wallpaper_settings_fragment_title">Odabir slike pozadine iz</string>
     <string name="wallpaper_settings_summary_custom">Prilagođena</string>
     <string name="wallpaper_settings_summary_default">Zadano</string>
     <string name="wallpaper_settings_title">"Slika pozadine"</string>

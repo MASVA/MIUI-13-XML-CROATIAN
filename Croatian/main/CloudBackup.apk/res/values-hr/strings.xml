@@ -330,7 +330,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="more">Više</string>
     <string name="msg_alert_cancel_restore">Vraćanje stavki iz Mi Clouda. Zaustaviti?</string>
     <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Mi Clouda. Pokušaj ponovno.</string>
-    <string name="msg_restore_start_with_metered_network">"Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"Ako vratite ovu Sig. kopiju, vaš će se početni zaslon vratiti na zadano, a vaše će se aplikacije automatski preuzeti i instalirati.&lt;br />&lt;b>&lt;font color='red'>Veličina Sig. kopije: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Ako nastavite s vraćanjem tih stavki, za preuzimanje će se koristiti mobilni podaci.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datoteka će biti preuzeto."</string>
     <string name="name_model">"%1$s %2$s"</string>
