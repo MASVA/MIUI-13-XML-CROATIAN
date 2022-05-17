@@ -1849,6 +1849,7 @@ Za dodavanje kontakta na listu favorita :
     <string name="unknown_contact_name">Nepoznati kontakt</string>
     <string name="unknown_details_add_to_contact">Postojeći</string>
     <string name="unknown_details_new_contact">Novi kontakt</string>
+	 <string name="unshow_qr_code_in_narrow_screen_split">"Ne mogu se prikazati QR kodovi dok se koristi podijeljeni zaslon"</string>
     <string name="update_sim_contact_photo_toast">"Ne mogu postaviti fotografiju za SIM kontakte"</string>
     <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>
     <string name="upgrade_out_of_memory">Kontakti se trenutno nadograđuju. 
