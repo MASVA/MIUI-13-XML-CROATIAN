@@ -186,8 +186,8 @@
     <string name="branch_deepview_button">Preuzmite aplikaciju</string>
     <string name="branch_deepview_button_description">Pogledajte ovaj sadržaj odmah nakon instalacije</string>
     <string name="branch_feature_description">Osim aplikacija, Quick Finder može pronaći sadržaj i stavke unutar aplikacije na mreži.</string>
-    <string name="branch_guide_attention">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje vaših zahtjeva za pretraživanje, Google Ads ID-a i IP adrese s Branch Metrics Inc. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url1">Uvjeti  i odredbe za krajnjeg korisnika</a></font> i <<font color="#B3000000"><a href="http://url2">Pravila o privatnosti Branch Discovery</a></font> prije korištenja ove značajke.</string>
-    <string name="branch_guide_description_one">"Sve vaše aplikacije stavit ćemo u ladicu aplikacija. Vaš će početni zaslon izgledati uredno i organizirano."</string>
+    <string name="branch_guide_attention">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje vaših zahtjeva za pretraživanje, Google Ads ID-a i IP adrese s Branch Metrics Inc. Pročitajte i prihvatite<font color="#B3000000"><a href="http://url1">Uvjeti  i odredbe za krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
+	 <string name="branch_guide_description_one">"Sve vaše aplikacije stavit ćemo u ladicu aplikacija. Vaš će početni zaslon izgledati uredno i organizirano."</string>
     <string name="branch_guide_description_three">"Uz ugrađeno pretraživanje, moći ćete pronaći sve što trebate u trenu!"</string>
     <string name="branch_guide_description_two">Ladica aplikacija automatski kategorizira aplikacije.</string>
     <string name="branch_guide_tip_title">Svaka aplikacija na svom mjestu</string>

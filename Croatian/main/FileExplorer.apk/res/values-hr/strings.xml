@@ -267,12 +267,9 @@
     <string name="delete_video_dialog_title">Izbriši videozapis</string>
     <string name="delete_video_success">Uspješno izbrisano</string>
     <string name="deleted_video_msg">"Malo si zakasnio. Ovaj videozapis je izbrisan."</string>
-    <string name="des_hide_pwd">Sakrij zaporku</string>
     <string name="des_running_trans">Ovoliko datoteka (%1$d) nije premješteno</string>
-    <string name="des_show_pwd">Prikaži zaporku</string>
     <string name="dialog_logout_message">Odjaviti se?</string>
     <string name="dialog_logout_title">Odjava</string>
-    <string name="dialog_select_type">Odaberite tip</string>
     <string name="dialog_type_audio">Zvuk</string>
     <string name="dialog_type_image">Slike</string>
     <string name="dialog_type_text">Tekst</string>

@@ -136,8 +136,8 @@
  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-    <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvaćate naša "<u><a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o privatnosti</a></u>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
-    <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške."</string>
+    <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvaćate naša "<u><a href="app://com.miui.cloudservice.gdpr.license">Pravila o privatnosti</a></u>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
+	<string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške."</string>
     <string name="find_device_permissions_footer">"Dodirnite \"Odobri\" da biste dodijelili dopuštenja koja ste odabrali."</string>
     <string name="find_device_permissions_header">"Dobro došli u Pronađi uređaj! Ovu aplikaciju možete koristiti za lociranje, praćenje i zaključavanje uređaja kada ga izgubite. Pronađi uređaj zahtijeva sljedeća dopuštenja:"</string>
     <string name="find_device_service_title">Pronađi uređaj</string>
@@ -692,7 +692,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="share_sdk_pref_category_search_local_title">Kontakti</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Skeniraj QR kod</string>
     <string name="share_sdk_pref_family_detail_title">Pogledajte detalje obiteljske grupe</string>
-    <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite <u><a href="https://account.xiaomi.com/about/protocol/privacy"><u>Pravila o privatnosti Mi Računa</a></u> prije korištenja ove usluge.</string>
+	 <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite <u><a href="https://account.xiaomi.com/about/protocol/privacy">Pravila o privatnosti Mi Računa</a></u> prije korištenja ove usluge.</string>
     <string name="share_sdk_qr_code_description">"Pozivnica od %1$s"</string>
     <string name="share_sdk_qr_code_expire_time">Rok valjanosti QR koda: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Previše odlaznih pozivnica. Pokušajte ponovo za 24 sata.</string>
