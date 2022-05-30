@@ -206,6 +206,10 @@
     <string name="alert_selection_title">Odaberite najbolju fotografiju</string>
     <string name="all_faces">Fotografije s tom osobom</string>
     <string name="all_items_synced">Svi su albumi sinkronizirani s Mi Cloudom</string>
+	 <string name="all_story_empty_desc">Ovdje još nema uspomena</string>
+    <string name="all_story_empty_tip">"Ovdje još nema uspomena.
+Spojite punjač i isključite zaslon da se pojave uspomene."</string>
+    <string name="all_story_title">Sve uspomene</string>
     <string name="all_video_album_display_name">Svi videozapisi</string>
     <string name="already_authorize_to_device">Autorizirano</string>
     <string name="already_cancel_authorize_to_device">Autorizacija je otkazana</string>
@@ -710,7 +714,9 @@
     <string name="download_delete_error_positive">Ukloni</string>
     <string name="download_delete_error_title">Stavka nedostaje</string>
     <string name="download_error_format">"Ne mogu preuzeti %s"</string>
-    <string name="download_error_tip">. Preuzimanje je prekinuto.</string>
+    <string name="download_error_tip">. Preuzimanja su prekinuta.</string>
+	  <string name="download_library_dialog_message">Galerija treba predloške da bi mogla lokalno stvarati uspomene na ovom uređaju. Preporučujemo korištenje Wi-Fi veze za preuzimanje predložaka.</string>
+    <string name="download_library_dialog_title">Preuzmite predloške</string>
     <string name="download_origin_dialog_message">"Originalne će se slike preuzeti sa Mi Clouda. Lokalne fotografije neće biti optimizirane."</string>
     <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovno"</string>
     <string name="download_retry_text">Pokušajte ponovno</string>
@@ -764,6 +770,7 @@
     <string name="empty_recommend_back">Natrag</string>
     <string name="empty_recommend_face_page_view">Nema više preporuka</string>
     <string name="empty_relation">"Naziv grupe ne može biti prazan"</string>
+	 <string name="empty_tip_btn">Snimite fotografiju</string>
     <string name="empty_title_no_cards">Uspomene</string>
     <string name="empty_title_no_photos">Nema fotografija ili videozapisa</string>
     <string name="enable_auto_upload_tip">"Uključiti sinkr. s Mi Cloudom za ovaj album?"</string>
@@ -1234,6 +1241,7 @@ za fotografije"</string>
     <string name="home_page_custom">Vlastito</string>
     <string name="home_page_empty">Prazno</string>
     <string name="home_page_empty_action">Snimi fotografiju</string>
+	 <string name="home_page_empty_action_new">Uvezite sa starog uređaja</string>
     <string name="home_page_label">Fotografije</string>
     <string name="home_page_tab_photo">Fotografije</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
@@ -1306,7 +1314,8 @@ za fotografije"</string>
     <string name="invite_tip">"Podijelite fotografije vašeg djeteta"</string>
     <string name="invited_tip">Pozvan</string>
     <string name="is">Da</string>
-    <string name="is_higher_definition">HD pregled</string>
+    <string name="is_higher_definition">HD prikaz</string>
+	 <string name="is_in_ocr">Prepoznavanje…</string>
     <string name="keyboard_shortcut_copy">Kopiraj</string>
     <string name="keyboard_shortcut_cut">Obreži</string>
     <string name="keyboard_shortcut_day">Dan</string>
@@ -1753,9 +1762,11 @@ za fotografije"</string>
     <string name="ocr_abnormal_pic_format">"Ne mogu prepoznati tekst. Ovaj format slike nije podržan."</string>
     <string name="ocr_abnormal_pic_too_large">"Ne mogu prepoznati tekst. Ova je slika prevelika."</string>
     <string name="ocr_abnormal_pic_too_long">"Ne mogu prepoznati tekst. Ova je slika predugačka."</string>
+	 <string name="ocr_aiasst_version">Prvo ažurirajte Mi AI</string>
     <string name="ocr_cancelled">Prepoznavanje teksta je otkazano</string>
     <string name="ocr_copy">Koporaj</string>
     <string name="ocr_entrance">Prepoznaj tekst</string>
+	 <string name="ocr_extract">Izdvoji</string>
     <string name="ocr_no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="ocr_no_text_recognized">"Ne mogu pronaći tekst za prepoznavanje"</string>
     <string name="ocr_note_not_existed">Instalirajte najprije Bilješke aplikaciju</string>
@@ -1764,8 +1775,11 @@ za fotografije"</string>
     <string name="ocr_save_to_note">Spremi</string>
     <string name="ocr_save_to_note_new">Spremi u Bilješke</string>
     <string name="ocr_send">Podijeli</string>
-    <string name="ocr_text_copied">Uspješno kopirani</string>
+    <string name="ocr_text_copied">Uspješno kopirano</string>
+	  <string name="ocr_text_copied_selected">Uspješno kopirano</string>
+    <string name="ocr_text_link">URL</string>
     <string name="ocr_title">Rezultat</string>
+	  <string name="ocr_translation">Prevedi</string>
     <string name="ocr_using_cellular_negative">Prepoznaj</string>
     <string name="ocr_using_cellular_positive">Odustani</string>
     <string name="ocr_using_cellular_text">Prepoznavanje teksta putem mob. podataka moglo bi stvoriti dodatne troškove mobilnog operatera. Prepoznati svejedno?</string>
@@ -2643,6 +2657,18 @@ za fotografije"</string>
     <string name="story_cancel_download">Odustani</string>
     <string name="story_download">Preuzmi</string>
     <string name="story_download_failed_for_notwork">"Ne mogu preuzeti. Povežite se s mrežom i pokušajte ponovo."</string>
+	 <string name="story_guide_tip_download_btn">Preuzmi</string>
+    <string name="story_guide_tip_download_desc">Preuzmite predloške za svoje uspomene</string>
+    <string name="story_guide_tip_download_title">Preuzmite predloške</string>
+    <string name="story_guide_tip_generate_btn">Pokreni</string>
+    <string name="story_guide_tip_generate_desc">Snimite fotografije. Priključite punjač. Zaključaj uređaj.</string>
+    <string name="story_guide_tip_generate_title">Neka se uspomene pojave</string>
+    <string name="story_guide_tip_open_btn">Uključi</string>
+    <string name="story_guide_tip_open_desc">Ponovo posjetite svoje najsvjetlije trenutke</string>
+    <string name="story_guide_tip_open_title">Uspomene</string>
+    <string name="story_guide_tip_revisit_btn">Početak</string>
+    <string name="story_guide_tip_revisit_desc">Snimite fotografije. Priključite punjač. Zaključaj uređaj.</string>
+    <string name="story_guide_tip_revisit_title">Oživite svoje najsvjetlije trenutke</string>
     <string name="story_option_menu_delete">Izbriši uspomenu</string>
     <string name="story_option_menu_rename">Preimenuj</string>
     <string name="story_photo_downloading">Preuzimanje stavki…</string>
@@ -2651,6 +2677,7 @@ za fotografije"</string>
     <string name="story_remove_confirm_title">Uklanjanje fotografija…</string>
     <string name="story_rename_invalid_char">"Ne može se koristiti \"%s\" u naslovu uspomene. Upotrijebite slova i znamenke."</string>
     <string name="story_rename_invalid_prefix">"Naslovi uspomena ne mogu počinjati sa \".\" ili \"_\""</string>
+	 <string name="str_scan_form">Prepoznaj tablicu</string>
     <string name="straighten">Prilagodi</string>
     <string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
     <string name="sub_discard_confirm_message">Spremiti promjene?</string>
@@ -2786,6 +2813,7 @@ za fotografije"</string>
     <string name="text_item_type_talkback_spot_xihu">West Lake</string>
     <string name="text_item_type_talkback_spot_yiheyuan">Summer Palace</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
+	 <string name="text_recognition">Prepoznaj tekst</string>
     <string name="text_tab_bubble">Mjehurići</string>
     <string name="text_tab_city">Grad</string>
     <string name="text_tab_festival">Praznik</string>
@@ -2843,6 +2871,10 @@ za fotografije"</string>
     <string name="toast_orientation_unlock">Orijentacija zaslona je otključana</string>
     <string name="toast_rename_exit">Ova datoteka već postoji</string>
     <string name="today">Danas</string>
+	  <string name="today_of_year">Na današnji dan</string>
+    <string name="today_of_year_empty_tip">Ovdje još nema uspomena</string>
+    <string name="today_of_year_location_num">Lokacije</string>
+    <string name="today_of_year_photo_num">Fotografije</string>
     <string name="tomorrow">Sutra</string>
     <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
     <string name="trash_bin">Kanta za smeće</string>
@@ -3285,6 +3317,7 @@ za fotografije"</string>
     <string name="where_is_barcode">"Gdje je QR kod?"</string>
     <string name="who_is_this">Tko je to?</string>
     <string name="widget_custom_store_detail_desc">"Dodajte widget, a zatim ga dodirnite za odabir fotografija"</string>
+	 <string name="widget_disable">"Widgeti ove veličine nisu podržani na ovom uređaju"</string>
     <string name="widget_editor_confirm">Gotovo</string>
     <string name="widget_editor_load_fail">"Ne mogu učitati sliku"</string>
     <string name="widget_editor_reselect">Odaberite ponovno</string>

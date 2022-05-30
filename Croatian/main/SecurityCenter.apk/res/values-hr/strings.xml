@@ -2040,15 +2040,18 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
     <string name="gb_game_macro_toast_tips">"Isprobajte kombinacije!
 Snimite sekvence i koristite ih bilo kada!"</string>
     <string name="gb_game_mode">Način prikaza</string>
-    <string name="gb_game_mode_change">Ovdje prebacujte između načina prikaza</string>
+    <string name="gb_game_mode_change">Ovdje možete mjenjati način prikaza</string>
     <string name="gb_game_mode_change_btn_right">Ponovo pokrenite</string>
     <string name="gb_game_mode_change_message">Ponovo pokrenuti igru ​​da primijenite promjene?</string>
+	 <string name="gb_game_mode_change_new">Ovdje možete mjenjati izgled</string>
     <string name="gb_game_mode_change_title">Ponovo pokreni igru</string>
     <string name="gb_game_mode_choose_game_area">Aktivno područje</string>
     <string name="gb_game_mode_choose_title">Odaberite način prikaza</string>
+	 <string name="gb_game_mode_choose_title_new">Odaberite izgled</string>
     <string name="gb_game_mode_empty">Ovdje još nema igara</string>
-    <string name="gb_game_mode_fill">Ispuni zaslon</string>
-    <string name="gb_game_mode_fill_type">Ispuni zaslon</string>
+    <string name="gb_game_mode_fill">Cijeli zaslon</string>
+	 <string name="gb_game_mode_new">Izgled igre</string>
+    <string name="gb_game_mode_fill_type">Cijeli zaslon</string>
     <string name="gb_game_mode_ratio">Izvorno</string>
     <string name="gb_game_mode_ratio_type">Izvorno</string>
     <string name="gb_game_mode_recommend">" (preporučeno)"</string>
@@ -2098,6 +2101,15 @@ uz smanjenje brzine osvježavanja i ograničenja temperature"</string>
     <string name="gb_performance_mode">Način igranja</string>
     <string name="gb_performance_tips">"Način rada Performanse poboljšava grafičke performanse,
 ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg uređaja"</string>
+    <string name="gb_predownload_dialog_cancel">Ne, hvala</string>
+    <string name="gb_predownload_dialog_checked">"Ne prikazuj više"</string>
+    <string name="gb_predownload_dialog_confirm">Uključi</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Ažurirani sadržaj za ovu igru ​​može se automatski preuzeti na ovaj uređaj nakon što se povežete na Wi-Fi i isključite zaslon. Tako ćete moći koristiti novu verziju kao čim bude objavljen.&lt;br>&lt;br>Pročitajte i prihvatite &lt;a href=\"%1$s\">Izjavu o pozadinskim ažuriranjima&lt;/a> prije korištenja ove značajke."</Data> </string>
+    <string name="gb_predownload_dialog_title">Ažuriranja u pozadini sada su dostupna</string>
+    <string name="gb_predownload_message">"Ažurirajte King of Glory, Game for Peace i druge kompatibilne igre u pozadini dok ne koristite ovaj uređaj"</string>
+    <string name="gb_predownload_noti_message">"%2$1.2f GB ažuriranog sadržaja već je na ovom uređaju. Moći ćete ga koristiti čim se objavi nova verzija."</string>
+    <string name="gb_predownload_noti_title">%s uspješno ažuriran u pozadini</string>
+    <string name="gb_predownload_title">Ažuriranja u pozadini</string>
     <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
     <string name="gb_shoulder_guide_message1">Pomaknite [L] na bilo koji funkcionalni položaj da biste ga koristili putem Pop-up tipke.</string>
     <string name="gb_shoulder_guide_message2">Akcija [1] se aktivira pritiskom na gumb. Akcija [2] se aktivira otpuštanjem tipke.</string>

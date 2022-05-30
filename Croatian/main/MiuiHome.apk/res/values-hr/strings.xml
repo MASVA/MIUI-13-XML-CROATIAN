@@ -54,6 +54,7 @@
     <string name="add">Dodaj</string>
     <string name="add_custom_category">Prilagodi</string>
     <string name="add_screen">Dodaj zaslon</string>
+	 <string name="add_to_workspace">Dodaj na Poč. zaslon</string>
     <string name="added_all_category">Sve su aplikacije uspješno dodane</string>
     <string name="agree_button">Prihvaćam</string>
     <string name="additional_settings">Dodatne postavke</string>
@@ -185,7 +186,7 @@
     <string name="branch_deepview_button">Preuzmite aplikaciju</string>
     <string name="branch_deepview_button_description">Pogledajte ovaj sadržaj odmah nakon instalacije</string>
     <string name="branch_feature_description">Osim aplikacija, Quick Finder može pronaći sadržaj i stavke unutar aplikacije na mreži.</string>
-    <string name="branch_guide_attention">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje vaših zahtjeva za pretraživanje, Google Ads ID-a i IP adrese s Branch Metrics Inc. Pročitajte i prihvatite <a href="http://url1"><font color="#B3000000">Uvjeti  i odredbe za krajnjeg korisnika</font></a> i <a href="http://url2"><font color="#B3000000">Pravila o privatnosti Branch Discovery</font></a> prije korištenja ove značajke.</string>
+    <string name="branch_guide_attention">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje vaših zahtjeva za pretraživanje, Google Ads ID-a i IP adrese s Branch Metrics Inc. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url1">Uvjeti  i odredbe za krajnjeg korisnika</a></font> i <<font color="#B3000000"><a href="http://url2">Pravila o privatnosti Branch Discovery</a></font> prije korištenja ove značajke.</string>
     <string name="branch_guide_description_one">"Sve vaše aplikacije stavit ćemo u ladicu aplikacija. Vaš će početni zaslon izgledati uredno i organizirano."</string>
     <string name="branch_guide_description_three">"Uz ugrađeno pretraživanje, moći ćete pronaći sve što trebate u trenu!"</string>
     <string name="branch_guide_description_two">Ladica aplikacija automatski kategorizira aplikacije.</string>
@@ -201,7 +202,7 @@
     <string name="branch_new_feature">Nova značajka</string>
     <string name="branch_privacy_policy">Pravila o privatnosti</string>
     <string name="branch_search_guide_description">Naši rezultati pretraživanja sada su mnogo opsežniji</string>
-    <string name="branch_search_guide_privacy">"Ovu uslugu pokreće Branch Metrics Inc. Podaci o vašoj lokaciji, upiti za pretraživanje i Google Ads ID bit će podijeljeni s podružnicom. Pročitajte i i prihvatite "<a href="http://url1"><font color="#B3000000">Uvjeti i odredbe</font></a> i <a href="http://url2"><font color="#B3000000">Pravila o privatnosti</font></a> prije korištenja ove usluge.</string>
+    <string name="branch_search_guide_privacy">"Ovu uslugu pokreće Branch Metrics Inc. Podaci o vašoj lokaciji, upiti za pretraživanje i Google Ads ID bit će podijeljeni s podružnicom. Pročitajte i i prihvatite Branch "<font color="#B3000000"><a href="http://url1">Uvjeti i odredbes</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> prije korištenja ove usluge.</string>
     <string name="branch_search_guide_title">"Pronađite ono što tražite u svojim omiljenim aplikacijama"</string>
     <string name="branch_terms_condition">Uvjeti i odredbe</string>
     <string name="branch_tip_title">Uz Quick Finder možete pronaći sve što trebate u trenu.</string>
@@ -335,6 +336,8 @@
     <string name="failed_to_drop_widget_invalid">Ovaj widget nije valjan</string>
     <string name="failed_to_drop_widget_nospace">Na ovom zaslonu više nema mjesta</string>
     <string name="failed_to_load_image">"Ne mogu učitati sliku"</string>
+	 <string name="fold_pair_install_shortcut_long_click">Pritisnite i držite za dodavanje na Poč. zaslon</string>
+    <string name="fold_pair_installed_shortcut_launcher">Ovaj prečac već postoji</string>
     <string name="folder_name">Mapa</string>
     <string name="frame_load_failed">"Ne mogu učitati okvir"</string>
     <string name="free_style_apps_title">Odaberi aplikaciju</string>
@@ -390,7 +393,6 @@
     <string name="gadget_weather_title">Vrijeme</string>
     <string name="gadget_weather_title_14">Vrijeme</string>
     <string name="gadget_weather_title_24">Vrijeme</string>
-	 <string name="garbage_count">Postoji %1$s starih primjera</string>
     <string name="global_search_hint">Unesite traženi pojam</string>
     <string name="got_it_botton">Razumijem</string>
     <string name="group_folder">Nova mapa</string>
@@ -466,7 +468,6 @@
     <string name="memory_clear_result">Očišćeno %1$sB</string>
     <string name="memory_clear_result_giga">Očišćeno %1$sGB</string>
     <string name="memory_clear_result_mega">Očišćeno %1$sMB</string>
-	 <string name="memory_leak">Gubitak memorije</string>
     <string name="menu_add">Dodaj</string>
     <string name="menu_auto_fill_of_uninstall">Ispuni mjesta deinstaliranih aplikacija</string>
     <string name="menu_back_desktop">Natrag na Poč. zaslon</string>
@@ -632,10 +633,10 @@
     <string name="new_feature_title">"Što je novo"</string>
     <string name="no_detail_page">Nema detalja stranice</string>
     <string name="no_space_toast">Nema dovoljno prostora</string>
+	 <string name="no_space_toast_fold">Ovdje nema dovoljno prostora</string>
     <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
     <string name="normal_wallpaper">Slika pozadine</string>
     <string name="not_set">Nije postavljeno</string>
-	 <string name="notification_channel_alerts">Upozorenja</string>
     <string name="notification_installed">Uspješno instalirano</string>
     <string name="notification_open_button">Otvori</string>
     <string name="notification_reset_description">%1$s%1$s Ne mogu resetirati Pokretač na %2$s</string>
@@ -654,6 +655,7 @@
     <string name="ota_layout_adjustment_content">Raspored unutarnjeg i vanjskog Poč. zaslona sinkroniziran je u novoj verziji.</string>
     <string name="ota_layout_adjustment_title">Izgled Poč. zaslona</string>
     <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
+	 <string name="pair_icon_name">%1$s | %2$s</string>
     <string name="perfect_icons_switch_summary">Prikaži animacije ikona aplikacija treće strane</string>
     <string name="perfect_icons_switch_title">Globalne animacije ikona</string>
     <string name="permdesc_install_shortcut">Aplikaciji omogućuje dodavanje prečaca bez potrebe za dodatnim radnjama od strane korisnika.</string>
@@ -731,6 +733,7 @@
     <string name="recents_title_security_scan">Sigurnosno skeniranje</string>
     <string name="recents_tv_small_window_text">Plutajući prozori</string>
     <string name="recents_worldcirculate_text">Otpustite za odabir</string>
+	 <string name="recnets_relay_device_info">Od %s</string>
     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Aplikacija radi na %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Dodirnite da je vratite ovdje.</string>
@@ -779,7 +782,7 @@
     <string name="select_photo">Fotografija</string>
     <string name="send">Pošalji</string>
     <string name="server_error">Dogodila se pogreška poslužitelja. Pričekajte minutu-dvije i pokušajte ponovo.</string>
-	 <string name="service_double_attention">Poboljšanu funkciju pretraživanja pruža Branch Metrics Inc. Da bi ova značajka funkcionirala, moramo podijeliti vaše zahtjeve za pretraživanje, Google Ads ID i IP adresu s Branch Metrics Inc. Pročitajte i prihvatite <a href="http://url1"><font color="#B3000000">Uvjeti za otkrivanje krajnjeg korisnika</font></a> i <a href="http://url2"><font color="#B3000000">Pravila o privatnosti Branch Discovery</font></a> prije korištenja ove značajke.</string>
+	 <string name="service_double_attention">Poboljšanu funkciju pretraživanja pruža Branch Metrics Inc. Da bi ova značajka funkcionirala, moramo podijeliti vaše zahtjeve za pretraživanje, Google Ads ID i IP adresu s Branch Metrics Inc. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url1">Uvjeti i odredbe za krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
     <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
     <string name="settings">Postavke</string>
     <string name="settings_shortcut">Postavke</string>
@@ -836,9 +839,9 @@
     <string name="system_text">Sustav</string>
     <string name="task_access_locked_app_msg">Zaklj. aplikacija uključeno</string>
 	 <string name="term_of_service">Uvjeti i odredbe</string>
-    <string name="terms_of_services_one">"Dobrodošli u ladicu aplikacija i Quick Finder. Quick Finder omogućuje brže pronalaženje aplikacija, sadržaja unutar aplikacije i stavki na mreži. Pročitajte i prihvatite Xiaomi "<a href="http://url1"><font color="#B3000000">Pravila o privatnosti</font></a> prije korištenja ovih značajki.</string>
+    <string name="terms_of_services_one">"Dobrodošli u ladicu aplikacija i Quick Finder. Quick Finder omogućuje brže pronalaženje aplikacija, sadržaja unutar aplikacije i stavki na mreži. Pročitajte i prihvatite Xiaomi "<font color="#B3000000"><a href="http://url1">Pravila o privatnosti</a></font> prije korištenja ovih značajki.</string>
     <string name="terms_of_services_three">Ovu značajku možete isključiti u postavkama.</string>
-    <string name="terms_of_services_two">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje potrebnih osobnih podataka, uključujući vaše upite za pretraživanje, Google Advertising ID i IP adresu, s Branch Metrics Inc. Branch će obraditi vaše osobne podatke u skladu s <a href="http://url1"><font color="#B3000000">Pravila o privatnosti Branch Discovery</font></a>. Pročitajte i prihvatite <a href="http://url2"><font color="#B3000000">Uvjeti za otkrivanje krajnjeg korisnika</font></a> i <a href="http://url3"><font color="#B3000000">Pravila o privatnosti Branch Discovery</font></a> prije korištenja ove značajke.</string>
+    <string name="terms_of_services_two">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje potrebnih osobnih podataka, uključujući vaše upite za pretraživanje, Google Advertising ID i IP adresu, s Branch Metrics Inc. Branch će obraditi vaše osobne podatke u skladu s <font color="#B3000000"><a href="http://url1">Pravila o privatnosti Branch Discovery</a></font>. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url2">Uvjeti za otkrivanje krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url3">Pravila o privatnosti Branch Discovery</a></font> prije korištenja ove značajke.</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
@@ -884,6 +887,7 @@
     <string name="uninstall_xspace_dialog_title_format">Deinstalirati dvojnu \"%s\"?</string>
     <string name="unknown_artist_name">Nepoznati izvođač</string>
     <string name="unnamed_folder_name">Mapa</string>
+	 <string name="upgrade_remove_small_window_in_recents">Možete koristiti bočnu traku za otvaranje aplikacija u plutajućim prozorima</string>
     <string name="unstable_dialog_content">"Ovo je testna verzija sustava Android, te je podložna promjenama. Korištenje ove verzije uređena je licencnim ugovorom za pregled SDK za Android. Testna verzija sustava Android nije stabilno izdanje i može sadržavati pogreške i nedostatke koji mogu dovesti do oštećenja računalnih sustava, uređaja ili podataka. Testna verzija sustava Android ne podliježe istom testiranju kao tvornički OS i može uzrokovati prestanak rada ovog uređaja, instaliranih usluga ili aplikacija."</string>
     <string name="unstable_dialog_message">Ovaj je uređaj upisan u Android 12 Developer Preview Program. Program omogućuje Android programerima i entuzijastima da isprobaju inačice prije izdanja Androida 12. Ova verzija prije izdanja može sadržavati pogreške i nedostatke koji mogu utjecati na normalno funkcioniranje vašeg uređaja.</string>
     <string name="unstable_dialog_title">Android Developer Preview Program</string>

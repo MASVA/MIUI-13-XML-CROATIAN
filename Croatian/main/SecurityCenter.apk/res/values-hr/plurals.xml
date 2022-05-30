@@ -313,11 +313,15 @@
         <item quantity="other">Prijavljeno %d dana za redom</item>
         <item quantity="one">Prijavljeno %d puta</item>
     </plurals>
-	 <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f sati preostalo</item>
-        <item quantity="one">%2$1.2f sat preostao</item>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
     </plurals>
-    <plurals name="gb_toolbox_guide_known">
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>	
+    </plurals>    
+	<plurals name="gb_toolbox_guide_known">
         <item quantity="other">Razumijem (%ds)</item>
         <item quantity="one">Razumijem (%ds)</item>
     </plurals>

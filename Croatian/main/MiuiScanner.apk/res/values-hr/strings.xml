@@ -34,8 +34,10 @@
     <string name="adjustment_area">Prilagodi</string>
     <string name="agree_app_use">Skeniranje QR kodova i drugih slika (neke će značajke možda zahtijevati pristup vašoj lokaciji)</string>
     <string name="agree_btn">Slažem se</string>
-    <string name="agree_camera_permission">Za snimanje fotografija i videozapisa</string>
-    <string name="agree_storage_permission">Za pristup fotografijama i datotekama pohranjenim na vašem uređaju</string>
+    <string name="agree_camera_permission">Za korištenje kamere za skeniranje stavki</string>
+    <string name="agree_camera_permission_message">Za korištenje kamere za skeniranje stavki</string>
+    <string name="agree_storage_permission">Za pristup i uvoz slika galerije i spremanje datoteka</string>
+    <string name="agree_storage_permission_message">Za pristup i uvoz slika galerije i spremanje datoteka</string>
     <string name="all_text">Cijeli tekst</string>
     <string name="already_ocr_result">Automatski odabrane stavke</string>
     <string name="album_view">Odaberi sliku</string>
@@ -105,6 +107,7 @@
     <string name="code_always">Zapamti moj izbor</string>
     <string name="code_determine">U redu</string>
     <string name="code_result">Rezultati</string>
+	 <string name="come_back_picture">Natrag</string>
     <string name="common_google_play_services_enable_button">Omogući</string>
     <string name="common_google_play_services_enable_text">"%1$s neće raditi ako ne omogućite usluge Google Play."</string>
     <string name="common_google_play_services_enable_title">Omogućite usluge Google Play</string>
@@ -334,6 +337,8 @@
     <string name="link_to_network">Poveži</string>
     <string name="local_ocr_recognition">Lokalno OCR prepoznavanje</string>
     <string name="local_ocr_recognition_str">Prebačeno na izvanmrežni prijevod</string>
+	 <string name="location_permission_message">Za povezivanje Wi-Fi koda</string>
+    <string name="location_permissions_text">Dodirnite tipku "Postavke" kako biste omogućili dopuštenje lokacije za normalno korištenje skeniranja</string>
     <string name="logout_service">Povlačenje suglasnosti</string>
     <string name="low_version_tip">Ažurirajte MIUI da možete koristiti Skener.</string>
     <string name="mihome_goto_install">Instaliraj</string>
@@ -733,6 +738,8 @@
 	 <string name="to_date">Danas</string>
     <string name="to_install_title">Ovaj QR kôd preusmjerava vas na deinstaliranu aplikaciju. Preuzeti sada ovu aplikaciju?</string>
     <string name="to_pay">Dovršite plaćanje</string>
+	 <string name="toast_net_2g">Mreža je loša. Promijenite mrežu i pokušajte ponovno</string>
+    <string name="toast_net_timeout">Zahtjev je istekao. Pokušajte ponovo kasnije</string>
     <string name="today">Danas</string>
     <string name="toinstall">Preuzmi</string>
     <string name="tomorrow">Sutra</string>

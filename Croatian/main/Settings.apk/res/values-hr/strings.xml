@@ -143,7 +143,7 @@ Neke aplikacije ne podržavaju tu postavku."</string>
     <string name="accessibility_dialog_button_deny">Odbij</string>
     <string name="accessibility_dialog_button_stop">Zaustavi</string>
     <string name="accessibility_disable_animations">Uklanjanje animacija</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:<br><br></br></br><ol><li> Vidjeti boje točnije<li></li> Ukloniti boje kako biste se lakše usredotočili.</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:<ol><li><br/><br/> Vidjeti boje točnije</li><li> Ukloniti boje kako biste se lakše usredotočili</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Korekcija boja</string>
     <string name="accessibility_display_inversion_preference_subtitle">Inverzijom boja svijetli zasloni postaju tamni.&lt;br/&gt;&lt;br/&gt; Napomena: &lt;ol&gt; &lt;li&gt; Inverzijom boja tamni zasloni postat će svijetli.&lt;/li&gt; &lt;li&gt; Boje se mijenjaju u medijima i na slikama.&lt;/li&gt; &lt;li&gt; Za prikaz tamne pozadine možete upotrijebiti Tamnu temu. Tamna tema radi s podržanim aplikacijama. Inverzija boja radi u svim aplikacijama.&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_inversion_preference_title">Inverzija boja</string>
@@ -515,7 +515,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
     <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
     <string name="add_fingerprint_done_title">Gotovo!</string>
     <string name="add_fingerprint_edge_instruction_msg">Pomičite prst tako da senzor može snimiti rubove vašeg otiska prsta.</string>
-    <string name="add_fingerprint_edge_instruction_title">Pomičite lagano vaš prst</string>
+    <string name="add_fingerprint_edge_instruction_title">Prilagodite hvat kako biste uhvatili rubove otiska prsta</string>
     <string name="add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta, pokušajte ponovno"</string>
     <string name="add_fingerprint_finished_button_text">Gotovo</string>
     <string name="add_fingerprint_instruction_dialog_msg">Da dodate otisak prsta, stavite prst na senzor i podignite ga nakon što osjetite vibraciju.</string>
@@ -888,7 +888,7 @@ Promijeniti postavke sada?"</string>
     <string name="application_lock_name">Zaklj. aplikacije</string>
     <string name="application_manager_section_title">Aplikacije</string>
     <string name="application_mode_empty_text">Ovdje još nema aplikacija</string>
-    <string name="application_mode_name">Način prikaza aplikacije</string>
+    <string name="application_mode_name">Rasporedi aplikacije</string>
     <string name="application_permission_manager">Dopuštenja aplikacija</string>
     <string name="application_permissions">Dopuštenja aplikacije</string>
     <string name="application_restrictions">Dopuštanje aplikacija i sadržaja</string>
@@ -4287,11 +4287,14 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>
     <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
     <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanji korištenje RAM-a</string>
-	 <string name="fold_game_adaptation">Igre</string>
+	  <string name="fold_application_mode_name">Izgledi aplikacija</string>
+    <string name="fold_game_adaptation">Izgledi igara</string>
     <string name="fold_rule_default">Preporučeno</string>
     <string name="fold_rule_important">Važno</string>
     <string name="fold_rule_unimportant">Nevažno</string>
-	 <string name="fold_screen_settings_title">Značajke za veliki zaslon</string>
+	  <string name="fold_screen_application_adaptation_title">Prilagođeni izgledi za sklopive uređaje</string>
+    <string name="fold_screen_settings_title">Značajke sklopivih uređaja</string>
+    <string name="fold_screen_special_function_title">Značajke sklopivih uređaja</string>
     <string name="fold_title">Pravila za grupirane obavijesti</string>
     <string name="following_us_title">Pratite nas</string>
     <string name="font_cta_alert_btn_negative">Odustani</string>
@@ -4536,7 +4539,12 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
     <string name="go_back_button_label">Natrag</string>
     <string name="go_to_sleep">Isključi zaslon</string>
     <string name="google_account_title">Google</string>
-    <string name="google_assistant_label">Google Assistant</string>
+	 <string name="google_assistant_guide_cancel">Odustani</string>
+    <string name="google_assistant_guide_message">Možete pritisnuti i držati tipku za uključivanje %s sek. da biste počeli razgovarati s Google asistentom. Želite li sada postaviti ovaj prečac?</string>
+    <string name="google_assistant_guide_ok">Postavi</string>
+    <string name="google_assistant_guide_tip">*Pritisnite i držite tipku za uključivanje %s sek. da otvorite izbornik za isključivanje.</string>
+    <string name="google_assistant_guide_title">Google asistent</string>
+    <string name="google_assistant_label">Google asistent</string>
     <string name="google_backup_enable">Uključi Sig. kopije</string>
     <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
     <string name="google_pay">Google Pay</string>
@@ -5891,7 +5899,7 @@ kao i PIN za Prvi prostor"</string>
     <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
     <string name="macaddr_label">MAC adresa:</string>
 	 <string name="magic_list_empty_text_pad">Sada nema aplikacija kompatibilnih s ovom značajkom</string>
-    <string name="magic_window_name_pad">Optimizirajte aplikacije za pejzažni prikaz</string>
+    <string name="magic_window_name_pad">Optimizacija za pejzažni prikaz</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 
@@ -6386,6 +6394,8 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miui_allow_light">Svjetlo obavijesti</string>
     <string name="miui_allow_music">Glazba</string>
     <string name="miui_allow_vibrate">Vibracija</string>
+	 <string name="miui_bubbles_notification">Obavijesti u oblačiću</string>
+    <string name="miui_bubbles_notification_status_opened">Uključeno</string>
     <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
     <string name="miui_disturb_title">DND</string>
     <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
@@ -7414,7 +7424,8 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
     <string name="notifications_title">Obavijesti</string>
     <string name="notify_connect">CMCC Wi-Fi upit</string>
     <string name="notify_connect_summary">Podsjeti me kod pristupa na CMCC Wi-Fi</string>
-    <string name="now">Sada</string>
+    <string name="now">Ponovo pokreni</string>
+	 <string name="nrca_need_reset">Ponovo pokrenite uređaj da biste primijenili promjene</string>
     <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
     <string name="nsd_quick_toggle_title">Otkrivanje mrežne usluge</string>
     <string name="number_of_device_admins_none">Nema aktivnih aplikacija</string>
@@ -10891,7 +10902,9 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
     <string name="systemui_theme_light">Svijetlo</string>
     <string name="systemui_theme_wallpaper">Automatski (na temelju pozadine)</string>
     <string name="tab_text">Kartica</string>
+	 <string name="tablet_screen_application_adaptation_title">Prilagođeni izgledi za tablete</string>
 	 <string name="tablet_screen_settings_title">Značajke za tablete</string>
+	 <string name="tablet_screen_special_function_title">Značajke sklopivih tableta</string>
     <string name="take_call_on_title">Preuzmi poziv na uređaju</string>
     <string name="talkback_summary">Čitač zaslona namijenjen prvenstveno slijepim i slabovidnim osobama</string>
     <string name="talkback_title">TalkBack</string>
@@ -12184,7 +12197,7 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
     <string name="wallpaper_desktop">Poč. zaslon</string>
     <string name="wallpaper_live">Animirana pozadina</string>
     <string name="wallpaper_lockscreen">Pozadina Zaklj. zaslona</string>
-	 <string name="wallpaper_setting_title">Slika pozadine</string>
+	 <string name="wallpaper_setting_title">Pozadine za sklopive uređaje</string>
     <string name="wallpaper_settings_fragment_title">Odabir slike pozadine iz</string>
     <string name="wallpaper_settings_summary_custom">Prilagođena</string>
     <string name="wallpaper_settings_summary_default">Zadano</string>

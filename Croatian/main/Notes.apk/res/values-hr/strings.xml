@@ -939,6 +939,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="view_all_notes">Prikaži sve</string>
     <string name="warn_cannot_add_new_bullet">"Ne mogu dodati novi popis s grafičkim oznakama jer je bilješka predugačka"</string>
     <string name="warn_cannot_add_new_checkbox">"Novi potvrdni okvir nije moguće dodati jer je bilješka predugačka"</string>
+	 <string name="warn_cannot_add_new_content">"Ne mogu dodati novi sadržaj jer je bilješka predugačka"</string>
     <string name="warn_cannot_add_new_doodle">"Ne mogu dodati novi doodle jer je bilješka predugačka"</string>
     <string name="warn_cannot_add_new_element">"Ne mogu dodati novu stavku jer je bilješka predugačka"</string>
     <string name="warn_cannot_add_new_link_card">"Ne mogu dodati novu vezu jer je bilješka predugačka"</string>
@@ -964,6 +965,8 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="widget_size_item_big">Veliki</string>
     <string name="widget_size_item_medium">Srednji</string>
     <string name="widget_size_item_small">Mali</string>
+	 <string name="widget_size_item_super_big">Extra velik</string>
+    <string name="widget_size_not_support">"Extra veliki widgeti nisu podržani na ovom uređaju"</string>
     <string name="widget_take_notes_title">Bilješke</string>
     <string name="widget_under_privacy_mode">"Ne mogu pregledavati bilješke u Gost načinu rada"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>

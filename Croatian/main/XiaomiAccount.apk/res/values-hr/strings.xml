@@ -98,6 +98,7 @@ ID vašeg računa: %s"</string>
     <string name="area_code_search_hint">Tražite zemlju ili regiju</string>
     <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
     <string name="authorize_title">Autorizacija</string>
+	 <string name="auto_fill_not_sport_on_water_mark_version">"Automatsko popunjavanje prijave nije podržano na verzijama s vodenim žigom"</string>
     <string name="bind_facebook">Povežite svoj Facebook račun</string>
     <string name="bind_google">Povežite svoj Google račun</string>
     <string name="bind_qq">QQ</string>
@@ -843,6 +844,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
+	 <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Prijavite se sa WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>

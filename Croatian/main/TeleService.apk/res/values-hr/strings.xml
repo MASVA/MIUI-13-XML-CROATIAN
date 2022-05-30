@@ -2099,6 +2099,7 @@ Kontaktirajte vašeg operatera."</string>
     <string name="nr_usaged_network_usaged">"Današnji podaci"</string>
     <string name="nr_usaged_operator">Mobilni operater</string>
     <string name="nr_usaged_used_time">Trajanje korištenja</string>
+	 <string name="nrca_need_reset">Ponovo pokrenite uređaj da biste primijenili promjene</string>
 	 <string name="nrca_switch_summary">Koristite agregaciju 5G operatera za bolju povezanost</string>
     <string name="nrca_switch_title">Koristi NRCA</string>
     <string name="number">Broj</string>

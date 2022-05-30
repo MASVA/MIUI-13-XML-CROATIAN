@@ -2898,6 +2898,7 @@ Dodirnite za više informacija"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_unit_just_now">Upravo sad</string>
+	 <string name="tip_close_flares">"Nećete primati obavijesti o ponašanju aplikacije tijekom ove sesije"</string>
     <string name="time_zone_gmt">GMT</string>
     <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
     <string name="title_usb_accessory">USB pribor</string>

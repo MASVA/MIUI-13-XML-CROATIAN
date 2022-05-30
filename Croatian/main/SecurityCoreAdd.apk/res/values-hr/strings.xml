@@ -43,6 +43,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
     <string name="air_space_exit">Izlaz iz prostora</string>
     <string name="air_space_setting">Postavke prostora</string>
     <string name="airspace_users_full">"Ne mogu izraditi još radih prostora"</string>
+	 <string name="alwaysUsePrompt">Zapamti moj izbor</string>
     <string name="appData">Instalirane aplikacije</string>
     <string name="app_name">Komponenta Sigurnosti jezgre</string>
     <string name="back">Natrag</string>
@@ -613,6 +614,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
     <string name="xspace_guide_description">"Svaki račun
 zaslužuje vlastitu aplikaciju"</string>
     <string name="xspace_guide_title">Isprobajte Dvojne aplikacije</string>
+	 <string name="xspace_head">Dvojna aplikacija</string>
     <string name="xspace_header">Dvojne aplikacije</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font&gt;Uspješno izrađeno&lt;/font&gt;&lt;font color=#0D84FF&gt;Otcori sada&lt;/font&gt;</string>
@@ -628,6 +630,7 @@ zaslužuje vlastitu aplikaciju"</string>
     <string name="xspace_notification_error">Prijavite se na dvojni WeChat i pokušajte ponovo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Izbriši račune dvojnih aplikacija"</string>
+	 <string name="xspace_resolver_activity_title">Odaberi aplikaciju</string>
     <string name="xspace_setting_label">Postavke dvojne aplikacije</string>
     <string name="xspace_settins">Postavi</string>
     <string name="xspace_start">Izradi</string>

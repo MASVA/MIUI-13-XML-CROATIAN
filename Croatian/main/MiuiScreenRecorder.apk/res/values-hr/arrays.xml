@@ -14,4 +14,10 @@
         <item>Unutarnja pohrana</item>
         <item>Vanjska pohrana</item>
     </string-array>
+	<string-array name="screenrecorder_utils_support_90fps_frames_cpu">
+        <item>Qualcomm Technologies, Inc SM8350</item>
+        <item>Qualcomm Technologies, Inc SM8450</item>
+        <item>MT6895</item>
+        <item>MT6983</item>
+    </string-array>
 </resources>
