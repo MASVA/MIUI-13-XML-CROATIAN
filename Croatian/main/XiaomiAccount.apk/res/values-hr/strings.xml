@@ -678,6 +678,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="permission_write_external_storage">Pristup i spremanje stavki u pohranu</string>
     <string name="personal_info_desc">Fotografija, nadimak, i više</string>
     <string name="phone_num_use_for">Broj telefona se koristi za:</string>
+	 <string name="phone_register">Koristi broj telefona</string>
     <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
     <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Mi Računa?"</string>

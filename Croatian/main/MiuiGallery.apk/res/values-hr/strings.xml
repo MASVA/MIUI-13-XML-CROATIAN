@@ -594,7 +594,6 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="context_menu_add_contact">Dodaj u kontakte</string>
     <string name="context_menu_copy">Kopiraj</string>
     <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
-    <string name="continue_feedback">Dodatne povratne informacije</string>
     <string name="contrast">Kontrast</string>
     <string name="contrast_abbr">K</string>
     <string name="cool">Cool</string>
@@ -904,6 +903,9 @@ Napravite više fotografija vaših prijatelja!"</string>
     <string name="feature_guidance_photo_effects">"Dostupni su novi efekti
 za fotografije"</string>
     <string name="feature_guidance_video_editor_smart_effects">Dostupni su novi efekti</string>
+	 <string name="feedback_my_reports">Povratne informacije</string>
+    <string name="feedback_problem">Prijavite problem</string>
+    <string name="feedback_suggest">Pošaljite prijedlog</string>
     <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
     <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
     <string name="file_sending">Slanje datoteka…</string>
