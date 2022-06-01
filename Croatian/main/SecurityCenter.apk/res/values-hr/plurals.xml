@@ -1076,4 +1076,12 @@ Odmorite se!"</item>
         <item quantity="other">Trojanci: %d</item>
         <item quantity="one">Trojanac: %d</item>
     </plurals>
+	     <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Automatski snimajte ključne trenutke i generirajte videozapise s istaknutim detaljima sesije. Možete odabrati da ih trajno spremite nakon svake sesije igranja. Nespremljeni videozapisi će se automatski izbrisati nakon %1$d dana.</item>
+        <item quantity="one">Automatski snimajte ključne trenutke i generirajte videozapise s istaknutim detaljima sesije. Možete odabrati da ih trajno spremite nakon svake sesije igranja. Nespremljeni videozapisi će se automatski izbrisati nakon %1$d dana.</item>
+     </plurals>
+     <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Svaka čast! Otključali ste %s Uskršnjih jaja."</item>
+        <item quantity="one">"Svaka čast! Otključali ste %s Uskršnje jaje."</item>
+     </plurals>
 </resources>

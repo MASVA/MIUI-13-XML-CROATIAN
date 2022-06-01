@@ -88,7 +88,7 @@
     <string name="expand_button_title">Napredno</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
     <string name="first_note">Ispitajte slušnu percepciju da u skladu s tim prilagodite glasnoću.</string>
-    <string name="four_note">Test će trajati oko 3 minute.</string>
+    <string name="four_note">Test će trajati oko %d min.</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
@@ -249,7 +249,7 @@
     <string name="music_audio_effect_settings">Postavke efekata</string>
     <string name="music_audio_visual_wake_lock">Drži zaslon uključenim</string>
     <string name="music_audio_visual_wake_lock_summary">"Ne isključij zaslon kada se prikazuju vizualni efekti"</string>
-    <string name="music_below_thirty_years">Do 30 godina</string>
+    <string name="music_below_thirty_years">Do %d godina</string>
     <string name="music_customized_sound_summary">Prilagodite glasnoću prema slušnoj percepciji</string>
     <string name="music_customized_sound_title">Podešavanje glasnoće</string>
     <string name="music_delete">Izbriši</string>
@@ -346,10 +346,10 @@
     <string name="music_sound_num">Vlastiti preset %s</string>
     <string name="music_sound_sample">Preseti sustava</string>
     <string name="music_sure_to_delete_sound_msg">Izbrisati odabrane presete?</string>
-    <string name="music_thirty_to_sixty_years">30-60 godina</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d godina</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"USB slušalice nisu podržane"</string>
-    <string name="music_upper_sixty_years">Više od 60 godina</string>
+    <string name="music_upper_sixty_years">Više od %d godina</string>
     <string name="name">Ime</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="not_support_sound_transmission_content">"Ovu značajku ne podržava povezani uređaj. Pokušajte s drugim Bluetooth uređajem."</string>

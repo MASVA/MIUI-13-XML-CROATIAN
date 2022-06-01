@@ -367,6 +367,7 @@
     <string name="calllog_menu_edit_before_call">"Uredi"</string>
     <string name="calllog_menu_send_sms">"Pošalji poruku"</string>
     <string name="calllog_record_none_toast">Nema zapisa poziva za prikazati</string>
+	 <string name="calllog_record_searching_toast">Traženje snimaka poziva…</string>
     <string name="callrecordview_item_newcontact">"Novi kontakt"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
     <string name="callrecordview_item_op_time_missed">Nije povezano</string>
@@ -976,6 +977,9 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
     <string name="lunar_leap">Pokreni</string>
     <string name="lunar_yue">Mjesec</string>
     <string name="make_primary">"Zapamti ovaj izbor"</string>
+	 <string name="manage_external_storage_dialog_message">Dopusti ovoj aplikaciji pristup svim datotekama kako bi upravljala snimkama poziva.</string>
+    <string name="manage_external_storage_dialog_positive">Postavke</string>
+    <string name="manage_external_storage_dialog_title">Potrebna su dopuštenja</string>
     <string name="map_custom">"Prikaz %s adrese"</string>
     <string name="map_home">"Prikaz kućne adrese"</string>
     <string name="map_other">"Prikaz adrese"</string>

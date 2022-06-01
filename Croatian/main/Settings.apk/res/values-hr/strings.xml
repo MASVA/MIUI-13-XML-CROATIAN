@@ -77,6 +77,7 @@
     <string name="access_control_password_title">Zaklj. aplikacije</string>
     <string name="access_control_recording_intro_header">Iscrtajte uzorak za otključavanje</string>
     <string name="access_control_reset_by_account">Prijavite se na vaš Mi Račun za poništavanje zaporke</string>
+	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="access_point_names">Pristupne točke</string>
     <string name="accessibility_alarm_vibration_title">Vibracija alarma</string>
     <string name="accessibility_assist_gesture_complete_or_keep_adjusting">Active Edge postavljen je. Prijeđite na sljedeći zaslon ili nastavite s podešavanjem.</string>
@@ -696,7 +697,6 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
     <string name="angle_enabled_app">Upotrijebite aplikaciju omogućenu za ANGLE</string>
     <string name="angle_enabled_app_not_set">Nema skupa aplikacija omogućenog za ANGLE</string>
     <string name="angle_enabled_app_set">Aplikacija omogućena za ANGLE: %1$s</string>
-    <string name="animation_off">Animacija isključena</string>
     <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
     <string name="another_migration_already_in_progress">U tijeku je neko drugo premještanje.</string>
     <string name="anr_record_interval_title">Snimi ANR intervale</string>
@@ -974,7 +974,6 @@ Promijeniti postavke sada?"</string>
     <string name="asst_feedback_indicator_title">Povratne informacije o prilagodljivim obavijestima</string>
     <string name="asst_importance_reset_summary">Postavke važnosti koje je korisnik promijenio vratite na zadane i dopustite pomoćniku za obavijesti da određuje prioritete</string>
     <string name="asst_importance_reset_title">Vraćanje važnosti obavijesti na zadano</string>
-    <string name="at_most_one_process">Najviše %d procesa</string>
     <string name="attempt_other_network">Promjeni mrežu</string>
     <string name="audio_and_captions_category_title">Audio i tekst na zaslonu</string>
     <string name="audio_category_title">Audiozapis</string>
@@ -1029,8 +1028,8 @@ Promijeniti postavke sada?"</string>
     <string name="auto_caps">Autom. veliko poč. sl.</string>
     <string name="auto_caps_summary">Postavi veliko slovo na početku rečenice</string>
     <string name="auto_clean_description">"O ovoj značajki
-1. Pokrenite ovu značajku jednom ili dva puta ako ustanovite da je vaš zvučnik lagano blokiran od prašine.
-2. Ako je zvučnik jače blokiran, pokrenite ovu značajku %1$d-%2$d puta dok tresete svoj uređaj tako da zvučnik bude okrenut prema dolje."</string>
+%3$d. Pokrenite ovu značajku jednom ili dva puta ako ustanovite da je vaš zvučnik lagano blokiran od prašine.
+%4$d. Ako je zvučnik jače blokiran, pokrenite ovu značajku %1$d-%2$d puta dok tresete svoj uređaj tako da zvučnik bude okrenut prema dolje."</string>
     <string name="auto_clean_description_pad">"O ovoj značajci
 - Pokrenite ovu značajku jednom ili dvaput ako ustanovite da je vaš zvučnik lagano blokiran prašinom.
 - Ako je zvučnik jako blokiran, pokrenite ovu značajku %1$d-%2$d puta dok tresete uređaj sa zvučnikom okrenutim prema dolje."</string>
@@ -2086,12 +2085,14 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
     <string name="bt_ldac_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Svojstva</string>
+	 <string name="bt_leaudio_cg_dialog_summary">"Neke značajke neće biti dostupne nakon što uključite ovu značajku. Ova značajka također ne podržava povezivanje više uređaja s vašim slušalicama. Ako ste se već povezali s dva različita uređaja, prekinite vezu s jedan od njih prvi. Uključiti LC3 sada?"</string>
     <string name="bt_ldac_remember_choice">Zapamti izbor</string>
     <string name="bt_ldac_settings">Postavke</string>
     <string name="bt_leaudio_open_dialog_summary">"Kad je LC3 uključen, na slušalice nećete moći povezati više uređaja. Ostali povezani uređaji prekinut će se ako uključite ovu značajku. Uključiti LC3 svejedno?"</string>
     <string name="bt_leaudio_open_dialog_title">Pažnja</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Visoko kvalitetno audio iskustvo</string>
+	 <string name="bt_leaudio_support_multi_dialog_summary">"Neke značajke neće biti dostupne nakon što uključite ovu značajku. Uključiti LC3 sada?"</string>
     <string name="bt_lhdc_declaration">Kada Bluetooth uređaj podržava LHDC, bit će povezan prema zadanim postavkama. LHDC omogućuje reprodukciju visokokvalitetnog zvuka i smanjuje kašnjenje tijekom igranja, ali također povećava potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera</string>
     <string name="bt_lhdc_dialog_summary">"LHDC omogućuje reprodukciju visokokvalitetnog zvuka i smanjuje kašnjenje tijekom igranja, ali također povećava potrošnju energije. Ova se značajka može isključiti u Postavkama."</string>
     <string name="bt_lhdc_dialog_title">Trenutni uređaj podržava LHDC, koji je povezan po zadanom:</string>
@@ -2484,6 +2485,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
     <string name="codec_low_latency_video_summary">Omogućava zvučno iskustvo s malim kašnjenjem za igre i videozapise, čineći sinkronizaciju zvuka i slike prirodnijom.</string>
     <string name="codec_low_latency_zmi_summary">Smanjite kašnjenje zvuka i automatski poboljšajte zvučne efekte za igre</string>
     <string name="codec_low_latency_zmi_title">Niska latencija za igre</string>
+	 <string name="collect_diagnosis_log">Prikupi dnevnik dijagnoze</string>
     <string name="collect_diagnostics_summary">Prikupi dijagnostičke podatke za rješavanje problema</string>
     <string name="collect_diagnostics_title">Prikupi dijagnostiku</string>
     <string name="color_black">Crna</string>
@@ -2714,6 +2716,7 @@ Na temelju tih podataka utvrđuje se mogu li vaši kontakti upotrebljavati odre�
     <string name="continue_reset_factory">Vraćanje na tvorničke postavke</string>
     <string name="contributors_title">Suradnici</string>
     <string name="control_center">Centar za kontrolu</string>
+	 <string name="control_center_force_use_panel_guide_text">Povucite prema dolje traku statusa s lijeve strane da biste vidjeli obavijesti. Povlačenjem prema dolje s desne strane otvorit će se Centar za kontrolu. Možete mnjenjati ovu značajku povlačenjem ulijevo i udesno.</string>
     <string name="control_center_style">Stil Centra za kontrolu</string>
     <string name="control_center_style_summary">"Odaberite način na koji želite prikaz prečaca i obavijesti"</string>
     <string name="control_panel_switch_side">Zamijeni stranu Centra za kontrolu</string>
@@ -2873,7 +2876,12 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
     <string name="dark_color_summary">Koristite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije</string>
     <string name="dark_color_summary_lcd">"Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada može vam pomoći pri uklanjanju naprezanja očiju dok uređaj koristite u mraku."</string>
     <string name="dark_color_summary_oled">Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada smanjuje potrošnju energije i pomaže u oslobađanju naprezanja očiju.</string>
-    <string name="dark_mode_apps_header">Pojedinačne aplikacije</string>
+    <string name="dark_mode_alert_dialog_cancel">Odustani</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Ne prikazuj više"</string>
+    <string name="dark_mode_alert_dialog_confirm">Uključi</string>
+    <string name="dark_mode_alert_dialog_message">Ova se aplikacija možda neće ispravno prikazati u tamnom načinu. Želite li ipak uključiti tamni način rada?</string>
+    <string name="dark_mode_alert_dialog_title">Pažnja</string>
+	 <string name="dark_mode_apps_header">Pojedinačne aplikacije</string>
     <string name="dark_mode_auto_time_summary">Uključite i isključite tamni način rada u zakazano vrijeme</string>
     <string name="dark_mode_auto_time_title">Vlastito</string>
     <string name="dark_mode_contrast">Automatski prilagodi kontrast</string>
@@ -3228,9 +3236,9 @@ Ta postavka utječe na sve korisnike telefona."</string>
     <string name="device_edit_title">Preimenuj uređaj</string>
     <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
     <string name="device_id">ID uređaja za prilagođene preporuke</string>
-	 <string name="device_ime_keyboard_fold">Opcije tipkovnice za sklopive uređaje</string>
-    <string name="device_ime_keyboard_pad">Opcije tipkovnice za tablete</string>
-    <string name="device_info_default">Nepoznato</string>
+    <string name="device_ime_keyboard_fold">Tipkovnice za sklopive uređaje</string>
+    <string name="device_ime_keyboard_pad">Tipkovnice za tablete</string>
+	 <string name="device_info_default">Nepoznato</string>
     <string name="device_info_label">Informacije o uređaju</string>
     <string name="device_info_not_available">Nije dostupno</string>
     <string name="device_info_settings">Status uređaja</string>
@@ -3268,6 +3276,10 @@ Ta postavka utječe na sve korisnike telefona."</string>
     <string name="device_total_memory">Ukupna pohrana</string>
     <string name="device_usage_list_summary">Upotreba uređaja od potpunog punjenja</string>
     <string name="devices_title">Uređaji</string>
+	  <string name="diagnosis_log_send_failed">Slanje zapisa dijagnoze nije uspjelo.</string>
+    <string name="diagnosis_log_sent_format">"Zapis dijagnoze je poslan.
+ID:%s
+Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dial_application_title">Biraj</string>
     <string name="dial_pad_tones_title">Tonovi brojčanika</string>
     <string name="dialog_app_upgrade_download">Ažuriraj</string>
@@ -4329,6 +4341,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
     <string name="font_size_summary1">"Ako je tekst vašeg sustava i dalje premalen, pokušajte "</string>
     <string name="font_size_summary2">Lite način.</string>
     <string name="footer_learn_more_content_description">Saznajte više o usluzi %1$s</string>
+	 <string name="for_diagnosis_usage_only">Ove informacije koristite samo za dijagnozu.</string>
     <string name="forbidden_network">(zabranjeno)</string>
     <string name="forbidden_set_unlock_password_msg">Trenutno u načinu održavanja, zaporka se ne može postaviti ili mjenjati.</string>
     <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
@@ -4346,7 +4359,8 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
     <string name="force_immersive_compatibility_hint_message">Neke aplikacije možda neće ispravno raditi ako odaberete sakriti tipke zaslona.</string>
     <string name="force_immersive_compatibility_hint_title">Problemi s kompatibilnošću</string>
     <string name="force_msaa">Nametni 4x MSAA</string>
-    <string name="force_msaa_new">Nametni %dx MSAA</string>
+    <string name="force_msaa_new">Nametni 4x MSAA</string>
+   <string name="force_msaa_prefrence_summary_new">Omogući 4x MSAA u OpenGL ES %1$.1f aplikacijama</string>
     <string name="force_msaa_summary">Omogući 4x MSAA u aplikacijama OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Omogući %2$dx MSAA u aplikacijama OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Nametni mogućnost promjene veličine za aktivnosti</string>
@@ -4596,7 +4610,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
     <string name="guest_reset_guest_dialog_title">Poništiti gostujuću sesiju?</string>
     <string name="guest_resetting">Poništavanje gostujuće sesije…</string>
     <string name="guide_button_text">Razumijem</string>
-    <string name="guide_text_center">"Prijeđite prstom udesno prema gore po sredini zaslona.
+    <string name="guide_text_center">"Prijeđite prstom ravno prema gore po sredini zaslona.
 Područje u kojem možete potvrditi zaključavanje zaslona bit će poravnato po sredini."</string>
     <string name="guide_text_left">"Povucite prstom ravno prema gore iz donjeg lijevog kuta.
 Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se ulijevo."</string>
@@ -6055,7 +6069,6 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="max_cpu8_info">"8 jezgreni "</string>
     <string name="max_fingerprint_number_reached">"Ne mogu dodati više od 5 otisaka prstiju. Da dodate novi otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
     <string name="max_fingerprint_reached_toast">Možete dodati do 5 otisaka prstiju</string>
-    <string name="max_number_of_processes">Najviše %d procesa</string>
     <string name="maximum_memory_use">Maksimalno korištenje memorije</string>
     <string name="mbn_version">MBN verzija</string>
     <string name="mechanical_ime">Mehanička tipkovnica</string>
@@ -6992,6 +7005,7 @@ Odaberite operativni sustav vašeg računala:"</string>
     <string name="network_detail">Detalji mreže %s</string>
     <string name="network_disconnected">Nije povezano</string>
     <string name="network_error">Pogreška mreže.</string>
+	 <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="network_global">Globalno</string>
     <string name="network_id">ID mreže</string>
     <string name="network_lte">LTE (preporučeno)</string>
@@ -7019,6 +7033,7 @@ Odaberite operativni sustav vašeg računala:"</string>
     <string name="network_speed_for_apps_title">Veza</string>
     <string name="network_speed_for_apps_total">Brzina veze</string>
     <string name="network_state_label">Stanje mreže:</string>
+	 <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovo."</string>
     <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">ID mreže:</string>
@@ -8375,6 +8390,7 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
     <string name="progress_dialog_speaker_auto_clean_title">Čišćenje zvučnika…</string>
     <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
     <string name="progress_scanning">Pretraživanje</string>
+	 <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="promote_conversation_summary">Dodavanje u odjeljak razgovora</string>
     <string name="promote_conversation_title">Ovo je razgovor</string>
     <string name="prompt_all">Pitaj za sve</string>
@@ -9658,7 +9674,9 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
     <string name="selinux_status_enforcing">Provođenje</string>
     <string name="selinux_status_permissive">Omogućeno</string>
     <string name="send">Pošalji</string>
-    <string name="sensor_toggle_description">Za sve aplikacije i usluge</string>
+    <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
+    <string name="sending">Slanje…</string>
+	 <string name="sensor_toggle_description">Za sve aplikacije i usluge</string>
     <string name="sensors_off_quick_settings_title">Senzori su isključeni</string>
 	 <string name="separate_keyboard">Ergonomska tipkovnica</string>
     <string name="separate_keyboard_summary_fold">Odvojite tipkovnicu pregradom u sredini da biste udobnije tipkali dok držite uređaj s obje ruke</string>
@@ -10599,11 +10617,8 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
     <string name="string_KB_per_log_buffer">%d KB po međuspremniku dnevnika</string>
     <string name="string_MB">%d MB</string>
     <string name="string_MB_per_log_buffer">%d MB po međuspremniku dnevnika</string>
-    <string name="string_after_int_minute">Nakon %d minuta</string>
-    <string name="string_after_int_minutes">Nakon %d minuta</string>
     <string name="string_after_int_seconds">Nakon %d sekundi</string>
     <string name="string_always">Uvijek</string>
-    <string name="string_bits_per_sample">%d bitova/uzorak</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Kratka latencija (%1$d~%2$dms)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Srednja latencija (%1$d~%2$dms)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Duga latencija (%1$d~%2$dms)</string>
@@ -10612,22 +10627,15 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Uravnotežena kvaliteta zvuka i veze (%1$d/%2$dkbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimizirano za kvalitetu zvuka (%dkbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Najbolji trud (automatska brzina prijenosa)</string>
-    <string name="string_float_inches">%f inča</string>
     <string name="string_float_seconds">%f sekundi</string>
     <string name="string_immediately">Odmah</string>
-    <string name="string_int">%d</string>
-    <string name="string_int_hour">%d sat</string>
-    <string name="string_int_hours">%d sati</string>
-    <string name="string_int_minute">%d minuta</string>
-    <string name="string_int_minutes">%d minuta</string>
-    <string name="string_int_second">%d sekunde</string>
-    <string name="string_int_seconds">%d sekundi</string>
-    <string name="string_kHz">%.1f kHz</string>
+    <string name="string_kHz_1">%.1f kHz</string>
+    <string name="string_kHz_2">%.1f kHz</string>
+    <string name="string_kHz_3">%.1f kHz</string>
+    <string name="string_kHz_4">%.1f kHz</string>
     <string name="string_never">Nikad</string>
     <string name="string_off">Isključeno</string>
     <string name="string_offed">Isključeno</string>
-    <string name="string_scale_float">Skala animacije %.1fx</string>
-    <string name="string_scale_int">Skala animacije %dx</string>
     <string name="string_unlimited">Neograničeno</string>
     <string name="strong_suppression_summary">"Vaš će uređaj manje reagirati na slučajni dodir, neke geste možda neće raditi blizu rubova"</string>
     <string name="strong_suppression_title">Veliko područje</string>
@@ -10888,6 +10896,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
     <string name="system_dashboard_summary">Jezici, pokreti, vrijeme, Sig. kopija</string>
     <string name="system_default_app">(Zadano sustavom)</string>
     <string name="system_default_app_subtext">Zadane postavke sustava</string>
+	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="system_haptic_feedback">Haptička povratna informacija</string>
     <string name="system_navigation_title">Navigacija sustavom</string>
     <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
@@ -10904,7 +10913,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
     <string name="tab_text">Kartica</string>
 	 <string name="tablet_screen_application_adaptation_title">Prilagođeni izgledi za tablete</string>
 	 <string name="tablet_screen_settings_title">Značajke za tablete</string>
-	 <string name="tablet_screen_special_function_title">Značajke sklopivih tableta</string>
+	 <string name="tablet_screen_special_function_title">Značajke za tablete</string>
     <string name="take_call_on_title">Preuzmi poziv na uređaju</string>
     <string name="talkback_summary">Čitač zaslona namijenjen prvenstveno slijepim i slabovidnim osobama</string>
     <string name="talkback_title">TalkBack</string>
@@ -10915,6 +10924,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
     <string name="tap_to_wake">Dodirnite za aktivaciju</string>
     <string name="tap_to_wake_summary">Dvaput dodirnite bilo gdje na zaslonu da biste aktivirali uređaj</string>
     <string name="taplus_title">Taplus</string>
+	 <string name="temporary_not_available">Privremeno nije dostupno</string>
     <string name="task_backup_cancel_progress">Otkazivanje…</string>
     <string name="task_backup_finished_local">"Gotovo "</string>
     <string name="task_canceled">Otkazano</string>
@@ -11471,6 +11481,7 @@ i Mi Mover uključen"</string>
     <string name="unit_byte">B</string>
     <string name="unknown">Nepoznato</string>
     <string name="unknown_app">Nepoznata aplikacija</string>
+	 <string name="unknown_error_info">Nepoznata pogreška</string>
     <string name="unknown_hint">Nepoznato</string>
     <string name="unknown_unavailability_setting_summary">Postavka nije dostupna</string>
     <string name="unlock_backup_info_summary">Kada vas Otključavanje licem ne može vidjeti, kako želite otključati?</string>

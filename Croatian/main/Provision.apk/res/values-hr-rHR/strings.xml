@@ -265,11 +265,15 @@
     <string name="other_settings_ad_enable_summary">Preporučujemo prilagođene oglase na temelju vaših podataka o ponašanju</string>
     <string name="other_settings_auto_update">Instaliraj automatski</string>
     <string name="other_settings_auto_update_summary">MIUI će odabrati najbolji trenutak za instaliranje ažuriranja.</string>
+	 <string name="other_settings_auto_update_summary_v1">Dopustite MIUI-ju da odabere najbolje vrijeme za preuzimanje i instaliranje ažuriranja. Vaš će se uređaj automatski ponovno pokrenuti radi primjene promjena.</string>
     <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o privatnosti</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dobijte slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Uvjeti i odredbe</string>
+	 <string name="other_settings_get_apps">Automatski ažurirajte aplikacije</string>
+    <string name="other_settings_get_apps_summary">"Ažurirajte sustav i partnerske aplikacije trećih strana putem GetAppsa kako biste mogli koristiti njihove najnovije značajke.
+Autom. ažuriranja možete isključiti u GetApps > Postavke > Autom. ažuriranja."</string>
     <string name="other_settings_location">Lokacije</string>
     <string name="other_settings_location_summary">Dopustite aplikacijama i web-lokacijama pristup informacijama o vašoj lokaciji radi pružanja usluga temeljenih na lokaciji</string>
     <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>

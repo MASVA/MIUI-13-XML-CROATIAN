@@ -376,6 +376,10 @@
         <item quantity="other">%1$d računa vratit će se na zadano</item>
         <item quantity="one">%1$d račun vratit će se na zadano</item>
     </plurals>
+	 <plurals name="max_number_of_processes">
+        <item quantity="other">Najviše %d procesa</item>
+        <item quantity="one">Najviše %d proces</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplikacija upotrebljavalo je memoriju unatrag %2$s</item>
         <item quantity="one">%1$d aplikacija upotrebljavala je memoriju unatrag %2$s</item>
@@ -630,6 +634,30 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s aplik. može prikazati obavijesti</item>
         <item quantity="one">1 aplik. može prikazati obavijesti</item>
+    </plurals>
+	 <plurals name="string_after_int_minute">
+        <item quantity="other">Nakon %d minuta</item>
+        <item quantity="one">Nakon %d minute</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bita po uzorku</item>
+        <item quantity="one">%d bit po uzorku</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sekunde</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d prijedloga</item>

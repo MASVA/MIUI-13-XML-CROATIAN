@@ -36,6 +36,7 @@
     <string name="add_alarm">Dodaj alarm</string>
     <string name="add_clock">Dodaj sat</string>
     <string name="add_common_timer">Dodaj timer</string>
+	 <string name="add_new_sound">Dodaj melodiju zvona</string>
     <string name="add_timer">Česti timer</string>
     <string name="add_timer_dialog_title">Dodaj timer</string>
     <string name="add_timezone_title">Dodaj vremensku zonu</string>
@@ -67,6 +68,7 @@
     <string name="alarmclock_empty_text">Nema postavljenih alarma</string>
     <string name="alarmclock_silent_hint">Alarm je utišan</string>
     <string name="alert">Zvuk alarma</string>
+	 <string name="alert_page_desc">Pritisnite i držite, a zatim povucite prema gore da isključite alarm</string>
     <string name="alert_ringtone">Melodija zvona alarma</string>
     <string name="alert_vibrate_enable_summary">Vibriraj kada se alarm ugasi</string>
     <string name="alert_volume">Glasnoća alarma</string>
@@ -129,6 +131,7 @@
     <string name="common_timer_selector">Odaberi timer</string>
     <string name="confirm">Potvrdi</string>
     <string name="confirm_abort">Odbaci</string>
+	 <string name="confirm_remove_custom_ringtone">Ako izbrišete ovu melodiju zvona, alarmi i timeri koji je koriste umjesto toga će reproducirati zadanu melodiju zvona. Izbrisati sada?</string>
     <string name="content_desc_keep_screen">Tipka \"Drži zaslon uklj.\"</string>
     <string name="continue_operation">Nastavi</string>
     <string name="continue_step">Dalje</string>
@@ -136,6 +139,7 @@
     <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
     <string name="copy">Kopiraj</string>
     <string name="current_stopwatch_time">Trenutno vrijeme</string>
+	 <string name="custom_ringtone_lost_permissions">"Ne mogu pristupiti ovom zvuku."</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Zadani zvuk alarma</string>
@@ -147,6 +151,7 @@
     <string name="delete_timer_item_title">Izbriši odabrani zadatak</string>
     <string name="delete_timezone_title">Izbriši vremensku zonu</string>
     <string name="deskclock_sleep_no_disturbance">Sat - Upravljaj vremenom za spavanje -DND način</string>
+	 <string name="device_sounds">Zvukovi uređaja</string>
     <string name="dialog_confirm_abort">Odbaciti promjene?</string>
     <string name="dialog_legal_off_day">Čini se da koristite praznične alarme. Ova se značajka treba povezati na internet da radi normalno. Prije korištenja ove značajke morate prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?"</string>
     <string name="dialog_legal_off_day_desc">"Sat se ne smije povezivati s internetom radi ažuriranja podataka o praznicima. Praznici alarma isključiti će se u subotu i nedjelju."</string>
@@ -578,6 +583,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="tv_blank_list_show_text">Ovdje nema još ništa. Potražite lokaciju kako biste je dodali svom svjetskom satu.</string>
     <string name="tv_world_clock_edit_title1">Lokacije prikazane na Poč. zaslonu</string>
     <string name="tv_world_clock_edit_title2">Ostale spremljene lokacije</string>
+	 <string name="unknown_ringtone_title">Nepoznato</string>
     <string name="unselect_all">Poništi odabir</string>
     <string name="upcoming_alarm">Nadolazeći alarm: %s</string>
     <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm sada</string>
@@ -611,6 +617,8 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="week_ringtone_recommend_desc">Alarm prirode reproducira različite zvukove ovisno o datumu. Želite li ga postaviti kao zadani alarm?</string>
     <string name="white_noise">Ambijentalna buka</string>
     <string name="white_noise_guide_desc">Dodajte pozadinski zvuk kako biste bili usredotočeni</string>
+	 <string name="white_noise_not_selected">Nije odabrano</string>
+    <string name="white_noise_selected">Odabrano</string>
     <string name="white_noise_selector">Odaberi zvuk</string>
     <string name="workday_alarm_clock">Alarm u radne dane</string>
     <string name="worldclock_edit_label">Svjetski sat</string>
@@ -636,4 +644,5 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="yesterday">Jučer</string>
+	 <string name="your_sounds">Moji zvukovi</string>
 </resources>

@@ -221,9 +221,10 @@
     <string name="input_method_tab_phrase_text">Česti izrazi</string>
     <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
     <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
+	 <string name="kb_reset_toast">Tipkovnica uspješno poništena</string>
     <string name="key_btn_ok">U redu</string>
     <string name="key_btn_space">Razmak</string>
-    <string name="keyboard_connect_failed">"Povezivanje tipkovnice nije uspjelo. Ponovo pričvrstite."</string>
+    <string name="keyboard_connect_failed">"Povezivanje tipkovnice nije uspjelo. Ponovo je pričvrstite."</string>
     <string name="keyboard_identity_reject_confirm">Razumijem</string>
     <string name="keyboard_identity_reject_message">"Čini se da vaša tipkovnica nije kompatibilna s ovim uređajem."</string>
     <string name="keyboard_identity_transfer_error_message">"Ne mogu povezati tipkovnicu. Pokušajte ponovno."</string>

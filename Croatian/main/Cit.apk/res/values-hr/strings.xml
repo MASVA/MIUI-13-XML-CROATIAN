@@ -493,6 +493,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
     <string name="cit_tool_check_opt">Sigurni ste?</string>
     <string name="cit_tool_check_opt_with_reboot">Uređaj će se ponovno pokrenuti, sigurni ste?</string>
     <string name="cit_tool_current_modem_test_mode">Trenutni način testiranja:</string>
+	 <string name="cit_tool_current_size">Trenutna veličina</string>
     <string name="cit_tool_drx_only">DRX</string>
     <string name="cit_tool_exit_modem_mbn">Vraćanje na automatski MBN</string>
     <string name="cit_tool_getting_expired">Ističe!</string>
@@ -554,13 +555,16 @@ Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su tre
     <string name="cit_tool_select_opposite">Odaberi suprotno</string>
     <string name="cit_tool_setting_expired">Postavka je istekla, pokušajte ponovo!</string>
     <string name="cit_tool_setting_wait">Postavka! PLS pričekajte</string>
-	 <string name="cit_tool_switch_autosms">Omogući/Onemogući AutoSMSReg</string>
+	  <string name="cit_tool_switch_autosms">Omogući/Onemogući AutoSMSReg</string>
     <string name="cit_tool_to_fetching">Dohvati</string>
     <string name="cit_tool_wlan">Wi-Fi test alat</string>
     <string name="cit_tool_wlan_chain_1">1</string>
     <string name="cit_tool_wlan_chain_1_2">1+2</string>
     <string name="cit_tool_wlan_chain_2">2</string>
+	 <string name="cit_tool_wlan_circular_capture">Kružno snimanje</string>
+    <string name="cit_tool_wlan_clear">Izbriši</string>
     <string name="cit_tool_wlan_exit">Izlaz</string>
+	 <string name="cit_tool_wlan_export">Izvezi</string>
     <string name="cit_tool_wlan_rx_ap">Rx: AP</string>
     <string name="cit_tool_wlan_rx_ap_name">MT</string>
     <string name="cit_tool_wlan_rx_chan">Rx: Kanal</string>
@@ -596,6 +600,7 @@ Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su tre
     <string name="cit_tool_wlan_tx_st">Tx: ST</string>
     <string name="cit_tool_wlan_tx_st_chan">kanal:</string>
     <string name="cit_tool_wlan_txrx_chain_selection">Odaberite antenu</string>
+	 <string name="cit_tool_wlan_update_ap_list">Ažuriraj AP popis</string>
     <string name="cit_top_left_speaker_test">Test gornjeg lijevog zvučnika</string>
     <string name="cit_top_right_speaker_test">Test gornjeg desnog zvučnika</string>
     <string name="cit_torch">Bleskalica</string>

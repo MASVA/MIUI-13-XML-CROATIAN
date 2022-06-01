@@ -2960,6 +2960,10 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
     <string name="new_result_function">Značajka</string>
     <string name="new_result_screen_display">Zaslon</string>
     <string name="new_result_setting_item">Postavka</string>
+	 <string name="new_result_sound_and_vibration">Zvuk &amp; vibracija</string>
+    <string name="new_task_condition_name">Ako</string>
+    <string name="new_task_result_name">Zatim</string>
+	 <string name="news_change">Promjeni</string>
     <string name="next_step_button">Dalje</string>
     <string name="nickname">Nadimak</string>
     <string name="no_game">"Ne mogu pronaći igre”</string>
@@ -4628,7 +4632,8 @@ Povući suglasnost sada?"</string>
     <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
     <string name="setting_traffic_pkg">Postavite paket podataka</string>
     <string name="setting_wireless_reverse_charging_summary">Postavite uređaj koji podržava Qi bežično punjenje (npr. telefon ili nosivi uređaj) na sredinu stražnje strane ovog uređaja</string>
-    <string name="settings">Postavke uporabe podataka</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Zaustavi obrnuto bežično punjenje kada baterija ovog uređaja dosegne %s</string>
+	 <string name="settings">Postavke uporabe podataka</string>
     <string name="settings_battery_consume_abnormal_summary">Obavijesti kada se baterija prazni prebrzo</string>
     <string name="settings_battery_consume_abnormal_title">Obavijesti prebrzog pražnjenja</string>
     <string name="settings_battery_over_heat_summary">Obavijesti kada uređaj postaje topliji nego što je normalno</string>
