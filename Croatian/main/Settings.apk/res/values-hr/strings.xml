@@ -1716,6 +1716,8 @@ Dosad se niste povezivali s uređajem %2$s."</string>
     <string name="bluetooth_grp_source_selection_options_detail">"Izvor emitiranja
    %1$s se dodaje povezanim članovima grupe.
    (PIN za emitiranje ostavite praznim ako je to nekriptirani izvor emitiranja)"</string>
+    <string name="bluetooth_hd_music_play_summary">"Reproduciraj %d kHz audio na Bluetooth uređajima bez smanjenja brzine uzorkovanja. Dolby efekti neće biti dostupni kada je ova značajka uključena."</string>
+    <string name="bluetooth_hd_music_play_title">Reproduciraj %d kHz zvuk</string>
     <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
     <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano sa slušnim aparatom</string>
@@ -5598,6 +5600,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="lock_profile_wipe_warning_content_pin">Ako pri ovom pokušaju unesete netočan PIN za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
     <string name="lock_profile_wipe_warning_title">Posljednji pokušaj</string>
     <string name="lock_screen_action">Stavke prikazane na Zaklj. zaslonu nakon što povučete prema dolje</string>
+	 <string name="lock_screen_after_fold_screen_summary">"Uređaj će biti zaključan nakon što ga preklopite, osim u slučajevima kada koristite prednju kameru ili zvučnik."</string>
+    <string name="lock_screen_after_fold_screen_title">Preklopite za zaključavanje</string>
     <string name="lock_screen_after_fold_screen_summary">Kod korištenja prednje kamere ili slušalica, zaslon se neće zaključati nakon preklapanja</string>
     <string name="lock_screen_after_fold_screen_title">Zaključaj zaslon nakon preklapanja zaslona</string>
     <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>

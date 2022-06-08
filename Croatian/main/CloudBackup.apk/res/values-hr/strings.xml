@@ -45,7 +45,7 @@
     <string name="backup_action_check_network">Provjerite mrežne postavke</string>
     <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
   	 <string name="backup_action_long_time_not_backup_action">Sigurnosno kopiranje</string>
-   <string name="backup_action_long_time_not_backup_title">Nema nedavnih sigurnosnih kopija</string>
+    <string name="backup_action_long_time_not_backup_title">Nema nedavnih sigurnosnih kopija</string>
     <string name="backup_action_no_space_with_wechat_off_content">Nema dovoljno prostora cloud pohrane za sigurnosno kopiranje stavki s ovog uređaja. Dodirnite za prikaz dostupnih opcija cloud pohrane.</string>
     <string name="backup_action_no_space_with_wechat_off_title">"Sigurnosna kopija stavki nije moguća"</string>
     <string name="backup_action_no_space_with_wechat_on_content">Nema dovoljno prostora cloud pohrane za sigurnosno kopiranje WeChat podataka. Nadogradite svoj plan pohrane za sigurnosno kopiranje stavki.</string>

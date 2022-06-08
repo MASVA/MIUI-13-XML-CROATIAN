@@ -510,7 +510,7 @@
     <string name="no_sim">"Ne mogu pronaći SIM karticu"</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="noti_quota_button_text">Nadogradi</string>
-    <string name="noti_quota_full_sum">Nadogradite vaš plan pohrane za nastavak sinkroziranja stavki.</string>
+    <string name="noti_quota_full_sum">Nadogradite vaš plan pohrane za nastavak sinkroniziranja stavki.</string>
     <string name="noti_quota_full_sum_without_button">Nabavite više prostora za pohranu za nastavak sinkroziranja stavki.</string>
     <string name="noti_quota_full_title">Cloud pohrana je puna</string>
     <string name="noti_quota_full_title_without_button">Cloud pohrana je puna</string>

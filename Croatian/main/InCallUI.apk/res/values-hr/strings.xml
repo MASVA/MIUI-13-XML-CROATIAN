@@ -326,6 +326,7 @@
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
 	 <string name="msim_select_default_last">Nedavno korišteno</string>
+	 <string name="multi_call_manager_other_calls">Ostali pozivi (%1$d)</string>
     <string name="more">Više</string>
     <string name="network_error_message">Trenutna je mreža nestabilna. Promjena na redoviti poziv koji može biti naplaćen od strane operatera.</string>
     <string name="network_error_title">Nestabilna mreža</string>

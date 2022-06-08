@@ -77,6 +77,7 @@ Dodirnite za prikaz"</string>
     <string name="hint_volume_down">Glasnoća -</string>
     <string name="hint_volume_up">Glasnoća +</string>
     <string name="home_title_none">Odaberite stavke</string>
+	 <string name="invisible_mode_error_tip">"Anonimni ste. Ne mogu snimiti zvuk."</string>
     <string name="is_checked">Odabrano</string>
     <string name="is_go_home">Natrag u Snimač zaslona</string>
     <string name="is_go_home_summary">"Otvori početnu stranicu Snimača zaslona nakon prestanka snimanja"</string>
