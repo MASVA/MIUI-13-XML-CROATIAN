@@ -5600,8 +5600,6 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="lock_profile_wipe_warning_content_pin">Ako pri ovom pokušaju unesete netočan PIN za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
     <string name="lock_profile_wipe_warning_title">Posljednji pokušaj</string>
     <string name="lock_screen_action">Stavke prikazane na Zaklj. zaslonu nakon što povučete prema dolje</string>
-	 <string name="lock_screen_after_fold_screen_summary">"Uređaj će biti zaključan nakon što ga preklopite, osim u slučajevima kada koristite prednju kameru ili zvučnik."</string>
-    <string name="lock_screen_after_fold_screen_title">Preklopite za zaključavanje</string>
     <string name="lock_screen_after_fold_screen_summary">Kod korištenja prednje kamere ili slušalica, zaslon se neće zaključati nakon preklapanja</string>
     <string name="lock_screen_after_fold_screen_title">Zaključaj zaslon nakon preklapanja zaslona</string>
     <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
