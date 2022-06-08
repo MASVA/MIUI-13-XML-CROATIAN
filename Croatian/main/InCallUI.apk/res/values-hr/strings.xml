@@ -200,6 +200,9 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_ask">Ne prikazuj ponovno</string>
     <string name="do_not_support_video_calls_by_remote">"Video pozivi nisu podržani na drugom uređaju"</string>
+	 <string name="dsda_answer_call_prompt">Prihvaćanje ovog poziva završit će vaš tekući poziv.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Trenutno ne mogu koristiti SIM %1$d za pozive. Trenutačno mrežno okruženje ne podržava funkciju dual SIM."</string>
+    <string name="dsda_swap_call_prompt">"Prebacit ćete se na glasovni poziv ako nastavite."</string>
     <string name="emergency_call_dialog_number_for_display">Hitan poziv</string>
     <string name="enter_ai_assistant">Koristi</string>
     <string name="enter_ai_assistant_tip">"AI može pretvoriti tekst u govor ako vam nije zgodno da sada razgovarate. Koristiti AI za ovaj poziv?"</string>
@@ -416,6 +419,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="select_audio_dialog_title">Odaberite način odgovaranja</string>
     <string name="select_one_sim_title">Mogu koristiti samo SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Mogu koristiti samo SIM %1$d Sub %2$d</string>
+	 <string name="select_other_sim_card_dial">Koristi SIM %1$d</string>
     <string name="select_sim_hint">"Ne mogu koristiti SIM %2$d, dok je SIM %1$d u uporabi."</string>
     <string name="select_sim_hint_for_heduohao">"Ne mogu koristiti druge, dok je SIM %1$d Sub %2$d u upotrebi."</string>
     <string name="select_voice_call_sim">Odaberi SIM karticu</string>

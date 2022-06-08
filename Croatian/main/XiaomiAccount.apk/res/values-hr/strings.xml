@@ -184,6 +184,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="confirm_unbundled_phone_dialog_message">Broj telefona %1$s je povezan na Mi Račun %2$s. Isti više neće biti povezan s Mi Računom %3$s ako nastavite. Nastaviti?</string>
     <string name="continue_action">Nastavi</string>
     <string name="copy">Kopiraj</string>
+	 <string name="copy_link">Kopiraj poveznicu</string>
     <string name="copy_to_clipboard_successful">Uspješno kopirano</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="delete_action">Izbriši</string>
@@ -386,6 +387,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
     <string name="my_device_title">Trenutan uređaj</string>
     <string name="need_install_wechat">Prvo instalirajte WeChat</string>
+	 <string name="network_error">Dogodila se mrežna pogreška.</string>
+    <string name="network_error_hint">Provjerite poveznicu i pokušajte ponovno ili kopirajte poveznicu i otvorite je u svom pregledniku.</string>
 	 <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovo."</string>
     <string name="new_version">Nova verzija</string>
@@ -420,6 +423,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="operator_unicom">China Unicom</string>
     <string name="operator_unicom_agreement">Usluge potvrde koje pruža China Unicom</string>
     <string name="optional_permissions">Neobavezna dopuštenja</string>
+	 <string name="page_load_failed">"Ne mogu otvoriti stranicu"</string>
     <string name="passport_Resend">Pošalji ponovno</string>
     <string name="passport_access_denied">Pristup odbijen</string>
     <string name="passport_account_hint_text">E-pošta/Broj telefona/ID Mi Računa</string>
