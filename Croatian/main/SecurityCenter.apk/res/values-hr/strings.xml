@@ -1098,6 +1098,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="btn_back">Natrag</string>
   <string name="btn_finish_diagnostic">U redu</string>
   <string name="btn_jump">Preskoči</string>
@@ -1123,6 +1124,10 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
   <string name="btn_text_start_check">Skeniraj</string>
   <string name="btn_text_stop">Stop</string>
+  <string name="bubble_app_manage">Upravljanje obavijestima u oblačićima</string>
+  <string name="bubble_notification">Obavijesti oblačića</string>
+  <string name="bubble_notification_switch">Dopusti obavijesti u oblačićima</string>
+  <string name="bubble_notification_switch_desc">Kada je plutajući prozor skriven na rubu zaslona, prikažite njegove obavijesti u oblačićima</string>
   <string name="btn_text_virus_scan">Skeniraj</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
@@ -1248,6 +1253,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="cetus_invisible_mode_warn_location">"Anonimni ste. Dopuštenja za lokaciju su obustavljena."</string>
   <string name="cetus_invisible_mode_warn_open">Anonimni način rada suspendira dopuštenja za mikrofon, kameru i lokaciju za sve aplikacije. Uključiti sada?</string>
   <string name="cetus_invisible_mode_warn_record_audio">"Anonimni ste. Dopuštenja za mikrofon su obustavljena."</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="charge_high_temp_warning_dialog_ok">Razumijem</string>
   <string name="charge_high_temp_warning_dialog_text">Čini se da je priključak za punjenje sada pregrijan. Odspojite punjač i pustite da se baterija ohladi prije nego što počnete ponovno puniti.</string>
   <string name="charge_high_temp_warning_text">Odspojite punjač i pustite da se baterija ohladi</string>
@@ -1281,6 +1288,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
   <string name="clear_garbage">Izbrišite Smeće da oslobodite prostor</string>
   <string name="clear_immediately">Očisti sada</string>
+  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_charge_bill">Nadoplata</string>
   <string name="click_to_set_carrier">Dodirnite za postavljanje</string>
@@ -1627,6 +1635,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="enable_extreme_power_save_mode">Ekstremna štednja baterije</string>
   <string name="enable_network">Uključite najprije mrežu</string>
   <string name="every_day">Svaki dan</string>
+  <string name="error_icon_content_description">Pogreška</string>
   <string name="examination_score_100">Sve izgleda uredno!</string>
   <string name="examination_score_100_with_recommend">Ovoliko stavki(%d) može biti optimizirano</string>
   <string name="examination_score_60_0">Skeniraj sada</string>
@@ -1703,6 +1712,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exo_track_surround_7_point_1">7.1 surround zvuk</string>
   <string name="exo_track_unknown">Nepoznato</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
   <string name="extreme_add_white_list_title">Iznimke pozadine</string>
   <string name="extreme_power_save_mode_card_summary">Uključi Ekstremnu štednju baterije kada je baterija slaba.</string>
@@ -1714,7 +1724,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="face_unlock_face_start_title">Provjera podataka o licu…</string>
   <string name="face_unlock_finger_or_password_switch">Koristite svoj otisak prsta ili unesite zaporku za otključavanje.</string>
   <string name="face_unlock_guide_confirm">Koristite Otključavanje licem</string>
-  <string name="face_unlock_guide_dialog_summary">Za otključavanje uređaja možete koristiti Otključavanje licem. Uključit Otključavanje licem?</string>
+  <string name="face_unlock_guide_dialog_summary">Za otključavanje uređaja možete koristiti Otključavanje licem. Uključiti Otključavanje licem?</string>
   <string name="face_unlock_not_found">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_open_eye">Otvorite oči malo šire</string>
   <string name="face_unlock_reveal_eye">Učinite oči vidljivima</string>
@@ -1853,6 +1863,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
+· Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon."</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -2401,6 +2413,7 @@ vašeg igranja"</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
   <string name="i_know">Razumijem</string>
+  <string name="icon_content_description">Ikona dijaloga</string>
   <string name="icon_text_size_giga_byte">%.1fGB</string>
   <string name="icon_text_size_max">9.9GB</string>
   <string name="icon_text_size_mega_byte">%dMB</string>
@@ -2474,6 +2487,7 @@ vašeg igranja"</string>
   <string name="item_mms">Filtriraj neželjene poruke</string>
   <string name="item_system_auto_download">Preuzmi ažuriranja automatski</string>
   <string name="item_usb_debug">USB uklanjanje pogrešaka</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Ažuriraj definiciju virusa automatski</string>
   <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
@@ -2666,6 +2680,18 @@ podatkovnu vezu"</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"Ostali korisnici (%d) su ga označili kao "</string>
   <string name="marked_by_user">"označili ste ga kao "</string>
+  <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+  <string name="material_hour_selection">Odaberite sat</string>
+  <string name="material_hour_suffix">%1$s h</string>
+  <string name="material_minute_selection">Odaberite minute</string>
+  <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_timepicker_am">AM</string>
+  <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
+  <string name="material_timepicker_hour">Sat</string>
+  <string name="material_timepicker_minute">Minuta</string>
+  <string name="material_timepicker_pm">PM</string>
+  <string name="material_timepicker_select_time">Odabir vremena</string>
+  <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Oslobođeno %s</string>
@@ -2876,6 +2902,40 @@ Vaš je uređaj sad %s brži."</string>
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_up">Sakrij</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP je aktivan</string>
+  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+  <string name="mtrl_picker_date_header_selected">%1$s</string>
+  <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+  <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
+  <string name="mtrl_picker_day_of_week_column_header">Kolona dana: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Pogrešan format.</string>
+  <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Navigacija do godine %1$s</string>
+  <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
+  <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+  <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
+  <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
+  <string name="mtrl_picker_save">Spremi</string>
+  <string name="mtrl_picker_text_input_date_hint">Datum</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+  <string name="mtrl_picker_text_input_day_abbr">d</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">y</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Prebacite se na način unosa kalendara</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
+	<string name="mtrl_timepicker_confirm">U redu</string>
   <string name="na_main_card_ad_subtitle">Puno podataka, besplatni pozivi, niske cijene</string>
   <string name="na_main_card_ad_text">Pronađite plan koji vam odgovara</string>
   <string name="na_main_card_ad_title">Promocija Mi Fan kartice</string>
@@ -3270,6 +3330,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
   <string name="password_promotion_postbutton_text">Dodaj</string>
   <string name="password_promotion_title">Dodaj Mi Račun</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_type">Promjeni zaporku</string>
   <string name="password_type_underline">Promjeni zaporku</string>
   <string name="password_xspace_forget_pattern_message">Da biste promijenili zaporku Drugog prostora, trebali biste izbrisati trenutni Drugi prostor i izraditi novi.</string>
@@ -5466,7 +5527,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
 2. Možete
          napustiti ovu stranicu za dijagnostiku, to će se provesti u pozadini."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Dodirnite za podešavanje lokacije</string>
-  <string name="tc_diagnostic_location_error_notification_title">Pogrečna lokacija</string>
+  <string name="tc_diagnostic_location_error_notification_title">Pogrešna lokacija</string>
   <string name="tc_diagnostic_notification_sumarry">Dodirnite za prikaz rezultata</string>
   <string name="tc_diagnostic_notification_summary">"Ne može se podesiti 5 puta za redom. Dodirnite za početak dijagnostike."</string>
   <string name="tc_diagnostic_notification_title">Dijagnostika operatera</string>

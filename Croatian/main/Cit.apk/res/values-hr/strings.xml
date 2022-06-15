@@ -326,8 +326,9 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
     <string name="cit_sim_state_puk_required">Potreban je PUK</string>
     <string name="cit_sim_state_ready">SIM kartica spremna</string>
     <string name="cit_sim_state_unkown">Nepoznato</string>
-    <string name="cit_soft_torch_first">Prvi meki bljesak</string>
-    <string name="cit_soft_torch_second">Drugi meki bljesak</string>
+	 <string name="cit_soft_light_check_title">Nježno svjetlo</string>
+    <string name="cit_soft_torch_first">Prvi lagani blic</string>
+    <string name="cit_soft_torch_second">Drugi lagani blic</string>
     <string name="cit_start_calibration">Kalibracija</string>
     <string name="cit_sub_display_check_title">Potprikaz</string>
     <string name="cit_sub_touch_panel_test_title">Subtouch senzor</string>
@@ -661,7 +662,8 @@ Molimo odaberite ispravan gumb prema različitim uvjetima vibracije"</string>
     <string name="cit_wifi_state_refresh">Osvježi</string>
     <string name="cit_x_tele_camera_check_title">Super Tele kamera</string>
     <string name="close_third_color_led">Zatvorite trobojnu LED diodu</string>
-    <string name="continue_vibrator">Nastavi vibrator</string>
+	 <string name="cold_light_title">Hladno svjetlo</string>
+    <string name="continue_vibrator">Nastavi vibraciju</string>
     <string name="current_angle">Trenutni kut:</string>
 	  <string name="dispaly_sar_sensor_values">Prikaži sve trenutne vrijednosti senzora</string>
     <string name="display_test_finish">Test zaslona dovršen</string>
@@ -795,6 +797,7 @@ Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"<
     <string name="search_menu_title">Traži</string>
     <string name="set_dsi_tips">Postavi DSI</string>
     <string name="slave_battery_authentic">Autentična sekundarna baterija</string>
+	 <string name="soft_light_title">Nježno svjetlo</string>
     <string name="speak_from_mic">Razgovarajte u mikrofon, reprodukcija zvučnika. Procijenite ima li zvuka.</string>
     <string name="successfully_obtained_permission">Otkrivanje kontrole clouda je uspješno, funkcija stupa na snagu</string>
     <string name="temperature">Temperatura</string>
@@ -827,4 +830,5 @@ Molimo kliknite odgovarajući gumb prema broju koji čujete"</string>
     <string name="verify">Potvrdi</string>
     <string name="vibrator_change">Odaberite način rada vibratora</string>
     <string name="waiting">Čeka se 4 s.</string>
+	 <string name="warm_light_title">Toplo svjetlo</string>
 </resources>

@@ -938,6 +938,11 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
     <string name="insertContactDescription">Izradi kontakt</string>
     <string name="insertGroupDescription">Izradi skupinu</string>
     <string name="invalidContactMessage">Kontakt ne postoji</string>
+	 <string name="invisible_mode_dialog_cancel">Odustani</string>
+    <string name="invisible_mode_dialog_to_close">Isključi</string>
+    <string name="invisible_mode_title">"Anonimni ste"</string>
+    <string name="invisible_mode_unable_connect_camera">Isključite anonimni način rada da biste mogli koristiti kameru. Isključiti sada?</string>
+    <string name="invisible_mode_unable_get_location">Isključite anonimni način rada da biste mogli koristiti usluge lokacije i uvoziti kontakte s drugih uređaja putem Bluetootha. Isključiti sada?</string>
     <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s kontaktima će biti spremljeni u grupu</string>
     <string name="invalid_contacts_to_save_to_group">"Ne mogu spremiti nepoznate brojeve"</string>
     <string name="item_offical">Službena</string>

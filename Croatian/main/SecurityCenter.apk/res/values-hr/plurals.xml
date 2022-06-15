@@ -570,6 +570,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">Unesite barem %d znakova</item>
         <item quantity="one">Unesite barem %d znak</item>
     </plurals>
+	 <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d preostalo prije završetka sesije povećanja brzine mreže. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</item>
         <item quantity="one">%d d preostao prije završetka sesije povećanja brzine mreže. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</item>

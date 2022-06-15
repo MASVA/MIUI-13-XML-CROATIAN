@@ -1270,6 +1270,7 @@ Pogledajte one preporučene!"</string>
     <string name="status_unread">Nepročitano</string>
     <string name="stick">Označi</string>
     <string name="stick_conversation">Označi trenutni razgovor</string>
+	 <string name="sticked">Uspješno označeno</string>
     <string name="sticked_conversation">Razgovor je već označen</string>
     <string name="storage_dialog_attachments">MMS privitci:</string>
     <string name="storage_dialog_available_space">Dostupan prostor:</string>
@@ -1428,7 +1429,8 @@ Provedeni pokušaj: %s."</string>
     <string name="unknown_num">Nepoznati broj</string>
     <string name="unknown_sender">Imate novu poruku</string>
     <string name="unstick">Odznači</string>
-    <string name="unstick_conversation">Odznači trenutan razgovor</string>
+    <string name="unstick_conversation">Odznači trenutan razgovor</string>7
+	 <string name="unsticked">Uspješno odznačeno</string>
     <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
     <string name="unsubscribe">Otkaži pretplatu</string>
     <string name="unsupported_media_format">Nepodržani %1$s format</string>

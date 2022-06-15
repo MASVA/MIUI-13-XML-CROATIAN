@@ -1694,7 +1694,11 @@ Dosad se niste povezivali s uređajem %2$s."</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN sadrži slova ili simbole</string>
     <string name="bluetooth_enable_gabeldorsche">Onemogući Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
-	  <string name="bluetooth_enable_opp_high_speed">Bluetooth prijenosi velike brzine</string>
+	 <string name="bluetooth_enable_opp_high_speed">Bluetooth prijenosi velike brzine</string>
+	 <string name="bluetooth_enable_opp_high_speed_dialog_message">Za primjenu promjena potrebno je ponovno pokretanje Bluetootha. Ova radnja može prekinuti uspostavljene veze. Želite li ipak ponovno pokrenuti Bluetooth?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Odustani</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Ponovo pokreni</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Ponovo pokrenite Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Koristite Bluetooth P2P protokole velike brzine za prijenose</string>
     <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
     <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
@@ -3607,6 +3611,10 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
     <string name="dpp_sharing_wifi_summary">Dijeljenje Wi-Fi-ja…</string>
     <string name="dpp_theme_title">Dijeljenje Wi-Fi-ja</string>
     <string name="draw_overlay">Prikaz iznad drugih aplikacija</string>
+	 <string name="dsda_close_toast">Dvostruki aktivni način rada je isključen. Ponovo pokrenite uređaj da biste primijenili promjene.</string>
+    <string name="dsda_open_toast">Dvostruki aktivni način rada je uključen. Ponovo pokrenite uređaj da biste primijenili promjene.</string>
+    <string name="dsda_switch_summary">Dopusti objema SIM karticama istovremeno korištenje mobilnih podataka i upućivanje poziva</string>
+    <string name="dsda_switch_title">Dvostruki aktivni način rada</string>
     <string name="draw_overlay_title">Aplikacije koje mogu preklapati druge aplik.</string>
     <string name="drive_mode">Automobilski način</string>
     <string name="drive_mode_auto_reply">Brzi odgovor</string>
@@ -4887,9 +4895,9 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="imei_information_summary">Relativne informacije IMEI-ja</string>
     <string name="imei_information_title">Informacije IMEI-ja</string>
     <string name="imei_multi_sim">IMEI (utor za SIM %1$d)</string>
+	 <string name="imei_multi_sim_softbank">IMEI %1$d</string>
 	 <string name="imitate_real_keyboard">Tradicionalna tipkovnica</string>
     <string name="imitate_real_keyboard_summary">Prikladno kada vaš uređaj leži na ravnoj površini</string>
-    <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
     <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
     <string name="import_again">Uvezi ponovno</string>
@@ -10007,7 +10015,7 @@ Možda je PIN pogrešan."</string>
     <string name="sim_status_summary">Informacije povezane sa SIM-om</string>
     <string name="sim_status_title">SIM status</string>
     <string name="sim_status_title_sim_slot">SIM status (utor za SIM %1$d)</string>
-    <string name="sim_status_title_sim_softbank">SIM status %1$d</string>
+	 <string name="sim_status_title_sim_softbank">SIM status %1$d</string>
     <string name="sim_switch_button">Prebaci</string>
     <string name="sim_switch_channel_id">Promjena mobilnog operatera</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
@@ -10782,6 +10790,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	  <string name="sunlight_low_power_notification">"Ne mogu uključiti način sunčeve svjetlosti. Baterija je preslaba."</string>
     <string name="sunlight_mode">Način sunčeve svjetlosti</string>
     <string name="sunlight_mode_summary">Prilagodite svjetlinu jakom ambijentalnom svjetlu kako biste spriječili da zaslon postane previše taman</string>
     <string name="sunlight_mode_summary_new">Prilagodite svjetlinu jakom ambijentalnom svjetlu kako biste spriječili da zaslon postane previše taman. Mala ikona sunca pojavit će se pri vrhu zaslona kada je ambijentalno svjetlo jako.</string>
