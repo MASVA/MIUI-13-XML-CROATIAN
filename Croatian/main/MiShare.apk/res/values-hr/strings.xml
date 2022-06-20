@@ -69,9 +69,18 @@
     <string name="enable_midrop">Uključi</string>
     <string name="error_ap_in_use">"Ne mogu slati datoteke na druge uređaje dok je hotspot uključen"</string>
     <string name="error_ap_or_screen_already_hosting">Stavke nije moguće slati na druge uređaje tijekom emitiranja ili upotrebe hotspota.</string>
-    <string name="error_device_lost">Čini se da je drugi uređaj nedostupan. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
+	 <string name="error_ble_connect_failure">"Uređaj primatelj nije se mogao povezati s Bluetoothom. Provjerite je li njegov zaslon uključen."</string>
+    <string name="error_ble_connect_timeout">"Nisam se mogao povezati s Bluetoothom. Ponovno se povežite s Bluetoothom na oba uređaja i pokušajte ponovo."</string>
+    <string name="error_device_lost">"Izgleda da drugi uređaj ne reagira. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
     <string name="error_has_occurred">Dogodila se pogreška</string>
     <string name="error_mirror_working">"Stavke se ne mogu dijeliti tijekom dijeljenja zaslona"</string>
+    <string name="error_msg_network_error_china">"Nisam se mogao povezati s mrežom. Provjerite Wi-Fi i Bluetooth veze oba uređaja."</string>
+    <string name="error_msg_wlan_error">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi i pokušajte ponovo."</string>
+    <string name="error_msg_wlan_error_china">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi i pokušajte ponovo."</string>
+    <string name="error_p2p_create_group_failure">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
+    <string name="error_p2p_create_group_failure_china">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
+    <string name="error_p2p_recv_connect_timeout">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
+    <string name="error_p2p_recv_connect_timeout_china">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
     <string name="error_msg_network_error">Došlo je do mrežne pogreške. Pokušajte ponovo.</string>
     <string name="error_permission_denied">Da biste mogli koristiti ovu značajku, odobrite Mi Share sva potrebna dopuštenja u Postavkama.</string>
     <string name="error_receive_file_cannot_read">Nije moguće primiti datoteku</string>
@@ -90,7 +99,7 @@
     <string name="error_send_file_no_enough_space">Nije moguće poslati. Na drugom uređaju nema dovoljno prostora za pohranu.</string>
     <string name="error_send_file_not_found">Datoteka nije pronađena. Pokušajte ponovo.</string>
     <string name="error_send_file_service_disabled">Otkazan odlazni prijenos</string>
-    <string name="error_send_transfer_error">Stavke nije moguće prenijeti. Pokušajte ponovo.</string>
+    <string name="error_send_transfer_error">Nije moguće poslati stavke. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="error_send_transfer_pc_error">Isteklo je vrijeme prijenosa. Ažurirajte aplikaciju za dijeljenje datoteka na računalu i pokušajte ponovo.</string>
     <string name="error_slave_wifi_in_use">"Mi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
     <string name="error_slave_wifi_in_use_china">"Mi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
@@ -265,6 +274,8 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
     <string name="time_picker_dialog_title">Postavi vrijeme</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+	  <string name="tips_p2p_support_use5g">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
+    <string name="tips_p2p_support_use5g_china">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
     <string name="to_feedback">Povratne inf.</string>
     <string name="today">Danas</string>
@@ -298,6 +309,8 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="view_file">Pregled</string>
     <string name="wait_receive_file">Čeka se primanje…</string>
+	 <string name="wait_remote_receive_tips">"Provjerite jesu li zasloni oba uređaja uključeni i imaju li uključeni Wi-Fi i Bluetooth."</string>
+    <string name="wait_remote_receive_tips_china">"Provjerite jesu li zasloni oba uređaja uključeni i imaju li uključeni Wi-Fi i Bluetooth."</string>
     <string name="wait_remote_receive_tips">Na čekanju…</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>

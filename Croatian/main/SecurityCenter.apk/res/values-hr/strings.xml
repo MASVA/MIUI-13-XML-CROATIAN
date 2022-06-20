@@ -672,6 +672,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_predict_dialog_message">AI će predložiti aplikacije koje bi vam trenutno trebale</string>
   <string name="app_predict_dialog_success">Uspješno dodano na Poč. zaslon</string>
   <string name="app_predict_folder_name">Traži</string>
+  <string name="app_predict_folder_tips">Prijedlozi temeljeni na vašim navikama korištenja</string>
   <string name="app_predict_go_shop_search_app">Pretražite u GetApps</string>
   <string name="app_predict_guide_button">Dodaj</string>
   <string name="app_predict_guide_message">AI će predložiti aplikacije koje bi vam trenutno trebale</string>
@@ -694,6 +695,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_predict_setting_switch_message">Primajte prijedloge aplikacija na temelju vaših navika korištenja</string>
   <string name="app_predict_setting_switch_title">Prilagodite prijedloge</string>
   <string name="app_predict_setting_title">Prijedlozi aplikacija</string>
+  <string name="app_predict_settings_train_tip">Automatski optimiziraj točnost prijedloga</string>
   <string name="app_predict_widget_experience_now">Isprobajte</string>
   <string name="app_predict_widget_name_2x4">Prijedlozi aplikacija</string>
   <string name="app_predict_widget_summary">Brzo pokrenite aplikacije koje bi vam sada mogle zatrebati</string>
@@ -1124,11 +1126,11 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
   <string name="btn_text_start_check">Skeniraj</string>
   <string name="btn_text_stop">Stop</string>
-  <string name="bubble_app_manage">Upravljanje obavijestima u oblačićima</string>
-  <string name="bubble_notification">Obavijesti oblačića</string>
-  <string name="bubble_notification_switch">Dopusti obavijesti u oblačićima</string>
-  <string name="bubble_notification_switch_desc">Kada je plutajući prozor skriven na rubu zaslona, prikažite njegove obavijesti u oblačićima</string>
-  <string name="btn_text_virus_scan">Skeniraj</string>
+  <string name="bubble_app_manage">Upravljanje oblačićima razgovora</string>
+  <string name="bubble_notification">Oblačići razgovora</string>
+  <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
+  <string name="bubble_notification_switch_desc">Kada je aplikacija za messenger u plutajućem prozoru skrivena na rubu zaslona, prikaži dolazne poruke u oblačićima</string>
+	<string name="btn_text_virus_scan">Skeniraj</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -2083,6 +2085,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_game_ratio_right">Desno</string>
   <string name="gb_game_ratio_top">Vrh</string>
   <string name="gb_game_time_toast">Timer je sada dostupan!</string>
+  <string name="gb_game_tips_restart">Igra će se ponovno pokrenuti radi primjene promjena</string>
   <string name="gb_game_video_bottom_tips">Ponovno pogledajte ključne trenutke sa svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon 7 dana.</string>
   <string name="gb_game_video_bottom_tips_new">Ponovo pogledajte ključne trenutke svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon %d dana.</string>
   <string name="gb_game_video_item_tag">Ključni trenutak</string>

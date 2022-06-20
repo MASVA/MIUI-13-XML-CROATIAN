@@ -95,8 +95,6 @@
     <string name="catch_full_log_dialog_content_pad">"To može utjecati na ukupne performanse vašeg uređaja. Ako ne možete reproducirati problem koji želite prijaviti, vratite se na zapise i dodirnite \"Odustani\"."</string>
 	 <string name="catch_full_log_dialog_title">Izrada zapisa…</string>
     <string name="catch_full_log_dump_hprof_failed">"Ne mogu izraditi zapis laga"</string>
-    <string name="catch_full_log_item_content_catch_direct">"1. Vratite se na značajku koju želite prijaviti i reproducirajte je.
-2. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
     <string name="catch_full_log_item_content_catching">Izrada zapisa…</string>
     <string name="catch_full_log_item_content_need_open">"1. Dodirnite \"Izradi zapis\".
 2. Vratite se na značajku koju želite prijaviti i reproducirajte je.
@@ -711,7 +709,7 @@ Pročitajte i prihvatite novu verziju %3$s prije nego što nastavite."</string>
     <string name="toast_report_copied_to_clipboard">Zapis je kopiran u međuspremnik</string>
     <string name="toast_report_sent_failed">Ne mogu poslati zapis</string>
     <string name="toast_report_sent_succeed">Zapis je poslan</string>
-    <string name="toast_screenshot_too_large">Ne mogu učitati datoteke veće od 100MB.</string>
+    <string name="toast_screenshot_too_large">Ne mogu učitati datoteke veće od %d MB.</string>
     <string name="toast_third_packagename_required">Unesi naziv aplikacije</string>
     <string name="toast_title_required">Opišite svoj problem</string>
     <string name="today">Danas</string>

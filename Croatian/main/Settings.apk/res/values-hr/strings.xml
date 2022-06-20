@@ -5525,6 +5525,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="location_category_location_services">Usluge lociranja</string>
     <string name="location_category_recent_location_access">Nedavni pristup lokaciji</string>
     <string name="location_category_recent_location_requests">Nedavni zahtjevi za lokaciju</string>
+	 <string name="location_description_no_gps">"Ovi uređaji ne podržavaju satelitsku navigaciju. Podaci o lokaciji generirani na temelju mrežnih podataka mogu biti nedostatni za neke značajke."</string>
     <string name="location_gps">GPS sateliti</string>
     <string name="location_high_battery_use">Visoka potrošnja baterije</string>
     <string name="location_indicator_settings_description">Prikaži za sve lokacije, uključujući mrežu i povezivost</string>

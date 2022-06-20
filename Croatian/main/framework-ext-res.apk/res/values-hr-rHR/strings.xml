@@ -287,6 +287,12 @@
     <string name="notice_audition">Zvukovi prirode</string>
     <string name="notification_channel_hotspot">Hotspot obavijest</string>
     <string name="notificationxylophone">Obavijest (Xylophone)</string>
+	 <string name="nps_ContentText">Dodirnite za provjeru pojedinosti</string>
+    <string name="nps_ContentTitle">Traženje GPS-a</string>
+    <string name="nps_app_name">GpsNps</string>
+    <string name="nps_description">Obavijest o statusu GPS-a</string>
+    <string name="nps_mock_description">Koristeći virtualnu lokaciju, potrebno je ponovno pokretanje za vraćanje</string>
+    <string name="nps_monitor_name">GPS lokacija</string>
     <string name="onehour">30 minuta</string>
     <string name="open_close_tip_action">Razumijem</string>
     <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite radnu traku, a zatim povucite prema gore</string>

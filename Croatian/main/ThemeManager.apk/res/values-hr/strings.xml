@@ -1571,7 +1571,9 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
     <string name="video_wallpaper_import">Dodirnite za dodavanje stavki</string>
     <string name="wallpaper_apply">Postavi</string>
     <string name="wallpaper_apply_full">Sve</string>
+	 <string name="wallpaper_apply_inner">Postavi na unutarnji zaslon</string>
     <string name="wallpaper_apply_large">Unutarnji zaslon</string>
+    <string name="wallpaper_apply_outer">Postavi na vanjski zaslon</string>
     <string name="wallpaper_apply_pcmode">Postavite pozadinu za PC način rada</string>
     <string name="wallpaper_apply_small">Vanjski zaslon</string>
     <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
