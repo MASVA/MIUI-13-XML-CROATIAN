@@ -334,6 +334,7 @@ Pritisnite i držite mapu i dodirnite \"Više\" za dodavanje."</string>
     <string name="info_system">Sustav:</string>
     <string name="info_system_version">Verzija sustava:</string>
     <string name="invalid_name_or_password">Pogrešno korisničko ime ili zaporka</string>
+	 <string name="import_files_from_old_phones">Uvezi sa starog uređaja</string>
     <string name="just_now">upravo sada</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_more">Prikaži više</string>

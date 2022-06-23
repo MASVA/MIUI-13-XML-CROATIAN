@@ -828,6 +828,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
     <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
     <string name="used_cloud_storage_info">Iskorišteno %s</string>
+    <string name="user_agreement_network_permission_msg">Moramo se povezati s internetom da bismo vam mogli pružiti potrebne usluge.</string>
+    <string name="user_agreement_use_account_msg">Mi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
     <string name="user_avatar_update_title">Promijeni sliku profila</string>
     <string name="user_avatar_uploading">Samo trenutak…</string>
     <string name="user_instruction_all_purpose">Dobro došli u Mi Račun! Pomoću svog računa možete pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi.com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>

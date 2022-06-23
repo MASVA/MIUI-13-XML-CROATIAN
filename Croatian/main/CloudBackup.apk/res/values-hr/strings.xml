@@ -98,6 +98,7 @@ Pokušajte ponovo"</string>
     <string name="cancel_backup">Otkazivanje Sig. kopije…</string>
     <string name="cancel_restore">Otkazivanje…</string>
     <string name="cancel_restore_home">Otkazivanje…</string>
+	 <string name="cancel_recover_settings">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
     <string name="close">Zatvori</string>
@@ -167,6 +168,11 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
     <string name="cloud_restore_task">Vraćanje…</string>
     <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
     <string name="collect_diagnosis_log">Prikupiti zapis dijagnoze</string>
+	  <string name="confirm_cancel_restore_negative">Odustani</string>
+    <string name="confirm_cancel_restore_positive">Nastavi</string>
+    <string name="confirm_cancel_restore_title">Želite li otkazati vraćanje?</string>
+    <string name="confirm_restore_app_data">Prepisivanje podataka aplikacije</string>
+    <string name="confirm_restore_app_data_summary">Čini se da je WeChat već generirao podatke na ovom uređaju. Želite li ga prepisati podacima iz sigurnosne kopije?</string>
     <string name="confirm_restore">Vrati</string>
     <string name="confirm_restore_summary">Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.</string>
     <string name="confirm_restore_title">Vrati</string>
@@ -228,6 +234,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="doing_calc_backup_data_size">Izračun veličine…</string>
     <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>
     <string name="done_remove">Uspješno uklonjeno</string>
+	  <string name="download_home_data">Preuzimanje izgleda početnog zaslona...</string>
     <string name="download_meta_again">"Ne mogu učitati Sig. kopiju, pokušajte ponovno."</string>
     <string name="download_meta_failed">Ne mogu preuzeti podatke</string>
     <string name="download_settings">Preuzimanje postavki Poč. zaslona %s%%</string>
@@ -366,6 +373,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="query_restore_description">"Ako vratite izgled i postavke početnog zaslona, aplikacije koje su već instalirane bit će vraćene na svoje izvorne pozicije na početnom zaslonu. Aplikacije koje nisu dio ove Sig. kopije bit će premještene na posljednju stranicu početnog zaslona."</string>
     <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>
     <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
+	  <string name="recover_miui_settings">Vrati postavke sustava</string>
     <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
     <string name="recovering">Vraćanje %s</string>
     <string name="remove_again">Pokušaj ponovno</string>
@@ -377,7 +385,16 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="restore_app_order_retry">Pokušaj ponovno</string>
     <string name="restore_app_order_retry_desc">"Ne mogu se povezati na mrežu.
 Provjerite postavke mreže i pokušajte ponovno."</string>
-    <string name="restore_cloud_backup_to_phone">Vrati stavke iz Mi Clouda</string>
+    <string name="restore_app_order_search_hint">Traži stavke za postavljanje prioriteta</string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
+    <string name="restore_app_order_search_installed">Aplikacije na ovom uređaju</string>
+    <string name="restore_app_order_search_normal">Aplikacije redovnog prioriteta</string>
+    <string name="restore_app_order_search_prior">Aplikacije visokog prioriteta</string>
+    <string name="restore_app_order_title">Odredite prioritet vraćenim stavkama</string>
+    <string name="restore_finish_description">Vraćanje je završeno</string>
+    <string name="restore_home_failed">"Nije moguće vratiti početni zaslon."</string>
+    <string name="restore_init_description">Započni vraćanje</string>
+	  <string name="restore_cloud_backup_to_phone">Vrati stavke iz Mi Clouda</string>
     <string name="restore_data_summary">Ova značajka zahtijeva internetsku vezu.</string>
     <string name="restore_data_title">Vrati kor. podatke</string>
     <string name="restore_detail_category_app_data">WeChat podaci</string>

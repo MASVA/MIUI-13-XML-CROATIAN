@@ -4346,6 +4346,7 @@ Povući suglasnost sada?"</string>
   <string name="privacy_revoke_failed_dialog_content">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="privacy_revoke_failed_dialog_title">"Ne mogu povući suglasnost</string>
   <string name="privacy_revoke_tip_dialog_title">"Ne mogu koristiti aplikaciju"</string>
+  <string name="privacy_revoke_tip_dialog_content"><Data>"Nećete moći nastaviti koristiti %1$s ako ne prihvatite novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirano %2$s &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>?"</Data></string>
   <string name="privacy_revoke_title">Povlačenje suglasnosti</string>
   <string name="privacy_risk_app">Rizične aplikacije</string>
   <string name="privacy_risk_app_fuzzy">Aplikacije bez zamućenih pregleda</string>

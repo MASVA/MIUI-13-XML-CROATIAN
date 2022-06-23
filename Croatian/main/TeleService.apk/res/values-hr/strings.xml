@@ -903,6 +903,7 @@ Isključiti mobilne podatke?"</string>
 
 Koristiti svejedno mobilne podatke?"</string>
     <string name="data_enabled">Podaci su omogućeni</string>
+	 <string name="data_interruption_remind">"Izgleda da vaše mrežno okruženje nije pouzdano. Da biste poboljšali vezu, dopustite svom uređaju da koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici."</string>
     <string name="data_plan">Planovi mob. podataka</string>
     <string name="data_usage_disable_mobile">Želite li isključiti mobilne podatke?</string>
     <string name="data_usage_ota">Ažuriranja sustava</string>

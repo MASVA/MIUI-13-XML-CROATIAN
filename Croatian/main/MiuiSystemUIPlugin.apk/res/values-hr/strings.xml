@@ -41,9 +41,10 @@
     <string name="accessibility_detail_switch_on">Uključeno</string>
     <string name="accessibility_expand_button">Proširi</string>
     <string name="accessibility_menu">Izbornik</string>
-    <string name="accessibility_qs_edit_position_label">Položaj %1$d. Dodirnite dvaput da biste odabrali.</string>
-    <string name="accessibility_qs_edit_tile_add">Dodajte pločicu %1$s na položaj %2$d</string>
-    <string name="accessibility_qs_edit_tile_moved">%1$s je premješten na položaj %2$d</string>
+    <string name="accessibility_qs_edit_position_label">Pozicija %1$d. Dodirnite dvaput da biste odabrali.</string>
+    <string name="accessibility_qs_edit_tile_add">Dodajte pločicu %1$s na poziciju %2$d</string>
+    <string name="accessibility_qs_edit_tile_added">%1$s je dodan na poziciju %2$d</string>
+	 <string name="accessibility_qs_edit_tile_moved">%1$s je premješten na poziciju %2$d</string>
     <string name="accessibility_qs_edit_tile_removed">Kartica %1$s uklonjena</string>
     <string name="accessibility_quick_settings_page">Stranica %1$d od %2$d</string>
     <string name="accessibility_settings">Postavke</string>
@@ -59,6 +60,8 @@
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
     <string name="bt_is_off">Bluetooth je isključen</string>
+	 <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašeno je %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>

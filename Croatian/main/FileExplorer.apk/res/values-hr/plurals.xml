@@ -194,11 +194,15 @@
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Pronađeni novi videozapisi: %1$s</item>
+		 <item quantity="zero">Search results (%1$d items)</item>
         <item quantity="one">Pronađen nov videozapis: %1$s</item>
     </plurals>
     <plurals name="search_head_hint_all">
         <item quantity="other">Rezultati pretraživanja (%1$d stavki)</item>
         <item quantity="one">Rezultati pretraživanja (%1$d stavka)</item>
+		   <item quantity="two">Rezultati pretraživanja (%1$d stavke)</item>
+        <item quantity="few">Rezultati pretraživanja (%1$d stavki)</item>
+        <item quantity="many">Rezultati pretraživanja (%1$d stavki)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Datoteka (%2$d) apl. %1$s</item>
@@ -280,4 +284,12 @@
         <item quantity="other">Dobijte %1$d više sljedbenika da nadogradite svoj status​</item>
         <item quantity="one">Dobijte %1$d više sljedbenika da nadogradite svoj status</item>
     </plurals>
+	     <plurals name="delete_files">
+        <item quantity="other">Izbrisati %1$d datoteka?</item>
+        <item quantity="one">Izbrisati %1$d datoteku?</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Izbrisati %1$d mapa?</item>
+        <item quantity="one">Izbrisati %1$d mapu?</item>
+     </plurals>
 </resources> 
