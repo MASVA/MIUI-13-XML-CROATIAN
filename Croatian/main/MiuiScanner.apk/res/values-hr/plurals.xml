@@ -75,4 +75,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	<plurals name="word_limit_prompt">
+        <item quantity="other">%d znakova preko ograničenja</item>
+        <item quantity="one">%d znak preko ograničenja</item>
+    </plurals>
 </resources>

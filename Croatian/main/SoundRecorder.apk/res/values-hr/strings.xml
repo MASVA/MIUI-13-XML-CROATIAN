@@ -78,9 +78,11 @@
     <string name="deleting_message">Brisanje…</string>
     <string name="details">Detalji</string>
     <string name="dialog_content_storage_full">"Snimanje je zaustavljeno jer nema dovoljno slobodnog prostora na unutarnjoj memoriji vašeg uređaja."</string>
-    <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">"Nakon povlačenja suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
     <string name="dialog_title_storage_full">Nema dovoljno prostora</string>
     <string name="download">Preuzmi</string>
+	 <string name="download_pause">Preuzimanje je pauzirano. Dodirnite za nastavak.</string>
+    <string name="downloading">Preuzimanje. Dodirnite za pauziranje.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>

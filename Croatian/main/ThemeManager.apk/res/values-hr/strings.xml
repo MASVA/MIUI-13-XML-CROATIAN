@@ -538,6 +538,7 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="kuyin_user_agreement_content">Pretplate za prilagođene melodije zvona pruža iFlytek. Morate prihvatiti %s prije korištenja prilagođenih pretplata za melodije zvona. Prihvaćate?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
     <string name="lab">Beta značajke</string>
+	 <string name="label">Oznaka</string>
     <string name="like_list">Stavke koje su mi sviđaju</string>
     <string name="live_wallpaper">Dinamične pozadine</string>
     <string name="load_from_local_photos">Galerija</string>

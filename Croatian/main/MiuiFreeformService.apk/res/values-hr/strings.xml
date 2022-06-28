@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="app_name">Plutajući prozori</string>
+	 <string name="bottom_bar_smallwindow_drag_text">Povucite ovdje da biste prikvačili</string>
     <string name="bottom_bar_smallwindow_text">Otpustite da prikvačite</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
@@ -58,6 +59,7 @@
     <string name="friday_shortest">P</string>
     <string name="fullscreen_slide_to_small_freeform">Smanjite aplikaciju</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Prijeđite prstom od dna zaslona do gornjeg desnog kuta</string>
+	 <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Prijeđite prstom od dna do gornjeg ruba zaslona</string>
     <string name="how_to_close_or_fullscreen_freeform">Zatvaranje plutajućih prozora ili prelazak na način rada preko cijelog zaslona</string>
     <string name="how_to_drop_down_to_fullscreen">Prebaci na način rada preko cijelog zaslona</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku plutajućeg prozora</string>

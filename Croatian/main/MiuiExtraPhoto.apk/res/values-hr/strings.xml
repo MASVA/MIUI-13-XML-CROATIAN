@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="cancel">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
-    <string name="close">Zatvori</string>
+    <string name="close">Isključi</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="doc_photo_adjust_section_talkback">Obreži i uredi</string>
     <string name="doc_photo_adjust_section_title">Povuci za prilagoditi</string>
@@ -41,7 +41,7 @@
     <string name="doc_photo_enhance_bin_desc">Crno-bijela kopija</string>
     <string name="doc_photo_enhance_color">Poboljšano</string>
     <string name="doc_photo_enhance_color_desc">Poboljšano skeniranje u boji</string>
-    <string name="doc_photo_enhance_moer">Remove moiré</string>
+    <string name="doc_photo_enhance_moer">Ukloni moiré</string>
     <string name="doc_photo_enhance_moer_desc">Uklonite moiré uzorke zaslona</string>
     <string name="doc_photo_enhance_moer_toast">Uklonite moiré uzorke zaslona</string>
     <string name="doc_photo_enhance_none">Original</string>
@@ -51,7 +51,9 @@
     <string name="doc_photo_idcard_emblem">Natrag</string>
     <string name="doc_photo_idcard_mode_title">ID kartica</string>
     <string name="doc_photo_idcard_portrait">Prednja</string>
+	 <string name="doc_photo_not_save">"Ne spremaj"</string>
     <string name="doc_photo_not_support">"Ne mogu urediti ovu sliku kao dokument"</string>
+	 <string name="doc_photo_save_effect_toast">Spremiti promjene?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-distorzija je isključena</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorzija je uključena</string>
     <string name="doc_photo_view_effect">Pregled</string>
@@ -142,6 +144,7 @@
     <string name="motion_photo_toast_long_press_play">Pritisnite i držite fotografiju za reprodukciju</string>
     <string name="motion_photo_toast_suggest">Preporučeno</string>
     <string name="ok">U redu</string>
+	 <string name="open">>Uključeno</string>
     <string name="refocus_discard_confirm_message">Spremiti promjene?</string>
     <string name="refocus_discard_negative_btn">Odbaci</string>
     <string name="refocus_discard_positive_btn">Spremi</string>

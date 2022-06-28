@@ -4086,7 +4086,8 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
     <string name="face_unlock_offset_right">Pomaknite se ulijevo</string>
     <string name="face_unlock_offset_top">Podignite malo telefon</string>
     <string name="face_unlock_open_eye">Otvorite oči malo šire</string>
-    <string name="face_unlock_prompt">Upit za otključavanje licem</string>
+    <string name="face_unlock_prompt">"Snimite podatke o licu
+okrenut prema vanjskom zaslonu"</string>
     <string name="face_unlock_quality">"Ne mogu jasno vidjeti vaše lice"</string>
     <string name="face_unlock_reveal_eye">Učinite oči bolje vidljivima</string>
     <string name="face_unlock_reveal_mouth">Učinite usne bolje vidljivim</string>
@@ -4442,6 +4443,8 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
 Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povucite kut da biste minimizirali aplikaciju</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povucite kut da biste minimizirali aplikaciju</string>
+	 <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Pritisnite i držite dno prozora i povucite ga do gornjeg ruba zaslona.
+Ova značajka radi samo kada je navigacija sustava postavljena na geste."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizirajte aplikaciju</string>
     <string name="freeform_guide_slide_up_to_close_summary">Povuci prema gore s akcijske trake plutajućeg prozora</string>
     <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
@@ -4455,7 +4458,7 @@ Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</stri
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povucite aplikaciju sa bočne trake u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon</string>
     <string name="freeform_vedio_description_pad">Povucite stavke s doka da otvorite plutajuće prozore</string>
     <string name="frequently_fragment_delete">Ukloni</string>
-    <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
+    <string name="frequently_fragment_tempty">Često korištene stavke biti će popisane ovdje</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
@@ -6253,6 +6256,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_auto_ack_mode">"Automatski odgovorite na pozive kada nosite slušalice"</string>
     <string name="miheadset_auto_ack_mode_summary">Automatski odgovori na pozive</string>
     <string name="miheadset_auto_answer_call">Automatski odgovori na pozive</string>
+	 <string name="miheadset_auto_upgrade_reminder">Isključi automatska ažuriranja i ponovno provjeri ima li ažuriranja</string>
     <string name="miheadset_bluetooth_audio_title">LC3plus brzina uzorkovanja zvuka Bluetooth</string>
     <string name="miheadset_bright">Bistro</string>
     <string name="miheadset_call_assist">Mi AI</string>

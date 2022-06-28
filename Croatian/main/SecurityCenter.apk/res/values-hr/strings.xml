@@ -1422,7 +1422,7 @@ Vaš mobilni operater može vam naplatiti dodatne naknade ako ponovo uključite 
   <string name="data_usage_warning_title_notify">Prekoračeno ograničenje uporabe podataka</string>
   <string name="databooster_tips_message">Uključite da ograničite sve SIM kartice osim podatkovne kartice. Isključite tu značajku ako se dogode pogreške u igrama po vašem izboru.</string>
   <string name="databooster_tips_title">Pažnja</string>
-  <string name="datausage_ignore_app_list_count">"Ignoriranje uporabe podataka aplik. %d"</string>
+  <string name="datausage_ignore_app_list_count">"Ignoriraj uporabu podataka za aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Natrag</string>
   <string name="datausage_purchase_banner_title">%s ponuda nadoplate (ekskluzivno)</string>
   <string name="datausage_purchase_buy">Kupi</string>
@@ -2943,6 +2943,11 @@ Vaš je uređaj sad %s brži."</string>
   <string name="na_main_card_ad_text">Pronađite plan koji vam odgovara</string>
   <string name="na_main_card_ad_title">Promocija Mi Fan kartice</string>
   <string name="na_main_card_title_sim">"Kartica "</string>
+  <string name="na_open_at_once">Uključi</string>
+  <string name="na_query_and_correction">Provjeri i kalibriraj stanje</string>
+  <string name="na_query_and_correction_msg">"Možete provjeriti i kalibrirati stanje na računu i statistiku mobilnih podataka slanjem besplatnog SMS-a svom operateru. Te su poruke šifrirane.
+Poruke s upitom o stanju nisu pohranjene u Poruke i neće biti prikazane.
+Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključiti u bilo kojem trenutku."</string>
   <string name="na_text_checking">"Testiranje: "</string>
   <string name="name">Ime</string>
   <string name="nd_result_button_optimize">Optimiziraj</string>
@@ -5344,7 +5349,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_first_aid_kit">Sada ispravite probleme na svom uređaju</string>
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
   <string name="summary_flow_purchase">"Izgleda da nemate još puno preostalih podataka. Kupita podatke da ostanete povezani."</string>
-  <string name="summary_flow_purchase_beyond">"Premašili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
+  <string name="summary_flow_purchase_beyond">"Prekoračili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
   <string name="summary_flow_purchase_left">Preostalo vam je još %sMB mobilnih podataka za ovaj mjesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podataka nije sinkronizirana s vašim operaterom %d dana."</string>
   <string name="summary_flow_verify_failed">Automatski podesi uporabu podataka da izbjegnete dodatne naknade</string>

@@ -130,6 +130,7 @@
     <string name="content_desc_activity_main_add_city">Dodaj grad</string>
     <string name="content_desc_activity_main_add_city_manage">Upravljaj gradom</string>
     <string name="content_desc_activity_main_more_settings">Više postavki</string>
+	 <string name="content_desc_activity_main_page">Stranica %1$d od %2$d</string>
     <string name="content_desc_back_button">Natrag</string>
     <string name="content_desc_city_manage_del">Izbriši</string>
     <string name="content_desc_city_manage_edit">Uredi</string>
@@ -411,7 +412,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="particulate_matter_not_exceeded">Normalno</string>
     <string name="particulate_matter_serious_exceeded">Previsoko</string>
     <string name="permission_device_info">Informacije o uređaju</string>
-    <string name="permission_device_introduce">Za prepoznavanje ID-a uređaja na temelju modela uređaja i IMEI-ja te pružanje lokaliziranih usluga na temelju jezičnih postavki</string>
+    <string name="permission_device_introduce">Za prepoznavanje uređaja na temelju modela uređaja i IMEI-ja te pružanje lokaliziranih usluga na temelju jezičnih postavki</string>
     <string name="permission_exit">Izlaz</string>
     <string name="permission_privacy">Pravila o Privatnosti (obavezno)</string>
     <string name="permission_select_all">Odaberi sve</string>
