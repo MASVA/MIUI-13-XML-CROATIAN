@@ -162,7 +162,8 @@
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Uključi</string>
     <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
     <string name="freeform_exchange_tip">Otvori plutajući prozor u načinu cijelog zaslona</string>
-    <string name="frenchchic">Šik</string>
+    <string name="freeform_exchange_tip2">Povucite u kut za otkazati</string>
+	 <string name="frenchchic">Šik</string>
     <string name="frequent_email">Česta adresa e-pošte</string>
     <string name="frequent_phrases">Česti izrazi</string>
     <string name="fresh">Svježe</string>
@@ -350,6 +351,8 @@
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="relaunch_action">Ponovo pokreni</string>
+	 <string name="relaunch_dialog_alwaysUsePrompt">Zapamti moj izbor</string>
+    <string name="relaunch_dialog_button_cancel">Odustani</string>
     <string name="relaunch_dialog_button_confirm">Ponovo pokrenite</string>
     <string name="relaunch_dialog_message">Veličina ove aplikacije može se promijeniti tek nakon ponovnog pokretanja. Sve nespremljene promjene bit će izgubljene ako sada ponovno pokrenete aplikaciju. Ipak ponovno pokrenuti?</string>
     <string name="relaunch_dialog_title">Ponovo pokrenuti \"%s\" sada?</string>
