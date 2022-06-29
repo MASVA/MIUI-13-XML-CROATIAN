@@ -284,6 +284,9 @@
     <string name="moment">Trenutak</string>
     <string name="monet">Jezerce s ljiljanima</string>
     <string name="mountainspring">Planinski izvor</string>
+	  <string name="mw_guide_dialog_button_confirm">Razumijem</string>
+    <string name="mw_guide_dialog_message">"Izgleda da ova aplikacija ne podržava paralelne prozore. Umjesto toga prebačeno na drugi kompatibilni izgled."</string>
+    <string name="mw_guide_dialog_title">"Paralelni prozori nisu podržani"</string>
     <string name="nearby_share">Bluetooth</string>
     <string name="notice_audition">Zvukovi prirode</string>
     <string name="notification_channel_hotspot">Hotspot obavijest</string>

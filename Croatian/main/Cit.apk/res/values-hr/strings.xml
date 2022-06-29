@@ -160,7 +160,7 @@ Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali bis
     <string name="cit_camera_cali_title">Test kalibracije kamere</string>
     <string name="cit_camera_check_summary">"Upute za testiranje:
 
-1. Dodirnite tipku kamere u nastavku za ulaz u sučelje prednje kamere
+1. Dodirnite tipku kamere u nastavku za ulaz u sučelje kamere
 2. Dodirnite okidač
 3. Sustav će automatski spremiti fotografiju nakon snimanja
 4.Fotografija koju ste snimili mora biti prikazana na ekranu. Dodirnite USPJEŠNO da biste dovršili test."</string>
