@@ -47,12 +47,15 @@
     <string name="doc_photo_enhance_none">Original</string>
     <string name="doc_photo_enhance_undistortion">Anti-distorzija</string>
     <string name="doc_photo_enhance_undistortion_desc">Ispravi distorziju slike</string>
+	 <string name="doc_photo_enhance_undistortion_version4">Izravnaj</string>
+    <string name="doc_photo_enter_hand_remove">Dodirnite za ručno brisanje</string>
     <string name="doc_photo_idcard_alert_msg">Odbaciti sve promjene i izaći iz uređivača?</string>
     <string name="doc_photo_idcard_emblem">Natrag</string>
     <string name="doc_photo_idcard_mode_title">ID kartica</string>
     <string name="doc_photo_idcard_portrait">Prednja</string>
 	 <string name="doc_photo_not_save">"Ne spremaj"</string>
     <string name="doc_photo_not_support">"Ne mogu urediti ovu sliku kao dokument"</string>
+	 <string name="doc_photo_remind">Pažnja</string>
 	 <string name="doc_photo_save_effect_toast">Spremiti promjene?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-distorzija je isključena</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorzija je uključena</string>

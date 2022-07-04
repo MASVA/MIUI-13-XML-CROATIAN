@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Dijeli s</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
+	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="add_remark_hint">Ovdje unesite svoju napomenu</string>
     <string name="add_remark_tip">Dodirnite za dodavanje napomene</string>
@@ -249,6 +250,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+	 <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
+    <string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
     <string name="network_tip_dialog_cancel">Odustani</string>
     <string name="network_tip_dialog_content">Ova se aplikacija mora povezati s internetom, kao i pristup vašim kontaktima kako bi označila snimke koje snimate tijekom poziva.</string>
     <string name="network_tip_dialog_ok">Dopusti</string>
@@ -311,6 +314,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="privacy_policy_title">Pravila o privatnosti</string>
     <string name="privacy_settings">Privatnost</string>
     <string name="progress">Traka napretka reprodukcije</string>
+	 <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="recognition_button_add_to_queue">Dodaj u red čekanja</string>
     <string name="recognition_button_cancel">Ne sada</string>
     <string name="recognition_button_start">Prijepis</string>
@@ -434,6 +438,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
 	 <string name="sync_desc_state_complete">Sinkronizirano s cloudom: %1$s</string>
+	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="tab_all">Sve</string>
     <string name="tab_apps">Aplikacije</string>
     <string name="tab_call">Pozivi</string>
@@ -473,6 +478,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="tuesday_shortest">U</string>
     <string name="uninstall_warning_content">"Snimač je sistemska aplikacija. Nećete moći snimati i transkribirati zvuk i glasovne pozive nakon što ga deinstalirate."</string>
     <string name="uninstall_warning_title">Želite li deinstalirati Snimač?</string>
+	 <string name="unknown_error_info">Nepoznata pogreška</string>
     <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Mi Cloudom</string>
     <string name="user_feedback">Povratne inf.</string>
     <string name="v7_preference_off">ISKLJUČENO</string>

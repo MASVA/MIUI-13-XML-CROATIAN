@@ -153,7 +153,7 @@
     <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
     <string name="choose_report_comment_reason">Zašto prijavljujete ovaj komentar?</string>
-    <string name="choose_report_reason">Zašto prijavljujete ovaj video isječak?</string>
+    <string name="choose_report_reason">Zašto prijavljujete ovaj videozapis?</string>
     <string name="choose_send_type">Pošalji sa…</string>
     <string name="choose_upload_location">Pošalji na KuaiPan</string>
     <string name="claim_no_video">Nema videozapisa za zahtjev</string>
@@ -461,6 +461,8 @@
     <string name="join_activity">Sudjeluj</string>
     <string name="just_now">Upravo sada</string>
     <string name="kilobyteShort">KB</string>
+	 <string name="lack_perm_msg">Aplikacija Datoteke zahtijeva sljedeća dopuštenja za normalan rad: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Potrebna su dopuštenja</string>
     <string name="kp_category_all">Kategorija</string>
     <string name="kp_category_doc">Word</string>
     <string name="kp_category_excel">Excel</string>
@@ -485,7 +487,7 @@
     <string name="kuaipan_root_fooder">Početna</string>
     <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
     <string name="launcher_icon_add_description">Dodajte prečac Poč. zaslona</string>
-    <string name="launcher_icon_remove_description_content">"Datoteke su sistemska aplikacija. Nakon uklanjanja prečaca Poč. zaslona nećete moći upravljati datotekama na uređaju."</string>
+    <string name="launcher_icon_remove_description_content">"Aplikacija Datoteke su sistemska aplikacija. Nakon uklanjanja prečaca Poč. zaslona nećete moći upravljati datotekama na uređaju."</string>
     <string name="launcher_icon_remove_description_title">Ukloniti \"Datoteke\" sa Poč. zaslona?</string>
     <string name="least_quick_category_hint">Dodajte barem %d prečac</string>
     <string name="like_toast_1">Takvi videozapisi će vam biti preporučeno često.</string>
@@ -500,7 +502,10 @@
     <string name="local_music">Glazba</string>
     <string name="local_sticker_str">Izvanmrežno</string>
     <string name="local_video">Videozapisi</string>
-    <string name="local_video_empty">Nema video isječaka na vašem uređaju. Provjerite one popularne.</string>
+	  <string name="main_button_continue">Postavke</string>
+    <string name="main_button_ok">U redu</string>
+    <string name="main_button_quit">Odustani</string>
+    <string name="local_video_empty">Nema videozapisa na vašem uređaju. Provjerite one popularne.</string>
     <string name="login">Prijavite se</string>
     <string name="login_account_bind_qq">QQ račun</string>
     <string name="login_account_bind_skip">Preskoči</string>
@@ -540,6 +545,7 @@
     <string name="menu_new_display_open">Otvori u novom prozoru</string>
     <string name="menu_pc_open">Otvorite s računalnim programom</string>
     <string name="menu_set_wallpaper">Postavi za sliku pozadine</string>
+	  <string name="message_request_manage_external_storage_perm">Aplikacija Datoteke treba dopuštenje za pristup datotekama kako bi mogla upravljati datotekama na vašem uređaju. Ovo dopuštenje možete dati u postavkama.</string>
     <string name="message_comment_prefix">"Komentar: "</string>
     <string name="message_my_received_notification">Nova poruka</string>
     <string name="message_my_received_praise">Moji lajkovi</string>
@@ -917,8 +923,9 @@
     <string name="path_hot_video">Pregledajte popularne kratke videozapise besplatno</string>
     <string name="path_kuai_chuan">Peer-to-peer prijenos datoteka</string>
     <string name="path_name_email">E-pošta</string>
-    <string name="path_recent_file">Upravljaj datotekama na uređaju</string>
+    <string name="path_recent_file">Upravljajte datotekama na uređaju</string>
     <string name="paused">Pauzirano</string>
+	 <string name="perm_manage_external_storage">Pristup svim datotekama</string>
     <string name="permission_denial">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama."</string>
     <string name="permission_description">Pojedinosti o dopuštenjima</string>
     <string name="permission_required">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama.​"</string>
@@ -1256,9 +1263,10 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
     <string name="title_enable_documentsui">Uključi DocumentsUI</string>
     <string name="title_expire_video">O isteku</string>
     <string name="title_recent">NEDAVNO</string>
+	 <string name="title_request_manage_external_storage_perm">Potrebna su dopuštenja</string>
     <string name="title_report_video">Prijavi</string>
     <string name="title_select_volume">Odaberite mapu</string>
-    <string name="title_upload_video">Podijelite video isječke</string>
+    <string name="title_upload_video">Podijelite videozapise</string>
     <string name="to_open">Postavke</string>
     <string name="to_setting">Postavke</string>
     <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
@@ -1272,10 +1280,10 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
     <string name="topic_title">Teme</string>
     <string name="topic_winners">Dosadašnji dobitnici</string>
     <string name="total_size">Ukupno: %s</string>
-    <string name="trans_mobile_network_message">Korištenje mobilnih podataka da prijenos datoteka će potrošiti puno podataka, jeste li sigurni za nastavak?</string>
+    <string name="trans_mobile_network_message">Korištenje mobilnih podataka za prijenos datoteka će potrošiti puno podataka, jeste li sigurni za nastavak?</string>
     <string name="trans_task">Mrežni prijenos</string>
     <string name="transfer">Prijenosi &amp; preuzimanja</string>
-    <string name="transfer_done">Datoteke uspješno premještene.</string>
+    <string name="transfer_done">Datoteke su uspješno premještene.</string>
     <string name="transfer_private_data">Premještanje privatnih datoteka sa SD kartice…</string>
     <string name="transfer_summary">Preuzimanja i stavke prenesene putem Mi Share</string>
     <string name="transing">Slanje…</string>
@@ -1283,14 +1291,14 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
     <string name="trash_box_link">Da ispraznite smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
     <string name="trash_box_message1">Izbrišite nepotrebne datoteke da
 oslobodite prostor.</string>
-    <string name="trash_box_message2">Ispraznite smeće kako bi
-oslobodili prostor.</string>
+    <string name="trash_box_message2">Ispraznite smeće da
+oslobodite prostor.</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
     <string name="type_not_support">"Ovaj format datoteke nije podržan. Raspakirajte ovu datoteku i pokušajte ponovno."</string>
     <string name="ui_filechange_btn_download">Preuzeti datoteku?</string>
-    <string name="ui_filechange_btn_upload">Učitati datoteke</string>
+    <string name="ui_filechange_btn_upload">Pošalji datoteke</string>
     <string name="ui_main_menu_option_sign_in">Prijavite se</string>
     <string name="ui_main_menu_option_task_manage">Pregledaj prijenose</string>
     <string name="ui_main_progress_txt_open_file">Preuzimam…</string>
@@ -1320,7 +1328,7 @@ oslobodili prostor.</string>
     <string name="upload_external_notification_title">Objava u tijeku, pričekajte trenutak…</string>
     <string name="upload_failed">"Ne mogu učitati"</string>
     <string name="upload_file_toolarge_message">"%1$d je prevelika datoteka. Ne mogu učitati datoteke veće od 300 MB."</string>
-    <string name="upload_local_video">Podijelite video isječak</string>
+    <string name="upload_local_video">Podijelite videozapis</string>
     <string name="upload_notification_compress_progress">Sažimanje %1$s%%</string>
     <string name="upload_notification_compress_title">Sažimanje videozapisa</string>
     <string name="upload_notification_failed">"Ne mogu poslati"</string>

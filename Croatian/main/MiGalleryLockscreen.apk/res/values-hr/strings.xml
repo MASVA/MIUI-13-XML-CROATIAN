@@ -103,6 +103,7 @@
     <string name="at_least_one">Odaberite barem jednu kategoriju</string>
     <string name="auth_fail_warning">Sesija je istekla Prijavite se ponovo.</string>
     <string name="auto_interval">Svaki put kad se uređaj otključa</string>
+	 <string name="back">Natrag</string>
     <string name="back_icon_content_description">Natrag</string>
     <string name="bind_sign_in_title">Dodaj Mi Račun</string>
     <string name="cancel">Odustani</string>
@@ -139,6 +140,7 @@
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
+	 <string name="close_country_code_content_description">Izbriši pozivni broj zemlje</string>
     <string name="close_gallery">Isključi</string>
     <string name="collect_diagnosis_log">Prikupi zapise</string>
     <string name="comment_pop_cancel">Ne sada</string>
@@ -260,6 +262,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="external_storage_permission">Pristup pohrani</string>
     <string name="external_storage_permission_summary">Za odabir prilagođenih pozadina i spremanje preuzetih stavki</string>
     <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
+	 <string name="facebook_login_btn_content_description">Prijavite se putem Facebooka</string>
     <string name="favor_list_no_data">Nema stavki.</string>
     <string name="favor_list_title">Favoriti</string>
     <string name="favor_success">Uspješno dodano u favorite</string>
@@ -276,6 +279,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="get_phone_bind_exceed_limit">"Možete povezati do 3 Mi Računa s brojem telefona. Ne mogu se dodati novi računi."</string>
     <string name="get_phone_verifycode_exceed_limit">Na ovaj je broj poslano previše verifikacijskih kodova. Pričekajte 24 sata i pokušajte ponovo.</string>
     <string name="getverifycode_seconde">s</string>
+	 <string name="google_login_btn_content_description">Prijava s Googleom</string>
     <string name="goto_confirm">Postavke</string>
     <string name="goto_sign_up">Izradi račun</string>
     <string name="header_help">Pomoć</string>
@@ -855,6 +859,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
     <string name="pull_to_refresh_pull_up_label">Povuci gore za osvježiti</string>
     <string name="pull_to_refresh_refreshing_label">Osvježavanje…</string>
     <string name="pull_to_refresh_release_label">Otpusti za osvježiti</string>
+	 <string name="qq_login_btn_content_description">Prijavite se s QQ</string>
     <string name="recommend_switch_desc">Primanje preporuka za sadržaj na temelju vaših sklonosti</string>
     <string name="recommend_switch_dlg_close">Isključi</string>
     <string name="recommend_switch_dlg_desc">"Nećete moći primati preporuke na temelju vaših sklonosti ako isključite ovu značajku."</string>
@@ -1138,6 +1143,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
+	 <string name="weibo_login_btn_content_description">Prijavite se putem Weiba</string>
+	 <string name="weixin_login_btn_content_description">Prijavite se putem WeChat</string>
     <string name="wlan_download">Ažuriraj samo preko Wi-Fi-ja</string>
     <string name="wlan_download_cn">Ažuriraj samo preko Wi-Fi-ja</string>
     <string name="wm_storage_left">"Preostalo: "</string>
