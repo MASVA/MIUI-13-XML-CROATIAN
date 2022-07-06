@@ -2043,6 +2043,7 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
     <string name="bootloader_tips_ok">Razumijem</string>
     <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Mi Računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
     <string name="bottom_function_settings">Funkcije dodatnih tipki</string>
+	 <string name="bottom_to_top_slide">Povucite prema gore</string>
     <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="breathing_light_color_menu_title">Boja LED-a</string>
     <string name="breathing_light_color_summary">Boja LED-a kod primanja nove obavijesti</string>
@@ -5425,6 +5426,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
 	 <string name="left_right_hand_switch">Lijevo i desno</string>
     <string name="left_right_hand_switch_summary">Učinite da lijevi i desni dijelovi tipkovnice mijenjaju mjesta jednim dodirom</string>
     <string name="left_shoulder_key">Lijevi</string>
+	 <string name="left_to_right_slide">Povucite desno</string>
     <string name="legacy_control_center_desc">Povucite dolje traku statusa za prikaz prečaca i obavijesti</string>
     <string name="legacy_control_center_title">Stara verzija</string>
     <string name="legacy_dhcp_client">Upotrebljavaj stari DHCP klijent</string>
@@ -6337,6 +6339,9 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_key_config_triple_right">Triput dodirnite desnu slušalicu</string>
     <string name="miheadset_key_config_volume_down">Glasnoća -</string>
     <string name="miheadset_key_config_volume_up">Glasnoća +</string>
+	  <string name="miheadset_keyconfig_click_thrice">Triput pritisnite tipku</string>
+    <string name="miheadset_keyconfig_click_twice">Dvaput pritisnite tipku</string>
+    <string name="miheadset_keyconfig_press_long">Pritisnite i držite tipku %d sekundi</string>
     <string name="miheadset_last_version">Firmware je ažuran</string>
     <string name="miheadset_local_ota">Ažuriraj</string>
     <string name="miheadset_low_latency">Malo kašnjenje</string>
@@ -8754,6 +8759,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
     <string name="right_edge">Desni rub</string>
     <string name="right_function_key">Desni prečac</string>
     <string name="right_shoulder_key">Desni</string>
+	 <string name="right_to_left_slide">Povucite lijevo</string>
     <string name="ring_to_you">FeelRing</string>
     <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="ring_to_you_info">Postavite prilagođeni ton koji će drugi ljudi čuti prije nego se javite</string>
@@ -11120,6 +11126,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
     <string name="toggle_auto_speaker_preference_title">Prebaci na zvučnik automatski</string>
     <string name="toggle_collapse_after_clicked_title">Sažmi nakon dodira</string>
     <string name="tomorrow">Sutra</string>
+	 <string name="top_to_bottom_slide">Povucite prema dolje</string>
     <string name="total">DND</string>
     <string name="total_info">Utišaj dolazne pozive, obavijesti i ograniči vibracije</string>
     <string name="total_info_no_vibrator">Utišaj dolazne pozive i obavijesti</string>
@@ -13075,6 +13082,8 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
     <string name="wizard_finish">Završi</string>
     <string name="wizard_next">Dalje</string>
     <string name="wlan_scanner_unresizeble">"Ne mogu se prikazati Wi-Fi postavke u Podijeljenom zaslonu"</string>
+	  <string name="wlan_switch_tips">Promjena Wi-Fi mreže</string>
+    <string name="wlan_switch_tips_message">Prilikom prebacivanja između pomoćne i glavne Wi-Fi mreže, vaš će uređaj biti privremeno isključen iz pomoćne Wi-Fi mreže. Svejedno promijeniti?</string>
     <string name="wlan_to_cellular_hint_title">Wi-Fi-&gt;Mobilni savjet</string>
     <string name="words_title">Tekst</string>
     <string name="work_alarm_ringtone_title">Zadani zvuk poslovnog alarma</string>

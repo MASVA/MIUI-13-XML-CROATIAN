@@ -689,6 +689,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="document_provider_guide_step_3">%d. Dodirni tipku izbornika sa strane.</string>
     <string name="document_provider_guide_step_4">%d. Odaberi \"SD kartica\".</string>
     <string name="document_provider_guide_step_5">%d. Dodirni \"Odaberi\".</string>
+	 <string name="dolby_vision_icon">Ikona Dolby Vision</string>
     <string name="documentary">Dokumentarni</string>
     <string name="doodle">Crtarija</string>
     <string name="doodle_big_size">Veliko</string>
@@ -705,7 +706,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="doodle_small_size">Malo</string>
     <string name="doodle_super_big_size">Ogromno</string>
     <string name="doodle_tooltip">Dodirni za crtariju</string>
-    <string name="double_tap_for_hr_preview_108m">Dvaput dodirnite za prelazak na pregled od 108MP</string>
+    <string name="double_tap_for_hr_preview_108m">Dvaput dodirnite za prelazak na 108MP pregled</string>
+	 <string name="double_tap_for_hr_preview_200m">Dodirnite dvaput ponovo za prebacivanje na 200MP pregled</string>
     <string name="double_tap_to_higher_definition">Dvaput dodirnite ponovo da biste otvorili HD pregled</string>
     <string name="download">Preuzimanje</string>
     <string name="download_canceled">Preuzimanje otkazano</string>
@@ -1190,7 +1192,7 @@ za fotografije"</string>
     <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
     <string name="gallery_setting">Postavke</string>
     <string name="gallery_sync_disable_toast">Sinkr. Galerije nije omogućena</string>
-    <string name="generate_story_summary">MIUI će analizirati vaše fotografije i izraditi uspomene. Isključite ovu značajku da biste zaustavili izradu uspomena.</string>
+    <string name="generate_story_summary">"Snimite dovoljno fotografija, priključite punjač i isključite zaslon kako bi se uspomene pojavile. Već generirane uspomene neće nestati ako isključite ovu značajku."</string>
     <string name="generate_story_title">Uspomene</string>
     <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
     <string name="gif_tip">GIF</string>
@@ -1254,6 +1256,7 @@ za fotografije"</string>
     <string name="homepage_allphotos_tip_dialog_title">Koje slike želite vidjeti u \"Fotografije\"?</string>
     <string name="how_to_set_relation">Pritisnite &amp; držite album za izradu grupe</string>
     <string name="hr_preview_108m">Promjenjeno na pregled od 108MP</string>
+	 <string name="hr_preview_200m">Promjenjeno na pregled od 200MP</string>
     <string name="hybrid_check_network">Postavke mreže</string>
     <string name="hybrid_data_error">Došlo je do pogreške</string>
     <string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
@@ -1300,6 +1303,8 @@ za fotografije"</string>
     <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
     <string name="input_relation_name">Unesi naziv grupe</string>
     <string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
+	 <string name="install_media_editor_download_description">Preuzimanje…</string>
+    <string name="install_media_editor_download_title">Preuzimanje dodatka za Gallery Editor…</string>
     <string name="install_media_editor_function_message">Preuzmite najnoviju verziju Gallery Editor da biste mogli koristiti \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Da biste mogli uređivati stavke, prvo preuzmite najnoviji dodatak.</string>
     <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
@@ -2116,6 +2121,7 @@ za fotografije"</string>
     <string name="play_gif_desc">Reproduciraj GIF</string>
     <string name="play_video_desc">Reproduciraj video</string>
     <string name="pm">PM</string>
+	 <string name="pref_today_of_year_summary">"Podsjetite se na trenutke koje ste zabilježili na ovaj dan tijekom godina. Već stvorene uspomene neće nestati ako isključite ovu značajku."</string>
     <string name="posterize">Posterizacija</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
     <string name="prepare_to_drop">Spremanje u %s</string>
@@ -2444,6 +2450,8 @@ za fotografije"</string>
     <string name="select_item_face">"Na fotog. je %s ?"</string>
     <string name="select_origin_tip">Izvorna datoteka (%s)</string>
     <string name="send">Pošalji</string>
+	 <string name="send_dolby_vision_duration_more_than_40s">Dolby Vision video zapisi duži od 4 minute mogu se dijeliti samo u izvornom video formatu koji prijemni uređaj možda ne podržava. Svejedno nastaviti?</string>
+    <string name="send_dolby_vision_video_continue">Nastavi</string>
     <string name="send_file_beautify_failed">"Ne mogu podijeliti"</string>
     <string name="send_files_by">Podijelite datoteke putem</string>
     <string name="send_files_to">Pošalji stavke na</string>
@@ -2874,8 +2882,10 @@ za fotografije"</string>
     <string name="toast_orientation_unlock">Orijentacija zaslona je otključana</string>
     <string name="toast_rename_exit">Ova datoteka već postoji</string>
     <string name="today">Danas</string>
-	  <string name="today_of_year">Na današnji dan</string>
+	 <string name="today_of_year">Na današnji dan</string>
     <string name="today_of_year_empty_tip">Ovdje još nema uspomena</string>
+	 <string name="today_of_year_function_closed_btn_tip">Uključi</string>
+    <string name="today_of_year_function_closed_tip">"Još niste uključili \"Na današnji dan\""</string>
     <string name="today_of_year_location_num">Lokacije</string>
     <string name="today_of_year_photo_num">Fotografije</string>
     <string name="tomorrow">Sutra</string>

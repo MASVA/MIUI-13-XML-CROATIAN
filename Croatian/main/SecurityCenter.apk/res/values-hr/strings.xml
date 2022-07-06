@@ -2116,6 +2116,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_not_support_on_device">"Ova se aplikacija ne može koristiti na vanjskom zaslonu"</string>
   <string name="gb_operat_frequently">Ne tako brzo!</string>
+  <string name="gb_performace_guide_disable_desc"><Data>"Nije moguće prebaciti na uravnoteženi način rada u Game Turbo kada je uključen način rada Performanse za cijeli sustav. Postavke baterije možete promijeniti u Sigurnosti.&lt;br>&lt;a href=\"#\">Otvori Sigurnost&lt;/a>"</Data></string>
   <string name="gb_performance_balance">Uravnoteženo</string>
   <string name="gb_performance_balance_tips">"Uravnoteženi način rada štedi energiju
 uz smanjenje brzine osvježavanja i ograničenja temperature"</string>

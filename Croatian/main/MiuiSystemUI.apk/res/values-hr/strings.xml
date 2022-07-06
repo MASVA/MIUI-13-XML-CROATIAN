@@ -914,6 +914,9 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
     <string name="device_locked_without_biometric_face">Biometrijsko otkrivanje nije moguće izvesti zbog upotrebe three-party one-key funkcije zaključavanja zaslona</string>
     <string name="device_locked_without_biometric_finger">Biometrijsko otkrivanje nije moguće izvesti zbog upotrebe three-party one-key funkcije zaključavanja zaslona</string>
     <string name="device_services">Usluge uređaja</string>
+	 <string name="dialog_forget_password_cancel">Odustani</string>
+    <string name="dialog_forget_password_message">Ako ste zaboravili svoj PUK kod, možete onemogućiti ovaj eSIM kako ne biste izgubili pristup svom uređaju. Nakon toga možete kontaktirati svog operatera da biste dobili pomoć.</string>
+    <string name="dialog_forget_password_ok">Onemogući</string>
     <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
     <string name="disable_carrier_button_text">Onemogući eSIM</string>
     <string name="disable_notification_summary">"Ne prikazuj obavijesti odabranih aplikacija."</string>
@@ -1143,6 +1146,7 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
     <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
     <string name="forced_resizable_secondary_display">Aplikacija možda neće funkcionirati na sekundarnom zaslonu.</string>
     <string name="forget_password_string">Zaboravljena zaporka</string>
+	 <string name="forget_password_string_for_esim"><u>Zaboravljen PUK kod</u></string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>

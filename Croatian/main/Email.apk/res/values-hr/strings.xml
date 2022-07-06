@@ -437,8 +437,8 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="contact_edit_set_black_list_receive">Premjesti poštu tog primatelja u Smeće (samo nove poruke)</string>
     <string name="contact_edit_set_black_list_receive_summary">Izbriši poštu koja sadrži ovog primatelja u polju Prima ili Kopija</string>
     <string name="contact_edit_set_black_list_title">Dodaj na listu blokiranih</string>
-    <string name="contact_edit_set_phone_contact">Uredi kontakte telefona</string>
-    <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
+    <string name="contact_edit_set_phone_contact">Uredi kontakte</string>
+    <string name="contact_edit_title_phone_contact">Uredi kontakte</string>
     <string name="contact_in_filter_call_phone_str">Poziv od %s</string>
     <string name="contact_in_filter_title">Pošiljatelj</string>
     <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
@@ -511,9 +511,10 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="default_opening_attchemnt_mode">Otvorite privitke pomoću zadanih aplikacija</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">ZADANE POSTAVKE</string>
-    <string name="default_signature">Poslano s mog Mi Telefona</string>
+    <string name="default_signature">Poslano s mog Xiaomi uređaja</string>
     <string name="default_signature_2">Poslano s mog %s</string>
-    <string name="default_signature_pad">Poslano sa mog Mi Pad-a</string>
+    <string name="default_signature_pad">Poslano s mog Mi uređaja</string>
+	 <string name="default_signature_phone">Poslano s mog Mi uređaja</string>
     <string name="del_account_questionnair_hint">"Možete li nam reći zašto brišete ovaj račun?"</string>
     <string name="delete">Izbriši</string>
     <string name="delete_contact_content">Želite li izbrisati ovaj kontakt?</string>
@@ -557,7 +558,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="downlaod_cancel_confirm_download">Zaustavi</string>
     <string name="downlaod_cancel_continue_download">"Ne zaustavljaj"</string>
     <string name="downlaod_confirm_download">Preuzmi</string>
-    <string name="downlaod_nonWifi_confirm_message">Koristiti mobilnu podatkovnu vezu za preuzimanje ovog privitka?</string>
+    <string name="downlaod_nonWifi_confirm_message">Preuzimanje bez Wi-Fi-ja može upotrijebiti značajnu količinu mobilnih podataka. Svejedno preuzeti?</string>
     <string name="downlaod_nonWifi_confirm_title">Preuzeti ovaj privitak?</string>
     <string name="download_again">Preuzmi ponovo</string>
     <string name="download_before_sharing">" još nije završeno preuzimanje."</string>
@@ -599,6 +600,11 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="enumeration_delimiter">" | "</string>
     <string name="error">Pogreška</string>
     <string name="error_icon_content_description">Pogreška</string>
+	 <string name="error_message_respond_revert_21">Uključite POP3 i pokušajte ponovo.</string>
+	 <string name="error_message_respond_revert_24">Vaša IP adresa je blokirana. Obratite se korisničkoj službi Sohu Mail-a kako biste riješili ovaj problem.</string>
+    <string name="error_message_respond_revert_25">Provjerite mrežnu vezu i pokušajte ponovno.</string>
+    <string name="error_message_respond_revert_26">Vaš račun je zamrznut. Prijavite se na Sohu Mail u svom pregledniku da biste ga aktivirali.</string>
+    <string name="error_message_respond_revert_27">Vaša zaporka je istekla. Prijavite se na Sohu Mail u svom pregledniku da biste dobili zaporku koju je generirao poslužitelj.</string>
     <string name="exception_cancel">"
   Ovaj događaj je otkazan
   za:
@@ -619,7 +625,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="failed_parse_eml_file">"Ne mogu otvoriti EML datoteku, pokušajte ponovo."</string>
     <string name="failed_read_phone_state_permission">"Nemate dopuštenja za pristup stanju telefona"</string>
     <string name="failed_read_write_calendar_permission">"Pristup kalendaru je ograničen"</string>
-    <string name="failed_read_write_contacts_permission">"Pristup kontaktima je ograničen"</string>
+    <string name="failed_read_write_contacts_permission">Dopustite pristup kontaktima da biste mogli koristiti ovu značajku</string>
     <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
     <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
     <string name="fallback_menu_item_share_link">Podijeli poveznicu</string>
@@ -1277,11 +1283,11 @@ Pokušajte s drugom pristiglom poštom."</string>
     <string name="permission_calendar_subtitle">Za sinkronizaciju događaja iz e-pošte u kalendar</string>
     <string name="permission_calendar_title">Pristup i dodavanje kalendarskih događaja</string>
     <string name="permission_des_calendar">Za sinkronizaciju događaja u kalendaru</string>
-    <string name="permission_des_contact">Za pristup e-pošti vaših kontakata kako biste automatski dovršili primatelje</string>
+    <string name="permission_des_contact">Za sinkronizaciju vaših kontakata e-pošte kao kontakta sustava. Preporučujemo odabir \"Uvijek dopusti\" kako biste izbjegli prekide.</string>
     <string name="permission_des_detail">"Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odabrati deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
-    <string name="permission_des_external_storage">Za stvaranje novih poruka e-pošte, kao i za spremanje i dodavanje privitaka</string>
+    <string name="permission_des_external_storage">Za izradu novih poruka e-pošte, kao i za spremanje i dodavanje privitaka</string>
     <string name="permission_des_phone_status">Za pristup IMEI radi identifikacije vašeg uređaja</string>
-    <string name="permission_des_storage">Za stvaranje novih poruka e-pošte, kao i za spremanje i dodavanje privitaka</string>
+    <string name="permission_des_storage">Za izradu novih poruka e-pošte, kao i za spremanje i dodavanje privitaka</string>
     <string name="permission_get_accounts_subtitle">Za prijavu i upravljanje računima sustava</string>
     <string name="permission_phone_status_subtitle">Za identifikaciju različitih uređaja</string>
     <string name="permission_phone_status_title">Pristup računima na uređaju</string>
@@ -1330,7 +1336,7 @@ Pokušajte s drugom pristiglom poštom."</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
     <string name="preference_eas_tips">Dodirnite "Aktiviraj" za postavljanje poslužitelja e-pošte.</string>
     <string name="preference_imap_tips"/>
-    <string name="preference_pop_tips">U POP3, privi(ci)tak biti će automatski preuzeti sa samom e-poštom. To može povečati uporabu mobilnih podataka.</string>
+    <string name="preference_pop_tips">Privitak će biti preuzet s e-poštom. Ovo može upotrijebiti značajnu količinu mobilnih podataka. Svejedno preuzeti?</string>
     <string name="preference_sender_image_description">"Prikaži slike profila pored imena pošiljatelja u pristigloj pošti"</string>
     <string name="preference_sender_image_title">Pokaži slike profila u dol. pošti</string>
     <string name="preferences_signature_dialog_title">Potpis</string>
@@ -1416,6 +1422,7 @@ Pokušajte s drugom pristiglom poštom."</string>
     <string name="quick_reply_hint_cc">"(U CC)"</string>
     <string name="quick_reply_hint_reply_only_from">Brzi odgovor (samo pošiljatelj)</string>
     <string name="quick_responses_empty_view">Nema brzih odgovora</string>
+	 <string name="quick_translation">Prevedi</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- 原始邮件 --------</string>
     <string name="quote_divider_11">----- 原文 -----</string>
@@ -1620,11 +1627,11 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="sunday_shortest">N</string>
     <string name="sync_calendra_fail_per_content">Dodirnite za omogućavanje pristupa kalendaru</string>
     <string name="sync_calendra_fail_per_title">"Ne mogu sinkronizirati kalendar"</string>
-    <string name="sync_calendra_fail_permission">"Ne mogu sinkronizirati kalendar, dopustite E-pošti pristup vašem kalendaru u Postavkama"</string>
+    <string name="sync_calendra_fail_permission">Dodijelite dopuštenja Kalendaru u Postavke > Dopuštenja da biste mogli sinkronizirati kalendarske događaje.</string>
     <string name="sync_contacts_fail_per_content">Omogućite dopuštenja za kontakte</string>
     <string name="sync_contacts_fail_per_title">Sinkronizacija kontakta nije uspjela</string>
     <string name="sync_contacts_fail_permission">Sinkronizacija kontakta nije uspjela. Omogućite dopuštenja kontakata u postavkama.</string>
-    <string name="sync_contacts_req_per_ignored">Sinkronizacija kontakta nije uspjela</string>
+    <string name="sync_contacts_req_per_ignored">Dopustite ovoj aplikaciji sinkronizaciju kontakata kako biste mogli koristiti ovu značajku</string>
     <string name="sync_error">Sinkronizacija nije bila moguća.</string>
     <string name="sync_error_message">Uređaj nema dovoljno prostora za pohranu za sinkronizaciju.</string>
     <string name="sync_failed_mi_authority_view_detail">Prikaži detalje</string>
@@ -1641,7 +1648,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="system_folders_trash_summary">Odaberite mapu za otpad s poslužitelja</string>
     <string name="system_folders_trash_title">Mapa za otpad</string>
     <string name="system_root_path">Postavke za unutarnju pohranu</string>
-    <string name="system_security_open_error">Nije moguće podesiti sigurnosni centar. Otvorite dopuštenja u postavkama telefona</string>
+    <string name="system_security_open_error">Dodijelite dopuštenja u Postavkama da biste mogli otvoriti Sigurnost</string>
     <string name="system_setup_open_error">"Nije moguće pozvati sinkronizaciju računa, uključite "postavljanje" sustava u računu za sinkronizaciju e-pošte"</string>
     <string name="tablet">tablet</string>
     <string name="tap_to_configure">Dodirnite za postavljanje</string>
@@ -1665,16 +1672,16 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="toast_bar_open_gmail_synchronization">Dodirnite za korištenje proxy poslužitelja za Gmail</string>
     <string name="toast_bar_send_fail_remind">"Ne mogu poslati e-poštu. Spremljeno u mapu \"Odlazno\".</string>
     <string name="toast_bar_sync_failed_client_cert">"Ne mogu sinkronizirati zbog nedostajućeg certifikata. Dodirnite da biste ponovo dodali certifikat."</string>
-    <string name="toast_bar_sync_failed_mi_authority">Prijavite se da biste autorizirali svoj uređaj</string>
-    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Nije moguće sinkronizirati kontakte i događaje. Promijenite povezana dopuštenja u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Ovaj uređaj nije autoriziran. Provjerite svoj SMS za autorizacijsku poruku."</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Ne mogu  sinkronizirati kontakte i događaje. Promijenite povezana dopuštenja u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Dopuštenja kalendara i kontakata su zatvoreni. Kalendar i kontakti ne mogu se sinkronizirati</string>
-    <string name="toastbar_calendar_permission_switch_allow_only_using">"Nije bilo moguće sinkronizirati događaje. Promijenite dopuštenja kalendara u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">"Ne mogu sinkronizirati događaje. Promijenite dopuštenja kalendara u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
     <string name="toastbar_calendar_permission_switch_close">Dopuštenja kalendara su zatvoreni. Kalendar se ne može sinkronizirati</string>
-    <string name="toastbar_contacts_permission_switch_allow_only_using">"Nije bilo moguće sinkronizirati kontakte. Promijenite dopuštenja za kontakte u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
-    <string name="toastbar_contacts_permission_switch_close">Dopuštenja kontakata su zatvoreni. Kontakti se ne mogu se sinkronizirati</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">"Ne mogu sinkronizirati kontakte. Promijenite dopuštenja za kontakte u \"Uvijek dopusti\" kako biste riješili ovaj problem."</string>
+    <string name="toastbar_contacts_permission_switch_close">Dopustite pristup kontaktima kako biste ih mogli dodati kao kontakte sustava</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Promjena sinkronizacije kalendara i kontakata je zatvorena. Kalendar i kontakti ne mogu se sinkronizirati</string>
     <string name="toastbar_local_calendar_sync_switch_close">Promjena sinkronizacije kalendara je zatvorena. Kalendar se ne može sinkronizirati</string>
-    <string name="toastbar_local_contacts_sync_swtich_close">Promjena sinkronizacije kontakata je zatvorena. Kontakti se ne mogu se sinkronizirati</string>
+    <string name="toastbar_local_contacts_sync_swtich_close">Dopustite ovoj aplikaciji sinkronizaciju kontakata kako biste ih mogli dodati kao kontakte sustava</string>
     <string name="today">Danas</string>
     <string name="today_text">Danas</string>
     <string name="tomorrow">Sutra</string>

@@ -1659,6 +1659,7 @@ to start using Top-up package"</string>
     <string name="location">Lokacija</string>
     <string name="lodgings_disable">Boravište je isključeno</string>
     <string name="lodgings_enable">Boravište je uključeno</string>
+	 <string name="low_battery_flash_when_ring_button_tip">"Ne mogu koristiti bljeskalicu prilikom zvona zbog slabe baterije"</string>
     <string name="login_account_button_text">Prijavite se</string>
     <string name="lte_checkbox_text">Postavite mobilne podatke za odabranu SIM karticu jednom kao zadano kada je 4G/3G SIM kartica promijenjena</string>
     <string name="lte_recognition_title">Prepoznavanje SIM kartice</string>
