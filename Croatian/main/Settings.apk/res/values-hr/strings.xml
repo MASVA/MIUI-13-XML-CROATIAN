@@ -4049,7 +4049,9 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
     <string name="face_data_input_structure_title">3D lice</string>
     <string name="face_data_input_title">Dodaj lice</string>
     <string name="face_data_introduction_add">Start</string>
-    <string name="face_data_introduction_msg">Lice se može upotrijebiti za otključavanje uređaja ili provjeru vašeg identiteta. Prije dodavanja podataka o licu dodajte zaporku Zaklj. zaslona.</string>
+    <string name="face_data_introduction_msg">Lice se može upotrijebiti za otključavanje uređaja ili provjeru vašeg identiteta. 
+	
+Prije dodavanja podataka o licu dodajte zaporku Zaklj. zaslona.</string>
     <string name="face_data_introduction_next">Dalje</string>
     <string name="face_data_introduction_title">Prepoznavanje lica</string>
     <string name="face_data_manage_delete">Izbrisati lice?</string>
@@ -4065,7 +4067,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
     <string name="face_data_siggesstion_next_time_cn">U redu (%ds)</string>
     <string name="face_data_suggesstion_first">Otključavanje lica manje je sigurno od PIN-a, zaporke ili uzorka. Vaš će uređaj možda biti otključan vašom fotografijom, kao i osobama ili predmetima sličnog izgleda.</string>
     <string name="face_data_suggesstion_first_cn">Da biste mogli koristiti otključavanje licem, moramo prikupiti podatke o vašem licu koji će zatim biti pohranjeni lokalno na ovom uređaju. Da biste ih izbrisali, potražite Otključavanje licem u postavkama, a zatim odaberite Otključavanje licem > Podaci o licu.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">Otključavanje licem manje je sigurno od PIN-a, zaporke ili uzorka. Vaš uređaj može biti otključan vašom fotografijom, kao i ljudima ili predmetima sličnog izgleda.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Otključavanje licem manje je sigurno od PIN-a, zaporke, uzorka ili otiska prsta. Vaš uređaj može biti otključan vašom fotografijom, kao i ljudima ili predmetima sličnog izgleda.</string>
 	 <string name="face_data_suggesstion_second">"Uvjerite se da su svi dijelovi lica jasno vidljivi. Ne nosite nikakav pribor koji bi mogao prekriti vaše lice. Neka vam lice bude ravnomjerno osvijetljeno i izbjegavajte izravno svjetlo."</string>
     <string name="face_intro_error_max">Dodali ste maksimalan broj lica</string>
     <string name="face_intro_error_unknown">Nije moguće dodati više lica</string>
@@ -4187,6 +4189,7 @@ Da biste saznali više, obratite se operateru."</string>
     <string name="finger_add_user_info_dialog_message">"Da biste mogli koristiti otključavanje otiskom prsta i plaćati otiscima prstiju, moramo prikupiti vaš otisak prsta. Otisak prsta bit će pohranjen lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje otiskom prsta\" u Postavkama, a zatim odaberite Otključavanje otiskom prsta > Otisak prsta. Ovu značajku nećete moći koristiti ako se ne slažete."</string>
     <string name="finger_add_user_info_dialog_next">Slažem se</string>
     <string name="finger_add_user_info_dialog_title">Pažnja</string>
+	 <string name="finger_detail_info_text">Promjena naziva otiska prsta</string>
     <string name="fingerprint_add_max">Maksimalni broj otisaka prstiju koji se može dodati iznosi %d</string>
     <string name="fingerprint_add_title">Dodajte otisak prsta</string>
     <string name="fingerprint_and_password_entrance_title">Zaklj. zaslona &amp; Otisak prsta</string>
@@ -5530,7 +5533,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
     <string name="location_category_location_services">Usluge lociranja</string>
     <string name="location_category_recent_location_access">Nedavni pristup lokaciji</string>
     <string name="location_category_recent_location_requests">Nedavni zahtjevi za lokaciju</string>
-	 <string name="location_description_no_gps">"Ovi uređaji ne podržavaju satelitsku navigaciju. Podaci o lokaciji generirani na temelju mrežnih podataka mogu biti nedostatni za neke značajke."</string>
+	 <string name="location_description_no_gps">"Ovaj uređaj ne podržava satelitsku navigaciju. Podaci o lokaciji generirani na temelju mrežnih podataka mogu biti nedostatni za neke značajke."</string>
     <string name="location_gps">GPS sateliti</string>
     <string name="location_high_battery_use">Visoka potrošnja baterije</string>
     <string name="location_indicator_settings_description">Prikaži za sve lokacije, uključujući mrežu i povezivost</string>
@@ -5737,9 +5740,7 @@ PIN štiti telefon u slučaju gubitka ili krađe."</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Otisak prsta zahtijeva zaporku</string>
     <string name="lockpassword_choose_your_password_message">Radi sigurnosti postavite zaporku</string>
     <string name="lockpassword_choose_your_password_second_space">"Postavite zaporku
-za Drugi prostor.
-Taj PIN mora sadržavati onoliko znamenki
-kao i PIN za Prvi prostor"</string>
+za Drugi prostor."</string>
     <string name="lockpassword_choose_your_pattern_header">Odaberite uzorak</string>
     <string name="lockpassword_choose_your_pattern_header_for_biometrics">Postavite uzorak za korištenje lica ili otiska prsta</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Otključavanje licem zahtijeva uzorak</string>
@@ -5750,7 +5751,8 @@ kao i PIN za Prvi prostor"</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Otključavanje licem zahtijeva PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Otisak prsta zahtijeva PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Postavite PIN 
- za Drugi prostor"</string>
+ za Drugi prostor.
+ Trebao bi biti iste duljine kao PIN Prvog prostora."</string>
     <string name="lockpassword_choose_your_pin_message">Radi sigurnosti postavite PIN</string>
     <string name="lockpassword_choose_your_pin_title">Unesite %1$d-%2$d znamenki</string>
     <string name="lockpassword_choose_your_profile_password_header">Postavite zaporku poslovnog profila</string>
@@ -5847,7 +5849,8 @@ kao i PIN za Prvi prostor"</string>
     <string name="lockpattern_recording_inprogress">Dignite prst kad završite</string>
     <string name="lockpattern_recording_intro_footer">Pritisnite Izbornik za pomoć.</string>
     <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Iscrtajte uzorak za otključavanje Drugog prostora:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Iscrtajte uzorak za otključavanje Drugog prostora.
+Povežite barem 4 točke.</string>
     <string name="lockpattern_restart_button_text">Iscrtajte ponovno</string>
     <string name="lockpattern_retry_button_text">Izbriši</string>
     <string name="lockpattern_settings_change_lock_pattern">Izmijeni uzorak za otključavanje</string>
@@ -6283,6 +6286,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_double_connection_summary">Kada uključite ovu značajku, možete odgovarati na pozive ili reproducirati audio ili video na oba povezana uređaja bez potrebe za ručnim prebacivanjem</string>
     <string name="miheadset_double_press_left">Dvaput pritisnite lijevu slušalicu</string>
     <string name="miheadset_double_press_right">Dvaput pritisnite desnu slušalicu</string>
+	 <string name="miheadset_double_toast">Stavite obje slušalice da biste mogli koristiti ovu značajku</string>
     <string name="miheadset_dual_connect_mode">Povežite se s dva uređaja</string>
     <string name="miheadset_dual_connect_mode_summary">Uključite za istovremeno povezivanje slušalica s dva Bluetooth uređaja</string>
     <string name="miheadset_enhanceVoice">Poboljšajte glas</string>
@@ -7591,6 +7595,8 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
     <string name="owner_space">Prvi prostor</string>
     <string name="p2p_summary_enable_GPS">Ova značajka radi kada su uključene usluge lokacije</string>
     <string name="packages_subtitle">Uključeni paketi</string>
+	 <string name="pad_add_fingerprint_finish_message">Nastavite za pristup dodatnim postavkama.</string>
+    <string name="pad_add_fingerprint_message">Stavite prst na tipku Power</string>
     <string name="pad_backup_summary">Napravite sigurnosnu kopiju i vratite stavke na ovom uređaju</string>
     <string name="pad_backup_title">Mobilni uređaj</string>
     <string name="pad_computer_backup_summary">Napravite sigurnosnu kopiju i vratite stavke pomoću računala</string>
@@ -10118,7 +10124,7 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
     <string name="smart_rotate_text_headline">Prepoznavanje lica koristi prednju kameru radi poboljšanja točnosti automatskog zakretanja. Slike se nikad ne pohranjuju i ne šalju Googleu.</string>
     <string name="smart_space_clock">Na prvi pogled</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
-    <string name="smartcover_sensitive_summary">Zaklj./otklj. telefon autom. koristeći smart cover</string>
+    <string name="smartcover_sensitive_summary">Zaklj./otklj. uređaj autom. koristeći smart cover</string>
     <string name="smartcover_sensitive_title">Smart Cover</string>
     <string name="smooth_adjust_ligth">Glađi prijelazi</string>
     <string name="smooth_adjust_ligth_summary">Neka prijelazi budu glađi dok ručno podešavate svjetlinu. Kad je ova značajka uključena, u nekim se slučajevima mogu pojaviti neusaglašenosti boja.</string>

@@ -1930,7 +1930,7 @@ Uvijek koristi ovaj broj"</string>
     <string name="msim_setting_sim_info_editor_title">Uredi pojedinosti SIM kartice</string>
     <string name="msim_sim_lock">Zaključano</string>
     <string name="msim_sim_radio_off">Isključeno</string>
-    <string name="msim_switch_data_conn_toast">SIM kartice su promijenjene. Vrsta mreže se promijenila. Pogledaj dodatne informacije za SIM kartice i mobilne mreže u izborniku Postavki.</string>
+    <string name="msim_switch_data_conn_toast">SIM kartice su promijenjene. Vrsta mreže se promijenila.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM utor 2 podržava samo GSM mreže. Poželjna vrsta mreža za ovaj utor je promijenjen na \"Samo 2G mreža\".</string>
     <string name="mtn_simlock_emergency">Hitna služba</string>
     <string name="mtn_simlock_text_tip">Umetnuta SIM kartica ne ispunjava zahtjev. Prije korištenja telefona morate umetnuti SIM karticu propisanu ugovorom. Za pojedinosti kontaktirajte svog lokalnog operatera.</string>
