@@ -2313,6 +2313,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
     <string name="qs_rearrange">Promijeni raspored Brzih postavki</string>
     <string name="qs_status_phone_muted">Na telefonu je isključen zvuk</string>
     <string name="qs_status_phone_vibrate">Telefon je postavljen na vibriranje</string>
+	 <string name="qs_traffic_message_type_exceed">%1$s %2$s prekoračeno</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s preostalo</string>
+    <string name="qs_traffic_message_type_used">Iskorišteno %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Dulje pritisnite tipku za uključivanje/isključivanje da biste pristupili kontrolama</string>
     <string name="quick_controls_setup_title">Postavljanje kontrola uređaja</string>
     <string name="quick_controls_subtitle">Dodavanje kontrola za povezane uređaje</string>
