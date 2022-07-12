@@ -640,6 +640,8 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
     <string name="xiaoai_ringtone_title">Mi AI melodije zvona</string>
+	 <string name="xiaomi_deskclock_uninstall_description_content">"Sat je aplikacija sustava. Nakon što deinstalirate aplikaciju, nećete moći provjeriti vrijeme, postaviti alarme ili koristiti druge značajke Sata."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Deinstalirati Sat?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

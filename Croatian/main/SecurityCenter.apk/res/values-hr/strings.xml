@@ -1125,6 +1125,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="btn_text_quick_save_power">Ohladi</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
   <string name="btn_text_start_check">Skeniraj</string>
+  <string name="bubble_app_empty_page">"Ne mogu pronaći aplikacije koje podržavaju oblačiće za razgovor na ovom uređaju"</string>
   <string name="btn_text_stop">Stop</string>
   <string name="bubble_app_manage">Upravljanje oblačićima razgovora</string>
   <string name="bubble_notification">Oblačići razgovora</string>
@@ -5254,9 +5255,9 @@ Za korištenje ovog ^1, prvo ga morate izbaciti."</string>
   <string name="storage_dialog_unsupported">"Ovaj uređaj ne podržava ovaj ^1.
 
 Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
-  <string name="storage_fbo_clear">Defragmentacija</string>
-  <string name="storage_fbo_des">"Unutarnja pohrana pati od fragmentacije, što bi moglo značajno usporiti vaš uređaj. Defragmentacija se izvodi automatski dok ne koristite uređaj. Ona fizički organizira vaše datoteke u najmanji broj fragmenata smanjujući kašnjenje."</string>
-  <string name="storage_fbo_number_tip">Spojeno na %1$s</string>
+  <string name="storage_fbo_clear">FBO osvježenje pohrane</string>
+  <string name="storage_fbo_des">"Unutarnja pohrana pati od fragmentacije, što bi moglo značajno usporiti vaš uređaj. FBO osvježenje pohrane se izvodi automatski dok ne koristite uređaj. Ona fizički organizira vaše datoteke u najmanji broj fragmenata smanjujući kašnjenje."</string>
+  <string name="storage_fbo_number_tip">Obrađeno %1$s</string>
   <string name="storage_fbo_tools">Optimizacija pohrane</string>
   <string name="storage_file_delete_tip">Želite li trajno izbrisati odabrane stavke? Neki od njih mogu se ponovno učitati kada je potrebno.</string>
   <string name="storage_file_dialog_delete_title">Izbriši stavke</string>
@@ -5279,6 +5280,7 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
   <string name="storage_menu_mount">Učitaj</string>
   <string name="storage_mount_failure">"Ne mogu učitati %1$s"</string>
   <string name="storage_mount_success">Uspješno %1$s učitan</string>
+  <string name="storage_my_device">Moj uređaj</string>
   <string name="storage_space_release_hint">Trebate više prostora za pohranu?</string>
   <string name="storage_system_log">Zapisnici sustava</string>
   <string name="storage_system_log_tip">Zapisi sustava bit će obrisani automatski po potrebi</string>
