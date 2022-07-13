@@ -97,8 +97,9 @@
     <string name="controls_favorite_other_zone_header">Drugo</string>
     <string name="controls_favorite_rearrange">Držite i povucite kontrolu za pomicanje</string>
     <string name="controls_favorite_removed">Sve su kontrole uklonjene</string>
-    <string name="controls_favorite_subtitle">Odaberite kontrole kojima želite pristupati iz izbornika napajanja</string>
+    <string name="controls_favorite_subtitle">Odaberite kontrole kojima želite pristupati iz izbornika Power</string>
     <string name="controls_favorite_toast_no_changes">Promjene nisu spremljene</string>
+	 <string name="controls_media_title">Mediji</string>
     <string name="controls_menu_add">Dodajte kontrole</string>
     <string name="controls_mijia_setup_subtitle">Odaberite aplikaciju za kontrolu vašeg Smart Home.</string>
     <string name="controls_mijia_setup_subtitle_login">Prijavite se za kontrolu vašeg Smart Home.</string>
@@ -194,6 +195,8 @@
     <string name="miui_toast_zen_to_dnd_when_lock">Pozivi i obavijesti bit će utišani kada je uređaj zaključan</string>
     <string name="miui_toast_zen_to_standard">Bešumno je uključeno</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
+	  <string name="miuix_access_state_desc">Odabrano</string>
+    <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -208,7 +211,7 @@
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
     <string name="miuix_appcompat_select_item">Odaberi stavke</string>
-    <string name="miuix_indexer_collect">Zbirke</string>
+	  <string name="miuix_indexer_collect">Zbirke</string>
     <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>

@@ -6268,6 +6268,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_cancel_device">Odustani</string>
     <string name="miheadset_checkUpdate">Provjeri ima li ažuriranja</string>
     <string name="miheadset_closeAnc">Isključeno</string>
+	 <string name="miheadset_close_leaudio_first">Isključite LE Audio u Dodatnim postavkama da biste mogli koristiti ovu značajku</string>
     <string name="miheadset_codec_sample_rate">Bluetooth brzina uzorkovanja zvuka</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Spojite slušalice za prikaz verzije firmvera</string>
@@ -6359,7 +6360,8 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_notification_summary">Prikaži widget u Panelu obavijesti kada su spojene slušalice</string>
     <string name="miheadset_notification_title">Prikaži u Panelu obavijesti</string>
     <string name="miheadset_ok_device">U redu</string>
-    <string name="miheadset_openAnc">Uklanjanje buke</string>
+    <string name="miheadset_openAnc">Poništavanje buke</string>
+	 <string name="miheadset_openAnc2">Poništavanje buke</string>
     <string name="miheadset_play_pause">Reprodukcija/Pauza</string>
     <string name="miheadset_plus">Glasnoća +</string>
     <string name="miheadset_preferences">Preference</string>
