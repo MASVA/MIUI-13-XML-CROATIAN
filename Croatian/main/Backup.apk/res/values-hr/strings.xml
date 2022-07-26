@@ -84,6 +84,8 @@
     <string name="backup_items_app_tailer">" x podaci aplikacija"</string>
     <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
     <string name="backup_new">Novo:</string>
+	 <string name="backup_notice_content">"Vaše sigurnosne kopije neće biti šifrirane, što znači da bi im mogle pristupiti aplikacije trećih strana. Mogu se pojaviti i drugi sigurnosni rizici. Svakako pohranite sigurnosno kopirane stavke na dobro zaštićeno mjesto okruženje."</string>
+    <string name="backup_notice_title">Pažnja</string>
     <string name="backup_notification_title">\"Sig. kopija\" se izvodi…</string>
     <string name="backup_progress">Izrada Sig. kopije…</string>
     <string name="backup_report">Prikaži detalje</string>
@@ -306,7 +308,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="local_main_backup_time">Zadnja Sig. kopija: %1$s</string>
     <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Šifrirajte stavke za koje radite Sig. kopiju pomoću svog Mi Računa</string>
-    <string name="local_main_encrypt_backup_title">Šifriraj Sig. kopiju</string>
+    <string name="local_main_encrypt_backup_title">Potvrdite račun za vraćanje stavki</string>
     <string name="local_main_latest_backup_time_loading">Samo trenutak…</string>
     <string name="local_no_backup">Nema Sig. kopija</string>
     <string name="local_no_backup_data">Nema još Sig. kopija</string>

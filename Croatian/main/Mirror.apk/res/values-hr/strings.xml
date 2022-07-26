@@ -30,6 +30,8 @@
     <string name="accessibility_fingerprint_dialog_help_area">Područje poruke za pomoć</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="app_name">Screen Combo</string>
+    <string name="app_no_storage_permission">Dopustite %1$s pristup pohrani u Postavke > Aplikacije > %2$s > Najprije dopuštenja</string>
+    <string name="app_opened_in_new_window">Ova aplikacija otvorena u novom prozoru</string>
     <string name="cancel">Odustani</string>
     <string name="cast_mcc_tips_button_cancel">Zanemari</string>
     <string name="cast_mcc_tips_button_ok">Postavke</string>
@@ -188,7 +190,6 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="pad_mirror_disconnect_tips_1">Veza je izgubljena</string>
     <string name="pad_mirror_disconnect_tips_2">Provjerite jesu li Wi-Fi i Bluetooth uključeni na oba uređaja i pokušajte ponovno.</string>
     <string name="pad_mirror_disconnect_tips_2_china">Provjerite jesu li Wi-Fi i Bluetooth uključeni na oba uređaja i pokušajte ponovo.</string>
-    <string name="pad_settings_bluetooth_enable_summary">Uključite Bluetooth da biste mogli pronaći uređaje u blizini. Uključiti sada?</string>
     <string name="pad_settings_bluetooth_enable_title">Uključite Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Rad sa svojim tabletom</string>
     <string name="pad_settings_connect_pc_group">Rad sa svojim računalom</string>
@@ -210,7 +211,6 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="pad_settings_handoff_device_title">Povezani uređaj</string>
     <string name="pad_settings_handoff_disable">Isključeno</string>
     <string name="pad_settings_handoff_disconnect">Nije povezano</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Uključite Bluetooth da biste pronašli uređaje u blizini</string>
     <string name="pad_settings_handoff_enable_disconnect">Držite uređaje blizu jedan drugom uz uključen Bluetooth</string>
     <string name="pad_settings_handoff_p2p_summary">Povežite se na prijenosnu pristupnu točku jednim dodirom</string>
     <string name="pad_settings_handoff_p2p_title">vruća točka</string>
@@ -256,6 +256,7 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="screen_num_over_limit">"Ne mogu otvoriti više prozora"</string>
     <string name="search_menu_title">Traži</string>
     <string name="send">Pošalji</string>
+	 <string name="settings_bluetooth_enable_summary">Uključite Bluetooth da biste mogli pronaći uređaje u blizini. Uključiti sada?</string>
     <string name="settings_connect">Kako se povezati</string>
     <string name="settings_connect_more_help">&lt;u&gt;Pomoć&lt;/u&gt;</string>
     <string name="settings_connect_pc_group">Radite s računalom</string>
@@ -276,6 +277,7 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="settings_feature_files_drag_summary">Povucite i ispustite stavke da biste ih prenijeli na uređaj i s njega</string>
     <string name="settings_feature_files_drag_title">Prijenos datoteka</string>
     <string name="settings_feature_intro">O ovoj značajci</string>
+	 <string name="settings_handoff_enable_bluetooth">Uključite Bluetooth za pronalaženje uređaja u blizini</string>
     <string name="settings_feature_keep_screen_summary">Neka vaš uređaj bude otključan kako biste spriječili neočekivano prekidanje veze</string>
     <string name="settings_feature_keep_screen_title">"Ne zaključavaj zaslon"</string>
     <string name="settings_feature_multi_window_summary">"Desnom tipkom miša pritisnite kopiju zaslona telefona da biste napravili još jednu"</string>

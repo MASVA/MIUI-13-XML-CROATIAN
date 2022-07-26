@@ -402,6 +402,7 @@
     <string name="micloud_setting_sms_summary_for_google_csp">Tekstualne poruke</string>
     <string name="micloud_setting_wifi_summary">Postavke Wi-Fi-ja</string>
     <string name="micloud_setting_wifi_summary_china">Postavke Wi-Fi-ja</string>
+	 <string name="micloud_share_cloud_storage_entrance_title">Podijelite cloud pohranu sa svojom obiteljskom grupom</string>
     <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg Poč. zaslona</string>
     <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
     <string name="micloud_space_duokan_title">Duokan</string>

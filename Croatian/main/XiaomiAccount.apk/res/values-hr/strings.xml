@@ -64,6 +64,7 @@
 ID vašeg računa: %s"</string>
     <string name="account_token_expired_title">Provjera autentičnosti nije uspjela</string>
     <string name="account_user_avatar">Fotografija profila</string>
+	 <string name="account_user_avatar_activity_not_found">"Nije moguće otvoriti Galeriju"</string>
     <string name="account_user_avatar_from_album">Odaberi fotografiju</string>
     <string name="account_user_avatar_from_camera">Snimi fotografiju</string>
     <string name="account_user_base_info">Osobni podaci</string>
