@@ -253,11 +253,15 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
     <string name="indices_title_feel">Osjećaj</string>
     <string name="indices_title_humidity">Vlaga</string>
     <string name="indices_title_pressure">Tlak</string>
+	 <string name="indices_title_uv">UV</string>
     <string name="indices_title_restriction">Ograničenje</string>
     <string name="indices_title_sport">Sport</string>
-    <string name="indices_title_uv">UV Index</string>
     <string name="indices_title_visibility">Vidljivost</string>
     <string name="indices_title_wind_speed">Brzina vjetra</string>
+	 <string name="indices_wind_direction_east">I</string>
+    <string name="indices_wind_direction_north">S</string>
+    <string name="indices_wind_direction_south">J</string>
+    <string name="indices_wind_direction_west">Z</string>
     <string name="information_manager_default_weather_bg">Zadana pozadina</string>
     <string name="information_manager_extension">Ekstenzija vremena</string>
     <string name="information_manager_information">Informacije o vremenu</string>
@@ -472,6 +476,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="search_weather">Vrijeme</string>
     <string name="select_show_city">Odaberite lokaciju</string>
     <string name="send">Pošalji</string>
+	 <string name="setting_notification_manager">Obavijesti</string>
+    <string name="setting_used_to_push_reminder">Primajte upozorenja i obavijesti o vremenskim prilikama</string>
     <string name="set">Postavke</string>
     <string name="settings">Postavke</string>
     <string name="settings_atmospheric_pressure_atm">Standardna atmosfera (atm)</string>

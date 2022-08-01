@@ -4678,7 +4678,7 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
     <string name="gxzw_quick_open_slow_summary">Pritisnite i držite ikonu otiska prsta da biste otvorili izbornik prečaca. Prijeđite prstom da biste koristili prečac.</string>
     <string name="gxzw_quick_open_slow_title">Pritisnite i držite</string>
     <string name="gxzw_quick_open_title">Prečaci</string>
-    <string name="gxzw_vibrate_summary">Vibriraj dok se reproducira animacija otključavanja otiskom prsta</string>
+    <string name="gxzw_vibrate_summary">Vibracija se neće pojaviti ako nije odabrana animacija otiska prsta</string>
     <string name="gxzw_vibrate_title">Vibriraj prilikom otključavanja</string>
     <string name="hand_mode_notification_summary">Dodirnite za više.</string>
     <string name="hand_mode_notification_title">Koristite kontrole ruba</string>

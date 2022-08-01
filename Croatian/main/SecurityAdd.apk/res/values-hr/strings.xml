@@ -368,6 +368,8 @@
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="pc_activity_title">Optimiziraj bateriju</string>
     <string name="pm_lable_name">O ROOT pristupu</string>
+	 <string name="power_center_battery_duration_screen_on">Preostalo vrijeme zaslona</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Preostalo %1$s %2$s vremena zaslona</string>
     <string name="power_autorun_apps_empty">Nema aplik. sa autom. pokretanjem</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
     <string name="privacy_declare_dialog_title">Uvjeti pružanja usluge</string>

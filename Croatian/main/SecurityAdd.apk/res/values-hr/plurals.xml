@@ -76,4 +76,16 @@
         <item quantity="other">"Nije dodano %d igara"</item>
         <item quantity="one">"Nije dodana %d igra"</item>
     </plurals>
+	 <plurals name="power_battery_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Preostalo je %s min. vremena zaslona</item>
+        <item quantity="one">Preostala je %s min. vremena zaslona</item>
+    </plurals>
 </resources> 

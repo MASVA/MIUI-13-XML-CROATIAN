@@ -73,6 +73,8 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="account_setting_message_body_load_text">Samo tijelo</string>
     <string name="account_settings_action">Postavke računa</string>
     <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
+	 <string name="account_settings_background_attachments_security_summary">Provjerite sigurnosne rizike u privitcima koji sadrže instalacijske pakete</string>
+    <string name="account_settings_background_attachments_security_title">Provjerite rizike u privicima</string>
     <string name="account_settings_background_attachments_summary">Preuzmi privitke koristeći Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Preuzmi privitke koristeći Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Preuzmi privitke automatski</string>
@@ -300,6 +302,10 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="attachment_unknown">%s datoteka</string>
     <string name="attachment_video">Videozapis</string>
     <string name="attachments_header">Privici</string>
+	 <string name="attachments_security_alert_install_message">Ovaj privitak je instalacijski paket. Provjerite vjerujete li izvoru prije nego što ga otvorite. Instalirati sada?</string>
+    <string name="attachments_security_alert_install_title">Pažnja</string>
+    <string name="attachments_security_alert_message">Ova poruka sadrži instalacijski paket. Provjerite vjerujete li izvoru prije nego što ga otvorite.</string>
+    <string name="attachments_security_install">Instaliraj</string>
     <string name="attendee_needed">Dodajte barem jednog pozivatelja.</string>
     <string name="auto_advance_help_title">"Nakon brisanja poruke, prikaži…</string>
     <string name="auto_advance_label">Izbriši tijek poruke</string>
@@ -392,6 +398,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="click_to_reload">Dodirnite zaslon za osvježiti</string>
     <string name="close">Zatvori</string>
     <string name="close_custom_folder">Sakrij podmape</string>
+	 <string name="close_tips">Podsjetnik za zatvaranje</string>
     <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
     <string name="compose">Nova poruka</string>
     <string name="compose_add_attachment_permission_denied">"Nije moguće proslijediti e-poštu. Potrebna su dopuštenja za pristup vanjskoj pohrani."</string>
@@ -672,6 +679,7 @@ Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koj
     <string name="folder_junk_name_en2">Smeće</string>
     <string name="folder_junk_name_en3">Smeće</string>
     <string name="folder_junk_name_en4">Smeće</string>
+	 <string name="folder_junk_name_en5">Spam</string>
     <string name="folder_list_current_account">Trenutni račun</string>
     <string name="folder_list_display_all">Prikaži sve mape</string>
     <string name="folder_list_display_only_import">Prikaži samo važne mape</string>
@@ -975,6 +983,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom provjerom autentičnosti računa
     <string name="message_details_title">Pojedinosti poruke</string>
     <string name="message_discarded">Skica je odbačena</string>
     <string name="message_invite_accept">Da</string>
+	 <string name="message_invite_calendar_download_prompt">Preuzmite Kalendar da biste mogli koristiti ovu značajku</string>
     <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
     <string name="message_invite_decline">Ne</string>
     <string name="message_invite_end_time">Vrijeme završetka</string>

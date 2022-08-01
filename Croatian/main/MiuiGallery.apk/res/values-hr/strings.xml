@@ -251,6 +251,9 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="assistant_page_discovery">Otkrij</string>
     <string name="assistant_page_label">Uspomene</string>
     <string name="assistant_page_server_error">Provjerite postavke mreže</string>
+	 <string name="assistant_today_of_year_function_closed_tip">Uključi</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Povratak u prošlost</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Početak</string>
     <string name="associate_face_album">Odaberi album</string>
     <string name="authorize_to_device_failed">"Ne mogu autorizirati"</string>
     <string name="authorize_watch_on_tv_failed">"Ne mogu autorizirati za gledanje na TV"</string>
@@ -622,6 +625,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="crossprocess">Pomak boja</string>
     <string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
     <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Mi Cloudom ova se aplikacija mora povezati s internetom.</string>
+	 <string name="cta_screenthrow_declare">"Da biste mogli emitirati zaslon ovog uređaja na vanjske monitore, ova se aplikacija mora povezati s internetom."</string>
     <string name="custom_select_title_deselect_all">Poništi odabir</string>
     <string name="custom_select_title_quickly_share">Podijeli</string>
     <string name="custom_select_title_select_all">Odaberi sve</string>
@@ -896,6 +900,7 @@ Napravite više fotografija vaših prijatelja!"</string>
     <string name="facelift">Sjaj lica</string>
     <string name="facetan">Preplanulo lice</string>
     <string name="fail_hint">"Ne mogu dovršiti radnju"</string>
+	 <string name="fail_reason_migrate">Obrada stavki… Pričekajte minutu ili dvije i pokušajte ponovo.</string>
     <string name="fail_to_pick_email">Nevažeća adresa e-pošte</string>
     <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
     <string name="family_member_invitation_text">Ostali članovi obitelji</string>
@@ -1247,6 +1252,8 @@ za fotografije"</string>
     <string name="home_page_empty_action">Snimi fotografiju</string>
 	 <string name="home_page_empty_action_new">Uvezite sa starog uređaja</string>
     <string name="home_page_label">Fotografije</string>
+	 <string name="home_sdcard_op_tip_msg">"Nije moguće dovršiti ovu radnju za sve odabrane slike. Isključite i ponovo montirajte svoju SD karticu."</string>
+    <string name="home_sdcard_tip_msg">Izgleda da je vaša SD kartica samo za čitanje. Isključite je i ponovno montirajte u Postavkama > O telefonu > Pohrana.</string>
     <string name="home_page_tab_photo">Fotografije</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">U redu</string>
@@ -1783,8 +1790,10 @@ za fotografije"</string>
     <string name="ocr_save_to_note">Spremi</string>
     <string name="ocr_save_to_note_new">Spremi u Bilješke</string>
     <string name="ocr_send">Podijeli</string>
+	 <string name="ocr_switch_hint">Prepoznajte tekst prikazan na slikama kako biste ga mogli odabrati ili poduzeti radnju</string>
+    <string name="ocr_switch_title">Prepoznavanje teksta na slikama</string>
     <string name="ocr_text_copied">Uspješno kopirano</string>
-	  <string name="ocr_text_copied_selected">Uspješno kopirano</string>
+	 <string name="ocr_text_copied_selected">Uspješno kopirano</string>
     <string name="ocr_text_link">URL</string>
     <string name="ocr_title">Rezultat</string>
 	  <string name="ocr_translation">Prevedi</string>
