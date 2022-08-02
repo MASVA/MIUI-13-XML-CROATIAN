@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_up_description">Idi na početnu</string>
+	 <string name="abc_action_bar_home_description">Idi na početnu</string>
     <string name="abc_action_menu_overflow_description">Više opcija</string>
     <string name="abc_action_mode_done">Gotovo</string>
     <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
@@ -29,6 +30,7 @@
     <string name="about_device_info">Prikaži pojedinosti o uređaju</string>
 	 <string name="about_mi_account">O Mi Računu</string>
     <string name="accept">Dopusti</string>
+	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="access_token_expired_warning">Weibo račun je istekao</string>
     <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
     <string name="account">Račun</string>
@@ -124,6 +126,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
 	 <string name="check_apk_update">Provjeri ažuriranja</string>
     <string name="checking_phone_num_availible">Provjera telefona…</string>
+	 <string name="child_account_system_ad_disable_hint">Ova značajka nije dostupna za dječje račune</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
     <string name="cloud_description_closed">Zauzeto | Sinkr. je isključena</string>
@@ -548,6 +551,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_phone_ticket_login">Prijavite se sa SMS-om</string>
     <string name="passport_prev">Natrag</string>
     <string name="passport_privacy_policy">Pravila o privatnosti</string>
+	 <string name="passport_privacy_policy_required">Pravila o privatnosti (obavezna)</string>
     <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
     <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
     <string name="passport_provision_input_email_register_prompt">Vaši osobni podaci bit će pohranjeni u skladu sa zakonima i propisima regije koju odaberete.</string>
@@ -683,13 +687,14 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="permission_write_external_storage">Pristup i spremanje stavki u pohranu</string>
     <string name="personal_info_desc">Fotografija, nadimak, i više</string>
     <string name="phone_num_use_for">Broj telefona se koristi za:</string>
-	 <string name="phone_register">Koristi broj telefona</string>
+	  <string name="phone_register">Koristi broj telefona</string>
     <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
     <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Mi Računa?"</string>
     <string name="privacy_policy_reject_confirm_title">"Ne mogu koristiti Mi Račun"</string>
     <string name="privacy_policy_update_msg">Pravila o privatnosti Mi Računa su ažurirana:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
     <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
+	  <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="provision_back">Natrag</string>
     <string name="provision_next">Dalje</string>
     <string name="provision_skip_underline">Preskoči</string>
@@ -794,6 +799,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u sistemskim aplikacijama. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku. Hvala na podršci! "</string>
     <string name="system_ad_switch">Oglasi u sistemskim aplikacijama</string>
     <string name="system_ad_switch_failed">"Ne mogu primjeniti postavke"</string>
+	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="talkback_scan_barcode">Skeniraj QR kod</string>
     <string name="temporary_not_available">"Ova značajka još nije dostupna."</string>
     <string name="third_party_login">Računi trećih strana</string>
@@ -828,7 +834,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
     <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
     <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
-    <string name="used_cloud_storage_info">Iskorišteno %s</string>
+    <string name="unknown_error_info">Nepoznata pogreška</string>
+	 <string name="used_cloud_storage_info">Iskorišteno %s</string>
     <string name="user_agreement_network_permission_msg">Moramo se povezati s internetom da bismo vam mogli pružiti potrebne usluge.</string>
     <string name="user_agreement_use_account_msg">Mi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
     <string name="user_avatar_update_title">Promijeni sliku profila</string>

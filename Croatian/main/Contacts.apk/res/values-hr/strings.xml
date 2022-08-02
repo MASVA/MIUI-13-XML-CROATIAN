@@ -421,7 +421,9 @@
     <string name="cancel_import_dialog_message">Zaustaviti uvoz kontakata?</string>
     <string name="cancel_import_dialog_title">"Zaustavi"</string>
     <string name="cancel_vcard_import_or_export_failed">"Uvoz/izvoz kartice vCard nije otkazan"</string>
-    <string name="chat">"Chat"</string>
+    <string name="category_contacts">Kontakti</string>
+    <string name="category_message_contacts">Poruke i kontakti</string>
+	  <string name="chat">"Chat"</string>
     <string name="chat_aim">Chatajte koristeći AIM</string>
     <string name="chat_gtalk">Chatajte koristeći Google Talk</string>
     <string name="chat_icq">Chatajte koristeći ICQ</string>
@@ -1382,7 +1384,7 @@ Za dodavanje kontakta na listu favorita :
     <string name="permission_notice_desc_write_call_logs">Za uređivanje povijesti poziva</string>
     <string name="permission_notice_desc_write_contacts">Za upravljanje kontaktima</string>
     <string name="permission_notice_desc_write_external_storage">Za dodavanje fotografija profila i uvoz vCards</string>
-    <string name="permission_record_audio_desc">Za upotrebu glasa tijekom provjere osobnih podataka</string>
+	  <string name="permission_record_audio_desc">Za upotrebu glasa tijekom provjere osobnih podataka</string>
     <string name="permission_retry_deny">Odustani</string>
     <string name="permission_retry_dialog_msg">Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom, upravljati kontaktima i ažurirati povijest poziva, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata i povijesti poziva,Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom, upućivati pozive putem prečaca na početnom zaslonu, upravljati svojim kontaktima i ažurirati povijest poziva, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata i povijesti poziva, upućivanje poziva i pristup podacima o uređaju.</string>
     <string name="permission_retry_dialog_msg_pad">Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom i upravljati svojim kontaktima, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata, kao i pristup podacima o uređaju.</string>

@@ -54,6 +54,8 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za spremanje snimaka zaslona</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="default_device_name">Nepoznati uređaj</string>
+	 <string name="device_list_all">Svi uređaji</string>
+    <string name="device_list_more">Više</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">Drugi je uređaj offline. Početi ispočetka.</string>
     <string name="device_status_failed">"Ne mogu poslati"</string>
@@ -78,7 +80,10 @@
     <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
     <string name="garbage_count">Postoji %1$s starih primjera</string>
     <string name="global_main_purpose">Dobro došli u Uređivač snimki zaslona! Ovu aplikaciju možete koristiti za obrezivanje i uređivanje snimaka zaslona. Ova se aplikacija mora povezati s internetom da bi mogla normalno raditi.</string>
-    <string name="help">"Ne možete pronaći uređaje?"</string>
+    <string name="global_pad">Moj tablet</string>
+    <string name="global_pc">Moj laptop</string>
+    <string name="global_phone">Moj telefon</string>
+	 <string name="help">"Ne možete pronaći uređaje?"</string>
     <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
     <string name="image_decode_failed">"Nisam mogao dekodirati sliku"</string>
     <string name="image_not_found">"Nisam mogao pronaći sliku"</string>

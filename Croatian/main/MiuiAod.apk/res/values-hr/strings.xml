@@ -25,6 +25,7 @@
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="add_custom_image">Vlastita slika</string>
     <string name="add_from_album">Dodaj iz Galerije</string>
+	 <string name="add_from_local">Odaberite sliku</string>
     <string name="afternoon">PM</string>
     <string name="align_center_horizontally">Vodoravno i poravnato</string>
     <string name="align_center_vertically">Složeno i poravnato</string>

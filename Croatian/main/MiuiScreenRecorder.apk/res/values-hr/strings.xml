@@ -34,6 +34,8 @@
     <string name="app_notification_info">Snimač zaslona radi u pozadini</string>
     <string name="app_notification_record_complete">"Snimka zaslona spremljena je u Galeriju
 Dodirnite za prikaz"</string>
+    <string name="app_notification_record_saved">"Snimka je uspješno spremljena
+Dodirnite za prikaz"</string>
     <string name="app_notification_title">Snimač zaslona</string>
     <string name="auto_stop_title">Videozapis je uspješno spremljen</string>
     <string name="battery_not_allowed" formatted="false">"Ne mogu snimati kad je baterija manje od 3%. Provjerite je li baterija najmanje 20%."</string>

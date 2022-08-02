@@ -537,6 +537,9 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="permission_read_storage_global">Pristup pohrani</string>
     <string name="permission_read_write_storage">Da biste mogli sigurnosno kopirati stavke, dopustite ovoj značajci da prvo pristupi pohrani.</string>
     <string name="permission_read_write_sys_app">Da biste mogli sigurnosno kopirati i vratiti poruke, kontakte i povijest poziva, dopustite ovoj značajci da prvo pristupi tim stavkama.</string>
+	  <string name="permission_read_write_sys_app1">Dopustite ovoj značajci pristup vašim porukama i kontaktima kako biste mogli sigurnosno kopirati i vratiti te stavke.</string>
+    <string name="permission_read_write_sys_app2">Dopustite ovoj značajci pristup vašim kontaktima kako biste mogli sigurnosno kopirati i vratiti ove stavke.</string>
+	  <string name="permission_record_audio_desc">Za upotrebu glasa tijekom provjere osobnih podataka</string>
     <string name="permission_related">Dopuštenja</string>
     <string name="permission_restore_calendar">Za vraćanje kalendarskih događaja</string>
     <string name="permission_restore_calendar_desc">Da biste mogli vratiti događaje u kalendaru, dopustite ovoj aplikaciji da prvo uredi vaše događaje u kalendaru.</string>

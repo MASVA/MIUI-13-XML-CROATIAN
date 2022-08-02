@@ -300,7 +300,8 @@
     <string name="onehour">30 minuta</string>
     <string name="open_close_tip_action">Razumijem</string>
     <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite radnu traku, a zatim povucite prema gore</string>
-    <string name="orange">Narančasta</string>
+    <string name="open_miui_optimization">Prvo uključite MIUI optimizaciju</string>
+	 <string name="orange">Narančasta</string>
     <string name="other_ime">Ostale tipkovnice</string>
     <string name="package_delete_confirm_step_1">Deinstalirati %s?</string>
     <string name="package_delete_confirm_step_2">Deinstaliranje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>

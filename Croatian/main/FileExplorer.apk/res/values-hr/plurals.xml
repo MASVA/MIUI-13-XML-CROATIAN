@@ -194,11 +194,11 @@
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Pronađeni novi videozapisi: %1$s</item>
-		 <item quantity="zero">Search results (%1$d items)</item>
         <item quantity="one">Pronađen nov videozapis: %1$s</item>
     </plurals>
     <plurals name="search_head_hint_all">
         <item quantity="other">Rezultati pretraživanja (%1$d stavki)</item>
+		   <item quantity="zero">Rezultati pretraživanja (%1$d stavki)</item>
         <item quantity="one">Rezultati pretraživanja (%1$d stavka)</item>
 		   <item quantity="two">Rezultati pretraživanja (%1$d stavke)</item>
         <item quantity="few">Rezultati pretraživanja (%1$d stavki)</item>

@@ -428,6 +428,9 @@ Brži protokol veze."</string>
     <string name="hdcp_checking_dialog_title">Postavke HDCP provjere</string>
     <string name="hdcp_checking_title">HDCP provjera</string>
     <string name="headset_battery_fw_failed">Slaba baterija</string>
+	 <string name="headset_battery_low">Slaba baterija. Sada napunite svoje slušalice.</string>
+    <string name="headset_connect_timeout">Veza je istekla. Počni ispočetka.</string>
+    <string name="headset_not_in_case">Stavite obje slušalice u kućište i počnite ispočetka</string>
     <string name="headset_connect_device">Poveži uređaj</string>
     <string name="headset_device_check_failed">Nije uspjelo</string>
     <string name="headset_device_donot_move">Ne pomičite uređaj</string>

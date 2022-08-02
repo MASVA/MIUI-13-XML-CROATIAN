@@ -448,6 +448,7 @@
     <string name="if_cancel">Otkazati ovu radnju?</string>
     <string name="image_loading_error">"Ne mogu učitati sliku"</string>
     <string name="imm_str_storage">Pohrana</string>
+	 <string name="import_files_from_old_phones">Uvezi sa starog uređaja</string>
     <string name="input_memo_hint">Unesite dodatne razloge (po izboru)</string>
     <string name="install_fail">"Ne mogu instalirati"</string>
     <string name="installing">Instaliranje…</string>

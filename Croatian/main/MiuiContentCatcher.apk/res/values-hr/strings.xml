@@ -63,6 +63,8 @@
     <string name="invalid_package_signature">Potpis aplikacije nije važeći</string>
     <string name="login_mi_account_alert">Pažnja</string>
     <string name="login_mi_account_summary">Upravitelj zaporkama sinkronizira zaporke s vašim Mi Računom. Prijavite se sada?</string>
+	 <string name="miuix_access_state_desc">Odabrano</string>
+	 <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -72,6 +74,8 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_indexer_collect">Zbirke</string>
+    <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

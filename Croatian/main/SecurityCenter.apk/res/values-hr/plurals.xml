@@ -1088,4 +1088,20 @@ Odmorite se!"</item>
         <item quantity="other">"Svaka čast! Otključali ste %s Uskršnjih jaja."</item>
         <item quantity="one">"Svaka čast! Otključali ste %s Uskršnje jaje."</item>
      </plurals>
+     <plurals name="power_battery_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+     </plurals>
+     <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+     </plurals>
+     <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Preostalo je %s min. vremena zaslona</item>
+        <item quantity="one">Preostala je %s min. vremena zaslona</item>
+     </plurals>
+     <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Uključite za dodavanje %s min. vremenu zaslona</item>
+        <item quantity="one">Uključite za dodavanje %s min. vremenu zaslona</item>
+     </plurals>
 </resources>

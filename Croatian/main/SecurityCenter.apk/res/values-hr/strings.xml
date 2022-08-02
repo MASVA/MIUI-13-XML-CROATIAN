@@ -182,6 +182,9 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="add_bill_reminder_alarm">Postavite upozorenje o stanju na telefonu</string>
   <string name="add_done">Uspješno dodano</string>
   <string name="add_game">Dodaj igru</string>
+  <string name="added_game_notification_summary">Počnite igrati sada</string>
+  <string name="added_game_notification_title">%s je sada u Game Turbo</string>
+  <string name="added_game_start_game">Igrajte</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. 
   
@@ -234,6 +237,12 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_choose_engine_title">Definicije</string>
   <string name="antivirus_detect_apps_dialog_cancel">Zanemari</string>
   <string name="antivirus_detect_apps_dialog_content">%s je klasificirana kao aplikacija za financijske prijevare od strane Nacionalnog centra za borbu protiv prijevara. Ova aplikacija predstavlja znatne sigurnosne rizike.</string>
+  <string name="antivirus_detect_apps_dialog_content_text">Ova aplikacija može predstavljati rizik za sigurnost vaših osobnih podataka.</string>
+  <string name="antivirus_detect_apps_dialog_message">Ako vas osoblje korisničke službe, vlasti ili osobe koje možda poznajete zamole da koristite ovu aplikaciju, <Data>&lt;font color=#F22424>potvrdite njihov identitet prije nego nastavite&lt;/font>.</Data></string>
+  <string name="antivirus_detect_apps_dialog_message_reject_permission">Dopuštenja koje je zahtijevala ova aplikacija bile su ograničena. Ovdje možete upravljati dopuštenjima: %s.</string>
+Više o ovom izvornom tekstuZa dodatne podatke o prijevodu potreban je izvorni tekst
+Pošalji povratne informacije
+Bočne ploče
   <string name="antivirus_detect_apps_dialog_uninstall">Deinstaliraj</string>
   <string name="antivirus_detect_apps_noti_message">Ova aplikacija predstavlja sigurnosni rizik</string>
   <string name="antivirus_detect_apps_noti_title">Više aplikacija uključujući %s može predstavljati sigurnosni rizik</string>
@@ -1132,6 +1141,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
   <string name="btn_text_start_check">Skeniraj</string>
   <string name="bubble_app_empty_page">"Ne mogu pronaći aplikacije koje podržavaju oblačiće za razgovor na ovom uređaju"</string>
+  <string name="bubble_mode_barrage_switch_tips">Uključite za prikaz oblačića razgovora za minimizirane aplikacije kao komentare na zaslonu</string>
+  <string name="bubble_mode_barrage_tips">Oblačići za razgovor za minimizirane aplikacije bit će prikazani kao komentari na zaslonu</string>
   <string name="btn_text_stop">Stop</string>
   <string name="bubble_app_manage">Upravljanje oblačićima razgovora</string>
   <string name="bubble_notification">Oblačići razgovora</string>
@@ -1283,6 +1294,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="chat_uint">" sati"</string>
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
+  <string name="chip_text">Chip tekst</string>
   <string name="choose">Odaberite</string>
   <string name="choose_gs_show_way">Odaberite orijentaciju početne stranice</string>
   <string name="clean_immediately">Očisti</string>
@@ -1518,6 +1530,13 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
   <string name="dialog_button_ignore">Ignoriraj</string>
   <string name="dialog_button_yes">Da</string>
+  <string name="dialog_btn_delete_icon">Ukloni</string>
+  <string name="dialog_btn_no_create_icon">Odustani</string>
+  <string name="dialog_btn_yes_create_icon">Dodaj</string>
+  <string name="dialog_msg_create_icon_content">Želite li odmah dodati prečac na početni zaslon?</string>
+  <string name="dialog_msg_create_icon_not_remain_anymore">"Ne prikazuj više"</string>
+  <string name="dialog_msg_delete_icon_content">Sigurnost vam omogućuje da očistite smeće na svom uređaju, pronađete i neutralizirate viruse, uštedite bateriju, upravljate dopuštenjima i više.</string>
+  <string name="dialog_msg_delete_icon_title">Ukloniti ovaj prečac s početnog zaslona?</string>
   <string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
   <string name="dialog_change_package_type_title">Promjena vrste plana podataka</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
@@ -1629,6 +1648,48 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="edit_new_task_name">Unesite naziv zadatka</string>
   <string name="edit_phone_num">Uređivanje telefonskog broja SIM kartice</string>
   <string name="eew_privacy_revoke_title">Povucite suglasnost na Politiku privatnosti upozorenja o potresu</string>
+  <string name="eletric_card_key_1">Pozivi</string>
+  <string name="eletric_card_key_2">Poruke</string>
+  <string name="eletric_card_key_3">Aplikacije</string>
+  <string name="eletric_card_key_4">Pregledavanje weba</string>
+  <string name="eletric_card_key_5">Emitiranje</string>
+  <string name="eletric_card_one_identification_risk_app">Upozori na nepouzdane aplikacije</string>
+  <string name="eletric_card_one_identification_risk_app_summary">Primajte upozorenja i automatski ograničite dopuštenja kada se otkriju rizici</string>
+  <string name="eletric_card_one_identification_risk_mms">Otkrij rizike u dolaznim porukama</string>
+  <string name="eletric_card_one_identification_risk_mms_summary">"Provjerite rizike u dolaznim porukama na temelju telefonskog broja pošiljatelja i priloženih URL-ova"</string>
+  <string name="eletric_card_one_identification_risk_screen">Sakrij privatne stavke</string>
+  <string name="eletric_card_one_identification_risk_screen_summary">"Ne prikazuj obavijesti i privatne aplikacije na vanjskim monitorima tijekom emitiranja"</string>
+  <string name="eletric_card_status_bg_content_disable">Isključeno</string>
+  <string name="eletric_card_status_bg_content_enable">Uključeno</string>
+  <string name="eletric_card_summary_1">Provjerite sigurnosne rizike u dolaznim pozivima</string>
+  <string name="eletric_card_summary_2">Otkrij rizike u dolaznim porukama</string>
+  <string name="eletric_card_summary_3">Upozori na nepouzdane aplikacije</string>
+  <string name="eletric_card_summary_4">Obavijesti o rizičnim stranicama</string>
+  <string name="eletric_card_summary_5">Sakrij privatne stavke</string>
+  <string name="eletric_card_two_identification_risk_app">Upozori na rizične transakcije</string>
+  <string name="eletric_card_two_identification_risk_app_summary">Primajte upozorenja prilikom obavljanja financijskih transakcija nakon sumnjivih poziva ili poruka</string>
+  <string name="eletric_card_two_identification_risk_mms">Upozori na proslijeđene kontrolne kodove</string>
+  <string name="eletric_card_two_identification_risk_mms_summary">Primajte upozorenja kada se kontrolni kodovi prosljeđuju aplikacijama društvenih medija</string>
+  <string name="eletric_group_title_one_identification_risk_app">Automatsko ograničavanje dopuštenja</string>
+  <string name="eletric_group_title_one_identification_risk_app_summary">Automatsko ograničavanje dopuštenja kada se otkriju rizici u aplikacijama</string>
+  <string name="eletric_group_title_one_identification_risk_mms">Zaštitite poruke</string>
+  <string name="eletric_group_title_one_identification_risk_mms_summary">Primanje obavijesti o mogućim rizicima u porukama poslanim s nepoznatih brojeva</string>
+  <string name="eletric_group_title_one_identification_risk_screen">Sakrij obavijesti</string>
+  <string name="eletric_group_title_one_identification_risk_screen_summary">"Vaše se obavijesti neće prikazivati ​​na vanjskim monitorima tijekom emitiranja"</string>
+  <string name="eletric_group_title_two_identification_risk_app">Primajte upozorenja o financijskim rizicima</string>
+  <string name="eletric_group_title_two_identification_risk_app_summary">Primajte upozorenja kada se izvrše financijske transakcije nakon sumnjivih poziva ili poruka</string>
+  <string name="eletric_group_title_two_identification_risk_mms">Primajte upozorenja kada se proslijeđuju kontrolni kodovi</string>
+  <string name="eletric_group_title_two_identification_risk_mms_summary">"Primit ćete upozorenje kada kontrolni kodovi iz vaših poruka budu proslijeđeni društvenim medijima"</string>
+  <string name="eletric_group_title_two_identification_risk_screen">Sakrij privatne aplikacije</string>
+  <string name="eletric_group_title_two_identification_risk_screen_summary">Emitiranje će se pauzirati ako se prebacite na Alipay, WeChat, Galeriju ili Messaging</string>
+  <string name="eletric_group_two_identification_risk_app">Upozori na rizične financijske transakcije</string>
+  <string name="eletric_group_two_identification_risk_mms">Zaštita kontrolnim kodom</string>
+  <string name="eletric_identification_unfamiliar_numbers">Identificiraj nepoznate brojeve</string>
+  <string name="eletric_identification_unfamiliar_numbers_summary">Prikaz vrsta poziva za nepoznate brojeve na temelju povratnih informacija korisnika</string>
+  <string name="eletric_key_protect_electric_announcement">Zaštita od prijevare</string>
+  <string name="eletric_risk_call_identification">Zaštitite pozive</string>
+  <string name="eletric_risk_call_identification_announcement">Primajte obavijesti o mogućim rizicima prilikom primanja poziva s nepoznatih brojeva</string>
+  <string name="eletric_status_protecting">Uključeno</string>
   <string name="email">E-pošta</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">Nema aplikacija</string>
@@ -2346,6 +2407,40 @@ vašeg igranja"</string>
   <string name="gtb_spring_festival_egg_obtain_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="gtb_spring_festival_goto_gameturbo">Pregled</string>
   <string name="gtb_wlan_speed_tips">Korištenje Mi Wi-Fi-ja…</string>
+  <string name="gtb_after_acceleration">Nakon</string>
+  <string name="gtb_auto_memory_clean">Automatsko brisanje memorije</string>
+  <string name="gtb_before_acceleration">Prije</string>
+  <string name="gtb_brightness_adjust">Svjetlina</string>
+  <string name="gtb_deep_garbage_cleaning">Izvođenje dubinskog čišćenja...</string>
+  <string name="gtb_dnd">DND</string>
+  <string name="gtb_garbage_clean">Oslobodite prostor za pohranu</string>
+  <string name="gtb_garbage_cleaned_tip">Oslobodite %1$s za poboljšanje performansi</string>
+  <string name="gtb_intelligent_garbage_clean">Oslobodite prostor za pohranu</string>
+  <string name="gtb_memory_clean">Očisti memoriju</string>
+  <string name="gtb_mode_normal">Redovito</string>
+  <string name="gtb_mode_performance">Performanse</string>
+  <string name="gtb_open_performance_mode_tip">Način rada poboljšat će vaše iskustvo igranja uz povećanje potrošnje energije i zagrijavanje vašeg uređaja.</string>
+  <string name="gtb_phone_accelerate">Poboljšajte performanse</string>
+  <string name="gtb_realtime_performance_monitoring">Praćenje performansi</string>
+  <string name="gtb_screenrecord">Snimanje</string>
+  <string name="gtb_screenshot">Snimka zaslona</string>
+  <string name="gtb_screenshot_pinned">Snimka zaslona</string>
+  <string name="gtb_setting">Postavke</string>
+  <string name="gtb_spring_festival_guide">"Prebaci se na pejzažni način rada
+da se pridružite našem lovu na jaja!"</string>
+  <string name="gtb_spring_festival_guide_know">Shvaćam</string>
+  <string name="gtb_spring_festival_push_active_desc">Osvojite telefone, pametne uređaje i kupone</string>
+  <string name="gtb_spring_festival_push_active_title">Potraga za uskršnjim jajima je u tijeku!</string>
+  <string name="gtb_spring_festival_push_desc">Pridružite se našem lovu na jaja kako biste osvojili nagrade</string>
+  <string name="gtb_spring_festival_push_egg_title">Dobili ste uskrsno jaje!</string>
+  <string name="gtb_spring_festival_push_gift_title">Egg hunt nagrade stižu!</string>
+  <string name="gtb_spring_festival_push_join">Pridružite se</string>
+  <string name="gtb_spring_festival_push_see">Pogledajte</string>
+  <string name="gtb_spring_festival_shortcut_create">Stvorite prečac na početnom zaslonu</string>
+  <string name="gtb_start_phone_accelerate">Pojačanje</string>
+  <string name="gtb_stop_accelerate">Zaustavi</string>
+  <string name="gtb_timer">Mjerač vremena</string>
+  <string name="gtb_voice_changer">Mjenjač glasa</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>
@@ -3615,6 +3710,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_battery_chargefull_time">Dok se potpuno ne napuni</string>
   <string name="power_center_battery_detail">Detalji</string>
   <string name="power_center_battery_duration">Preostalo vrijeme</string>
+  <string name="power_center_battery_duration_screen_on">Preostalo vrijeme zaslona</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
   <string name="power_center_battery_health_poor_tip">Čini se da je stanje baterije slabo. Provjerite bateriju u ovlaštenom servisnom centru.</string>
@@ -3639,6 +3735,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_bottom">Trajanje baterije možete povećati do %1$dh %2$dm. Uključiti Štednju baterije?</string>
   <string name="power_center_dialog_msg_title">Uključite da dobijete %1$s dodatnog vremena. Sljedeće radnje će se poduzeti za štednju baterije:</string>
   <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, MIUI će izvršiti sljedeće optimizacije:</string>
+  <string name="power_center_dialog_msg_title_screen_on">"Dobit ćete %1$s vremena zaslona uređaja ako uključite ovu značajku. Evo mjera koje će uštedjeti bateriju:"</string>
   <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
@@ -3790,6 +3887,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_idle">Uređaj u mirovanju</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh preostalo</string>
   <string name="power_main_battery_last_hour_minute">%1$sh %2$sm preostalo</string>
+  <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s preostalo vrijeme zaslona</string>
+  <string name="power_main_open_last_hour_minute_screen_on">Uključite da biste dodali %1$s %2$s vremena zaslona</string>
   <string name="power_mode_airplane_mode">Zrakoplovni način</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min.</string>
   <string name="power_mode_auto_clean_memory">Očisti memoriju</string>
@@ -4665,6 +4764,14 @@ Povući suglasnost sada?"</string>
   <string name="scanning_bar_system_text">Dopuštenja aplikacija</string>
   <string name="scanning_bar_system_title">Skeniranje sustava…</string>
   <string name="screenrecord_not_find">Instalirajte najnoviju verziju Snimača zaslona i pokušajte ponovo.</string>
+  <string name="screen_share_protection_negative_button">"Ne dijeli"</string>
+  <string name="screen_share_protection_summary">"Aplikacija koju sada koristite sadrži vaše osobne podatke koji bi mogli biti vidljivi drugim ljudima ako dijelite svoj zaslon. Svejedno podijeliti?"</string>
+  <string name="screen_share_protection_title">Pažnja</string>
+  <string name="screen_share_protection_warning_icon_title">Zaštita od prijevare</string>
+  <string name="screen_share_protection_warning_positive_button">Dijeli</string>
+  <string name="screen_share_warning_button">Shvaćam</string>
+  <string name="screen_share_warning_summary">"Vaše dolazne obavijesti neće biti prikazane na dijeljenom zaslonu."</string>
+  <string name="screen_share_warning_title">"Obavijesti se neće prikazivati"</string>
   <string name="sd_eject">Isključi SD karticu</string>
   <string name="sd_eject_summary">Isključite SD karticu da biste je sigurno uklonili</string>
   <string name="sd_format">Formatiraj SD karticu</string>
@@ -5457,6 +5564,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_anti_fraud_dialog_message">Zaštita od prijevare</string>
   <string name="system_anti_fraud_dialog_title">Upozorenje protiv prijevare</string>
   <string name="system_anti_fraud_dialog_title2">Upozorenje protiv prijevare</string>
+  <string name="system_anti_fraud_stayaway_from_risk">Izbjegnite digitalnu prijevaru</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_app_permission_instruction">Ova aplikacija treba sljedeća dopuštenja za pružanje osnovnih usluga sustava. Upravljanje dopuštenjima za ovu je aplikaciju ograničeno jer će promjena statusa dopuštenja dovesti do abnormalnosti u radu sustava.</string>
   <string name="system_application">Aplikacije sustava</string>

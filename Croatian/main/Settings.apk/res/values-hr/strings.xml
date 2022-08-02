@@ -647,7 +647,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
     <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
     <string name="allow_oaid_used">Koristi virtualni ID</string>
     <string name="allow_oaid_used_desc">"Aplikacije neće moći pristupiti bilo kojem ID-u osim ako im to izričito ne dopustite. Neke značajke osobnih preporuka možda neće raditi ispravno kada je ova značajka uključena."</string>
-    <string name="allow_overlay_description">Dopustite toj aplikaciji da se prikazuje iznad drugih aplikacija koje upotrebljavate. Aplikacija će moći vidjeti gdje ste dodirnuli ili promijeniti sadržaj zaslona.</string>
+    <string name="allow_ongoing_title">Dopusti trajne obavijesti</string>
+	 <string name="allow_overlay_description">Dopustite toj aplikaciji da se prikazuje iznad drugih aplikacija koje upotrebljavate. Aplikacija će moći vidjeti gdje ste dodirnuli ili promijeniti sadržaj zaslona.</string>
     <string name="allow_sound">Dopusti zvuk</string>
     <string name="allow_sound_title">Dopusti zvuk</string>
     <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
@@ -1590,6 +1591,7 @@ u razdoblju ^2"</string>
     <string name="bluetooth_bcast_rcvr_device_name">Prijamnik za emitiranje</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Odustani</string>
     <string name="bluetooth_blacklist_remove_device">Odblokiraj</string>
+	 <string name="bluetooth_broadcast">Emitiranje</string>
     <string name="bluetooth_broadcast_pin_configure">Emitiranje: Bluetooth kod za privatnost</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Emitiranje: konfigurirajte Bluetooth kod za privatnost</string>
     <string name="bluetooth_broadcasting">Emitiranje</string>
@@ -7467,7 +7469,8 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
     <string name="notify_connect_summary">Podsjeti me kod pristupa na CMCC Wi-Fi</string>
     <string name="now">Ponovo pokreni</string>
 	 <string name="nrca_need_reset">Ponovo pokrenite uređaj da biste primijenili promjene</string>
-    <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
+    <string name="nrca_switch_title">Koristi agregaciju 5G operatera</string>
+	 <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
     <string name="nsd_quick_toggle_title">Otkrivanje mrežne usluge</string>
     <string name="number_of_device_admins_none">Nema aktivnih aplikacija</string>
     <string name="oaid_apps_summary">Omogućite ili ograničite pristup pojedinačnim aplikacijama</string>

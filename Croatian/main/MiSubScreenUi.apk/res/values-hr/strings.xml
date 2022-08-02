@@ -95,6 +95,7 @@
     <string name="miuix_appcompat_confirm_description">Potvrdi</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+	 <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -184,7 +185,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-    <string name="not_add_contact">Nije dodano</string>
+    <string name="music_null">Nema reprodukcije</string>
+	 <string name="not_add_contact">Nije dodano</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_new_message">Nova pruka</string>
     <string name="page_detail_preview_tip">Okrenite telefon za pregled</string>
@@ -204,6 +206,7 @@
     <string name="small_display_style">Stražnji zaslon</string>
     <string name="sps_cancel">Pritisnite i držite za izlaz</string>
     <string name="step_to_image_community">Pronađite više na Mi Community</string>
+	 <string name="subscreen_brightness">Svjetlina</string>
     <string name="subscreen_could_edit_pic">Povucite slike za veličinu, pritisnite i držite za brisanje</string>
     <string name="subscreen_other">Ostalo</string>
     <string name="subscreen_other_dialog_cancel">Odustani</string>

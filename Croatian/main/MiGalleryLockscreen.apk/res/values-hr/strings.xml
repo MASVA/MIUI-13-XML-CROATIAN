@@ -221,6 +221,8 @@
     <string name="detail_no_more_recomm">Nema više stavki za prikazivanje.</string>
     <string name="detail_no_net">"Ne mogu se povezati na mrežu."</string>
     <string name="detail_outer_menu_icon">Izbornik</string>
+	  <string name="detail_recomm_excellent">Istaknuto</string>
+    <string name="detail_recomm_personal">Preporučeno</string>
     <string name="detail_recomm_fail">"Ne mogu dobiti preporuke"</string>
     <string name="detail_recomm_load_tip">Podudaranje s vašim interesima…</string>
     <string name="detail_share_moment">Trenuci</string>
@@ -409,6 +411,7 @@ To može generirati dodatne naknade."</string>
     <string name="look_str">Popularno</string>
     <string name="main_fragment_title_discover">Otkrijte</string>
     <string name="main_fragment_title_home">Preporuke</string>
+	 <string name="main_fragment_title_home_excellent">Istaknuto</string>
     <string name="main_fragment_title_search">Najbolje</string>
     <string name="main_fragment_title_user">Postavke</string>
     <string name="manage">Upravljaj</string>

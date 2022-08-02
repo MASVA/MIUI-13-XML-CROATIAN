@@ -1712,6 +1712,8 @@ dd.MM"</string>
     <string name="miui_notification_menu_snooze">Odgodi</string>
     <string name="miui_notification_menu_title_not_allow">Ograniči</string>
     <string name="miui_notification_menu_unfold">Označi kao važno</string>
+	  <string name="miui_notification_slide_menu_msg_ongoing">Želite li sada ograničiti trajne obavijesti za \"%1$s\"?</string>
+    <string name="miui_notification_slide_menu_ongoing">Ograniči trajne obavijesti</string>
     <string name="miui_ringer_count_down">Odbrojavanje</string>
     <string name="miui_ringer_standard">Bešumno</string>
     <string name="miui_ringer_standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
