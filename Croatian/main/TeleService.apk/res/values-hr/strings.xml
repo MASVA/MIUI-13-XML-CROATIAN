@@ -903,8 +903,9 @@ Isključiti mobilne podatke?"</string>
 
 Koristiti svejedno mobilne podatke?"</string>
     <string name="data_enabled">Podaci su omogućeni</string>
-	 <string name="data_interruption_remind">"Izgleda da vaše mrežno okruženje nije pouzdano. Da biste poboljšali vezu, dopustite svom uređaju da koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici."</string>
-    <string name="data_plan">Planovi mob. podataka</string>
+	 <string name="data_interruption_remind">"Izgleda da vaše mrežno okruženje nije pouzdano. Da biste poboljšali vezu, dopustite svom uređaju korištenje mob. podataka tijekom VoLTE poziva na sekundarnoj SIM kartici."</string>
+    <string name="data_interruption_remind_for_t">"Izgleda da vaše mrežno okruženje nije pouzdano. Da biste poboljšali vezu, dopustite svom uređaju korištenje mob. podataka tijekom VoLTE poziva na sekundarnoj SIM kartici."</string>
+	 <string name="data_plan">Planovi mob. podataka</string>
     <string name="data_usage_disable_mobile">Želite li isključiti mobilne podatke?</string>
     <string name="data_usage_ota">Ažuriranja sustava</string>
     <string name="data_usage_template">Potrošeno je %1$s mobilnih podataka u sljedećem razdoblju: %2$s</string>
@@ -2917,6 +2918,9 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
     <string name="smart_forwarding_settings_menu">Pametno prosljeđivanje</string>
     <string name="smart_forwarding_settings_menu_summary">Ako jedan broj nije dostupan, uvijek proslijedite pozive na svoj drugi broj</string>
     <string name="smart_multinetwork_acceleration_title">Pametno mrežno ubrzanje</string>
+	 <string name="smart_switch_dual_sim_prompt">Povezivanje na mobilnu podatkovnu mrežu pomoću SIM %1$s može stvoriti dodatne naknade za prijenos podataka. Postavite ograničenje korištenja podataka kako biste izbjegli dodatne naknade.</string>
+    <string name="smart_switch_dual_sim_summary">Automatsko prebacivanje između podatkovnih SIM kartica na temelju kvalitete mrežne veze i statusa uređaja</string>
+    <string name="smart_switch_dual_sim_title">Prebacivanje između podatkovnih SIM kartica</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Provjerite je li broj koji ste unijeli ispravan. U suprotnom nećete moći slati ni primati SMS. Za potvrdu vašeg SMSC broja kontaktirajte svog operatera."</string>
     <string name="sp_unlock_failed">SIM zahtjev otključavanja Davatelja usluga neuspješno.</string>
