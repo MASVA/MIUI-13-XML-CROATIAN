@@ -151,7 +151,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="close">Zatvori</string>
     <string name="close_custom_permission_warning_text">"Bez dopuštenja za pohranu, ova aplikacija neće moći preuzeti stavke i prilagoditi vaš uređaj. Isključiti svejedno?"</string>
 	 <string name="close_custom_permission_warning_text_above_eleven">"Bez dopuštenja za pohranu ova aplikacija neće moći prilagoditi vaš uređaj. Isključiti svejedno?"</string>
-    <string name="common_applying">Postavljanje…</string>
+    <string name="clock">Instaliraj aplikaciju Sat</string>
+	  <string name="common_applying">Postavljanje…</string>
     <string name="common_downloading">Preuzimanje…</string>
     <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
@@ -527,6 +528,7 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="incompatible_dialog_ok">Razumijem</string>
     <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
     <string name="install_failed">"Ne mogu instalirati"</string>
+	 <string name="install_clock">"Još niste instalirali Sat. Preuzeti sada?"</string>
     <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
     <string name="internal_online_precust_gorgeous_color_name">Prekrasna boja</string>
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
@@ -925,7 +927,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Izjava o ukidanju usluga Tema</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Pročitajte i prihvatite \"Izjavu o ukidanju usluga Tema\" prije nego što otkažete naše usluge.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Upravo ćete otkazati usluge Teme."</string>
-	 <string name="privacy_phone_read_and_write_storage_above_eleven">Pristup pohrani</string>
+	  <string name="privacy_phone_read_and_write_storage">Pristup pohrani</string>
+	  <string name="privacy_phone_read_and_write_storage_above_eleven">Pristup pohrani</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o ukidanju usluga Tema&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti Pravila o privatnosti Tema&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
@@ -980,6 +983,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="pull_down_view_error_message">Nema internetske veze. Provjerite vezu ili pokušajte ponovo.</string>
     <string name="pull_down_view_refresh">Osvježi</string>
     <string name="pull_down_view_title">"Što ima novog"</string>
+	 <string name="purchased">Kupljene</string>
     <string name="purchased_list">Kupljene</string>
     <string name="purchased_list_current">Optimizirane teme</string>
     <string name="purchased_list_format">Kupljeno %1$s</string>
@@ -1570,6 +1574,7 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
     <string name="video_silence_apply_success">Video bez zvuka uspješno postavljen</string>
     <string name="video_wallpaper_apply_warning">Ova pozadina bit će postavljena i na vaš Poč. zaslon i na Zaklj. zaslon. Postaviti sada?</string>
     <string name="video_wallpaper_import">Dodirnite za dodavanje stavki</string>
+	 <string name="voice_input">Glasovni unos</string>
     <string name="wallpaper_apply">Primjeni</string>
     <string name="wallpaper_apply_full">Sve</string>
 	 <string name="wallpaper_apply_inner">Primjeni na unutarnji zaslon</string>

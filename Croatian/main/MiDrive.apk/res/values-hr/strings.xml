@@ -600,7 +600,11 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
     <string name="pause_upload">Pauzirano</string>
     <string name="paused">Pauzirano</string>
     <string name="permission_account_desc">Pristup svim računima pohranjenima na ovom uređaju</string>
-    <string name="permission_account_title">Računi</string>
+    <string name="permission_account_desc_pad">Pristup svim računima pohranjenim na uređaju</string>
+    <string name="permission_account_title_pad">Pristup računima</string>
+    <string name="permission_storage_desc_pad">Pristup fotografijama i datotekama na uređaju</string>
+    <string name="permission_storage_title_pad">Pristup pohrani</string>
+	  <string name="permission_account_title">Računi</string>
     <string name="permission_accpeted">Odobreno</string>
     <string name="permission_camera_desc">Snimanje fotografija i videozapisa</string>
     <string name="permission_camera_title">Kamera</string>

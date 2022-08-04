@@ -342,7 +342,8 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="loading_data">Samo trenutak…</string>
     <string name="location_permission_desc">Za pronalaženje uređaja u blizini</string>
     <string name="location_permission_request">Za povezivanje s drugim uređajima u blizini</string>
-    <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
+    <string name="lockscreen_access_pattern_cell_added">Uzorak dodan</string>
+	  <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
     <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
     <string name="lockscreen_access_pattern_start">Uzorak započet</string>
     <string name="login">Prijavi se</string>

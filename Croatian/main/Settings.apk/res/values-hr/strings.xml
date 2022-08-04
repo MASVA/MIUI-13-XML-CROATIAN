@@ -6364,6 +6364,7 @@ Ne možete poništiti ovu radnju!"</string>
     <string name="miheadset_ok_device">U redu</string>
     <string name="miheadset_openAnc">Poništavanje buke</string>
 	 <string name="miheadset_openAnc2">Poništavanje buke</string>
+	 <string name="miheadset_open_closeAnc">Poništavanje buke uključeno/isključeno</string>
     <string name="miheadset_play_pause">Reprodukcija/Pauza</string>
     <string name="miheadset_plus">Glasnoća +</string>
     <string name="miheadset_preferences">Preference</string>

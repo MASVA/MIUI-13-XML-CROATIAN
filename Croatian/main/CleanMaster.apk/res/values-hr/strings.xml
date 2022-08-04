@@ -265,7 +265,10 @@
     <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
     <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
     <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
-    <string name="common_open_on_phone">Otvaranje na telefonu</string>
+    <string name="common_google_play_services_install_text">"%1$s neće raditi bez usluga Google Play, koje nedostaju na vašem uređaju."</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost usluga Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
+	 <string name="common_open_on_phone">Otvaranje na telefonu</string>
     <string name="common_signin_button_text">Prijava</string>
     <string name="common_signin_button_text_long">Prijava uslugom Google</string>
     <string name="copy">Kopiraj</string>

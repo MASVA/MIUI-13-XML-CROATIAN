@@ -195,6 +195,9 @@
     <string name="hawaii">Havaji</string>
     <string name="help">"Ne možete pronaći uređaje?"</string>
     <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
+	 <string name="hs_guide_dialog_button_confirm">Razumijem</string>
+    <string name="hs_guide_dialog_message">"Ova aplikacija još nije optimizirana za novi pejzažni način rada. Umjesto toga prebačena je na drugi kompatibilni izgled."</string>
+    <string name="hs_guide_dialog_title">Pažnja</string>
     <string name="icelatte">Ledena kava</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na tipku Početna</string>
     <string name="incomingmessage">Dolazna poruka</string>

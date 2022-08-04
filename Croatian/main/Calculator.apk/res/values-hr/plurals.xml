@@ -96,4 +96,12 @@
         <item quantity="other">%d mjeseci</item>
         <item quantity="one">%d mjesec</item>
     </plurals>
+	     <plurals name="loan_repayment_detail">
+        <item quantity="other">Detaljna otplata (%d godina)</item>
+        <item quantity="one">Detaljna otplata (%d godina)</item>
+     </plurals>
+     <plurals name="tenure_years">
+        <item quantity="other">%d godina</item>
+        <item quantity="one">%d godina</item>
+     </plurals>
 </resources>
