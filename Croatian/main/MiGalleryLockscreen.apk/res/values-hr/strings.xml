@@ -175,8 +175,8 @@
     <string name="cw_added_fav_no_pic">Nema stavki.</string>
     <string name="cw_added_toast">Ova stavka je dodana prije.</string>
     <string name="cw_adding">Dodavanje (%1$d)</string>
-    <string name="cw_album_no_pic">"Ne mogu pronaći slike na vašem uređaju"</string>
-    <string name="cw_album_no_right">Dopustite Wallpaper Carousel pristup Galeriji</string>
+    <string name="cw_album_no_pic">"Ovdje još nema ništa"</string>
+    <string name="cw_album_no_right">Potrebna su dopuštenja</string>
     <string name="cw_all_folder">Nedavne slike</string>
     <string name="cw_batch_all_added_tip">"Nije moguće dodati stavke koje su dodane prije."</string>
     <string name="cw_batch_part_tip_fail">Dodane su neke stavke</string>
@@ -187,7 +187,7 @@
     <string name="cw_delete">Izbriši</string>
     <string name="cw_delete2">Izbriši (%d)</string>
     <string name="cw_deleting">Izbriši (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galerija</string>
+    <string name="cw_local_pic">Odaberite slike</string>
     <string name="cw_my_fav">Favoriti</string>
     <string name="cw_permission_tip">Dopustite Wallpaper Carousel pristup pohrani u Postavke &gt; Postavke aplikacije.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Razumijem</string>
@@ -213,7 +213,7 @@
     <string name="detail_menu_history">Povijest</string>
     <string name="detail_menu_home">Idi na početnu stranicu</string>
     <string name="detail_menu_setting">Postavke aplikacije</string>
-    <string name="detail_menu_settingbtn_save">Spremi u Galeriju</string>
+    <string name="detail_menu_settingbtn_save">Spremi</string>
     <string name="detail_menu_settingbtn_setting">Postavke</string>
     <string name="detail_menu_settingbtn_share">Podijeli</string>
     <string name="detail_menu_wall">"Današnje pozadine"</string>
@@ -910,8 +910,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
     <string name="save_hdpicture_in_favor">Pogledajte HD slike u Favoritima</string>
-    <string name="save_picture_success">Spremljeno</string>
-    <string name="save_to_album">Spremljeno u Galeriju</string>
+    <string name="save_picture_success">Uspješno spremljeno</string>
+    <string name="save_to_album">Uspješno spremljeno</string>
     <string name="save_to_album_fail">"Ne mogu spremiti"</string>
     <string name="scribe_btn_ok">Pretplati se</string>
     <string name="scribe_title1">Pretplati se na Wallpaper Carousel</string>
@@ -923,7 +923,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
     <string name="see_more">Pogledaj više</string>
     <string name="see_more_content">Pogledaj više</string>
     <string name="select_package">Odaberi verziju</string>
-    <string name="select_photo_album">Odaberi album</string>
+    <string name="select_photo_album">Odaberi slike</string>
     <string name="select_picture">Odaberi slike</string>
     <string name="select_picture_des">Dodajte svoje fotografije i mrežne slike u miks kako bi se automatski prikazale u prezentaciji.</string>
     <string name="send">Poašalji</string>

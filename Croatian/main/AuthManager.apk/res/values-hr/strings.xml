@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Pristup Galeriji</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Omogućite ovoj aplikaciji pristup stavkama u vašoj Galeriji</string>
     <string name="HIPS_Perm_AudioRecorder">Snimanje zvuka</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">snimati zvuk i tel. pozive</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">snimiti zvuk</string>
     <string name="HIPS_Perm_AutoStart">Pokrenuti kod pokretanja sustava</string>
     <string name="HIPS_Perm_AutoStart_Desc">pokrenuti kod pokretanja sustava</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Promjeniti Bluetooth povezivanje</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">uređivanje kontakata</string>
     <string name="HIPS_Perm_External_Storage">Pristup i promjena datoteka na unutarnjoj pohrani</string>
     <string name="HIPS_Perm_External_Storage_Desc">"dodavati i brisati datoteke na unutarnjoj pohrani uređaja"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Snimanje zvuka i upućivanje poziva</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">snimiti zvuk</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Automatsko pokretanje aplikacija u pozadini</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Pristup kalendarskim događajima</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Pristup i uređivanje povijesti poziva</string>
@@ -293,7 +293,7 @@
     <string name="permdesc_in_calls">Nadgledanje dolaznih poziva</string>
 	 <string name="permdesc_location">Želite li dopustiti %1$s pristup informacijama o lokaciji?</string>
     <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
-    <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka i upućivanje poziva?</string>
+    <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
     <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
     <string name="permdesc_out_calls">Nadgledanje odlaznih poziva</string>
 	 <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
