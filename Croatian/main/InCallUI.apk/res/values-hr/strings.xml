@@ -76,6 +76,8 @@
     <string name="call_button_tools_text">Značajke</string>
     <string name="call_contacts_deny_permission_msg">"Odbili ste dopuštenje za čitanje kontakata ne mogu prikazati informacije o kontaktima."</string>
     <string name="call_description_recording">Snimanje…</string>
+	  <string name="call_log_short_in">Ovaj broj vas je upravo nazvao</string>
+    <string name="call_log_short_out">Upravo ste nazvali ovaj broj</string>
     <string name="call_extension_conference_mode">Konferencija</string>
     <string name="call_not_support_high_frequency_click">"Ne dodirujte ovu tipku tako često"</string>
     <string name="call_progress_info_call_forwarding">Ovaj poziv je proslijeđen</string>

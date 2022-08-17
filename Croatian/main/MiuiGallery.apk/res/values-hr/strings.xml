@@ -1197,6 +1197,8 @@ za fotografije"</string>
     <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
     <string name="gallery_setting">Postavke</string>
     <string name="gallery_sync_disable_toast">Sinkr. Galerije nije omogućena</string>
+	 <string name="gallery_uninstall_description_content">"Galerija je aplikacija sustava koja vam omogućuje pregled, upravljanje i sinkronizaciju fotografija i videozapisa na svim povezanim uređajima. Ako deinstalirate Galeriju, izgubit ćete stavke koje ste učinili privatnima i druge povezane značajke za gledanje i odabir. Stavke galerije također vam više neće biti dostupne. Svejedno deinstalirati?"</string>
+    <string name="gallery_uninstall_description_title">Deinstalirati Galeriju?</string>
     <string name="generate_story_summary">"Snimite dovoljno fotografija, priključite punjač i isključite zaslon kako bi se uspomene pojavile. Već generirane uspomene neće nestati ako isključite ovu značajku."</string>
     <string name="generate_story_title">Uspomene</string>
     <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>

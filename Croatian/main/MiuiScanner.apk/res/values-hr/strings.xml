@@ -636,6 +636,7 @@
     <string name="saveDone">Uspješno spremljeno</string>
     <string name="save_as_PDF">Spremi kao PDF</string>
     <string name="save_as_picture">Spremi kao sliku</string>
+	 <string name="save_documents_ui">Spremljeno u Datoteke</string>
     <string name="save_excel_result_title">Spremi</string>
     <string name="save_excel_title">Spremi Excel datoteku</string>
     <string name="save_fail">"Ne mogu spremiti"</string>
@@ -646,9 +647,9 @@
     <string name="scanHistory_close">Isključi</string>
     <string name="scanHistory_isOpen">Započeti pratiti povijest skeniranih predmeta?</string>
     <string name="scanHistory_open">Uključi</string>
-    <string name="scan_document_top_tip">Skenirajte fizički dokument i izradite PDF</string>
-    <string name="scan_document_top_tip_second">Skenirajte više dokumenata i izradite jedan PDF</string>
-    <string name="scan_form">Skeniraj tablicu</string>
+    <string name="scan_document_top_tip">Skenirajte papirnati dokument da biste izradili PDF</string>
+    <string name="scan_document_top_tip_second">Skenirajte više stavki za izradu PDF-a</string>
+	 <string name="scan_form">Skeniraj tablicu</string>
     <string name="scan_form_top_tip">Skenirajte, spremajte i uređujte tablice</string>
     <string name="scan_general_top_tip">Prepoznajte biljke, ljude i proizvode</string>
     <string name="scan_fail">"Ne mogu skenirati kod"</string>

@@ -84,6 +84,7 @@
     <string name="cookies_content_two">"Odlučite želite li da naši pouzdani pružatelji sadržaja treće strane koriste kolačiće za prilagodbu preporuka sadržaja i oglasa na temelju vaših interesa."</string>
     <string name="cookies_title">Personalizirani sadržaj i kolačići</string>
     <string name="copy">Kopiraj</string>
+	 <string name="create_shortcut">Prečac Poč. zaslona</string>
     <string name="data_traffic_enable_dialog_title">"Ako sada niste povezani s Wi-Fi mrežom, vaš će uređaj koristiti mobilne podatke. Korištenje mobilnih podataka može generirati dodatne troškove mobilnog operatera."</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="desc_extra_fingerprint"/>

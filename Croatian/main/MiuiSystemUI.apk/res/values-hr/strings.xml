@@ -2325,7 +2325,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
     <string name="quick_settings">Brze postavke</string>
     <string name="quick_settings_autobrightness_label">Autom. svjetlina</string>
     <string name="quick_settings_batterysaver_label">Štednja baterije</string>
+	 <string name="quick_settings_bluetooth_connected_tip">Uspješno povezano putem Bluetootha</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
+	 <string name="quick_settings_bluetooth_disconnected_tip">Svi Bluetooth uređaji danas će ostati isključeni</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (broj uređaja: %d)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth isključen</string>

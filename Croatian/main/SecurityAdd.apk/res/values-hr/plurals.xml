@@ -68,6 +68,10 @@
         <item quantity="other">Nove obavijesti: %d</item>
         <item quantity="one">%d nova obavijest</item>
     </plurals>
+	<plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Vaša sesija povećanja brzine mreže završit će za %d dana. Možda ćete početi doživljavati kašnjenja mreže. Obnoviti sesiju sada?</item>
+        <item quantity="one">Vaša sesija povećanja brzine mreže završit će za %d dan. Možda ćete početi doživljavati kašnjenja mreže. Obnoviti sesiju sada?</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>

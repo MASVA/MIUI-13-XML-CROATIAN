@@ -146,6 +146,8 @@
     <string name="find_device_status_title_phone">Pronađi uređaj</string>
     <string name="find_permission_location_summary">Za lociranje ovog uređaja</string>
     <string name="find_permission_location_title">Pristup lokaciji</string>
+	  <string name="find_permission_phone_sim_info_summary">Za pristup vašoj lokaciji putem SMS-a kada niste povezani na mrežu</string>
+    <string name="find_permission_phone_sim_info_title">Pristup informacijama o uređaju</string>
     <string name="find_permission_phone_summary">"Za pristup telefonskom broju radi lociranja ovog uređaja kada nije spojen na internet"</string>
     <string name="find_permission_phone_title">Pristup podacima o uređaju</string>
     <string name="find_permission_sms_summary">"Za lociranje ovog uređaja kada nije spojen na internet"</string>

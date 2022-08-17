@@ -536,6 +536,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="passport_user_password_hint">Zaporka</string>
 	 <string name="phone_auto_login_register_with_local_number">Izradi račun</string>
 	 <string name="please_agree_protocal">Prihvatite protokol</string>
+	 <string name="please_download_gallery">Instalirajte Galeriju za prikaz</string>
     <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
     <string name="passport_barcode_add_account_prompt">Da povežete račun, skenirajte ponovno QR kôd nakon što se prijavite.</string>
     <string name="passport_can_not_receive_verification_code">"Ne možete primiti kôd za provjeru?"</string>

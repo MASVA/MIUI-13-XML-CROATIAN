@@ -46,6 +46,9 @@
     <string name="autofill_save_sub_message">"Možete pregledavati i upravljati svojim zaporkama u Postavke &gt; Zaporke &amp; Sigurnost &gt; %s."</string>
     <string name="autofill_save_title">Spremi zaporke automatski</string>
     <string name="autofill_service_name">Upravljanje zaporkama</string>
+	 <string name="back_double_tap">Dvostruki dodir iza</string>
+    <string name="back_tap">Dodir iza</string>
+    <string name="back_triple_tap">Trostruki dodir iza</string>
     <string name="battery_authentic_failed_button">Razumijem</string>
     <string name="battery_authentic_failed_title">Pažnja</string>
     <string name="beep">Bip</string>
@@ -79,6 +82,7 @@
     <string name="candy">Bomboni</string>
     <string name="carousel">Vrtuljak</string>
     <string name="celesta">Celesta</string>
+	 <string name="change_brightness">Prilagodi svjetlinu</string>
     <string name="child">Djetinjstvo</string>
     <string name="childhood">Djetinjstvo</string>
     <string name="chimes">Zvončići</string>
@@ -86,7 +90,8 @@
     <string name="chord">Akord</string>
     <string name="citylight">Gradska svjetla</string>
     <string name="clank">Zveket</string>
-    <string name="close">Isključi</string>
+    <string name="close">Isključeno</string>
+	 <string name="close_app">Zatvori trenutnu aplikaciju</string>
     <string name="configure_input_methods">Odaberite tipkovnicu</string>
     <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
     <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
@@ -129,6 +134,10 @@
     <string name="dock_tip_splitscreen_landscape_float">Držite i povucite prema dolje da biste se prebacili na plutajući prozor.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Povucite traku okomito da biste zamijenili položaje dva prozora aplikacije.</string>
     <string name="dock_tip_splitscreen_portrait_float">Držite i povucite na lijevu ili desnu stranu zaslona da biste se prebacili na plutajući prozor.</string>
+	 <string name="double_click_power_key">Dvaput pritisnite tipku Power</string>
+    <string name="double_click_volume_down_when_lock">Dvaput pritisnite Glasnoća - kada je zaslon zaključan</string>
+    <string name="double_knock">Dvostruko kuckanje</string>
+    <string name="dump_log">Dohvatiti zapisnike vezane uz probleme</string>
     <string name="echo">Eho</string>
     <string name="eighthours">8 sati</string>
     <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
@@ -148,6 +157,7 @@
     <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
     <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
     <string name="file_sending">Prijenos datoteka…</string>
+	 <string name="fingerprint_double_tap">Dvostruki dodir senzora otiska prsta</string>
     <string name="fireflies">Krijesnice</string>
     <string name="first_back_long_press_message">"Za postavljanje prilagođenog pritisnite &amp; zadržite radnju za Navigacijske tipke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
     <string name="flip_screen_camera_tip">Okrenite uređaj da koristite kameru</string>
@@ -162,7 +172,7 @@
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Uključi</string>
     <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
     <string name="freeform_exchange_tip">Otvori plutajući prozor u načinu cijelog zaslona</string>
-    <string name="freeform_exchange_tip2">Povucite u kut za otkazati</string>
+    <string name="freeform_exchange_tip2">Povucite u kut za odustati</string>
 	 <string name="frenchchic">Šik</string>
     <string name="frequent_email">Česta adresa e-pošte</string>
     <string name="frequent_phrases">Česti izrazi</string>
@@ -170,6 +180,7 @@
     <string name="frog">Žaba</string>
     <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
     <string name="game">Igra</string>
+	 <string name="gesture_function_dialog_message">%1$s koristi se za \"%2$s\". Zamijeniti s \"%3$s\"?</string>
     <string name="glee">Glee</string>
     <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
     <string name="global_actions_reboot">"Ponovno pokreni"</string>
@@ -180,6 +191,7 @@
     <string name="global_phone">Moj telefon</string>
     <string name="glockenspiel">Glockenspiel</string>
     <string name="glorious">Slava</string>
+	 <string name="go_to_sleep">Isključi zaslon</string>
     <string name="greenandblue">Duga</string>
     <string name="guitar">Gitara</string>
     <string name="hallofmemories">Sjećanja</string>
@@ -228,6 +240,11 @@
 	 <string name="kb_reset_toast">Tipkovnica uspješno poništena</string>
     <string name="key_btn_ok">U redu</string>
     <string name="key_btn_space">Razmak</string>
+	 <string name="key_combination_power_back">Power i Natrag</string>
+    <string name="key_combination_power_home">Power i Početna</string>
+    <string name="key_combination_power_menu">Power i Izbornik</string>
+    <string name="key_combination_power_volume_down">Glasnoća - i Power</string>
+    <string name="key_none">Ništa</string>
     <string name="keyboard_connect_failed">"Povezivanje tipkovnice nije uspjelo. Ponovo je pričvrstite."</string>
     <string name="keyboard_identity_reject_confirm">Razumijem</string>
     <string name="keyboard_identity_reject_message">"Čini se da vaša tipkovnica nije kompatibilna s ovim uređajem."</string>
@@ -235,6 +252,9 @@
     <string name="keyboard_upgrade_failed">"Ne mogu ažurirati tipkovnicu"</string>
     <string name="keyboard_upgrade_start">Ažuriranje tipkovnice…</string>
     <string name="keyboard_upgrade_success">Tipkovnica je uspješno ažurirana</string>
+	 <string name="knock_gesture_v">Nacrtajte V zglobom</string>
+    <string name="knock_long_press_horizontal_slid">Pritisnite i prijeđite vodoravno zglobom</string>
+    <string name="knock_slide_shape">Nacrtajte krug zglobom</string>
     <string name="ks_back_home">Početni zaslon</string>
     <string name="ks_close_window">Zatvori trenutni prozor</string>
     <string name="ks_launch_control_center">Centar za kontrolu</string>
@@ -244,6 +264,21 @@
     <string name="ks_regional_screen_shot">Snimka zaslona (djelomična)</string>
     <string name="ks_screenshot">Snimka zaslona (cijeli zaslon)</string>
     <string name="kungfu">Kung fu</string>
+	 <string name="launch_ai_shortcut">Mi AI prečac</string>
+    <string name="launch_alipay_health_code">Alipay zdravstveni kod</string>
+    <string name="launch_alipay_payment_code">Alipay kod plaćanja</string>
+    <string name="launch_alipay_scanner">Alipay skener</string>
+    <string name="launch_calculator">Kalkulator</string>
+    <string name="launch_camera">Pokreni kameru</string>
+    <string name="launch_control_center">Centar za kontrolu</string>
+    <string name="launch_google_search">Pokreni Google pomoćnika</string>
+    <string name="launch_notification_center">Panel obavijesti</string>
+    <string name="launch_recents">Pokreni nedavno</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
+    <string name="launch_voice_assistant">Pokreni glasovnog asistenta</string>
+    <string name="launch_wechat_health_code">WeChat zdravstveni kod</string>
+    <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
+    <string name="launch_wechat_scanner">WeChat skener</string>
     <string name="leisure">Dodatno vrijeme</string>
     <string name="livetalk_not_enable">Paket nadoplate isključen</string>
     <string name="location_usage_restricted_body">Dodirnite za dopustiti.</string>
@@ -253,6 +288,14 @@
     <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
     <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
     <string name="lockscreen_carrier_customized">Ograničena usluga</string>
+	 <string name="long_press_back_key">Dugo pritisnite tipku Natrag</string>
+    <string name="long_press_buttom_key">Dugi pritisak na početnu stranicu na Zaklj. zaslonu</string>
+    <string name="long_press_home_key">Dugo pritisnite tipku Početna</string>
+    <string name="long_press_menu_key">Dugo pritisnite tipku Izbornik</string>
+    <string name="long_press_menu_key_when_lock">Dugo pritisnite Izbornik na Zaklj. zaslonu</string>
+    <string name="long_press_power_key">Dugo pritisnite tipku za uključivanje</string>
+    <string name="long_press_power_key_half_second">Pritisnite i držite tipku Power %ss</string>
+    <string name="long_press_volume_down">Dugi pritisak na smanjivanje glasnoće</string>
     <string name="lollipop">Lizalica</string>
     <string name="magic_window_toast">Aplikacija Multiplier je omogućena.</string>
     <string name="makewishes">Rođendanska želja</string>
@@ -267,6 +310,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+	 <string name="mi_pay">Mi Wallet</string>
     <string name="miaudiovisual_notification_summary">Uključite za prikaz efekata na Zaklj. zaslonu</string>
     <string name="miaudiovisual_notification_title">Zvučni i vizualni efekti</string>
     <string name="miui">miui</string>
@@ -287,6 +331,7 @@
     <string name="moment">Trenutak</string>
     <string name="monet">Jezerce s ljiljanima</string>
     <string name="mountainspring">Planinski izvor</string>
+	 <string name="mute">Bešumno</string>
 	  <string name="mw_guide_dialog_button_confirm">Razumijem</string>
     <string name="mw_guide_dialog_message">"Izgleda da ova aplikacija ne podržava paralelne prozore. Umjesto toga prebačeno na drugi kompatibilni izgled."</string>
     <string name="mw_guide_dialog_title">"Paralelni prozori nisu podržani"</string>
@@ -294,7 +339,7 @@
     <string name="notice_audition">Zvukovi prirode</string>
     <string name="notification_channel_hotspot">Hotspot obavijest</string>
     <string name="notificationxylophone">Obavijest (Xylophone)</string>
-	 <string name="nps_ContentText">Dodirnite za provjeru pojedinosti</string>
+	  <string name="nps_ContentText">Dodirnite za provjeru pojedinosti</string>
     <string name="nps_ContentTitle">Traženje GPS-a</string>
     <string name="nps_app_name">GpsNps</string>
     <string name="nps_description">Obavijest o statusu GPS-a</string>
@@ -309,6 +354,7 @@
     <string name="package_delete_confirm_step_1">Deinstalirati %s?</string>
     <string name="package_delete_confirm_step_2">Deinstaliranje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
     <string name="package_delete_confirm_step_3">"Nećete biti u mogućnosti otvoriti ovu aplikaciju nakon što je deinstalirate."</string>
+	 <string name="partial_screen_shot">Djelomična snimka zaslona</string>
     <string name="passionflower">Strast</string>
     <string name="paste">Zalijepi</string>
     <string name="pc_device_model_name">Računalo</string>
@@ -395,6 +441,7 @@
     <string name="screen_on_proximity_sensor_title">Džepni način</string>
     <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Da isključite ovu značajku idite u Postavke &gt; Zaslon &gt; Način čitanja.</string>
     <string name="screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
+	 <string name="screen_shot">Napravi snimku zaslona</string>
     <string name="screenshot_gesture_detect_alert_button">Uključi u Postavkama</string>
     <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
     <string name="screenshot_gesture_detect_alert_msg">Povući prema dolje s 3 prsta za izradu snimke zaslona?</string>
@@ -417,6 +464,7 @@
     <string name="set_password_message">Postavite zaporku za korištenje ove značajke</string>
     <string name="set_password_title">Postavite zaporku</string>
 	 <string name="shortcut_no_support_on_pc_mode">"Ova gesta nije podržana u PC načinu"</string>
+	 <string name="show_menu">Prikaži izbornik</string>
     <string name="shutdown_confirm_title">"Isključiti vaš uređaj?"</string>
     <string name="shutdown_progress">"Isključivanje…"</string>
     <string name="silence_mode">Bešumni način</string>
@@ -440,6 +488,7 @@
     <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
     <string name="southwestmountain_preview">Planine</string>
     <string name="spaceage">Svemirsko doba</string>
+	 <string name="split_screen">Otvori podijeljeni zaslon</string>
     <string name="spring">Proljeće</string>
     <string name="standard">Bešumno</string>
     <string name="standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
@@ -497,11 +546,16 @@
     <string name="talk_back_conflict_with_handy_mode">"Ne može se koristiti Rad jednom rukom kada je TalkBack uključen"</string>
     <string name="talk_back_water_mark_string1">TalkBack je uključen</string>
     <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" na 3 sekunde da ga isključite</string>
+	  <string name="three_gesture_down">Prevucite s 3 prsta prema dolje</string>
+    <string name="three_gesture_horizontal">Prevucite vodoravno s %d prsta</string>
+    <string name="three_gesture_long_press">Pritisnite i držite s %d prsta</string>
+    <string name="three_gesture_pc_mode">Uključi PC način</string>
     <string name="throwing_print">Ispiši</string>
     <string name="throwing_screen">Emitiraj</string>
     <string name="tip_close_screen_phone">Prebacite se na handsfree ili sklopite uređaj da biste koristili ugrađeni zvučnik</string>
-    <string name="tip_for_phone_and_camera">Sklopite uređaj da biste koristili ugrađeni zvučnik ili prednju kameru</string>
-    <string name="tip_use_front_camera">Sklopite uređaj da biste koristili prednju kameru</string>
+    <string name="tip_use_front_camera">Sklopite uređaj da 
+	
+biste koristili prednju kameru</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">DND</string>
     <string name="total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
@@ -515,7 +569,9 @@
     <string name="trial_mode_dialog_message">\"%s\" radi u probnom načinu rada. Ponovnim pokretanjem uređaja ili prelaskom na način rada Brzina svjetlosti izbrisat će se ova igra. Spremiti igru u unutarnju pohranu?</string>
     <string name="trial_mode_dialog_title">Probni način</string>
     <string name="turn_off">Isključi</string>
+	 <string name="turn_on_torch">Uključi svjetiljku</string>
     <string name="turn_on_work_profile">Uključi</string>
+	 <string name="under_keyguard">Zaslon isključen</string>
     <string name="twohours">1 sat</string>
     <string name="unknown_caller">Nepoznati broj</string>
     <string name="unrecognized_manufacture">Nepoznato</string>
@@ -530,6 +586,7 @@
     <string name="voice_button_action_up">Pritisni za pričanje</string>
     <string name="voice_input_error_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="voice_input_error_other">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	 <string name="voice_assist">Mi AI</string>
     <string name="wallpaper_group_black_gobi_title">Pijesak Gobija</string>
     <string name="wallpaper_group_black_white_title">Crno i bijelo</string>
     <string name="wallpaper_group_color_move_title">Tekuće boje</string>

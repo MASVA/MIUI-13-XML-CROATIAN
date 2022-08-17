@@ -1223,6 +1223,7 @@ Ipak aktivirati eSIM?"</string>
 	 <string name="esim_inactive_notification_message_global">SIM kartica nije otkrivena. Dodirnite za aktiviranje eSIM-a.</string>
     <string name="esim_inactive_notification_title_global">Dvostruki SIM &amp; mobilne mreže</string>
     <string name="esim_inactive_settings_title">Dvostruki SIM &amp; mobilne mreže</string>
+	 <string name="esim_is_activating_notification_message_for_o2">Aktiviranje mobilnog plana…</string>
   	 <string name="esim_setting_title">Postavke eSIM-a</string>
     <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
     <string name="expand_button_title">Napredno</string>
