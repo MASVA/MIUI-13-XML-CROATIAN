@@ -1490,6 +1490,9 @@ Za dodavanje kontakta na listu favorita :
     <string name="preference_telocation_title">Lokacija</string>
     <string name="preference_tone_title">Tonovi</string>
     <string name="preference_yellowpage_function_setting">Yellow pages postavke</string>
+	  <string name="presentation_payphone">Govornica</string>
+    <string name="presentation_private">Privatni broj</string>
+    <string name="presentation_unknown">Nepoznati broj</string>
     <string name="prepare_import">"Uvoz kontakata"</string>
     <string name="preview_contact_card_title">"Uvoz kontakata…"</string>
     <string name="preview_incall_show_entry">Pregled videozapisa</string>
@@ -1888,6 +1891,7 @@ Odaberite jednu od sljedećih opcija:</string>
     <string name="video_chat">"Video chat"</string>
     <string name="viewContactDesription">"Prikaži kontakt"</string>
     <string name="viewContactTitle">Pojedinosti kontakta</string>
+	 <string name="view_more_call_logs">Pogledajte više</string>
     <string name="view_updates_from_group">"Prikaži ažuriranja"</string>
     <string name="voicemail">"Govorna pošta"</string>
     <string name="voicemail_buffering">Stavljanje u međuspremnik…</string>

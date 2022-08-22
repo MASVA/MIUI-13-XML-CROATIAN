@@ -86,6 +86,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="app_name_pad">Personalizacija</string>
     <string name="application_list_permission_desc">Za prikaz aplikacija kompatibilnih s transparentnim pozadinama</string>
     <string name="application_notify_title">Pažnja</string>
+	 <string name="apply_4k_video_wallpaper_warning">"4K i 8K videozapisi ne mogu se koristiti kao video pozadine."</string>
     <string name="apply_choosen_type_resource">Postavi odabrane stavke</string>
     <string name="apply_default_font_tip">"Nastaviti koristiti trenutni font sustava?"</string>
     <string name="apply_failed">"Ne mogu postaviti"</string>

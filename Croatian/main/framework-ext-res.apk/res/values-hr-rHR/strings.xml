@@ -173,6 +173,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
     <string name="freeform_exchange_tip">Otvori plutajući prozor u načinu cijelog zaslona</string>
     <string name="freeform_exchange_tip2">Povucite u kut za odustati</string>
+	 <string name="freeform_exchange_tip3">Otvori plutajući prozor na cijelom zaslonu</string>
 	 <string name="frenchchic">Šik</string>
     <string name="frequent_email">Česta adresa e-pošte</string>
     <string name="frequent_phrases">Česti izrazi</string>
@@ -553,7 +554,8 @@
     <string name="throwing_print">Ispiši</string>
     <string name="throwing_screen">Emitiraj</string>
     <string name="tip_close_screen_phone">Prebacite se na handsfree ili sklopite uređaj da biste koristili ugrađeni zvučnik</string>
-    <string name="tip_use_front_camera">Sklopite uređaj da 
+    <string name="tip_for_phone_and_camera">Preklopite svoj uređaj za korištenje ugrađenog zvučnika ili prednje kamere</string>
+	 <string name="tip_use_front_camera">Sklopite uređaj da 
 	
 biste koristili prednju kameru</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>

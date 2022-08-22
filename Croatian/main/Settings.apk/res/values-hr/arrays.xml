@@ -424,7 +424,7 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogućeno</item>
         <item>Filtrirano</item>
-        <item>Omogućeno</item>
+        <item>Omogućeno</item>		
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -1712,5 +1712,25 @@
         <item>Brzina animacije 2x</item>
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
+    </string-array>
+	 <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Nešifrirano (bez sigurnosti)</item>
+        <item>4-znamenkasti PIN (niska sigurnost)</item>
+        <item>16-znamenkasti PIN (visoka sigurnost)</item>
+		</string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Uvijek</item>
+        <item>Osim kada je otvorena druga aplikacija za plaćanje</item>
+    </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Nikad</item>
+        <item>Nakon 1 minute</item>
+        <item>Nakon 5 minuta</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Punjenje</item>
+        <item>Drijemanje</item>
+        <item>Način rada za uštedu energije</item>
+        <item>Stanje procesa</item>
     </string-array>
 </resources>

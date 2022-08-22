@@ -1506,9 +1506,11 @@ oslobodite prostor.</string>
     <string name="widget_added_fail_tips">"Nije moguće dodati"</string>
     <string name="widget_added_success_content">%1$s dodan na početni zaslon</string>
     <string name="widget_added_success_tips">Uspješno dodano</string>
+	 <string name="widget_choose_document_please">Odaberi dokument</string>
     <string name="widget_choose_file">Dodirnite za dodavanje datoteka</string>
     <string name="widget_choose_fragment_title">Odaberite vrstu datoteke</string>
     <string name="widget_finish">Gotovo</string>
+ 	 <string name="widget_name">Nedavno pregledane datoteke</string>
     <string name="weibo_login_btn_str">Weibo</string>
     <string name="weibo_share_success">Uspješno podijeljeno</string>
     <string name="weibo_str">Weibo</string>
