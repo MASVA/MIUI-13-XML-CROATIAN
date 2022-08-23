@@ -5877,11 +5877,9 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="location_services_screen_title">Usluge lokacije</string>
   <string name="location_settings_footer_general">Aplikacije s dopuštenjem za uređaje u blizini mogu odrediti približni položaj povezanih uređaja.</string>
   <string name="location_settings_footer_learn_more_content_description">Saznajte više o postavkama lokacije.</string>
-  <string name="location_settings_footer_learn_more_link">https://support.google.com/android/answer/3467281</string>
   <string name="location_settings_footer_location_off">Pristup lokaciji isključen je za aplikacije i usluge. Lokacija vašeg uređaja i dalje se može slati djelatnicima hitnih službi kada nazovete broj hitne službe ili na njega pošaljete SMS.</string>
   <string name="location_settings_loading_app_permission_stats">Učitavanje…</string>
   <string name="location_settings_primary_switch_title">Koristi lokaciju</string>
-  <string name="location_settings_primary_switch_title">Upotreba lokacije</string>
   <string name="location_settings_summary_location_off">Isključeno</string>
   <string name="location_settings_title">Lokacija</string>
   <string name="location_sources_heading">Izvori lokacije</string>
@@ -6117,7 +6115,6 @@ za Drugi prostor."</string>
   <string name="lockpassword_password_too_short_all_numeric">{count,plural, =1{Ako upotrebljavate samo brojeve, potrebna je najmanje jedna znamenka}one{Ako upotrebljavate samo brojeve, potrebna je najmanje # znamenka}few{Ako upotrebljavate samo brojeve, potrebne su najmanje # znamenke}other{Ako upotrebljavate samo brojeve, potrebno je najmanje # znamenki}}</string>
   <string name="lockpassword_password_too_long">Zaporka mora imati manje od ovoliko znakova: %d.</string>
   <string name="lockpassword_password_too_short">Zaporka mora imati najmanje ovoliko znakova: %d</string>
-  <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {If using only numbers, must be at least 1 digit} other {If using only numbers, must be at least # digits} }</string>
   <string name="lockpassword_pattern_set_toast">Uzorak je postavljen</string>
   <string name="lockpassword_pin_blacklisted_by_admin">Vaš je IT administrator blokirao uobičajene PIN-ove. Pokušajte s nekom drugim PIN-om.</string>
   <string name="lockpassword_pin_contains_non_digits">Smije sadržavati samo znamenke od 0 do 9</string>
