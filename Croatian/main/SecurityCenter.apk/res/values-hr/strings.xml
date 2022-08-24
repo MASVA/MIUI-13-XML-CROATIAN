@@ -217,6 +217,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
   <string name="anti_disturb_msg_title">DND</string>
+  <string name="antispam_guangdian_card_hint">"Vaš SIM ne podržava prebacivanje na drugu poruku o odsutnosti. Kontaktirajte svog operatera za detalje."</string>
+  <string name="antispam_guangdian_card_title">"Prebacivanje nije podržano"</string>
   <string name="antispam_mms_text">Postavite Poruke kao zadanu aplikaciju za slanje SMS-ova da biste mogli pregledati blokirane poruke</string>
   <string name="antispam_mms_text_setting">Postavite Poruke kao zadanu aplikaciju za slanje SMS-ova da biste mogli koristiti popis za blokiranje</string>
   <string name="antispam_mode_details">Pojedinosti popisa blokiranih</string>

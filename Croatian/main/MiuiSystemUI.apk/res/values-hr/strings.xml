@@ -2629,6 +2629,11 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_screen_record_label">Snimač zaslona</string>
   <string name="quick_settings_screen_record_start">Početak</string>
   <string name="quick_settings_screen_record_stop">Zaustavi</string>
+  <string name="quick_settings_screen_rotation_inner_locked">Rotacija unutarnjeg zaslona isključena</string>
+  <string name="quick_settings_screen_rotation_inner_unlocked">Rotacija unutarnjeg zaslona uključena</string>
+  <string name="quick_settings_screen_rotation_outer_landscape_locked">Vanjski zaslon zaključan u pejzažnom načinu</string>
+  <string name="quick_settings_screen_rotation_outer_portrait_locked">Vanjski zaslon zaključan u portretnom načinu</string>
+  <string name="quick_settings_screen_rotation_outer_unlocked">Rotacija vanjskog zaslona uključena</string>
   <string name="quick_settings_screenbutton_label">Tipke</string>
   <string name="quick_settings_screenlock_label">Zaklj. zaslon</string>
   <string name="quick_settings_screenshot_label">Snimka zaslona</string>

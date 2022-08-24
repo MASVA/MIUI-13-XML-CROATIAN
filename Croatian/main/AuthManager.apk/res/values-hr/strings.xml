@@ -282,6 +282,7 @@
     <string name="ok">U redu</string>
     <string name="perm_action_allow">Dopusti</string>
     <string name="perm_action_deny">Nikad ne dopusti</string>
+	 <string name="perm_educate_post_notification">Obavijesti mogu biti popraćene zvukom i vibracijom dok se pojavljuju u Panelu obavijesti i na ikonama početnog zaslona. Postavke obavijesti možete promijeniti u Postavkama.</string>
     <string name="perm_manager_suggest_operation">Upravljanje dopuštenjima</string>
     <string name="perm_manager_suggest_title">Prilagoditi dopuštenja?</string>
     <string name="perm_modem_location">Pristup vašoj lokaciji</string>
@@ -295,6 +296,7 @@
     <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
     <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
     <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
+	 <string name="permdesc_post_notification">Želite li dopustiti %1$s da šalje obavijesti?</string>
     <string name="permdesc_out_calls">Nadgledanje odlaznih poziva</string>
 	 <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
     <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>
@@ -308,7 +310,7 @@
     <string name="permdesc_send_sms">Želite li dopustiti %1$s slanje tekstualnih poruka?</string>
     <string name="permdesc_sensors">Želite li dopustiti %1$s čitanje podataka koje generiraju tjelesni senzori?</string>
     <string name="permdesc_use_sip">Želite li dopustiti %1$s da koristi protokol pokretanja sesije za strujanje videozapisa?</string>
-    <string name="permdesc_write_calendar">Dopustiti %1$s stvaranje i spremanje kalendarskih događaja?</string>
+    <string name="permdesc_write_calendar">Želite li dopustiti %1$s stvaranje i spremanje kalendarskih događaja?</string>
     <string name="permdesc_write_call_log">Želite li dopustiti %1$s uređivanje povijesti poziva?</string>
     <string name="permdesc_write_contacts">Želite li dopustiti %1$s uređivanje kontakata?</string>
     <string name="permdesc_write_storage">Želite li dopustiti %1$s spremanje datoteka i fotografija na ovaj uređaj?</string>
@@ -317,7 +319,7 @@
     <string name="permgroupdesc_camera">Želite li dopustiti %1$s snimanje fotografija i videozapisa?</string>
     <string name="permgroupdesc_contacts">Želite li dopustiti %1$s pristup kontaktima?</string>
     <string name="permgroupdesc_location">Želite li dopustiti %1$s pristup informacijama o lokaciji?</string>
-    <string name="permgroupdesc_microphone">Dopustiti %1$s snimanje zvuka?</string>
+    <string name="permgroupdesc_microphone">Želite li dopustiti %1$s snimanje zvuka?</string>
     <string name="permgroupdesc_phone">Želite li dopustiti %1$s upućivanje poziva i pristup informacijama o uređaju?</string>
     <string name="permgroupdesc_recognition">Želite li dopustiti %1$s pristup podacima o zdravlju i aktivnosti?</string>
     <string name="permgroupdesc_sensors">Želite li dopustiti %1$s pristup podacima tjelesnih senzora?</string>
