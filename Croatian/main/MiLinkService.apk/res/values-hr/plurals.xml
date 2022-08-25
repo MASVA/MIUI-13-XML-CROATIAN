@@ -29,6 +29,14 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
+	 <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d uređaja</item>
+        <item quantity="one">%1$d uređaj</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d uređaja</item>
+        <item quantity="one">%1$d uređaj</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
@@ -51,6 +59,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	 <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>

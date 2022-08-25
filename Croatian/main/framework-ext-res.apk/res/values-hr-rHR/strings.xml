@@ -359,6 +359,10 @@
     <string name="passionflower">Strast</string>
     <string name="paste">Zalijepi</string>
     <string name="pc_device_model_name">Računalo</string>
+	 <string name="periodiccacheclear_notification_indefinite">Prostor za pohranu vam je automatski oslobođen.</string>
+    <string name="periodiccacheclear_notification_post"> pohrane automatski je oslobođen za vas.</string>
+    <string name="periodiccacheclear_notification_pre" />
+    <string name="periodiccacheclear_notification_title">Pametno čišćenje</string>
     <string name="perm_send_push_dspt">Dopusti Mi push poruke</string>
     <string name="perm_send_push_lab">Pošalji push poruku</string>
     <string name="permdesc_manageFingerprint">Aplikaciji omogućuje pozivanje načina za dodavanje i brisanje predložaka otisaka prstiju koji će se upotrijebiti.</string>

@@ -569,8 +569,10 @@ Dodirnite + da napravite mapu"</string>
     <string name="note_mindnote_entrance_hint_newversion">"Počnite tipkati "</string>
     <string name="note_mindnote_entrance_icon_text">Stvorite umnu mapu</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Stvorite umnu mapu</string>
+	 <string name="note_mindnote_not_support_in_phone_model">"Ne mogu uređivati umne mape na ovom uređaju"</string>
     <string name="note_module_name">Bilješke</string>
     <string name="note_not_text_stub">Nema teksta</string>
+	 <string name="note_write_hint">Počni pisati</string>
     <string name="note_sort_way">Poredaj</string>
     <string name="notealert_enter">Otvori bilješku</string>
     <string name="notealert_ok">"Odbaci"</string>
@@ -734,7 +736,6 @@ Dodirnite + da napravite mapu"</string>
 	  <string name="save_to_local_failure_message">"Ne mogu spremiti"</string>
     <string name="save_to_local_icon_name">Spremi</string>
     <string name="save_to_local_success_message">Uspješno spremljeno</string>
-    <string name="select_up_limit_toast">Odaberite do %d stavki</string>
     <string name="search">Bilješke</string>
     <string name="search_hint">Pretraži Bilješke</string>
     <string name="search_keyword_notes">Bilješke;Memo</string>
