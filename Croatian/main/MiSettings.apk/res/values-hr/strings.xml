@@ -60,6 +60,7 @@
     <string name="australia_introduction">Australijski kontinent utočište je za rijetke endemske vrste.</string>
     <string name="authorization_btn_text">Start</string>
     <string name="authorization_tips">Potrebna su dopuštenja</string>
+	 <string name="avalible_per_day">Trajanje sesije</string>
     <string name="baboon_info">Babun maslina živi u skupinama s razvijenim socijalnim rangom ovisno o dominaciji svakog pojedinca.</string>
     <string name="back">Natrag</string>
     <string name="bear_info">Medvjedi su najveće kopnene zvijeri. Žive u hladnim krajevima i poznati su po svom izoštrenom njuhu.</string>
@@ -107,6 +108,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Kapibare su poluvodni glodavci biljojedi koji mogu zadržavati dah pod vodom do pet minuta odjednom.</string>
+	  <string name="category_limit_notify_title">Upozorenje o vremenu zaslona</string>
+    <string name="category_list_expand">Više</string>
+    <string name="category_list_packup">Sakrij</string>
     <string name="category_other">Ostalo</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Gepardi</string>
@@ -121,8 +125,10 @@
     <string name="color_gamut">Raspon boja</string>
     <string name="common_brushtail">Brushtail oposum</string>
     <string name="common_ostrich">Noj</string>
+	 <string name="compulsor_tip">Poč. zaslon</string>
     <string name="contact_description">Dodirnite prečac Poč. zaslona za upućivanje poziva</string>
     <string name="contact_title">Prečac kontakta</string>
+	 <string name="continue_time">Trajanje sesije</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="control_center_title">Vrijeme zaslona danas</string>
     <string name="control_center_title_new">Korišteno danas</string>
@@ -153,6 +159,8 @@
     <string name="desktop_widget_not_support">"Statistika vremena zaslona
 nije generirana u Drugom prostoru"</string>
     <string name="desktop_widget_screen_use_time">Vrijeme zaslona</string>
+	 <string name="device_limit_enable">Uključeno</string>
+    <string name="device_limit_un_enable">Isključeno</string>
     <string name="devices_type_pad">Tablet</string>
     <string name="devices_type_phone">Teleon</string>
     <string name="display_description">Veće ikone, veliki tekst, manji vizualni neredi</string>
@@ -242,6 +250,9 @@ nije generirana u Drugom prostoru"</string>
     <string name="focus_mode_timer_pick_dialog_title">Unesite trajanje</string>
     <string name="focus_time_exception_tip">Izgleda da se promijenilo vrijeme sustava. Isključite način fokusiranja.</string>
     <string name="follow_sim1">Primijeni postavke SIM 1</string>
+	 <string name="force_rest">Koristite prekide sesije</string>
+    <string name="force_rest_summary">Napravite obavezne pauze kada sesije dosegnu postavljeno ograničenje</string>
+    <string name="force_rest_time">Trajanje stanke</string>
     <string name="fps_high">Visoki</string>
     <string name="fps_nature_summary">Visoka brzina osvježavanja čini sve oštrim i jasnim</string>
     <string name="fps_nature_title">Visoka</string>
@@ -261,6 +272,16 @@ nije generirana u Drugom prostoru"</string>
     <string name="gamma">Gamma</string>
     <string name="giant_otter">Divovska vidra</string>
     <string name="golden_headed_lion_tamarin">Tamarin</string>
+	 <string name="guard_item_app_summary">Udaljeno deinstalirajte aplikacije</string>
+    <string name="guard_item_app_title">Upravljanje aplikacijama</string>
+    <string name="guard_item_browser_summary">Kontrola pristupa aplikacijama i sadržaju</string>
+    <string name="guard_item_browser_title">Ograničenja</string>
+    <string name="guard_item_call_summary">Dopusti određenim kontaktima upućivanje poziva</string>
+    <string name="guard_item_call_title">Komunikacija</string>
+    <string name="guard_item_eye_protect_summary">Monitor držanja</string>
+    <string name="guard_item_eye_protect_title">Udobnost za oči</string>
+    <string name="guard_range_from">Od</string>
+    <string name="guard_range_to">Do</string>
     <string name="harp_seal">Harp tuljan</string>
     <string name="harpy_eagle">Orao harpija</string>
     <string name="has_applied">Postavljeno</string>
@@ -269,10 +290,12 @@ nije generirana u Drugom prostoru"</string>
     <string name="high_fps_description">Visoka brzina osvježavanja zaslona. Veća potrošnja energije.</string>
     <string name="high_fps_tip_footer">Korištenje veće brzine osvježavanja čini gledanje glatkijim, ali troši više energije.</string>
     <string name="hippopotamus">Nilski konj</string>
+	 <string name="holiday_limit">Slobodni dani</string>
     <string name="hsv_space_color">HSV prostor boja</string>
     <string name="hsv_space_color_hue">Nijansa</string>
     <string name="hsv_space_color_saturation">Zasićenje</string>
     <string name="hsv_space_color_value">Vrijednost</string>
+	 <string name="in_forbidden_period">Upotreba je sada ograničena</string>
     <string name="intelligent_radio_btn_summary">Dinamički prilagodite brzinu osvježavanja na temelju scenarija kako biste uravnotežili performanse s potrošnjom energije</string>
     <string name="intelligent_radio_btn_title">Zadano (preporučeno)</string>
     <string name="intelligent_recognition_item_summary">Koristite označenu melodiju zvona za pozive iz dostavnih i taxi usluga. Ova će značajka raditi kada je %s postavljen kao zadana melodija zvona.</string>
@@ -311,6 +334,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="leopard">Leopard</string>
     <string name="lion">Lav</string>
     <string name="lion_info">Lavovi su žestoki i moćni grabežljivci. Žive u skupinama i imaju snažan osjećaj teritorija.</string>
+	 <string name="loading_error">"Nije moguće učitati stavke"</string>
     <string name="lock_summary">Zaštitite svoje osobne podatke</string>
     <string name="long_tai1ed_iaeger">Dugorepi jeger</string>
     <string name="low_flicker_mode">Slabo osvjetljenje</string>
@@ -422,6 +446,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="nature_mix">Mješavina prirode</string>
     <string name="nature_mix_summary">Izradite prilagođeni miks</string>
     <string name="network_error">Došlo je do mrežne pogreške, pokušajte ponovo</string>
+	 <string name="next_day">"(Sljedeći dan) "</string>
     <string name="night">PM</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">"Ne mogu pronaći aplikaciju za otvaranje ove veze"</string>
@@ -518,6 +543,8 @@ nije generirana u Drugom prostoru"</string>
     <string name="steady_on_screen_notification_title">Odložite telefon i odmorite se</string>
     <string name="steady_on_screen_notification_title_pad">Odložite telefon i odmorite se</string>
     <string name="steady_on_screen_notify">Obavijesti o neprekidnom korištenju</string>
+	  <string name="steady_on_screen_notify_new">Odmorite se</string>
+    <string name="steady_on_screen_ntf_msg">Sve značajke ponovno će biti dostupne za %1$s</string>
     <string name="steady_on_screen_setting">Vremensko ograničenje za neprekidne sesije</string>
     <string name="steady_on_screen_summary">Vremensko ograničenje za neprekidne sesije</string>
     <string name="stop_app_timer">Isključi Vrijeme zaslona</string>
@@ -537,6 +564,12 @@ nije generirana u Drugom prostoru"</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
+	  <string name="time_over_back_home">Početni zaslon</string>
+    <string name="time_over_delayed_use">Zanemari</string>
+    <string name="time_over_not_delayed_use">Shvaćam</string>
+    <string name="time_over_today">"Nema više vremena
+za danas"</string>
+    <string name="time_over_today_use">"Današnje sesije: "</string>
     <string name="time_picker_dialog_title">Postavi vrijeme</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -563,6 +596,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="tuesday_shortest">U</string>
     <string name="two_toed_sloths">Ljenjivac s dva prsta</string>
     <string name="two_toed_sloths_info">Ljenjivci s dva prsta mogu lako putovati s drveta na drvo u krošnjama prašume.</string>
+	 <string name="unavailable_per_day">Pauza</string>
     <string name="unlock_times_per_day">"Dnevni prosjek: "</string>
     <string name="unlock_times_per_hour">"Otključavanja po satu: "</string>
     <string name="usage_agree">Slažem se</string>
@@ -597,8 +631,10 @@ nije generirana u Drugom prostoru"</string>
     <string name="usage_device_limit_app_prolong_time3">Dodaj 60 minuta</string>
     <string name="usage_device_limit_app_prolong_time4">"Ne ograničavaj danas"</string>
     <string name="usage_device_limit_app_prolong_time5">Dodaj vrijeme jednom</string>
+	 <string name="usage_device_limit_forbidden_period">Upotreba je ograničena između %1$s i %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">"Dosegnut ćete svoj limit za %1$s"</string>
     <string name="usage_device_limit_notifation_title">Preostalo vrijeme danas</string>
+	 <string name="usage_device_limit_start_forbidden_period">Upotreba će biti ograničena između %1$s i %2$s (%3$s preostalo)</string>
     <string name="usage_device_limit_time_over">"Dosegli ste današnje ograničenje (%1$s)"</string>
     <string name="usage_exit">Izlaz</string>
     <string name="usage_focus_focus_premission_main_summary">Ova aplikacija mora pristupiti podacima vašeg računa kako bi zabilježila statistiku upotrebe vašeg načina fokusiranja.</string>
@@ -631,7 +667,9 @@ Ova se aplikacija također mora povezati s internetom i zahtijeva sljedeća dopu
     <string name="usage_home_premission_second_summary_double_link_prefix">"Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete opozvati autorizaciju u Vrijeme zaslona &gt; Postavke &gt; Isključi Vrijeme zaslona."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Prije korištenja ove aplikacije pročitajte i prihvatite naše &amp;lt;a href='%1s'&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href='%2s'&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."</string>
     <string name="usage_home_premission_second_summary_new">"Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete opozvati autorizaciju u Vrijeme zaslona &gt; Postavke &gt; Isključi Vrijeme zaslona. Ako imate više pitanja o privatnosti, možete nas kontaktirati na privacy@xiaomi.com."</string>
-    <string name="usage_new_home_app_limit_summary">Postavite dnevno ograničenje zaslona za ovu aplikaciju</string>
+    <string name="usage_new_category_limit_summary">Postavite dnevna ograničenja upotrebe za sve aplikacije u ovoj kategoriji</string>
+    <string name="usage_new_category_limit_title">Ograniči upotrebu za kategoriju aplikacije</string>
+	 <string name="usage_new_home_app_limit_summary">Postavite dnevno ograničenje zaslona za ovu aplikaciju</string>
     <string name="usage_new_home_app_limit_title">Ograniči vrijeme zaslona</string>
     <string name="usage_new_home_average">"Prosj. "</string>
     <string name="usage_new_home_avg_usage_day">Prosj. %s dnevno</string>
@@ -849,5 +887,8 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
     <string name="willow_grouse">Willow ptarmigan</string>
     <string name="willow_grouse_info">Alpska kokoška je biljojed za većinu svog života, a prvenstveno zauzima srednjeplaninska i subarktičke staništa.</string>
     <string name="wombat">Wombat</string>
+	 <string name="workday_limit">Radni dani</string>
+	 <string name="yellow_necked_spurfowl">Žutovrata spurfovka</string>
+    <string name="yellow_throated_marten">Žutogrla kuna</string>
     <string name="yesterday">Jučer</string>
 </resources>

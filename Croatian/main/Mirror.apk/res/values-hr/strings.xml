@@ -323,11 +323,20 @@ za nastavak"</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	  <string name="switch_wlan_action">Poveži se</string>
+    <string name="switch_wlan_failed">"Nije se moguće povezati"</string>
+    <string name="switch_wlan_failed_desc">"Nije se moguće automatski povezati s ovom Wi-Fi mrežom. Pokušajte se povezati ručno u Postavkama."</string>
+    <string name="switch_wlan_success">Uspješno povezivanje</string>
+    <string name="switch_wlan_tips">Povežite se na istu mrežu</string>
+    <string name="switch_wlan_tips_desc">Možete se povezati na istu Wi-Fi mrežu kao i drugi uređaj za bolje iskustvo. Spojiti se sada?</string>
+Više o ovom izvornom tekstuZa dodatne podatke o prijevodu potreban je izvorni tekst
+Pošalji povratne informacije
+Bočne ploče
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
     <string name="time_picker_dialog_title">Postavi vrijeme</string>
-    <string name="tip_connect_fail_for_hotspot">"Ne mogu se povezati. Isključite prijenosnhotspot i pokušajte ponovo."</string>
+    <string name="tip_connect_fail_for_hotspot">"Ne mogu se povezati. Isključite prijenosni hotspot i pokušajte ponovo."</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
     <string name="traffic_log">Zapisi prijenosa</string>

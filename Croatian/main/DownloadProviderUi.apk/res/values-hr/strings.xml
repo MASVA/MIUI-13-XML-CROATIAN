@@ -539,6 +539,9 @@ i pokušajte ponovno."</string>
     <string name="start_download">Preuzmi</string>
     <string name="start_xunlei_speedup_info">Prijavite se da ubrzate vaša preuzimanja.</string>
     <string name="starting_analysis">Dobivanje detalja…</string>
+	  <string name="storage_dialog_content">Dopustite aplikaciji Preuzimanja pristup pohrani uređaja kako bi se mogle koristiti njegove značajke.</string>
+    <string name="storage_dialog_go">Postavke</string>
+    <string name="storage_dialog_title">Pristup pohrani uređaja</string>
     <string name="storage_internal">Unutarnja pohrana</string>
     <string name="storage_sd_card">SD kartica</string>
     <string name="storage_usb">USB pohrana</string>

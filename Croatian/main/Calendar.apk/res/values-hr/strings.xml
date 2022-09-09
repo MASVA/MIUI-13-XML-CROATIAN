@@ -94,8 +94,8 @@
     <string name="agenda_view">Događaji</string>
     <string name="agenda_yesterday">JUČER, %1$s</string>
     <string name="alarm_label">Odbaci</string>
-    <string name="alarm_open_reminder">Postavi alarm</string>
-    <string name="alarm_reminder_already">Alarm je postavljen</string>
+    <string name="alarm_open_reminder">Uključi podsjetnik</string>
+    <string name="alarm_reminder_already">Podsjetnik je uključen</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Isteklo</string>
     <string name="alert_title">Obavijesti kalendara</string>
@@ -314,8 +314,10 @@
     <string name="edit_event_label">"Pojedinosti"</string>
     <string name="edit_event_no_reminder_value">"Ne podsjećaj"</string>
     <string name="edit_event_reminder_3_days_before">Također podsjeti 3 dana ranije</string>
+	 <string name="edit_event_reminder_3_days_before_time">Također podsjeti %d dana ranije</string>
     <string name="edit_event_reminder_summary">Na taj dan u %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">3 dana ranije i na taj dan u %1$s</string>
+	 <string name="edit_event_reminder_summary_3_days_before_today">%1$d dana ranije i na taj dan u %1$s</string>
     <string name="edit_event_reminder_text">Dana %1$s u %2$s</string>
     <string name="edit_event_reminder_time">Vrijeme podsjetnika</string>
     <string name="edit_event_reminder_with_another_day_text">Dana %1$s, %2$s u %3$s</string>
@@ -478,7 +480,9 @@
     <string name="launch_weather_comment">Dodirnite ovdje za informacije o vremenu</string>
     <string name="load_more_events">Prikaži događaje %d</string>
     <string name="load_more_events_default">Prikaži događaje sljedeće godine</string>
-    <string name="load_more_hint">Učitaj događaje od %1$d</string>
+    <string name="load_more_events">Pogledajte %d događaja</string>
+    <string name="load_more_events_default">"Pogledajte događaje sljedeće godine"</string>
+    <string name="load_more_hint">Pogledajte %1$d događaja</string>
     <string name="loading">Samo trenutak…</string>
     <string name="local_calendar_display_name">Lokalni kalendar</string>
     <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
@@ -741,6 +745,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="path_calendar_settings">Aplikacije sustava/Kalendar/Postavke</string>
     <string name="permission_accounts">Za prijavu i upravljanje računom sustava, te pridruživanje stavki s njim</string>
     <string name="permission_contacts">Za sinkronizaciju rođendana kontakata i slanje podsjetnika</string>
+	 <string name="permission_description">Pojedinosti o dopuštenjima</string>
     <string name="permission_main_purpose">Pregledavanje i upravljanje događajima iz kalendara, planiranje putovanja, primanje podsjetnika i pretplata na usluge</string>
     <string name="permission_storage">Za spremanje podsjetnika i melodija zvona</string>
     <string name="phone_num">Telefon</string>
@@ -771,7 +776,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="preferences_build_version">Verzija izrade</string>
     <string name="preferences_clear_search_history_summary">"Uklonite sva vaša pretaživanja"</string>
     <string name="preferences_clear_search_history_title">Očisti povijest pretaživanja</string>
-    <string name="preferences_debug_category">Debugging</string>
+    <string name="preferences_debug_category">Otklanjanje pogrešaka</string>
     <string name="preferences_default_allday_reminder_title">Zadano cjelodnevno vrijeme podsjetnika</string>
     <string name="preferences_default_reminder_dialog">Zadano vrijeme podsjetnika</string>
     <string name="preferences_default_reminder_title">Zadano vrijeme podsjetnika</string>
@@ -782,7 +787,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="preferences_home_tz_title">Domaća vremenska zona</string>
     <string name="preferences_notification_ringtone_title">Zvuk</string>
     <string name="preferences_popup_alert_smart_summary">MIUI će automatski odrediti koji su događaji najvažniji</string>
-    <string name="preferences_popup_alert_smart_summary_new">Vremenski osjetljivI događaji su događaji s točnim vremenom</string>
+    <string name="preferences_popup_alert_smart_summary_new">Vremenski osjetljivi događaji su događaji s točnim vremenom</string>
     <string name="preferences_popup_alert_smart_tips">"Zamijenite tradicionalne obavijesti skočnim upozorenjima kako biste izbjegli propuštanje važnih događaja. Skočna upozorenja neće se pojaviti kada igrate igre, gledate videozapise preko cijelog zaslona ili koristite način rada za automobil."</string>
     <string name="preferences_popup_alert_title">Skočna upozorenja</string>
     <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
@@ -807,6 +812,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="premission_description_log">Za spremanje zapisa</string>
     <string name="premission_description_phone_state">Za prepoznavanje uređaja na temelju ID-a uređaja</string>
     <string name="premission_description_ringtone">Za postavljanje melodija zvona</string>
+	 <string name="privacy_and_permissions">Privatnost i dopuštenja</string>
     <string name="premission_description_title">Pregledavanje i upravljanje zakazanim događajima</string>
     <string name="presence_label">Prikaži me kao</string>
     <string name="privacy_card_description">Pristanite na naša Pravila o privatnosti da biste pristupili svim značajkama.</string>
@@ -1009,6 +1015,10 @@ Također možete dodati podsjetnike kako ne biste propustili ništa važno."</st
     <string name="tab_title_day">Dan</string>
     <string name="tab_title_month">Mjesec</string>
     <string name="tab_title_week">Tjedan</string>
+	  <string name="tab_view_day">Dan</string>
+    <string name="tab_view_month">Mjesec</string>
+    <string name="tab_view_week">Tjedan</string>
+    <string name="tab_view_year">Godina</string>
     <string name="talk_back_month">Mjesec</string>
     <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s prema lunarnom kalendaru).</string>
     <string name="talk_back_setting">Postavke</string>

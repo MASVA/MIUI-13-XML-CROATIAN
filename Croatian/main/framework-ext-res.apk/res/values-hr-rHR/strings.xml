@@ -543,6 +543,7 @@
     <string name="sunrise">Izlazak sunca</string>
     <string name="super_resolution_maintain_tips">"Super razlucija još nije dostupna."</string>
     <string name="surprise">Iznenađenje</string>
+	 <string name="swipe_up_to_continue_using">Povucite prema gore za nastavak</string>
     <string name="switch_brand_desc_tv">Sigurnosne usluge pruža Spaces Mobile</string>
     <string name="switch_desc_tv">Dva prostora. Jedan uređaj.</string>
     <string name="switching_tv">Promjena…</string>

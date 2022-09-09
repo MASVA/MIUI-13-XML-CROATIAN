@@ -292,6 +292,8 @@ dodane na Listu blokiranih"</string>
     <string name="done">Gotovo</string>
     <string name="download">Preuzmi</string>
     <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovno kasnije.""</string>
+	 <string name="download_miui_calendar_detail">Preuzmite Kalendar kako biste mogli dodavati događaje i podsjetnike u kalendar. Otvoriti GetApps sada?</string>
+    <string name="download_miui_calendar_title">Preuzmi Kalendar</string>
     <string name="downloading">Preuzimanje…</string>
     <string name="downloading_file_can_not_play">Pričekajte dok se ne završi preuzimanje</string>
     <string name="draft">Skica</string>
@@ -708,6 +710,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
     <string name="not_prepare_for_send">Nema poruke za slanje</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="not_support_audio_forward">"Ne mogu proslijediti glasovne poruke"</string>
+	 <string name="notes_not_found">Prvo instalirajte Bilješke</string>
     <string name="notification_ad_content">Primili ste promotivnu poruku od %s</string>
     <string name="notification_add_todo">Podsjeti me</string>
     <string name="notification_add_todo_content">Kôd za preuzimanje: %s</string>
@@ -1251,6 +1254,7 @@ Pogledajte one preporučene!"</string>
     <string name="snippet_picture">[Slika]</string>
     <string name="snippet_red_package">[Crnevi paket]</string>
     <string name="snippet_timed">[Tempirano]</string>
+	 <string name="soundrecorder_not_found">Prvo instalirajte Snimač</string>
     <string name="sp_category_all">Sve poruke usluga</string>
     <string name="sp_category_bank">Obavijesti poruke iz banke</string>
     <string name="sp_category_title_prefix">%s</string>

@@ -3002,6 +3002,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="storage_is_connecting">%1$s je povezan</string>
   <string name="stream_accessibility">Pristupačnost</string>
   <string name="stream_alarm">Alarm</string>
+  <string name="stream_assistant">Pomoćnik</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>
   <string name="stream_dtmf">DTMF</string>
   <string name="stream_music">Mediji</string>
@@ -3117,6 +3118,7 @@ Dodirnite za više informacija"</string>
   <string name="tip_close_flares">"Nećete primati obavijesti o ponašanju aplikacije tijekom ove sesije"</string>
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
   <string name="title_usb_accessory">USB pribor</string>
+  <string name="toast_for_first_use_three_gesture">Povucite vodoravno s četiri prsta za prebacivanje između aplikacija</string>
   <string name="to_switch_networks_disconnect_ethernet">Da biste se prebacili na drugu mrežu, odspojite ethernet</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

@@ -29,6 +29,10 @@
         <item quantity="other">prije  %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
+	<plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d preostalih minuta za \"%1$s\" danas</item>
+        <item quantity="one">%2$d preostalih minuta za \"%1$s\" danas</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
@@ -64,9 +68,21 @@
         <item quantity="other">"Svoj uređaj ste koristili %d minuta bez prekida"</item>
         <item quantity="one">"Svoj uređaj ste koristili %d minutu bez prekida"</item>
     </plurals>
+	<plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Odmorite se %d minuta</item>
+        <item quantity="one">Odmorite se %d minutu</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
+    </plurals>
+	 <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"Ovaj uređaj koristite već %d minuta"</item>
+        <item quantity="one">"Ovaj uređaj koristite već %d minutu"</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Možete dodati najviše %d pauzi</item>
+        <item quantity="one">Možete dodati najviše %d pauzu</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Vrijeme zaslona danas je jednako vašem %d-dnevnom prosjeku</item>
@@ -74,7 +90,7 @@
     </plurals>
     <plurals name="trend_from_last_several_day_less">
         <item quantity="other">%2$s manje vremena zaslona danas nego vaš %1$d-dnevni prosjek</item>
-        <item quantity="one">%2$s manje vremena zaslona danas nego vaš %1$d-dnevni prosjeku</item>
+        <item quantity="one">%2$s manje vremena zaslona danas nego vaš %1$d-dnevni prosjek</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
         <item quantity="other">%2$s više vremena zaslona danas nego vaše %1$d-dnevni prosjek</item>

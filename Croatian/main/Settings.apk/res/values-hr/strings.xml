@@ -2636,6 +2636,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="close_fod_aod">"Nećete moći otključati uređaj otiskom prsta kada je zaslon isključen. \"Always-on\" neće biti dostupno također. Otključavanje otiskom prsta će raditi samo kad je zaslon uključen."</string>
   <string name="close_gesture">Zatvori koristeći gestu</string>
   <string name="close_hotspot_hint">Isključi prijenosni hotspot prije emitiranja</string>
+  <string name="close_lid_display_settings_title">Nakon preklapanja</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
   <string name="close_optimization_message">Možda će utjecati na izgled teksta, račune i ostale dijelove MIUI-a nakon isključivanja ove značajke.</string>
@@ -3963,6 +3964,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="empty" />
   <string name="empty_list_msg">Nemate instaliranih aplikacija treće strane.</string>
   <string name="empty_networks_list">Nije pronađena nijedna mreža.</string>
+  <string name="emulate_sd_data">Emulirani podaci SD kartice</string>
   <string name="empty_title">" "</string>
   <string name="empty_title_auto_start_list">Nema aplik. s autom. pokretanjem</string>
   <string name="empty_title_perm_apps">Nema aplik. s ovim dopuštenjem</string>
@@ -4260,6 +4262,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="extended_power_menu">Prošireni izbornik Power</string>
   <string name="exterior">Shema boja</string>
+  <string name="external_auto_rotate_title">Zaključaj orijentaciju za vanjski zaslon</string>
   <string name="external_code_size_label">USB aplikacija za pohranu</string>
   <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
   <string name="external_ram_dialog_btn_cancel">Kasnije</string>
@@ -5315,6 +5318,8 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="insufficient_storage">Nema dovoljno prostora za pohranu.</string>
   <string name="intelligence_suppression_summary">Dinamički prilagodi veličinu područja u blizini rubova gdje će se slučajni dodir zanemariti na temelju vašeg stiska</string>
   <string name="intelligence_suppression_title">Automatski (preporučeno)</string>
+  <string name="intelligent_keep_screen_on">Zadrži zaslon uključenim kada je potrebno</string>
+  <string name="intelligent_keep_screen_on_summary">"Zadrži vanjski zaslon uključenim kada je okrenut prema gore"</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Radnja:</string>
   <string name="intent_sender_data_label">Podaci:</string>
@@ -5346,6 +5351,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="interconnection">Međusobno povezivanje</string>
   <string name="interesting_text">Realistične taktilne senzacije čine vašu interakciju s ekranom jasnijom i jasnijom.</string>
   <string name="interesting_title">Realistični dodir</string>
+  <string name="internal_auto_rotate_title">Zaključaj orijentaciju za unutarnji zaslon</string>
   <string name="internal_format">Izbriši unutarnju pohranu</string>
   <string name="internal_format_summary">"Izbriši sve podatke s unutarnje pohrane uređaja"</string>
   <string name="internal_media_format_button_text">Izbriši unutarnju pohranu</string>
@@ -5375,7 +5381,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="kddi_nfc_secure_settings_title">Zaključaj dok je zaključan zaslon</string>
   <string name="kddi_nfc_secure_toggle_summary">Omogućite funkciju NFC/Osaifu-keitai dok je zaslon otključan</string>
   <string name="keep_legacy_fingerprint">Zadrži</string>
-  <string name="keep_screen_on">Ne pokreći mirovanje</string>
+  <string name="keep_screen_on">Drži zaslon uključenim</string>
   <string name="keep_screen_on_after_folding_off_summary">Neka vanjski zaslon ostane uključen nakon preklapanja tijekom poziva ili kada se koristi kamera</string>
   <string name="keep_screen_on_after_folding_on_summary">Neka vanjski zaslon ostane uključen nakon preklapanja da nastavite sa svojim trenutnim zadacima</string>
   <string name="keep_screen_on_after_folding_text">Neka vanjski zaslon ostane uključen nakon preklapanja da nastavite sa svojim trenutnim zadacima</string>
@@ -5671,6 +5677,14 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="last_time_used_label">Posljednja upotreba</string>
   <string name="later">Kasnije</string>
   <string name="lattice_smartcover_title">Rešetkasti prednji pokrov</string>
+  <string name="launch_accessibility_environmental_speech_recognition">Prepoznavanje ambijentalnog zvuka</string>
+  <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+  <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto titlovi</string>
+  <string name="launch_accessibility_talkback">TalkBack</string>
+  <string name="launch_accessibility_voice_control">Glasovne kontrole</string>
+Više o ovom izvornom tekstuZa dodatne podatke o prijevodu potreban je izvorni tekst
+Pošalji povratne informacije
+Bočne ploče
   <string name="launch_ai_shortcut">Mi AI prečac</string>
   <string name="launch_alipay_health_code">Alipay zdravstveni kod</string>
   <string name="launch_alipay_health_code_auto_close">Prečac zdravstvenog koda Alipay više nije dostupan. Možete se prebaciti na drugi prečac.</string>
@@ -5950,6 +5964,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="lock_screen_notifs_show_all_summary">Prikaži razgovore, zadane i bešumne</string>
   <string name="lock_screen_notifs_show_none">Ne prikazuj obavijesti</string>
   <string name="lock_screen_notifs_title">Obavijesti na Zaklj. zaslonu</string>
+  <string name="lock_screen_now">Zaklj. zaslon</string>
   <string name="lock_screen_password_skip_biometrics_message">"Za postavljanje otključavanja licem ili otključavanja otiskom prsta potrebna je zaporka.
 
 Zaporka štiti telefon u slučaju gubitka ili krađe."</string>
@@ -11290,12 +11305,14 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suw_back_button_label">Natrag</string>
   <string name="suw_more_button_label">Više</string>
   <string name="suw_next_button_label">Dalje</string>
-  <string name="swipe_direction_ltr">Prijeđite prstom udesno da biste odbacili izbornik, a ulijevo da biste ga prikazali</string>
-  <string name="swipe_direction_rtl">Prijeđite prstom ulijevo da biste odbacili izbornik, a udesno da biste ga prikazali</string>
+  <string name="swipe_direction_ltr">Povucite udesno da biste odbacili izbornik, a ulijevo da biste ga prikazali</string>
+  <string name="swipe_direction_rtl">Povucite ulijevo da biste odbacili izbornik, a udesno da biste ga prikazali</string>
   <string name="swipe_direction_title">Povlačenje prstom</string>
-  <string name="swipe_up_to_switch_apps_suggestion_summary">Uključite novi pokret da biste promijenili aplikaciju</string>
+  <string name="swipe_up_to_continue_using">Povucite prema gore za nastavak</string>
+  <string name="swipe_up_to_continue_using_summary">Zaključaj nakon %d sekundi neaktivnosti</string>
+  <string name="swipe_up_to_switch_apps_suggestion_summary">Uključite novu gestu da biste promijenili aplikaciju</string>
   <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi tipku Poč. zaslona</string>
-  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po tipki Poč. zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati tipku Pregled u donjem desnom kutu zaslona.</string>
+  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, povucite prema gore po tipki Poč. zaslona. Ponovo povucite prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati tipku Pregled u donjem desnom kutu zaslona.</string>
   <string name="swipe_up_to_switch_apps_title">Navigacija pomoću dvije tipke</string>
   <string name="switchNetworkToast">Povezivanje s mobilnim mrežama može generirati dodatne naknade</string>
   <string name="switch_access_service_on">Promjena pristupa</string>

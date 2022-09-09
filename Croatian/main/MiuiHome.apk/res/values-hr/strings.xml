@@ -89,6 +89,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Ladicu aplikacija otvarate povlačenjem prema gore na Početnom zaslonu. Ako promjenite na Početni zaslon sa Ladicom aplikacija, pretraživanje će biti nedostupno. Promjeniti svejedno?</string>
     <string name="all_apps_setting_drawer_tips_title">Koristi Ladicu aplikacija</string>
     <string name="all_apps_setting_drawer_title">Sa Ladicom aplikacija</string>
+	 <string name="all_apps_setting_jeejen_title">Lite način</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_min_category_limit">Odaberite najmanje 1 kategoriju</string>
     <string name="all_apps_setting_original_scrollbar">Originalni raspored</string>
@@ -434,6 +435,9 @@
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
     <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
     <string name="item_view_role_description">Kartica</string>
+	 <string name="jeejen_description">"Veći elementi korisničkog sučelja.
+Pristupačnije pozivanje.
+Poboljšana sigurnost."</string>
     <string name="key_shortcut_settings_title">Prečaci tipki</string>
 	 <string name="label">Oznaka</string>
     <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
@@ -505,6 +509,7 @@
     <string name="menu_lock">Zaključaj raspored Poč. zaslona</string>
     <string name="menu_more">Više</string>
     <string name="menu_no_word">"Ne prikazuj tekst"</string>
+	 <string name="menu_only_widget_no_word">Ukloni tekst iz widgeta</string>
     <string name="menu_no_word_setting_tip" formatted="false">Koristite %d×%d izgled bez teksta</string>
     <string name="menu_picktheme">Odaberite temu</string>
     <string name="menu_reset_scene">Vraćanje na zadane postavke</string>
@@ -702,20 +707,23 @@
     <string name="notification_reset_title">Autom. čišćenje je završeno</string>
     <string name="one_key_call_title">Dodirni za biranje</string>
     <string name="online_wallpaper">Online</string>
-	 <string name="open_pad_personal_assistant_settings">Widgeti Poč. zaslona</string>
+	  <string name="open_pad_personal_assistant_settings">Widgeti Poč. zaslona</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
     <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Zaklj. aplikacija i primati njegova ažuriranja. Isključiti sada?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Nećete moći koristiti kartice Zaklj. aplikacija (dionice, prečaci i sl.) i primati ažuriranja nakon isključivanja ove značajke."</string>
     <string name="open_personal_assistant_dialog_title">Isključi Zaklj. aplikacija</string>
     <string name="open_personal_assistant_settings">Postavke Zaklj. aplikacija</string>
+	  <string name="open_personal_assistant_settings_off">Isključeno</string>
+    <string name="open_personal_assistant_settings_on">Uključeno</string>
+    <string name="open_personal_assistant_settings_simplified">Zaklj. aplikacija</string>
     <string name="open_personal_assistant_title">Zaklj. aplikacija</string>
     <string name="ota_layout_adjustment_button_text">Razumijem</string>
     <string name="ota_layout_adjustment_content">Raspored unutarnjeg i vanjskog Poč. zaslona sinkroniziran je u novoj verziji.</string>
     <string name="ota_layout_adjustment_title">Izgled Poč. zaslona</string>
     <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
-	 <string name="pair_icon_name">%1$s | %2$s</string>
-	 <string name="password_toggle_content_description">Prikaži zaporku</string>
+	  <string name="pair_icon_name">%1$s | %2$s</string>
+	  <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="perfect_icons_switch_summary">Prikaži animacije ikona aplikacija treće strane</string>
     <string name="perfect_icons_switch_title">Globalne animacije ikona</string>
     <string name="permdesc_install_shortcut">Aplikaciji omogućuje dodavanje prečaca bez potrebe za dodatnim radnjama od strane korisnika.</string>

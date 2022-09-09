@@ -2919,7 +2919,11 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
     <string name="smart_forwarding_settings_menu">Pametno prosljeđivanje</string>
     <string name="smart_forwarding_settings_menu_summary">Ako jedan broj nije dostupan, uvijek proslijedite pozive na svoj drugi broj</string>
     <string name="smart_multinetwork_acceleration_title">Pametno mrežno ubrzanje</string>
-	 <string name="smart_switch_dual_sim_prompt">Povezivanje na mobilnu podatkovnu mrežu pomoću SIM %1$s može stvoriti dodatne naknade za prijenos podataka. Postavite ograničenje korištenja podataka kako biste izbjegli dodatne naknade.</string>
+	 <string name="smart_switch_dual_sim_diag_cancel">Odustani</string>
+    <string name="smart_switch_dual_sim_diag_message">"Čini se da vaša trenutna podatkovna SIM kartica ne pruža stabilnu mrežnu vezu. Automatsko prebacivanje između podatkovnih SIM kartica može poboljšati kvalitetu veze. Ovu značajku možete uključiti u Postavkama."</string>
+    <string name="smart_switch_dual_sim_diag_ok">Postavke</string>
+    <string name="smart_switch_dual_sim_diag_title">Pažnja</string>
+	  <string name="smart_switch_dual_sim_prompt">Povezivanje na mobilnu podatkovnu mrežu pomoću SIM %1$s može stvoriti dodatne naknade za prijenos podataka. Postavite ograničenje korištenja podataka kako biste izbjegli dodatne naknade.</string>
     <string name="smart_switch_dual_sim_summary">Automatsko prebacivanje između podatkovnih SIM kartica na temelju kvalitete mrežne veze i statusa uređaja</string>
     <string name="smart_switch_dual_sim_title">Prebacivanje između podatkovnih SIM kartica</string>
     <string name="sms_messages_title">SMS</string>
@@ -3546,6 +3550,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
     <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
     <string name="xcap_setting_summary">Zabrana poziva, govorna pošta, prosljeđivanje poziva i Poziv na čekanju</string>
     <string name="xcap_setting_title">Postavke usluge poziva</string>
+	 <string name="xiaoai_assistant_setting_title">Mi AI pomoćnik za pozivanje</string>
     <string name="xdivert_button">X-Divert postavke</string>
     <string name="xdivert_setting">X-Divert postavke</string>
     <string name="xdivert_summary">CFNRc postavke</string>
