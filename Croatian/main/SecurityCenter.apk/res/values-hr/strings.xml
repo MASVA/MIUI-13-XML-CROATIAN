@@ -14,10 +14,11 @@
   <string name="HIPS_Perm_External_READ_FILES_Desc">Pristup datotekama i dokumentima pohranjenim na ovom uređaju</string>
   <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Pristup audio datotekama</string>
   <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Pristup pjesmama i drugim audio datotekama pohranjenim na ovom uređaju</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Pristup i spremanje slika, video i audio datoteka u unutarnju pohranu</string>
   <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Pristup fotografijama i videozapisima</string>
   <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Pristup fotografijama i videozapisima pohranjenim na ovom uređaju</string>
   <string name="HIPS_Perm_External_Storage">Pristup stavkama i spremnje u pohranu</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Pristup datotekama i fotografijama i spremnje u internu pohranu</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Pristup datotekama i fotografijama i spremnje u unutarnju pohranu</string>
   <string name="HIPS_Perm_External_Storage_Group">Upravljanje dopuštenjima za pohranu</string>
   <string name="HIPS_Perm_External_Storage_Group_Desc">Odaberite koje aplikacije imaju odobren pristup stavkama</string>
   <string name="HIPS_Perm_GetInstall_Desc">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
@@ -749,6 +750,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_bind_account_dialog_content">Vaš Mi Račun jedini je način za vraćanje Zaklj. aplikacija u slučaju da ga zaboravite. Prijavite se da biste dodali svoj Mi Račun.</string>
   <string name="applock_bind_account_dialog_title">Dodajte svoj Mi Račun</string>
   <string name="applock_bind_account_title">Zaboravljena zaporka</string>
+  <string name="applock_biometric_recognition">Biometrija</string>
   <string name="applock_close_dialog_summary">Sve skrivene aplikacije bit će vidljive, njihovi prečaci Poč. zaslona bit će obnovljeni, a zaporka za Zaklj. aplikacija bit će izbrisana. Želite li isključiti Zaklj. aplikacija?</string>
   <string name="applock_close_dialog_title">Isključiti Zaklj. aplikacija?</string>
   <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
@@ -1410,6 +1412,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="confirm_open">Uključi</string>
   <string name="confirm_open_shut_down_password_content">Postavite zaključavanje zaslona prije uključivanja potvrde isključenja.</string>
   <string name="confirm_open_shut_down_password_title">Postavite zaključavanje zaslona</string>
+  <string name="confirm_package_type">Potvrdite vrstu paketa</string>
   <string name="confirm_prompt_all_permission">Tražiti dopuštenje za sve aplikacije?</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="confirm_take">Dobij</string>
@@ -1888,8 +1891,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
   <string name="fingerprint_not_remind">"Ne pitaj ponovno"</string>
-  <string name="fingerprint_remind_dialog_title">Otključavanje pomoću otiska prsta</string>
-  <string name="fingerprint_to_lock">Otključajte pomoću otiska prsta</string>
+  <string name="fingerprint_remind_dialog_title">Otključavanje otiskom prsta</string>
+  <string name="fingerprint_to_lock">Otključavanje otiskom prsta</string>
   <string name="fingerprint_to_lock_summary">Otključajte aplikacije pomoću otiska prsta</string>
   <string name="fingerprint_verification">Skeniraj otisak prsta</string>
   <string name="fingerprint_verification_message">Skenirajte svoj otisak prsta za korištenje ove značajke.</string>
@@ -2040,6 +2043,12 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
  %2$d. Kada je ova značajka uključena, druga osoba neće moći čuti vaše melodije zvona osim ako ne koristite običnu SIM karticu. Dolazni pozivi bit će automatski odbijeni nakon %3$d-%4$d sekundi neaktivnosti.
  %5$d. Podržane su podatkovne SIM kartice koje su izdali China Mobile i China Unicom. Podržane su obične SIM kartice koje izdaju China Mobile, China Unicom i China Telecom."</string>
   <string name="function_gwsd_title">"Ne dopusti dolaznim pozivima da prekidaju podatkovnu SIM vezu"</string>
+  <string name="function_oncall_not_close_network">"Ne prekidaj vezu za pozive"</string>
+  <string name="function_oncall_not_close_network_detail">"O ovoj značajki
+  %1$d. Ova vam značajka omogućuje da ostanete na mreži tijekom sesija igranja bez da vas ometaju dolazni pozivi kada je ovaj uređaj spojen na određene 5G mreže.
+  %2$d. Ako niti jedna od vaših SIM kartica nije spojena na 5G mrežu, vaš primarni SIM automatski će odbiti dolazne pozive.
+  %3$d. Ova je značajka podržana samo u kontinentalnoj Kini.
+  %4$d. Ova značajka radi samo u 5G-SA mrežama."</string>
   <string name="function_shield_auto_bright">Isključi autom. svjetlinu</string>
   <string name="function_shield_eye_shield">Isključi način čitanja</string>
   <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
@@ -2171,10 +2180,18 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj tijekom ubijanja u igri</string>
   <string name="gb_audition_instruction">Pritisnite i držite za snimanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najbolji učinak koristite slušalice</string>
+  <string name="gb_barrage_chat_desc">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
+  <string name="gb_barrage_chat_text_color">Boja</string>
+  <string name="gb_barrage_chat_text_size">Veličina teksta</string>
+  <string name="gb_barrage_chat_text_size_big">Veliki</string>
+  <string name="gb_barrage_chat_text_size_small">Mali</string>
+  <string name="gb_barrage_chat_text_speed">Brzina</string>
+  <string name="gb_barrage_chat_text_speed_faster">Brzo</string>
+  <string name="gb_barrage_chat_text_speed_slow">Sporo</string>
   <string name="gb_collimator_color">Boja</string>
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
-  <string name="gb_collimator_toast">Pogled čini nišanjenje mnogo praktičnijim</string>
+  <string name="gb_collimator_toast">Pogled čini ciljanje mnogo praktičnijim</string>
   <string name="gb_create_icon_summary">Izradi prečac Poč. zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
@@ -3591,6 +3608,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_fast_charge_notifi_title">%dW punjenje</string>
   <string name="pc_fast_charge_notifi_title_on">Zaustavi povećavati brzinu punjenja</string>
   <string name="pc_fast_charge_switch_summary">"Uključite kako biste ubrzali proces punjenja. MIUI će dati prednost brzini punjenja i pritom osigurati sigurnost vašeg uređaja. Što je baterija praznija, brže će se puniti. Ova značajka može zagrijati vaš uređaj."</string>
+  <string name="pc_fast_charge_switch_summary_new">Podsjeti da povećate brzinu punjenja kada je priključen isporučeni punjač i baterija padne ispod zadane razine</string>
   <string name="pc_fast_charge_switch_title">Povećajte brzinu punjenja</string>
   <string name="pc_fast_charge_switch_toast_message">Promjene će se primijeniti prilikom sljedećeg punjenja ovog uređaja</string>
   <string name="pc_fast_charge_title">Povećajte brzinu punjenja</string>
@@ -3780,6 +3798,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pm_remember_choice">Zapamti moj odabir</string>
   <string name="pm_root_success_notification_infomation">Uvjerite se da razumijete rizike vezane uz ROOT pristup</string>
   <string name="pm_root_success_notification_title">ROOT pristup dopušten</string>
+  <string name="power_5g_popups_content">5G mreže pružaju veliku brzinu veze i nižu latenciju.</string>
+  <string name="power_5g_popups_title">Koristite 5G mreže</string>
   <string name="power_ambient_display">Uvijek uključeno zaslon</string>
   <string name="power_analysis_consume_title">Potrošnja baterije</string>
   <string name="power_analysis_suggestion_need_optimize">Otkriveni problemi pri potrošnji baterije.</string>
@@ -6383,6 +6403,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>
+  <string name="vtb_ai_subtitle">Titlovi</string>
   <string name="vtb_func_desc">O ovoj značajki</string>
   <string name="vtb_func_display_style_desc0">AI može prepoznati ljude, životinje, biljke, nebo, zgrade i druge predmete koji se nalaze u videozapisima i dinamički ih poboljšati.</string>
   <string name="vtb_func_display_style_desc1">"Odabrani efekti neće se primijeniti na HDR videozapise na odabranim uređajima."</string>

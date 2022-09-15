@@ -3603,6 +3603,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="disable_encrypt_title">Isključi šifriranje</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
+  <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke Power</string>
   <string name="disable_service_message">Ako dodirnete %1$s, zaustavit će se %2$s.</string>
   <string name="disable_service_title">Želite li zaustaviti uslugu %1$s?</string>
   <string name="disable_text">Onemogući</string>
@@ -3863,7 +3864,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="drive_mode_voice_report">Izlaz pretvaranja teksta u govor</string>
   <string name="dsda_close_toast">Dvostruki aktivni način rada je isključen. Ponovo pokrenite uređaj da biste primijenili promjene.</string>
   <string name="dsda_open_toast">Dvostruki aktivni način rada je uključen. Ponovo pokrenite uređaj da biste primijenili promjene.</string>
-  <string name="dsda_switch_summary">Dopusti objema SIM karticama istovremeno korištenje mobilnih podataka i upućivanje poziva</string>
+  <string name="dsda_switch_summary">Kada ste u 5G mrežnom okruženju, dopustite istovremeno objema SIM karticama da koriste mobilne podatke i upućuju pozive</string>
   <string name="dsda_switch_title">Dvostruki aktivni način rada</string>
   <string name="dsds_activation_failure_body_msg1">Izvadite SIM i umetnite ga ponovo. Ako se problem ponovi, ponovo pokrenite uređaj.</string>
   <string name="dsds_activation_failure_body_msg2">Pokušajte ponovo uključiti SIM. Ako se problem ponovi, ponovo pokrenite uređaj.</string>
@@ -6528,6 +6529,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="menu_hide_system">Sakrij sustav</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_show_more">Više</string>
+  <string name="menu_key">Izbornik</string>
   <string name="menu_new">Novi APN</string>
   <string name="menu_new_display_open">Otvori u novom prozoru</string>
   <string name="menu_pc_open">Otvori na računalu</string>
@@ -9626,6 +9628,8 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_gps">GPS;Pristup lokaciji;Usluge lociranja</string>
   <string name="search_handy_mode">Rad jednom rukom;Rad jednom rukom;Rad jednom rukom;Jedna ruka</string>
   <string name="search_hint">Pretraži postavke</string>
+  <string name="search_history_clear_description">Brisanje povijesti pretraživanja</string>
+  <string name="search_history_description">Povijest pretraživanja</string>
   <string name="search_home_key">Početna;Tipka Početna;Tipka Početna</string>
   <string name="search_input_hint">Pretraži postavke</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
@@ -9690,6 +9694,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_privacy_settings">Sig. kopija &amp; poništi;Sig. kopija i poništi;Sig. kopija;poništi;Izradi Sig. kopiju</string>
   <string name="search_radio_controls_title">Više;Bežično</string>
   <string name="search_recents_queries_label">Nedavna pretraživanja</string>
+  <string name="search_result_feedback_text">"Ne mogu pronaći rezultate"</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Rezultati</string>
   <string name="search_results_title">Postavke</string>
@@ -10073,6 +10078,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="security_settings_summary">Postavi Moju lokaciju, otključavanje zaslona, zaključavanje SIM kartice, zaključavanje spremnika za vjerodajnice</string>
   <string name="security_settings_title">Sigurnost</string>
   <string name="security_settings_udfps_enroll_a11y">Pomičite prst po zaslonu da biste pronašli senzor. Dodirnite i zadržite senzor otiska prsta.</string>
+  <string name="security_settings_udfps_enroll_progress_a11y_message">Očitanje otiska prsta %d posto</string>
   <string name="security_settings_udfps_enroll_edge_message">Postavite rub prsta na senzor i zadržite ga, a zatim prijeđite na drugu stranu</string>
   <string name="security_settings_udfps_enroll_find_sensor_message">Senzor otiska prsta nalazi se na zaslonu. Na sljedećem zaslonu snimit ćete svoj otisak prsta.</string>
   <string name="security_settings_udfps_enroll_find_sensor_start_button">Započni</string>
@@ -10089,7 +10095,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="security_settings_udfps_tip_fingerprint_help">Podignite i ponovo dodirnite</string>
   <string name="security_settings_work_fingerprint_preference_title">Pixel Imprint za posao</string>
   <string name="security_status">Sigurnost</string>
-  <string name="security_status_title">Sigurnosni status</string>
+  <string name="security_status_title">Status sigurnosti</string>
   <string name="security_update">Sigurnosno ažuriranje</string>
   <string name="see_all">Prikaži sve</string>
   <string name="see_all_apps_title">Pogledajte sve aplikacije (%1$d)</string>
@@ -10499,6 +10505,14 @@ Možda je PIN pogrešan."</string>
 Dodirnite tipku Početna za povratak.
 Dvaput dodirnite za otvaranje Nedavno."</string>
   <string name="single_press_AI_button">Pritisnite AI tipku</string>
+  <string name="size_embedded">Paralelni prozori</string>
+  <string name="size_full">Cijeli zaslon</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s %2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole glazbe i prečaci neće se prikazati na Zaklj. zaslonu.</string>

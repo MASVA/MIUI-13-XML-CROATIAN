@@ -156,7 +156,8 @@
     <string name="location_content">U skladu sa zakonom, mobilni operateri mogu dobiti informacije o lokaciji mobilnih uređaja kako bi udovoljili zahtjevima hitnih spasilačkih agencija (vatrogasne službe i policija) koje provode sigurnosne i hitne spasilačke svrhe.</string>
     <string name="location_introduction">Usluge lokacije pružaju razne usluge temeljene na lokaciji na temelju vaših podataka o lokaciji.</string>
     <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
-    <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
+    <string name="location_introduction_qcom">Usluge lokacije koriste pozicioniranje za pružanje usluga specifičnih za lokaciju. Kada vaš uređaj koristi usluge lokacije, QCC modul će se povezati s mrežom kako bi se ubrzao proces pozicioniranja.</string>
+	 <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
     <string name="member_exclusive_medal">Članska značka</string>
     <string name="membership_rights_tip">Prijavite se na svoj Mi Račun da dobijete ekskluzivne pogodnosti</string>
     <string name="message_introduction">Ovu aplikaciju možete koristiti za slanje i primanje SMS poruka.</string>

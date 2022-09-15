@@ -131,7 +131,20 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="close">Zatvori</string>
     <string name="cloud_description_closed">Zauzeto | Sinkr. je isključena</string>
     <string name="cloud_description_normal">Zauzeto</string>
+	 <string name="cloud_member">Članstvo</string>
+    <string name="cloud_member_status_expired">Isteklo</string>
+    <string name="cloud_member_status_expired_soon">Uskoro ističe</string>
+    <string name="cloud_member_status_non_vip">Nadogradnja</string>
+    <string name="cloud_member_vipname_free">Besplatno</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Mi Cloud</string>
+	 <string name="cloud_service_cloud_open">Uključi</string>
+    <string name="cloud_service_space_full">Pohrana puna</string>
+    <string name="cloud_service_space_not_enough">Nedovoljno prostora za pohranu</string>
+    <string name="cloud_service_space_used">Zauzeto</string>
+    <string name="cloud_service_state_error">"Nije moguće učitati"</string>
     <string name="cloud_service_status_backup_not_open">Sigurnosno kopiranje je isključeno</string>
     <string name="cloud_service_status_cloud_not_open">Isključeno</string>
     <string name="cloud_service_status_storage_full">Pohrana je puna</string>
@@ -207,6 +220,8 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
+    <string name="dind_device_service_not_open">Isključeno</string>
+    <string name="dind_device_service_opened">Uključeno</string>
     <string name="download_file">Preuzimanje %s…</string>
     <string name="empty_device_list_notice">Nema uređaja</string>
     <string name="enable">Postavke</string>
@@ -223,7 +238,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Prijavite se s Facebook računom</string>
     <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
-    <string name="family_share">Obiteljsko dijeljenje</string>
+	 <string name="family_service">Obiteljske usluge</string>
+    <string name="family_service_not_open">Pozovite članove</string>
+    <string name="family_share">Dijeljenje s obitelji</string>
     <string name="find_device">Pronađi uređaj</string>
     <string name="find_device_access_denied">"Ne mogu dobiti status, pristup odbijen"</string>
     <string name="find_device_account_error">"Ne mogu dobiti status zbog pogreške računa"</string>
@@ -305,6 +322,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="login_with_other">Više opcija</string>
     <string name="logout_account">Odjava</string>
     <string name="logout_failed">"Ne mogu se odjaviti"</string>
+	 <string name="mi_account">Moj račun</string>
     <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
     <string name="mi_finance">Moje financije</string>
     <string name="mi_finance_info">Bonusi za nove korisnike</string>
@@ -664,6 +682,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_vcode_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
     <string name="passport_verification_failed">Ne mogu potvrditi račun</string>
     <string name="passport_verify">Provjeri</string>
+	 <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će dostavljen na vaš telefon za oporavak &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verifying_activator_phone">Potvrđivanje sigurnosti telefona…</string>
     <string name="passport_wait_for_sms_prompt">"Započeti sada ponovno? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
     <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
@@ -824,6 +843,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="two_factor_auth_need_code_summary">"Vidjet ćete kôd na ostalim povezanim Mi uređajima. Unesite ovaj kôd na novi uređaj za prijavu."</string>
     <string name="two_factor_auth_summary">"Kada se pokušate prijaviti na novom uređaju ili na novoj lokaciji, o tome ćete biti obaviješteni na ostalim povezanim uređajima. Morate potvrditi da li ste vi takve pokušaje prijave odobrili."</string>
     <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
+	 <string name="unit_gb">" GB"</string>
+    <string name="unit_mb">" MB"</string>
     <string name="unlock_help_notice">"Pomoć:
 1. Ako ste zaboravili svoju zaporku, idite na id.mi.com da je poništite.
 2. Ako ne možete poništiti zaporku ili je netko zaključao vaš uređaj, idite na i.mi.com da biste ga otključali.

@@ -243,7 +243,8 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="global_privacy_main">"Emitiranje stavki sa zaslona telefona na veći vanjski monitor."</string>
     <string name="global_privacy_negative">"Ne prihvaćam"</string>
     <string name="global_privacy_positive">Prihvaćam</string>
-    <string name="global_privacy_tip"><Data>Moramo prikupiti potrebne osobne podatke kako bismo vam pružili osnovne usluge i optimizirali postupak emitiranja. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &lt;a href=%1$s>Pravila o privatnosti&lt;/a>. U bilo kojem trenutku možete povući svoj pristanak na Pravila o privatnosti u Postavkama.</Data></string>
+	 <string name="global_privacy_screencast">Tijekom snimanja ili emitiranja, usluga koja pruža ovu značajku može uhvatiti sve osjetljive podatke koji se prikazuju na vašem zaslonu ili reproduciraju s vašeg uređaja, uključujući osjetljive podatke kao što su zvuk, zaporke, podaci o plaćanju, fotografije i poruke.</string>
+    <string name="global_privacy_tip"><Data>Moramo prikupiti potrebne osobne podatke kako bismo vam pružili osnovne usluge i optimizirali postupak emitiranja. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &lt;a href=%1$s>Pravila o privatnosti&lt;/a>. U bilo kojem trenutku možete povući svoju suglasnost na Pravila o privatnosti u Postavkama.</Data></string>
     <string name="guide_confirm_button_text">Pokreni</string>
     <string name="guide_exit_button_content_description">Izlaz</string>
     <string name="guide_next_button_text">Saznajte više</string>
@@ -537,16 +538,18 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="privacy_permission_nfc_desc">Za uparivanje uređaja koji koriste NFC</string>
     <string name="privacy_permission_optional">Dodatna dopuštenja</string>
     <string name="privacy_permission_optional_desc">"Koriste se za dodatne značajke dok ih upotrebljavate"</string>
+	 <string name="privacy_permission_screencast">Pristup informacijama na zaslonu</string>
+    <string name="privacy_permission_screencast_desc">Tijekom snimanja ili emitiranja, usluga koja pruža ovu značajku može uhvatiti sve osjetljive podatke koji se prikazuju na vašem zaslonu ili reproduciraju s vašeg uređaja, uključujući osjetljive podatke kao što su zvuk, zaporke, podaci o plaćanju, fotografije i poruke</string>
     <string name="privacy_permission_wlan">Uključivanje i isključivanje Wi-Fi-ja</string>
     <string name="privacy_permission_wlan_china">Uključivanje i isključivanje Wi-Fi-ja</string>
     <string name="privacy_permission_wlan_desc">Pronalaženje dostupnih uređaja u blizini</string>
     <string name="privacy_permission_wlan_desc_china">Pronalaženje dostupnih uređaja u blizini</string>
-    <string name="privacy_positive">Slažem se</string>
+    <string name="privacy_positive">Prihvaćam</string>
     <string name="privacy_revoke_confirm_cancel">Odustani</string>
     <string name="privacy_revoke_confirm_message">"Nećete moći nastaviti koristiti značajke emitiranja osim ako nam ne dopustite pružanje naših usluga na temelju prikupljanja potrebnih osobnih podataka. Želite li ipak povući suglasnost za HappyCast politiku privatnosti?"</string>
     <string name="privacy_revoke_confirm_sure">U redu</string>
     <string name="privacy_revoke_confirm_title">"Ne mogu koristiti usluge"</string>
-    <string name="privacy_revoke_dialog_agree">Slažem se</string>
+    <string name="privacy_revoke_dialog_agree">Prihvaćam</string>
     <string name="privacy_revoke_dialog_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti HappyCasta. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da HappyCast pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga HappyCast. Povući suglasnost?"</string>
     <string name="privacy_revoke_dialog_revoke">Povuci</string>
     <string name="privacy_revoke_dialog_title">Povlačenje suglasnosti</string>
@@ -561,7 +564,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="privacy_setting_show_policy">Pogledajte Pravila o privatnosti</string>
     <string name="privacy_setting_show_user_agreement">Pogledajte Korisnički ugovor</string>
     <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-    <string name="privacy_text_2">　　Klikom na Slažem se prihvaćate gore navedeno &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
+    <string name="privacy_text_2">　　Dodirom na "Prihvaćam" prihvaćate gore navedeno &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
     <string name="privacy_text_pemission">"　　• Dopuštenja Wi-Fi mreže koriste se za otkrivanje i povezivanje uređaja.
 　　•Bluetooth se koristi za otkrivanje i povezivanje uređaja.
 　　•Nakon čitanja pohrane telefona i pročitanog sadržaja, emitirajte na uređaj velikog zaslona.

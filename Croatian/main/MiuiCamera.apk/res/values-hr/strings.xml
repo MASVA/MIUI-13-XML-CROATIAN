@@ -40,6 +40,7 @@
     <string name="accessibility_ambilight_panel_on">Otvori panel Duža ekspozicija</string>
     <string name="accessibility_audio_shutter_bg">Pozadina zvuka okidača</string>
     <string name="accessibility_back_preview_status">Pregled stražnje kamere</string>
+	 <string name="accessibility_beauty_compare">Pogledajte sliku sa i bez Uljepšanja</string>
     <string name="accessibility_beauty_function_button">Uljepšaj</string>
     <string name="accessibility_beauty_function_panel_on">Panel Uljepšaj</string>
     <string name="accessibility_beauty_panel_closed">Izbornik Uljepšaj je skriven</string>
@@ -455,7 +456,8 @@ i na trenutak izađite iz pregleda"</string>
     <string name="clone_mode_start_hint">Dodirnite tipku okidača za početak</string>
     <string name="clone_no_person_found">"Ne mogu pronaći vaš predmet"</string>
     <string name="clone_offset_is_too_large">Previše kretanja. Pokušajte početi ispočetka.</string>
-    <string name="clone_photo_mode">Fotografija</string>
+    <string name="close_flash_toast">"Ne mogu koristiti bljeskalicu zbog slabe baterije"</string>
+	 <string name="clone_photo_mode">Fotografija</string>
     <string name="clone_put_phone_back_in_place">Vratite uređaj u izvorni položaj</string>
     <string name="clone_recapture_alert">Početi ispočetka?</string>
     <string name="clone_start_capture">Počnite klonirati</string>
@@ -786,6 +788,7 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
     <string name="film_video_c">Zamrzavanje vremena</string>
     <string name="film_video_d">Noćno vrijeme</string>
     <string name="film_video_e">Paralelni svijet</string>
+	 <string name="film_video_f">Povratak u prošlost</string>
     <string name="film_video_tip">Upotrijebite stativ</string>
     <string name="find_cloud_album">Pronađi QR kôd Cloud albuma</string>
     <string name="find_market_qrcode">Pronađi QR kôd Marketa</string>
@@ -942,6 +945,7 @@ Ispišite kopiju bežično na papir A4."</string>
     <string name="location_permission_not_ask_again_go_to_settings">Dopusti</string>
     <string name="locations">Lokacije</string>
     <string name="longitude_text">Dulj.</string>
+	 <string name="low_battery_to_save_video">"Čini se da je baterija vašeg uređaja prazna. Zaustavite snimanje i spremite video prije nego što se uređaj isključi."</string>
     <string name="lpl_dialog_item_name_burst">Pritisnite i zadržite za brzo snimanje</string>
     <string name="lpl_dialog_item_name_record">Pritisnite i zadržite za snimanje</string>
     <string name="lpl_dialog_title">Odaberite funkciju okidača</string>
@@ -1143,6 +1147,12 @@ izgledaju veće na fotografijama"</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moive_frame">Okvir filma</string>
+	 <string name="moiton_detection_960_fps_video_tip" formatted="false">%1d FPS videozapisi mogu trajati do %2d sek.</string>
+    <string name="moiton_detection_tip">Otkrivanje pokreta… Držite uređaj mirnim.</string>
+    <string name="moiton_detection_video_3840fps_3840">%d FPS</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Napunite svoj uređaj da biste mogli koristiti ovu značajku</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Vaš uređaj je pregrijan. Snimanje će se zaustaviti za %d sek.</string>
+    <string name="moiton_detection_video_temperature_tip">Ohladite svoj uređaj da biste mogli koristiti ovu značajku</string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
@@ -1291,6 +1301,7 @@ dodirnite tipku Okidač"</string>
     <string name="pic_flaw_cover">Čini se da je leća dijelom prekrivena</string>
     <string name="pixel_ai_108">AI 100 milijuna ultra vivid</string>
     <string name="pixel_ai_108_close">Zatvori AI 100 milijuna ultra vivid</string>
+	 <string name="pixel_mode_capture_hint">Provjerite je li okolina dobro osvijetljena</string>
     <string name="popup_tip_3d_beauty_intro_text">3D Uljepšanje</string>
     <string name="popup_tips_near_range_mode">Zatvori fokus</string>
     <string name="popup_tips_privacy_watermark_edit">Uredite zaštitnu oznaku</string>
@@ -1395,6 +1406,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_camera_beauty">Uljepšanje</string>
     <string name="pref_camera_beauty_deep">Uljepšanje Pro</string>
     <string name="pref_camera_bokeh_title">Portret</string>
+	 <string name="pref_camera_crop_preferred_description">Primijenite pametno obrezivanje za poboljšanje kompozicije slika super rezolucije</string>
     <string name="pref_camera_coloreffect_entry_big_face">Širenje</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
     <string name="pref_camera_coloreffect_entry_brannan">Zora</string>
@@ -1686,6 +1698,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_camera_sr_enable_title">Uključi SR</string>
     <string name="pref_camera_stereo_mode_title">Podešavanje fokusa</string>
     <string name="pref_camera_super_resolution_title">Uključi SR</string>
+	 <string name="pref_camera_suspend_shutter_button_summary">Povucite tipku okidača prema gore za stvaranje dodatnog plutajućeg okidača</string>
+    <string name="pref_camera_suspend_shutter_button_title">Dodatni okidač</string>
     <string name="pref_camera_tap_shoot_summary">Dodirnite zaslon za pregled da biste snimili fotografiju</string>
     <string name="pref_camera_tap_shoot_title">Dodirnite da biste snimili fotografiju</string>
     <string name="pref_camera_tilt_shift_entry_circle">Krug</string>
@@ -1753,6 +1767,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_custom_tint_title">Boje</string>
     <string name="pref_customization_style">Prilagođeni stil</string>
     <string name="pref_customization_title">Prilagodi</string>
+	 <string name="pref_cv_watermark_location_title">Koordinate</string>
+    <string name="pref_cv_watermark_time_title">Vrijeme</string>
     <string name="pref_document_mode">Dokumenti</string>
     <string name="pref_dual_camera_video">Dvostruki video</string>
     <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
@@ -1795,6 +1811,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Načini</string>
+	 <string name="pref_motioon_detection">Otkrivanje pokreta</string>
     <string name="pref_more_mode_style_title">Načini kamere</string>
     <string name="pref_multi_camera_dual_video_front">Prednja kamera</string>
     <string name="pref_multi_camera_dual_video_remote">Snimanje sa dva uređaja</string>
@@ -1898,6 +1915,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-sek. interval)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-sek. interval)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Interval protoka vremena</string>
+	 <string name="pref_true_colour_video_mode_description">Snimajte videozapise uz Dolby Vision kako biste uhvatili realistične detalje, zadivljujuće boje i upečatljiv kontrast (ova značajka možda neće biti kompatibilna s nekim aplikacijama trećih strana)</string>
+    <string name="pref_true_colour_video_mode_introduction">Zapanjujuće vizualno iskustvo, realistični detalji i upečatljiv kontrast</string>
+    <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_watermark_off">Isklj.</string>
     <string name="pref_watermark_on">Uklj.</string>
     <string name="pref_watermark_style_entry_dualcamera">Dvojna kamera</string>
@@ -1925,6 +1945,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="qq_details">QQ datalji:</string>
     <string name="qr_code_details">Detalji QQ koda:</string>
+	  <string name="qvga_shelter_tip_text">"Nemojte prekrivati leću"</string>
     <string name="raw_data_exit_button_text">Izlaz iz RAW načina</string>
     <string name="recommend_macro_mode">Isprobajte Macro način</string>
     <string name="recommend_portrait">Isprobajte Portretni način</string>
@@ -2037,6 +2058,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="start_capture">U redu</string>
     <string name="sticker_tab1">Slatko</string>
     <string name="sticker_tab2">Smiješno</string>
+	 <string name="stop_save_low_battery">Spremi (%ds)</string>
     <string name="subtitle_network_exception_tips">"Ne mogu se povezati na mrežu. Ne možete naći titlove."</string>
     <string name="success_message_import_from_account">Uvezeno</string>
     <string name="sunday">Nedjelja</string>
@@ -2113,6 +2135,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
+	 <string name="too_low_battery">Prazna baterija</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
@@ -2199,6 +2222,7 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
     <string name="video_effect_entry_summer_day">Ljeto</string>
     <string name="video_effect_entry_summer_day_describe">Niski kontrast i svijetli tonovi dobro dođu kada trebate sačuvati nijanse kože. Ovaj je filtar pogodan za sunčane scene na otvorenom.</string>
     <string name="video_effect_entry_wind_sing">Povjetarac</string>
+	 <string name="video_low_battery_tip_content">Smanjeni broj sličica u sekundi zbog slabe baterije</string>
     <string name="video_err">"Ne mogu reproducirati videozapis"</string>
     <string name="video_overheat_tip_content">Čini se da vam je uređaj prevruć. Pokušajte snimiti videozapis u nižoj rezoluciji.</string>
     <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>

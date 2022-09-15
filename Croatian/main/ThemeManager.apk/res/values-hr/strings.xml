@@ -100,6 +100,9 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="apply_succeed">Uspješno postavljeno</string>
     <string name="apply_success_not_enable_aod">Prvo uključite Always-on zaslon u postavkama</string>
     <string name="apply_success_not_support_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju. Ostali dijelovi ove teme uspješno su postavljeni."</string>
+	 <string name="apply_wallpaper_after_three_theme">"Trenutno koristite temu treće strane. Ako promijenite samo pozadinu svog zaključanog zaslona, to može uzrokovati vraćanje stila sata zaključanog zaslona na zadani. Želite li sada primijeniti?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon, a Always-on zaslon vratit će se na prethodnu postavku . Prijaviti se sada?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon. Želite li sada primijeniti?"</string>
     <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
     <string name="apply_warning_get_device_dialog_message">Da biste mogli koristiti preuzeti sadržaj, prvo dopustite ovoj značajci pristup ID-u vašeg uređaja. Ovo dopuštenje možete dati u Postavke &gt; Privatnost.</string>
     <string name="apply_warning_tip_get_device_status">Dopustite ovoj aplikaciji pristup ID-u vašeg uređaja u Profil > Postavke.</string>
