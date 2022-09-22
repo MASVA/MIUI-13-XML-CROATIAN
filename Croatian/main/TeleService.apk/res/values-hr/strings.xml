@@ -463,6 +463,8 @@ Audio"</string>
     <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>
     <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
     <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+	  <string name="business_hall_settings_summary">Kontrolirajte svoje pozive i korištenje podataka</string>
+    <string name="business_hall_settings_title">Postavke plana operatera</string>
     <string name="button_convert_fbe">Izbriši i pretvori…</string>
     <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
     <string name="cached_apps_freezer_disabled">Onemogućeno</string>
@@ -484,7 +486,7 @@ Audio"</string>
     <string name="callFailed_cdma_activation">SIM kartica aktivirala je vašu uslugu i ažurirala mogućnosti telefona za roaming.</string>
     <string name="callFailed_cdma_call_limit">Postoji previše aktivnih poziva. Prekinite ili spojite postojeće pozive prije uspostavljanja novog poziva.</string>
     <string name="callFailed_channel_unacceptable">Kanal neprihvatljiv</string>
-    <string name="callFailed_concurrent_calls_not_possible">Poziv je prekinut jer istodobni pozivi nisu mogući.</string>
+    <string name="callFailed_concurrent_calls_not_possible">"Završeni poziv. Istovremeni pozivi nisu podržani."</string>
     <string name="callFailed_conditional_IE_error">Uvjetna IE pogreška</string>
     <string name="callFailed_congestion">Mreža je zauzeta</string>
     <string name="callFailed_data_disabled">Poziv je završio jer su mobilni podaci onemogućeni.</string>
@@ -934,12 +936,15 @@ Koristiti svejedno mobilne podatke?"</string>
     <string name="debug_networking_category">Umrežavanje</string>
     <string name="debug_view_attributes">Uključi pregled atributa prikaza</string>
     <string name="default_carrier_mmi_msg_title">Poruka operatera</string>
+	 <string name="default_data_title">Podaci</string>
     <string name="default_notification_description">Zadani zvuk (%1$s)</string>
     <string name="default_preference_summary">Nije postavljeno</string>
     <string name="default_preference_summary_domain_address">Nije postavljeno</string>
     <string name="default_preference_summary_password">Nije postavljeno</string>
     <string name="default_preference_summary_username">Nije postavljeno</string>
+	 <string name="default_sim_setting">Zadane SIM kartice</string>
     <string name="delete">Izbriši</string>
+	 <string name="default_voice_title">Pozivi</string>
     <string name="deleteAllSimEntries">Izbriši sve kontakte sa SIM kartice</string>
     <string name="deleteSimContacts">Brisanje kontakata…</string>
     <string name="delete_blob_confirmation_text">Jeste li sigurni da želite izbrisati te dijeljene podatke?</string>
@@ -2346,6 +2351,9 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
     <string name="power_remaining_only_more_than_subtext">Preostalo je više od %1$s</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">Baterija bi se mogla isprazniti do %1$s</string>
+	 <string name="pref_sim_entries_item1">SIM 1</string>
+    <string name="pref_sim_entries_item2">SIM 2</string>
+    <string name="pref_sim_item_no_default">Zadano nije postavljeno</string>
     <string name="power_suggestion_extend_battery">Neka baterija potraje i nakon %1$s</string>
     <string name="prefered_network_type_3g_promp">Prije nego što odaberete 3G kao svoju preferiranu vrstu mreže, trebali biste isključiti VoLTE. Isključiti sada?</string>
     <string name="preference_auto_ip_summary_disable">Isključeno</string>
@@ -2846,6 +2854,7 @@ UT sučelje: %5$s"</string>
     <string name="sim_no_activated">"Ne mogu potvrditi SIM karticu"</string>
     <string name="sim_roaming_settings_summary">Poveži se mobilnim podatkovnim mrežama u Roamingu</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
+	 <string name="sim_select_dialog_title">Odaberite SIM karticu</string>
     <string name="sim_selection_required_pref">Odabir je obvezan</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
     <string name="sim_unknown">Nepoznato</string>

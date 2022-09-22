@@ -75,6 +75,8 @@
     <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
     <string name="bind_sign_in_title">Dodaj Mi Račun</string>
     <string name="btn_send">Pošalji</string>
+	  <string name="bugreport_dialog_informed_consent_content">"Otkrili smo pogrešku u vezi s vašom zaporkom za zaključani zaslon. Možete poslati zapisnike svog uređaja kako biste nam pomogli da lociramo i riješimo problem. Podaci zapisnika bit će anonimno učitani, koristit će se samo za rješavanje problema, i bit će izbrisan nakon završetka rješavanja problema."</string>
+    <string name="bugreport_dialog_informed_consent_title">Informirani pristanak</string>
     <string name="bugreport_dialog_not_show_again">Ne prikazuj ponovno</string>
     <string name="bugreport_dialog_submit_content"><Data>"Sada spremate zapise softvera na ovaj uređaj. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti zapise s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Prihvaćam\" znači da ste pročitali i prihvaćate naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički uovor&lt;/a>."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>

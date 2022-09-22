@@ -396,12 +396,9 @@
     <string name="sound_id_function_description">Personalizirajte krivulju EQ na temelju svojih preferencija</string>
     <string name="sound_id_function_name">Personalizirani zvuk</string>
     <string name="sound_id_headset_status">Trenutne slušalice</string>
-    <string name="sound_id_hz_high">"Treble
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Bass
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Srednji ton
-%d Hz"</string>
+    <string name="sound_id_hz_high">"Treble %d Hz"</string>
+    <string name="sound_id_hz_low">"Bass %d Hz"</string>
+    <string name="sound_id_hz_media">"Srednji ton %d Hz"</string>
     <string name="sound_id_music_one_description">Lagano | %ds</string>
     <string name="sound_id_music_one_title">Kišni grad</string>
     <string name="sound_id_music_three_description">Melodično | %ds</string>
@@ -451,9 +448,9 @@
     <string name="sound_transmission_start">Start</string>
     <string name="sound_transmission_stop">Pauza</string>
     <string name="sound_transmission_title">Bežični mikrofon</string>
-    <string name="spatial_audio">Praćenje pokreta glave</string>
-    <string name="spatial_audio_summary">Prilagodi okružujući zvuk baziran pokretima glave</string>
-    <string name="start_test_sound">Započni test</string>
+    <string name="spatial_audio">Prožimajući zvuk</string>
+    <string name="spatial_audio_summary">Iskusite uranjanje i osjećaj prostora kada se zvuk reproducira kroz slušalice</string>
+	  <string name="start_test_sound">Započni test</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>

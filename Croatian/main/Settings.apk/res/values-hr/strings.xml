@@ -2291,6 +2291,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Svojstva</string>
+  <string name="bt_low_energy_audio_summary">Uživajte u visokokvalitetnom zvuku male snage sa smanjenom latencijom</string>
+  <string name="bt_low_energy_audio_title">Bluetooth LE Audio</string>
   <string name="bt_plugin_current_version">Trenutna verzija</string>
   <string name="bt_plugin_new_version">Ažuriraj</string>
   <string name="bt_plugin_preference_button">Ažuriraj</string>
@@ -6591,8 +6593,10 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_ancLow">Ured</string>
   <string name="miheadset_ancMedium">Dnevno</string>
   <string name="miheadset_ancMild">Lagano</string>
+  <string name="miheadset_ancMode">Način poništavanja buke</string>
   <string name="miheadset_anc_indicate">Spojite i uparite slušalice</string>
   <string name="miheadset_anc_manual">Ručno</string>
+  <string name="miheadset_atuo_download_title">Preuzmi automatski</string>
   <string name="miheadset_audio_mode">Audio način</string>
   <string name="miheadset_audio_mode_high">Visoka</string>
   <string name="miheadset_audio_mode_listen">Niska</string>
@@ -6605,7 +6609,9 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_auto_ack_mode">"Automatski odgovorite na pozive kada nosite slušalice"</string>
   <string name="miheadset_auto_ack_mode_summary">Automatski odgovori na pozive</string>
   <string name="miheadset_auto_answer_call">Automatski odgovori na pozive</string>
+  <string name="miheadset_auto_download_summary">Automatski preuzmite najprikladnije verzije</string>
   <string name="miheadset_auto_upgrade_reminder">Isključi automatska ažuriranja i ponovno provjeri ima li ažuriranja</string>
+  <string name="miheadset_automatic">Auto</string>
   <string name="miheadset_bluetooth_audio_title">LC3plus brzina uzorkovanja zvuka Bluetooth</string>
   <string name="miheadset_bright">Bistro</string>
   <string name="miheadset_call_assist">Mi AI</string>
@@ -6695,6 +6701,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_local_ota">Ažuriraj</string>
   <string name="miheadset_low_latency">Malo kašnjenje</string>
   <string name="miheadset_manual">O uređaju</string>
+  <string name="miheadset_manual_operation">Ručno</string>
   <string name="miheadset_minus">Glasnoća -</string>
   <string name="miheadset_moreSettingsInAi">Dodatne postavke</string>
   <string name="miheadset_multi_connect_mode">Način višestrukog povezivanja</string>
@@ -6909,6 +6916,8 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_special_feature">Posebne značajke</string>
   <string name="miui_touch_filtered_touchassistant_warning">Dijaloški okvir dopuštenja pokriven je Izbornikom Prečaca. Pomaknite Izbornik Prečaca ili isključite ovu značajku.</string>
   <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
+  <string name="miui_type_style_summary">Stil tipkanja primijenjen je kada je uključen čitač zaslona</string>
+  <string name="miui_type_style_title">Stil pisanja</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>
   <string name="miui_wifi_wakeup_summary">Wi-Fi će se automatski uključiti kada vaš uređaj otkrije spremljene mreže u blizini i isključit će se nakon 15 minuta ako se veza ne uspostavi</string>
@@ -11195,6 +11204,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="stylus_language_summary">Prepoznajte brojeve i rukom pisani tekst na engleskom i još jednom odabranom jeziku</string>
   <string name="stylus_language_title">Jezik</string>
   <string name="stylus_not_connect_message">"Stylus nije povezan"</string>
+  <string name="stylus_not_connect_message_new">Pričvrstite svoj stylusa za uparivanje</string>
   <string name="stylus_ota_check_failed_battery">"Ne mogu provjeriti. Baterija stylusa je pri kraju."</string>
   <string name="stylus_ota_check_failed_info">"Ne mogu provjeriti firmware verziju. Ponovno pričvrstite stylus."</string>
   <string name="stylus_ota_check_update">Provjeri ažuriranja</string>
@@ -12521,6 +12531,8 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="uwb_settings_title">Ultraširokopojasno povezivanje (UWB)</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="var_font_switch_dialog_summary">Morate ponovno pokrenuti uređaj da biste promijenili ovu postavku.</string>
+  <string name="var_font_switch_dialog_title">Ponovo pokrenuti uređaj?</string>
   <string name="var_font_switch_title">Promjenjivi font sustava</string>
   <string name="verify_applications">Potvrdi aplikacije</string>
   <string name="verify_applications_summary">Onemogući instalaciju zlonamjernih aplikacija ili skreni pozornost na njih</string>

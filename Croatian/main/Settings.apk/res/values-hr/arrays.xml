@@ -1733,4 +1733,9 @@
         <item>Način rada za uštedu energije</item>
         <item>Stanje procesa</item>
     </string-array>
+	<string-array name="typing_style_entries">
+        <item>Standardno</item>
+         <item>Dodir</item>
+         <item>Izravan dodir</item>
+	   </string-array>
 </resources>

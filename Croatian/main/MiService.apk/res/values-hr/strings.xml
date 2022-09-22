@@ -42,6 +42,7 @@
     <string name="icon_remove_description_content">"\"Usluge &amp; Povratne inf.\" je sistemska aplikacija. I dalje ćete je moći koristiti putem Postavki nakon što uklonite prečac na Poč. zaslonu."</string>
     <string name="icon_remove_description_title">Ukloniti \"Usluge &amp; Povratne inf.\" sa Poč. zaslona?</string>
     <string name="mi_service_app_name">Usluge &amp; Povratne inf.</string>
+	 <string name="mi_service_back">Natrag</string>
     <string name="miservice_channel_update_notification_info">\"Usluge &amp; Povratne inf.\" zahtijevaju podatke na mreži…</string>
     <string name="miservice_notification_boot_content">Saznajte više o tome što MIUI može učiniti</string>
     <string name="miservice_notification_huanji_content">Pošaljite ih koristeći Mi Mover</string>
