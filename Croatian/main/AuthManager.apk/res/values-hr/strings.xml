@@ -160,6 +160,7 @@
     <string name="blur_location_is_on_tip">%1$s koristi vašu približnu lokaciju. Nastaviti koristiti umjesto precizne lokacije?</string>
     <string name="blur_location_now_tip">Približna lokacija je uključena</string>
     <string name="blur_location_title">Približna lokacija</string>
+	 <string name="carwith_grant_permission_tips_when_lock">Prvo otključajte telefon</string>
     <string name="cetus_invisible_mode_notice_audio">"U anonimnom ste načinu. Ne možete koristiti mikrofon."</string>
     <string name="cetus_invisible_mode_notice_camera">"U anonimnom ste načinu. Ne možete koristiti Kameru."</string>
     <string name="cetus_invisible_mode_notice_location">"U anonimnom ste načinu. Trenutno ne možete koristiti usluge lokacije."</string>
@@ -296,13 +297,13 @@
     <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
     <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
     <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
-	 <string name="permdesc_post_notification">Želite li dopustiti %1$s da šalje obavijesti?</string>
     <string name="permdesc_out_calls">Nadgledanje odlaznih poziva</string>
 	 <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
     <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>
     <string name="permdesc_read_call_log">Želite li dopustiti %1$s pristup povijesti poziva?</string>
     <string name="permdesc_read_contacts">Želite li dopustiti %1$s pristup kontaktima?</string>
     <string name="permdesc_read_mms">Želite li dopustiti %1$s čitanje multimedijskih poruka?</string>
+	 <string name="permdesc_read_phone_numbers">Želite li dopustiti %1$s čitanje telefonskih brojeva na ovom uređaju?</string>
     <string name="permdesc_read_phone_state">Želite li dopustiti %1$s pristup statusu uređaja i podacima o mobilnoj mreži?</string>
     <string name="permdesc_read_sms">Želite li dopustiti %1$s čitanje ili slanje tekstualnih i multimedijskih poruka?</string>
     <string name="permdesc_read_storage">Želite li dopustiti %1$s pristup datotekama i fotografijama na ovom uređaju?</string>

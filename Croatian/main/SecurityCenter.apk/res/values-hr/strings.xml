@@ -614,6 +614,7 @@ Bočne ploče
 
 Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_reset_app_preferences_title">Poništiti postavke aplikacije?</string>
+  <string name="app_manager_restricted_settings_title">Dopusti ograničene postavke</string>
   <string name="app_manager_search_prompt">"Nije moguće pronaći rezultate? Pokušajte prikazati rezultate svih aplikacija."</string>
   <string name="app_manager_show_all_apps">Prikaži sve aplikacije</string>
   <string name="app_manager_show_all_apps_opened">Prikaz rezultata svih aplikacija…</string>
@@ -2181,12 +2182,14 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_audition_instruction">Pritisnite i držite za snimanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najbolji učinak koristite slušalice</string>
   <string name="gb_barrage_chat_desc">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
+  <string name="gb_barrage_chat_pre_desc">Pregled</string>
   <string name="gb_barrage_chat_text_color">Boja</string>
   <string name="gb_barrage_chat_text_size">Veličina teksta</string>
   <string name="gb_barrage_chat_text_size_big">Veliki</string>
   <string name="gb_barrage_chat_text_size_small">Mali</string>
   <string name="gb_barrage_chat_text_speed">Brzina</string>
   <string name="gb_barrage_chat_text_speed_faster">Brzo</string>
+  <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
   <string name="gb_barrage_chat_text_speed_slow">Sporo</string>
   <string name="gb_collimator_color">Boja</string>
   <string name="gb_collimator_size">Veličina</string>
@@ -3985,6 +3988,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_dialog_delete_dialog_delete">Izbrisati ovaj profil baterije?</string>
   <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
   <string name="power_dialog_ok">U redu</string>
+  <string name="power_dialog_performance_mode_checkbox">Prebaci se na brzinu osvježavanja od 120 Hz</string>
   <string name="power_dialog_screen_brightness_automatic">Podesi svjetlinu automatski</string>
   <string name="power_dialog_screen_brightness_automatic_off">Osvijetljenost zaslona će biti konstantna u svim okruženjima</string>
   <string name="power_dialog_screen_brightness_automatic_on">Osvijetljenost zaslona će varirati u odnosu na svjetlo u vašem okruženju</string>

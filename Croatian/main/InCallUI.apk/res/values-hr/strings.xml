@@ -108,6 +108,10 @@
     <string name="call_title_redialing_with_times_miui">Ponovno pozvano %d puta</string>
     <string name="caller_info_name_delimiter">" ili "</string>
     <string name="caller_manage_header">Konferencijski poziv %s</string>
+	 <string name="camera_on">Druga osoba želi uključiti vašu kameru.</string>
+    <string name="camera_on_agree">Dopusti</string>
+    <string name="camera_on_refuse">"Ne dopusti"</string>
+    <string name="camera_on_title">Kamera</string>
     <string name="calling_via_template">Pozivanje putem %s</string>
     <string name="can_not_call_oneself">"Ne mogu nazvati taj broj"</string>
     <string name="can_not_use">"Ne mogu koristiti"</string>
@@ -378,6 +382,10 @@
     <string name="onscreen_change_to_video">Videopoziv</string>
     <string name="onscreen_change_to_voice">Glasovni poziv</string>
     <string name="onscreen_close_preview_camera">Zatvori</string>
+	  <string name="onscreen_collapsed">Sažmi</string>
+    <string name="onscreen_collapsed_dialpad">Prikaži tipkovnicu za biranje brojeva</string>
+    <string name="onscreen_expand">Više</string>
+    <string name="onscreen_expand_dialpad">Sakrij tipkovnicua za biranje brojeva</string>
     <string name="onscreen_hold_text">Zadrži</string>
     <string name="onscreen_merge_calls_text">Spoji pozive</string>
     <string name="onscreen_message_text">Poruke</string>
@@ -417,6 +425,11 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
+	 <string name="screen_share">Udaljena pomoć</string>
+    <string name="screen_share_agree">Dopusti</string>
+    <string name="screen_share_connecting">Povezivanje…</string>
+    <string name="screen_share_message">Želite li dopustiti drugoj osobi da gleda vaš zaslon u stvarnom vremenu?</string>
+    <string name="screen_share_refuse">Odustani</string>
     <string name="search_menu_title">Traži</string>
     <string name="select_audio_dialog_title">Odaberite način odgovaranja</string>
     <string name="select_one_sim_title">Mogu koristiti samo SIM %1$d</string>

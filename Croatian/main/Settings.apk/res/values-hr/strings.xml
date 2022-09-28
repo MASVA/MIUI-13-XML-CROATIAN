@@ -4275,6 +4275,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="external_ram_dialog_icon_title">Proširenje memorije je uključeno</string>
   <string name="external_ram_dialog_message">Ponovo pokrenite uređaj da biste primijenili promjene.</string>
   <string name="external_ram_dialog_title">Ponovo pokrenite uređaj</string>
+  <string name="external_ram_intro">"Stvorite dodatni RAM zauzimanjem prostora za pohranu. Koristite ovu značajku samo kada je na vašem uređaju dostupno dovoljno prostora za pohranu."</string>
   <string name="external_ram_remind_toast">Prostor za pohranu je pri kraju. Za sada je isključeno proširenje memorije.</string>
   <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a zauzimajući pohranu. Koristite ovu značajku samo kada je na vašem uređaju dostupno dovoljno prostora za pohranu."</string>
   <string name="external_ram_title">Proširenje memorije</string>
@@ -4288,8 +4289,6 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
   <string name="eye_gaze_summary">"Uređaj se neće zaključati kada otkrije da gledate u zaslon"</string>
   <string name="eye_gaze_title">Otkrij pogled</string>
-  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="face_add_max">Ne možete dodati više od %d lica</string>
   <string name="face_data_apply_for_category_title">Otključajte pomoću lica</string>
   <string name="face_data_apply_for_keyguard_title">Zaklj. zaslon</string>
@@ -5627,6 +5626,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="keywords_wifi_notify_open_networks">Wi‑Fi obavijest, wifi obavijest</string>
   <string name="keywords_write_settings">pisanje izmjena postavki sustava</string>
   <string name="keywords_zen_mode_settings">dnd, raspored, obavijesti, blokiranje, tišina, vibracija, mirovanje, rad, fokus, zvuk, utišano, dan, dan u tjednu, vikend, noć tijekom tjedna, događaj</string>
+  <string name="kid_space_forbidden_set_unlock_password_msg">"Nije moguće postaviti ili promijeniti zaporku u Dječjem prostoru"</string>
   <string name="kid_space_settings">Dječji prostor</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>

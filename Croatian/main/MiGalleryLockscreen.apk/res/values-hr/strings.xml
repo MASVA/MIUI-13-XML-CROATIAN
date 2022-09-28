@@ -99,6 +99,10 @@
     <string name="apply_to_above_all">Postavi oboje</string>
     <string name="apply_to_screenlock">Postavi za Zaklj. zaslon</string>
     <string name="apply_to_wallpaper">Postavi za sliku pozadine</string>
+	  <string name="apply_warning_content">"Koristite Super pozadinu. Ako promijenite pozadinu, ona će se postaviti i na početni i na zaključani zaslon. Želite li sada postaviti?"</string>
+    <string name="apply_warning_content_with_aod">"Koristite Super pozadinu. Ako promijenite pozadinu, ona će se postaviti i na početni i na zaključani zaslon, a Always-on display može se vratiti na zadane postavke. Želite li sada primijeniti?" </string>
+    <string name="apply_warning_content_with_maml">"Koristite temu treće strane. Ako promijenite pozadinu, sat vašeg zaključanog zaslona može se vratiti na zadano. Želite li sada postaviti?"</string>
+    <string name="apply_warning_title">Postavi pozadinu</string>
     <string name="article_item_hot">Provjerite %s+ popularnih članaka</string>
     <string name="at_least_one">Odaberite barem jednu kategoriju</string>
     <string name="auth_fail_warning">Sesija je istekla Prijavite se ponovo.</string>
@@ -245,6 +249,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="disable_dlg_title">Isključiti Wallpaper Carousel?</string>
     <string name="dislike">Izbriši</string>
     <string name="dlg_cancel">Odustani</string>
+	 <string name="dlg_ok">Postavi</string>
     <string name="doing_login">Prijava…</string>
     <string name="doing_query_account">Provjera podataka o računu…</string>
     <string name="doing_register">Izrada računa…</string>

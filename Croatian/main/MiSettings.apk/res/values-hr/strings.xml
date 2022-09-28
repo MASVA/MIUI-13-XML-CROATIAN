@@ -121,6 +121,7 @@
     <string name="class_breast_feeding">Sisavci</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_to_save">Dodirnite \"Gotovo\" za postavljanje općenite melodije zvona.</string>
+	 <string name="closed_high_refresh_options">Aplikacije ne koriste visoku stopu osvježavanja</string>
     <string name="close">Zatvori</string>
     <string name="color_gamut">Raspon boja</string>
     <string name="common_brushtail">Brushtail oposum</string>
@@ -140,6 +141,8 @@
     <string name="created_successfully">Uspješno izrađeno</string>
     <string name="crowned_hornbill">Ovjenčani rogač</string>
     <string name="cu_confirm">Postavi</string>
+	  <string name="customize_high_refresh_summary">Ova značajka podržava brzinu osvježavanja do %d Hz. Odgovarajuća stopa osvježavanja može se automatski odabrati na temelju postavki uređaja.</string>
+    <string name="customize_high_refresh_title">Aplikacije koje koriste visoku stopu osvježavanja</string>
     <string name="customize_radio_btn_summary">Preferirana odabrana brzina osvježavanja</string>
     <string name="customize_radio_btn_title">Vlastito</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -249,6 +252,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min.</string>
     <string name="focus_mode_timer_pick_dialog_title">Unesite trajanje</string>
     <string name="focus_time_exception_tip">Izgleda da se promijenilo vrijeme sustava. Isključite način fokusiranja.</string>
+	 <string name="follow_apps_settings">Na temelju postavki aplikacije</string>
     <string name="follow_sim1">Primijeni postavke SIM 1</string>
 	 <string name="force_rest">Koristite prekide sesije</string>
     <string name="force_rest_summary">Napravite obavezne pauze kada sesije dosegnu postavljeno ograničenje</string>
@@ -289,6 +293,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="helmeted_guineafowl">Zamorčići</string>
     <string name="high_fps_description">Visoka brzina osvježavanja zaslona. Veća potrošnja energije.</string>
     <string name="high_fps_tip_footer">Korištenje veće brzine osvježavanja čini gledanje glatkijim, ali troši više energije.</string>
+	 <string name="high_refresh_options_title">Podržane aplikacije</string>
     <string name="hippopotamus">Nilski konj</string>
 	 <string name="holiday_limit">Slobodni dani</string>
     <string name="hsv_space_color">HSV prostor boja</string>
@@ -446,6 +451,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="nature_mix">Mješavina prirode</string>
     <string name="nature_mix_summary">Izradite prilagođeni miks</string>
     <string name="network_error">Došlo je do mrežne pogreške, pokušajte ponovo</string>
+	 <string name="new_customize_high_refresh_title">Visoka stopa osvježavanja</string>
 	 <string name="next_day">"(Sljedeći dan) "</string>
     <string name="night">PM</string>
     <string name="nine_banded_armadillo">Armadillo</string>
@@ -462,6 +468,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="notification_sound">Zvukovi obavijesti</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+	 <string name="opened_high_refresh_options">Aplikacije koriste visoku stopu osvježavanja</string>
     <string name="orange_winged_amazon">Amazonka s narančastim kriliman</string>
     <string name="orca">Kit ubojica</string>
     <string name="ostrich_info">Nojevi su velike afričke ptice koje ne lete i polažu najveća jaja od bilo koje žive kopnene životinje.</string>
@@ -520,6 +527,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="sea_otter">Morska vidra</string>
     <string name="seal_info">Tuljani su morski sisavci koji se mogu brzo kretati dubokim vodama, hraneći se ribom i škampima.</string>
     <string name="search_app_name">Traži aplikacije</string>
+	 <string name="search_app_tips">Traži aplikacije</string>
     <string name="search_empty">Nije pronađena nijedna aplikacija</string>
     <string name="search_menu_title">Traži</string>
     <string name="send">Pošalji</string>
@@ -529,6 +537,13 @@ nije generirana u Drugom prostoru"</string>
     <string name="silent_ringtone_hint">Najprije isključite Bešumno.</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+	 <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sms_delivered_sound_title">Isporučena poruka</string>
     <string name="sms_received_sound_title">Dolazna poruka</string>
     <string name="snowy_owl">Snježna sova</string>

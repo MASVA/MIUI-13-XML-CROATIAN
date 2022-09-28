@@ -535,6 +535,8 @@
     <string name="permission_status_allow">Odobreno</string>
     <string name="permission_status_deny">Nije odobreno</string>
     <string name="permission_status_loading">Pristup statusu uređaja…</string>
+	 <string name="phone_guarantee_service_description" formatted="false">Zaštita od oštećenja zaslona i nezgoda može se kupiti unutar %d dana od aktivacije. Produljeno jamstvo može se kupiti unutar %d dana od aktivacije.</string>
+    <string name="phone_guarantee_service_name">Jamstvo za uređaj</string>
     <string name="picker_list_empty">Ovdje nema kontakata</string>
     <string name="picker_search_empty">"Ne mogu pronaći kontakte"</string>
     <string name="picker_search_hint">Traži</string>
@@ -821,7 +823,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
     <string name="wipe_data_dialog_button_check_sync">Provjeri ako je sinkronizirano</string>
-    <string name="wipe_data_dialog_msg">"Neke stavke (%s) nisu sinkroniziranje. One će biti spremljene na uređaju i neće biti izbrisane."</string>
+    <string name="wipe_data_dialog_msg">"Neke stavke (%s) nisu sinkronizirane. One će biti spremljene na uređaju i neće biti izbrisane."</string>
     <string name="wipe_data_dialog_msg_and_on">, i neke druge stavke</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Stavke nisu sinkronizirane"</string>
