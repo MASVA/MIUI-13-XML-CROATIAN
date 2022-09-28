@@ -29,22 +29,6 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
-   <plurals name="app_info_permission_count">
-        <item quantity="other">%1$s dopuštenja</item>
-        <item quantity="one">%1$s dopuštenje</item>
-    </plurals>
-    <plurals name="app_info_permission_count_">
-        <item quantity="other">%1$s dopuštenja,</item>
-        <item quantity="one">%1$s dopuštenje,</item>
-    </plurals>
-    <plurals name="app_info_private_permission_count">
-        <item quantity="other">%1$s dopuštenja vezana uz privatnost</item>
-        <item quantity="one">%1$s dopuštenje vezana uz privatnost</item>
-    </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">%1$s pregleda</item>
-        <item quantity="one">%1$s pregled</item>
-		</plurals>
 		<plurals name="app_info_permission_count">
         <item quantity="other">%d dopuštenja</item>
         <item quantity="one">%d dopuštenje</item>

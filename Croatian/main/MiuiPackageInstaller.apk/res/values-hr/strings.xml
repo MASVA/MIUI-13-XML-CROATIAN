@@ -63,8 +63,6 @@
     <string name="ad_privacy">&lt;u&gt;Pravila o privatnosti&lt;u/&gt;</string>
     <string name="activate_email_notice">Obavezno aktivirajte svoj račun unutar 24 sata</string>
     <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
-    <string name="ad_permissions">&lt;u>Dozvole&lt;u/></string>
-    <string name="ad_privacy">&lt;u>Privatnost&lt;u/></string>
     <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
 	  <string name="additional_permissions">Dodatna dopuštenja</string>
     <string name="ads">Oglasi</string>
@@ -105,13 +103,11 @@
     <string name="button_text_back">Natrag</string>
     <string name="cancel_install">Odustani</string>
     <string name="cancel_update">"Nemoj ažurirati"</string>
-    <string name="cb_back">gumb za povratak</string>
     <string name="change_activate_email">Promjena adrese e-pošte</string>
     <string name="change_password">Promijeni zaporku</string>
     <string name="check_violation_app">Otkriveni prekršaji</string>
     <string name="check_virus_app">Otkriveni virusi</string>
     <string name="checked_unknow_app">Ova aplikacija dolazi iz nepoznatog izvora</string>
-    <string name="cancel_install">Odustani</string>
     <string name="cb_back">Natrag</string>
     <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -155,7 +151,6 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
     <string name="diagnosis_log_sent_format">"Zapisi su uspješno poslani.
 ID:%s
 Pošaljite ovaj kod nadzorniku."</string>
-    <string name="dialog_install_confirm_default">Instaliraj</string>
     <string name="dialog_install_source">Izvor: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Razumijem</string>
     <string name="dialog_security_mode_guide_cancel">Odustani</string>
