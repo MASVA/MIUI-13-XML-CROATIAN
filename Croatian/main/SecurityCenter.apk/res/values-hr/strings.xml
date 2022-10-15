@@ -1806,7 +1806,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exit_dialog_exit">Izlaz</string>
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
   <string name="exit_dialog_garbage_clean_message_new"><Data>Čistač može osloboditi &lt;font color=#0099ff>%s&lt;/font> prostora za pohranu. Očistiti sada?</Data></string>
-  <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
+   <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
   <string name="exit_dialog_release_memory_title"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
@@ -2861,6 +2862,7 @@ podatkovnu vezu"</string>
   <string name="manage_hybrid_permissions">"Upravljanje dopuštenja aplikacija"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
+  <string name="manual_item_create_icon_title">Prečac Poč. zaslona</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>
   <string name="manual_item_white_list_summary">Spriječite odabrane stavke od optimiziranja</string>

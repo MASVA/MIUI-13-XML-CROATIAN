@@ -73,7 +73,8 @@
     <string name="app_name">Povratne inf.</string>
     <string name="app_search">Traži aplikacije</string>
     <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
-    <string name="bind_sign_in_title">Dodaj Mi Račun</string>
+    <string name="back">Natrag</string>
+	  <string name="bind_sign_in_title">Dodaj Mi Račun</string>
     <string name="btn_send">Pošalji</string>
 	  <string name="bugreport_dialog_informed_consent_content">"Otkrili smo pogrešku u vezi s vašom zaporkom za zaključani zaslon. Možete poslati zapisnike svog uređaja kako biste nam pomogli da lociramo i riješimo problem. Podaci zapisnika bit će anonimno učitani, koristit će se samo za rješavanje problema, i bit će izbrisan nakon završetka rješavanja problema."</string>
     <string name="bugreport_dialog_informed_consent_title">Informirani pristanak</string>
@@ -236,6 +237,16 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="feedback_detail_upload_local_log">Pošalji datoteku</string>
     <string name="feedback_detail_upload_log">Pošalji zapise</string>
     <string name="feedback_detail_waiting">Izrada…</string>
+	  <string name="feedback_evaluation_btn_content">Ocjena</string>
+    <string name="feedback_evaluation_expired_hint">Izgleda da je ova ocjena istekla</string>
+    <string name="feedback_evaluation_hint_dialog_content">Vaše povratne informacije pomažu nam poboljšati naše proizvode i usluge.</string>
+    <string name="feedback_evaluation_hint_dialog_title">Je li ovaj problem riješen?</string>
+    <string name="feedback_evaluation_invitation_content">Ocijenite svoje iskustvo kako biste nam pomogli da poboljšamo obradu povratnih informacija u budućnosti.</string>
+    <string name="feedback_evaluation_success_dialog_content">Hvala na povratnim informacijama!</string>
+    <string name="feedback_evaluation_success_dialog_title">Uspješno ocijenjeno</string>
+Više o ovom izvornom tekstuZa dodatne podatke o prijevodu potreban je izvorni tekst
+Pošaljite povratne informacije
+Bočne ploče
     <string name="feedback_edit_popup_window_related_title">To bi moglo biti važno</string>
     <string name="feedback_empty_report_list">Nema još prijava</string>
     <string name="feedback_guess">Naša pretpostavka:</string>
@@ -464,6 +475,29 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="month_september_shortest">Ruj</string>
     <string name="more">Više</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+	 <string name="net_diag_cancel">Odustani</string>
+    <string name="net_diag_continue">Nastavi</string>
+    <string name="net_diag_dialog_msg">Testiranje vaše mreže pomoći će vam da otkrijete probleme i poboljšate svoju vezu.</string>
+    <string name="net_diag_dialog_no">Ne</string>
+    <string name="net_diag_dialog_title">Želite li sada testirati mrežu?</string>
+    <string name="net_diag_dialog_yes">Da</string>
+    <string name="net_diag_entry_link_quality">Kvaliteta veze</string>
+    <string name="net_diag_entry_network_connectivity">Mrežna povezanost</string>
+    <string name="net_diag_entry_network_dns">DNS konfiguracija</string>
+    <string name="net_diag_entry_network_latency">Kašnjenje mreže</string>
+    <string name="net_diag_entry_network_parameters">Mrežne postavke</string>
+    <string name="net_diag_entry_network_protocol">Mrežni protokol</string>
+    <string name="net_diag_entry_network_rssi">Kvaliteta signala</string>
+    <string name="net_diag_entry_router_topology">Mrežno usmjeravanje</string>
+    <string name="net_diag_header_internet">Internet</string>
+    <string name="net_diag_header_router">Usmjerivač</string>
+    <string name="net_diag_header_this_device">Ovaj uređaj</string>
+    <string name="net_diag_title">Testiraj mrežu</string>
+    <string name="net_diag_toast_cellular_data">Za testiranje mreže prvo isključite mobilne podatke.</string>
+    <string name="net_diag_toast_other_networks">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>
+    <string name="net_diag_toast_other_networks_china">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>
+    <string name="net_diag_toast_wifi_disconnected">Za testiranje mreže, prvo se povežite na Wi-Fi.</string>
+    <string name="net_diag_toast_wifi_disconnected_china">Za testiranje mreže, prvo se povežite na Wi-Fi.</string>
     <string name="net_error_info">Nema mrežne veze, dodirnite ovdje da biste otvorili Postavke</string>
     <string name="network_err">"Ne mogu se povezati na mrežu."</string>
     <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>

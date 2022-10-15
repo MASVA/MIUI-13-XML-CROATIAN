@@ -667,4 +667,16 @@
         <item quantity="other">%d videozapisa</item>
         <item quantity="one">%d videozapis</item>
     </plurals>
+	     <plurals name="title_age_hint_day">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="title_age_hint_month">
+        <item quantity="other">%d mjeseci</item>
+        <item quantity="one">%d mjesec</item>
+     </plurals>
+     <plurals name="title_age_hint_year">
+        <item quantity="other">%d godina</item>
+        <item quantity="one">%d godina</item>
+     </plurals>
 </resources>

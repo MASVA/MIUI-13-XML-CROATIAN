@@ -543,6 +543,7 @@ i pokušajte ponovno."</string>
     <string name="storage_dialog_go">Postavke</string>
     <string name="storage_dialog_title">Pristup pohrani uređaja</string>
     <string name="storage_internal">Unutarnja pohrana</string>
+	 <string name="storage_permission_deny">Potrebna su dopuštenja za pohranu</string>
     <string name="storage_sd_card">SD kartica</string>
     <string name="storage_usb">USB pohrana</string>
     <string name="subbt_downloading">Preuzimanje…</string>

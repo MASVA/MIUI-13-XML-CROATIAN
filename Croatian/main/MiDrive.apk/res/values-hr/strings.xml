@@ -92,6 +92,15 @@
     <string name="byteShort">B</string>
     <string name="camera">Kamera</string>
     <string name="cancel">Odustani</string>
+	  <string name="cancel_mi_drive">Otkaži usluge</string>
+    <string name="cancel_mi_drive_alert_description">"Izbrišite sve stavke s Mi Drivea kako biste mogli otkazati usluge. Slijedite ove korake za brisanje stavki:&lt;br />1. Na početnoj stranici Mi Drivea pritisnite i držite stavku da se pojavi tipka \"Odaberi sve\". Koristite ovu tipku za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />2. Nakon što izbrišete sve stavke, izbrišite sve datoteke iz Nedavno obrisanih stavki." </string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije nego ih izbrišete. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />2 . Imajte na umu da se stavke izbrisane iz vaših Nedavno izbrisanih stavki ne mogu naknadno vratiti."</string>
+    <string name="cancel_mi_drive_confirm_button">Otkaži usluge</string>
+    <string name="cancel_mi_drive_confirm_description">"Ako nastavite, otkazat ćete usluge Mi Drivea. Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar navedenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Otkazivanje Mi Drive usluga neće utjecati na vašu upotrebu drugih Xiaomi proizvoda i usluga. Ako želite izbrisati svoj Xiaomi račun, to možete učiniti &lt;font color=#0097FF>&lt;a href=%1$s>ovdje&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Sljedeće stavke bit će trajno izbrisane nakon otkazivanja usluga:&lt;/font>&lt;br />1. Sve stavke na Mi Driveu, uključujući ali ne ograničavajući se na dokumente, privatne datoteke i izbrisane stavke.&lt;br />2. Dopuštenja uređaja, postavke i drugi sadržaj u predmemoriji.&lt;br />3. Povijest prijenosa i preuzimanja s Mi Drivea.</string>
+    <string name="cancel_mi_drive_success">Usluge su uspješno otkazane</string>
+    <string name="cancel_mi_drive_title">Otkaži usluge</string>
     <string name="category_document">Dokumenti</string>
     <string name="category_document_title">Dokumenti</string>
     <string name="category_file">Datoteke</string>
@@ -643,6 +652,14 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
     <string name="privacy_user_notice_dialog_msg">"Nećete moći nastaviti koristiti Mi Drive osim ako ne pristanete na njegovu novu verziju &lt;a href=%1$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Prihvaćate li nova ažurirana pravila?"</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">Prihvaćam</string>
     <string name="privacy_user_notice_dialog_title">Pažnja</string>
+	  <string name="privacy_recall_alert_description">"Izbrišite sve stavke s Mi Drivea kako biste mogli povući privolu. Slijedite ove korake za brisanje stavki:&lt;br />1. Na početnoj stranici Mi Drivea pritisnite i držite stavku da biste pojavljuje se gumb \"Odaberi sve\". Koristite ovaj gumb za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />2. Nakon što izbrišete sve stavke, izbrišite sve datoteke iz Nedavno obrisanih stavki." </string>
+    <string name="privacy_recall_alert_reminder_card_summary">"1. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije nego ih izbrišete. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />2 . Imajte na umu da se stavke izbrisane iz vaših Nedavno izbrisanih stavki ne mogu naknadno vratiti."</string>
+    <string name="privacy_recall_confirm_button">Povuci suglasnost</string>
+    <string name="privacy_recall_confirm_description">"Ako nastavite, povući ćete svoju suglasnost na Politiku privatnosti Mi Drivea. Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar navedenog roka razdoblju u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Sljedeće stavke bit će trajno izbrisane nakon povlačenja privole:&lt;/font>&lt;br />1. Sve stavke na Mi Driveu, uključujući ali ne ograničavajući se na dokumente, privatne datoteke i izbrisane stavke.&lt;br />2. Dopuštenja uređaja, postavke i drugi sadržaj u predmemoriji.&lt;br />3. Povijest prijenosa i preuzimanja s Mi Drivea.</string>
+    <string name="privacy_recall_success">Suglasnost je uspješno povučena</string>
+    <string name="privacy_recall_title">Povlačenje suglasnosti</string>
+    <string name="privacy_recalling">Povlačenje suglasnosti…</string>
     <string name="private_empty_desc">Ovdje datoteke možete pohraniti privatno.</string>
     <string name="private_empty_sub_desc">Pokušajte ovdje premjestiti datoteke ili ih izravno prenijeti.</string>
     <string name="private_folder_name">Privatne datoteke</string>
@@ -650,6 +667,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
     <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
     <string name="ptp_ai_recommend_empty_page">Ovdje nema automatski generiranih PDF-ova</string>
     <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
+	  <string name="query_quota_exception">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="query_quota_searching">Samo trenutak…</string>
     <string name="recent_file">Nedavno</string>
     <string name="recent_jump_to_privacy_fail_notice">Ova je datoteka privatna. Vratite se na početnu stranicu i povucite prema dolje za prikaz.</string>
     <string name="refresh_label_pull_to_refresh">Povuci dolje za osvježiti</string>
@@ -658,6 +677,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
     <string name="refresh_label_release_to_refresh">Otpusti za osvježiti</string>
     <string name="release_enter_private">Otpustite za prikaz privatnih datoteka</string>
     <string name="remove_success">Uspješno izbrisano</string>
+	 <string name="reminder_card_title">Pažnja</string>
     <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti otvoriti je."</string>
     <string name="rename_ext_confirm_dialog_desc">Promjena vrste datoteke može učiniti datoteku neupotrebljivom</string>
     <string name="rename_failed">Datoteka s tim nazivom već postoji.</string>

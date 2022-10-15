@@ -185,6 +185,7 @@
     <string name="clear_net_mock_success">Net mock uspješno očišćen</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
+	 <string name="check_new_version">Provjerite ima li ažuriranja</string>
     <string name="click_for_create_event">Kliknite da izradite događaj za %s</string>
     <string name="click_paste">Kliknite za lijepljenje</string>
     <string name="click_to_share">Dodirnite za dijeljenje</string>
@@ -449,6 +450,7 @@
     <string name="holidays_title">Praznici</string>
     <string name="horoscope">Horoskop</string>
     <string name="horoscope_select_activity_label">Odaberite hor. znak</string>
+	  <string name="hour_1">%d sat</string>
     <string name="hour_picker_description">Kružni klizni sat</string>
     <string name="icon_add_description">Dodajte prečac Poč. zaslon</string>
     <string name="icon_content_description">Ikona dijaloga</string>
@@ -527,6 +529,10 @@
     <string name="mesens_card_title_today_begin">Menstruacija može početi danas</string>
     <string name="mesens_card_title_tomorrow_begin">Menstruacija može početi sutra</string>
     <string name="minute_picker_description">Minutni kružni klizač</string>
+	 <string name="minutes_10">%d minuta</string>
+    <string name="minutes_15">%d minuta</string>
+    <string name="minutes_30">%d minuta</string>
+    <string name="minutes_5">%d minuta</string>
     <string name="missing_name">(Bez naziva)</string>
     <string name="missing_required_permission">Onemogućili ste potrebna dopuštenja.</string>
     <string name="miuishare_account_activate_confirmation">Aktivirajte Mi Račun</string>
@@ -1021,6 +1027,7 @@ Također možete dodati podsjetnike kako ne biste propustili ništa važno."</st
     <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s prema lunarnom kalendaru).</string>
     <string name="talk_back_setting">Postavke</string>
     <string name="talk_back_tab_switch">Prebaci između prikaza</string>
+	 <string name="talk_back_tab_switch_language">Odaberite jezik kalendara</string>
     <string name="tardis">TARDIS</string>
     <string name="tb_go_back_today">Natrag na danas</string>
     <string name="tb_mens_month_date_selected">%1$s odabrano.</string>

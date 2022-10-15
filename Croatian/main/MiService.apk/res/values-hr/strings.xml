@@ -161,7 +161,11 @@ E-pošta: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_desc">Ili prebacite na staru verziju u Postavke &gt; Obavijesti &amp; Centar za kontrolu</string>
     <string name="miui_main_control_center_open">Novi Centar za kontrolu</string>
     <string name="miui_main_control_center_title">Prijeđite prstom za prebacivanje između Panela obavijesti i Centra za kontrolu</string>
-    <string name="miui_main_mirror_tab_desc1">Povežite se automatski</string>
+    <string name="miui_main_icon_callback">Prečac Poč. zaslona</string>
+    <string name="miui_main_icon_callback_create">Izradi</string>
+    <string name="miui_main_icon_callback_desc">Želite li sada izraditi prečac Poč. zaslona?</string>
+    <string name="miui_main_icon_callback_nocreate">Odustani</string>
+	 <string name="miui_main_mirror_tab_desc1">Povežite se automatski</string>
     <string name="miui_main_mirror_tab_desc2">Pregledajte slike na većem zaslonu</string>
     <string name="miui_main_mirror_tab_desc3">Dijeljenje datoteka u trenu</string>
     <string name="miui_main_mirror_title">Rad s računalima</string>

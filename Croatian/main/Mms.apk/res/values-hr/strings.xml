@@ -118,6 +118,7 @@ dodane na Listu blokiranih"</string>
     <string name="bookmark_empty">Nema poruka</string>
     <string name="bookmark_list_title">Favoriti</string>
     <string name="button_close">Zatvori</string>
+	 <string name="button_copy">Kopiraj</string>
     <string name="button_emoji_creature">Animal emojis</string>
     <string name="button_emoji_lifestyle">Život</string>
     <string name="button_emoji_smiley">Lica</string>

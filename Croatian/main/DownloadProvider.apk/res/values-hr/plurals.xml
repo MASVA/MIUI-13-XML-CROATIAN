@@ -80,4 +80,12 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Izbrisati %d preuzimanja?</item>
+        <item quantity="one">Izbrisati %d preuzimanje?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s preuzimanja uspješno izbrisano</item>
+        <item quantity="one">%s preuzimanje uspješno izbrisano</item>
+     </plurals>
 </resources> 

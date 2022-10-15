@@ -114,6 +114,8 @@
     <string name="cancel_moving_dialog_message">Zaustaviti uvoz?</string>
     <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
     <string name="cancel_restore">Odustani</string>
+	  <string name="category_contacts">Kontakti</string>
+    <string name="category_message_contacts">Poruke i Kontakti</string>
     <string name="check_privacy_policy">Pogledajte Pravila o privatnosti</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_soft_ap_to_link">Odaberite hotspot za povezivanje</string>

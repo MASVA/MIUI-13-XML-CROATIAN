@@ -531,8 +531,10 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom MIUI verzijom. Neke stranice možda neće raditi ispravno."</string>
     <string name="incompatible_dialog_ok">Razumijem</string>
     <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
-    <string name="install_failed">"Ne mogu instalirati"</string>
 	 <string name="install_clock">"Još niste instalirali Sat. Preuzeti sada?"</string>
+    <string name="install_failed">"Ne mogu instalirati"</string>
+	 <string name="install_gallery_content">"Još niste instalirali Galeriju. Preuzeti sada?"</string>
+    <string name="install_gallery_title">Instaliraj Galeriju</string>
     <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
     <string name="internal_online_precust_gorgeous_color_name">Prekrasna boja</string>
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>

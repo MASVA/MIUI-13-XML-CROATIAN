@@ -773,6 +773,8 @@ Poboljšana sigurnost."</string>
     <string name="quick_search_guide_quick_search">Brzo pretraživanje</string>
     <string name="quick_search_guide_title">Odaberite zadani način rada</string>
     <string name="recent_apps">Nedavno</string>
+	 <string name="recent_menu_item_add_pair">Izradite prečac Poč. zaslona za ovu kombinaciju podijeljenog zaslona</string>
+    <string name="recent_menu_item_add_pair_first_toast">Izradite prečac Poč. zaslona za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Zaključaj</string>
     <string name="recent_menu_item_multi_window">Podijeli</string>

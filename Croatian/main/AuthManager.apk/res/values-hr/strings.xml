@@ -298,6 +298,7 @@
     <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
     <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
     <string name="permdesc_out_calls">Nadgledanje odlaznih poziva</string>
+	 <string name="permdesc_post_notification">Želite li dopustiti %1$s objavljivanje obavijesti?</string>
 	 <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
     <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>
     <string name="permdesc_read_call_log">Želite li dopustiti %1$s pristup povijesti poziva?</string>
