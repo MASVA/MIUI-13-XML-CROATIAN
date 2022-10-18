@@ -28,7 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="action_collapse">Sakrij</string>
-	  <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	 <string name="access_photos_and_videos">Pristup fotografijama i videozapisima</string>
     <string name="action_expand">Prikaži više</string>
     <string name="action_folder_description">Prikaži mape</string>
     <string name="action_mode_cancel_folder_priority">"Ne prikauj mape prvo"</string>
@@ -637,6 +638,8 @@ Dodirnite + da napravite mapu"</string>
     <string name="permission_microphone_desc">Izrada glasovnih bilješki</string>
     <string name="permission_network_for_cloud_desc">Da biste sinkronizirali bilješke s Mi Cloudom, morate se povezati s internetom. Mobilni podaci mogu se koristiti za sinkronizaciju stavki. Povezati se sada?</string>
     <string name="permission_phone_state_desc">Za zaustavljanje snimanja glasovnih bilješki tijekom poziva</string>
+	 <string name="permission_photos_desc">Za dodavanje slika u bilješke</string>
+    <string name="permission_photos_desc_pad">Za dodavanje slika u bilješke</string>
     <string name="permission_read_contact_desc">Povezivanje bilješki stvorenih tijekom poziva s kontaktima</string>
     <string name="permission_storage_desc">Za spremanje bilješki kao slika</string>
     <string name="permission_storage_desc_pad_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
@@ -745,6 +748,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="search_setting_description">Pretražite tekst u vašim bilješkama</string>
     <string name="select_account_prompt">Sink. bilješke</string>
     <string name="send">Pošalji</string>
+	 <string name="send_notifications_for_reminder">Za slanje podsjetnika</string>
     <string name="set_alarm_description">Postavi alarm</string>
     <string name="setting_big_screen_layout_columns">Bočna traka</string>
     <string name="setting_big_screen_layout_flat">Pločice</string>
@@ -858,6 +862,7 @@ Dopustite aplikaciji Bilješke čitanje vaših kontakata i pronalaze račune na 
 Dopustite aplikaciji Bilješke čitanje sadržaja SD kartice."</string>
     <string name="toast_refuse_to_use_phone_state">"Dopuštenja za telefon su ograničena.
 Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Dopustite ovoj aplikaciji pristup vašim fotografijama kako biste mogli dodati slike u bilješke</string>
     <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
 Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Omogućite aplikaciji Bilješke pristup pohrani da bi mogli dodavati slike u vaše bilješke</string>

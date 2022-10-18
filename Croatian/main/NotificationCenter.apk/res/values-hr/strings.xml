@@ -51,6 +51,8 @@
     <string name="copy">Kopiraj</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="default_list_type">Poredaj po vremenu primitka</string>
+	 <string name="disable_description_content">"Obavijesti su aplikacija sustava. Ako je onemogućite, nećete moći upravljati obavijestima aplikacije. Svejedno onemogućiti?"</string>
+    <string name="disable_description_title">Onemogućiti aplikaciju sustava?</string>
     <string name="disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
     <string name="disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>
     <string name="disable_show_badge_notification">"Značke obavijesti nisu dopuštene"</string>
