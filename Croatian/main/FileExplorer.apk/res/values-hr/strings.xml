@@ -30,10 +30,12 @@
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="access_limit">Ograničenja pristupa</string>
     <string name="access_tips">"Ne mogu pristupiti stavkama. Pokušajte umjesto toga koristiti Android Storage Access Framework."</string>
+	 <string name="action_cache_to_local">Preuzmi na uređaj</string>
     <string name="account_bind_prompt">Premještam korisničke podatke… 
  To može potrajati nekoliko minuta</string>
     <string name="account_login_title">Račun</string>
     <string name="action_mode_deselect_all">Poništi odabir</string>
+	 <string name="action_release_file_cache">Očisti predmemoriju</string>
     <string name="action_mode_select_all">Odaberi sve</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="activity_parse_video_title">Zalijepi URL</string>
@@ -112,6 +114,16 @@
     <string name="can_not_send_with_too_many">"Ne mogu odjednom poslati toliko puno stavaka"</string>
     <string name="cancel">Odustani</string>
     <string name="cancel_error">"Ne mogu ukloniti. Pokušajte ponovo."</string>
+	 <string name="cancel_mi_drive">Otkažite Mi Drive usluge</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">Izbrišite sve stavke s Mi Drivea kako biste mogli otkazati usluge. Slijedite ove korake za brisanje stavki:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na početnoj stranici Mi Drivea pritisnite i držite stavku kako bi se prikazaa tipka \"Odaberi sve\". Koristite ovu tipku za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Nakon toga izbrišite nedavno obrisane stavke.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije njihovog brisanja. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Imajte na umu da se nedavno izbrisane stavke ne mogu vratiti nakon što ih izbrišete."</string>
+    <string name="cancel_mi_drive_confirm_button">Otkažite usluge</string>
+    <string name="cancel_mi_drive_confirm_description">"Ako nastavite, otkazat ćete usluge Mi Drive. Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar navedenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Otkazivanje Mi Drive usluga neće utjecati na vašu upotrebu drugih Xiaomi proizvoda i usluga. Ako želite izbrisati svoj Xiaomi račun, možete to učiniti &lt;font color=#0097FF>&lt;a href=%1$s>ovdje&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Sljedeće stavke bit će trajno izbrisane nakon otkazivanja usluga:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Sve stavke na Mi Driveu, uključujući ali ne ograničavajući se na dokumente, privatne datoteke i izbrisane stavke.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Dopuštenja uređaja, postavke i drugi sadržaj u predmemoriji.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive povijest prijenosa i preuzimanja.</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">Uključite Mi Drive i pokušajte ponovno</string>
+    <string name="cancel_mi_drive_success">Usluge su uspješno otkazane</string>
+    <string name="cancel_mi_drive_title">Otkaži usluge</string>
     <string name="cancel_msg">Poništiti odabir?</string>
     <string name="cancel_operation">Otkaži radnju</string>
     <string name="cancel_success">Datoteke su uspješno premještene u %s</string>
@@ -122,6 +134,7 @@
     <string name="category_all">Sve datoteke</string>
     <string name="category_apk">Aplikacije</string>
     <string name="category_bluetooth">Bluetooth</string>
+	 <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">Dokumenti</string>
     <string name="category_download">Preuzimanja</string>
     <string name="category_editor_mode">Uredi</string>
@@ -188,6 +201,26 @@
     <string name="clockin_success">Uspješno prijavljen</string>
     <string name="clockin_use">Osvojite nagradu</string>
     <string name="close">Zatvori</string>
+	 <string name="cloud_copy_to_local_title">Spremi u…</string>
+	 <string name="cloud_drive_files">Datoteke Mi Drivea</string>
+    <string name="cloud_drive_not_login_summary">Nisam prijavljen</string>
+    <string name="cloud_drive_settings">Postavke Mi Drivea</string>
+    <string name="cloud_empty_hint_text">"Ovdje još ništa.
+Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
+    <string name="cloud_guide_summary_text">Automatski sinkronizirajte svoje stavke sa svim svojim uređajima</string>
+    <string name="cloud_guide_title_text">Sinkronizacija s Mi Driveom</string>
+    <string name="cloud_permission_storage_desc">Za spremanje fotografija i dokumenata na vaš uređaj</string>
+    <string name="cloud_recycle_bin">Nedavno obrisane stavke</string>
+    <string name="cloud_space_full">Pohrana u cloudu je puna. Nadogradite svoj plan za pohranu kako biste mogli učitati više stavki.</string>
+    <string name="cloud_transfer_download_error">"Nije moguće preuzeti"</string>
+    <string name="cloud_transfer_download_loading">Preuzimanje</string>
+    <string name="cloud_transfer_downloading">Preuzimanje</string>
+    <string name="cloud_transfer_pause">Pauzirano</string>
+    <string name="cloud_transfer_upload_error">"Nije moguće prenijeti"</string>
+    <string name="cloud_transfer_uploading">Prijenos</string>
+    <string name="cloud_transfer_wait_download">Čeka se preuzimanje</string>
+    <string name="cloud_transfer_wait_network">Čekanje na internet</string>
+    <string name="cloud_transfer_wait_upload">Čeka se prijenos</string>
     <string name="comment_added">Uspješno dodano</string>
     <string name="comment_added_tip">"Dodajete puno komentara. Pratiti ovu osobu?"</string>
     <string name="comment_delete_message">Komentar će biti trajno izbrisan.</string>
@@ -225,6 +258,10 @@
     <string name="create_new_folder_failed">"Ne mogu napraviti mapu"</string>
     <string name="create_share_link_description">Izrada poveznice…</string>
     <string name="create_shortcut_success">Prečac uspješno dodan</string>
+	  <string name="cta_function_account_operation">Za brzu prijavu na vaš Mi Račun</string>
+    <string name="data_consume_dialog_message">"Trenutno koristite mobilne podatke. Ako nastavite, ovo će koristiti %s podataka."</string>
+    <string name="data_consume_dialog_title">Koristiti mobilne podatke?</string>
+	 <string name="data_consume_dialog_upload_title">Pošalji koristeći mob. podatke</string>
     <string name="cution">Savjeti</string>
     <string name="daily_clockin">Prijavi se</string>
     <string name="data_capacity">Podaci %1$s</string>
@@ -260,7 +297,14 @@
     <string name="delete_folder">Izbrisati ovu mapu?</string>
     <string name="des_hide_pwd">Sakrij zaporku</string>
     <string name="des_show_pwd">Prikaži zaporku</string>
-	 <string name="dialog_keep_choice">Zapamti moj izbor</string>
+	  <string name="dialog_account_permission_denied_msg">Dopustite ovoj aplikaciji pristup računima uređaja kako bi se mogla prijaviti na Mi Drive. Ovu dozvolu možete dati u postavkama.</string>
+    <string name="dialog_account_permission_denied_negative_button">Odustani</string>
+    <string name="dialog_account_permission_denied_positive_button">Postavke</string>
+    <string name="dialog_account_permission_denied_title">Potrebna dopuštenja</string>
+    <string name="dialog_keep_choice">Zapamti moj izbor</string>
+    <string name="dialog_open_mi_drive_button">Razumijem</string>
+    <string name="dialog_open_mi_drive_err">Ponovo pokrenite Mi Drive i pokušajte ponovno.</string>
+    <string name="dialog_open_mi_drive_title">Pogreška poslužitelja</string>
     <string name="dialog_select_type">Odaberite vrstu</string>
     <string name="delete_selected_tasks">Izbrisati odabrane zadatke?</string>
     <string name="delete_success">Datoteka izbrisana</string>
@@ -334,6 +378,7 @@
     <string name="error_invalid_path">Netočna putanja</string>
     <string name="error_not_support">Nije podržano</string>
     <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikacije za otvaranje ove datoteke."</string>
+	 <string name="exception_net_not_available">Provjerite mrežne postavke i pokušajte ponovno</string>
     <string name="exit">Izlaz</string>
     <string name="exo_controls_fastforward_description">Brzo naprijed</string>
     <string name="exo_controls_next_description">Sljedeća pjesma</string>
@@ -428,6 +473,7 @@
     <string name="guide_three_title">Preuredite prečace</string>
     <string name="guide_two_summary">Fotografije i snimke zaslona u galeriji su prema zadanim postavkama skrivene.</string>
     <string name="guide_two_title">Pogledajte samo bitne stavke</string>
+	 <string name="h5_ppt_to_pdf_introduce_title">O stvaranju PDF-ova</string>
     <string name="handsome_boy">Muškarac</string>
     <string name="has_installed">Instalirano</string>
     <string name="hint_switch_to_grid_mode">Prebačeno na prikaz rešetke</string>
@@ -441,6 +487,7 @@
     <string name="hot_app">Popularne aplik.</string>
     <string name="hot_comments">Aktualno</string>
     <string name="hot_sticker">Naljepnice</string>
+	 <string name="hybrid_provider">Pruža vam %1$s</string>
     <string name="hot_topic_str">Popularne teme</string>
     <string name="hot_video">Videozapisi</string>
     <string name="hot_video_load_more">Više &gt;</string>
@@ -528,6 +575,7 @@
     <string name="make_private_msg_1">Želite li ovu datoteku učiniti privatnom?</string>
     <string name="make_private_msg_2">Želite li ove datoteke učiniti privatnima?</string>
     <string name="make_private_msg_3">Sve datoteke u ovoj mapi bit će privatne.</string>
+	 <string name="manage_cloud_space">Upravljanje pohranom u cloudu</string>
 	 <string name="male">Muškarac</string>
     <string name="material_slider_range_end">Kraj,</string>
     <string name="material_slider_range_start">Početak,</string>
@@ -558,6 +606,12 @@
     <string name="message_title">Moje poruke</string>
     <string name="mi_router_label">Router</string>
     <string name="mi_share">MiShare</string>
+	 <string name="midrive_display_related">Zaslon</string>
+    <string name="midrive_get_cloudvideo_file">Samo trenutak…</string>
+    <string name="midrive_hide_recent_cloud_files">"Ne prikazuj Mi Drive datoteke u Nedavno"</string>
+    <string name="midrive_not_found">"Nije moguće pristupiti ovoj stavci"</string>
+    <string name="midrive_overseas_unavailable">Ova je značajka dostupna samo u Kini.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">"Nije moguće uključiti Mi Drive. Pokušajte ponovno."</string>
     <string name="midrive_network_connect_confirm">Mi Drive treba povezivanje s internetom da radi normalno.</string>
     <string name="midrive_space_full">Nema dovoljno prostora na Mi Drive-u.</string>
     <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
@@ -567,24 +621,6 @@
     <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
     <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
     <string name="midrop_send_files">Odaberite datoteke za slanje</string>
-    <string name="migrate_announcement_msg">KuaiPan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
-    <string name="migrate_announcement_title">KuaiPan se zamjenjuje s Mi Drive</string>
-    <string name="migrate_cancel">Odustani</string>
-    <string name="migrate_confirm">Transfer</string>
-    <string name="migrate_failed_confirm">Razumijem</string>
-    <string name="migrate_failed_msg">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
-    <string name="migrate_failed_title">"Ne mogu premjestiti datoteke"</string>
-    <string name="migrate_failed_toast">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
-    <string name="migrate_hint">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
-    <string name="migrate_note">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
-    <string name="migrate_runing">Premještanje podataka…Vratite se kasnije.</string>
-    <string name="migrate_success_cancel">Razumijem</string>
-    <string name="migrate_success_confirm">Provjerite sada</string>
-    <string name="migrate_success_msg">Sve su vaše datoteke uspješno premještene iz KuaiPana u Mi Drive.</string>
-    <string name="migrate_success_title">Uspješno premješteno</string>
-    <string name="migrate_update_confirm">Isprobajte sada</string>
-    <string name="migrate_update_msg">KuaiPan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
-    <string name="migrate_update_title">KuaiPan je zamijenjen s Mi Drive</string>
     <string name="mirror_can_not_drag_mask">Povucite za korištenje Mi Share</string>
     <string name="mirror_can_not_drag_mask_new">Povucite stavke u %s</string>
     <string name="mirror_new_name">Izradi mapu (%s)</string>
@@ -769,6 +805,7 @@
     <string name="never_notify_network_connect">Zapamti postavke</string>
     <string name="new_comments">Novi komentari</string>
     <string name="new_folder_name">Nova mapa</string>
+	 <string name="new_storage_info_detail">Slobodno: %1$s | Ukupno: %2$s</string>
     <string name="new_function">Skrivene mape</string>
     <string name="new_function_info">"Za prikaz skrivenih mapa, povucite dolje do dna zaslona do prvog reda ikona na početnoj stranici."</string>
     <string name="next">Dalje</string>
@@ -781,9 +818,12 @@
     <string name="no_daren_tip">Nema još ničeg ovdje</string>
     <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
     <string name="no_downloaded_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
-    <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
+    <string name="no_enough_storage_indication">"Prostor za pohranu uređaja je pun."</string>
     <string name="no_enough_storage_title">Nema dovoljno prostora za pohranu</string>
     <string name="no_file">Prazno</string>
+	 <string name="no_network">"Ne mogu se povezati s mrežom"</string>
+	 <string name="no_network_error_message">Provjerite mrežne postavke i pokušajte ponovno.</string>
+    <string name="no_network_error_title">"Ne mogu se povezati s mrežom"</string>
     <string name="no_local_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
     <string name="no_login_btn_text">Prijavite se</string>
     <string name="no_login_str">Niste prijavljeni</string>
@@ -810,7 +850,11 @@
     <string name="not_use">Ne sada</string>
     <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
     <string name="notif_title">FTP poslužitelj pokrenut.</string>
+	 <string name="notification_title_sync_result">Sinkronizacija dovršena</string>
+    <string name="notification_title_syncing">Sinkronizacija…</string>
+    <string name="notification_title_syncing_with_count">Sinkroniziranje stavki. Preostale datoteke: %1$s</string>
     <string name="notification_content_hint">Dodirni za prikaz</string>
+	  <string name="open_cloud_drive">Uključi Mi Drive</string>
     <string name="notification_dialog_confirm">U redu</string>
     <string name="notification_dialog_content">Automatski obavijesti i organiziraj kada su datoteke dodane ili promjenjene u %1$s.</string>
     <string name="notification_dialog_title">Obavijesti</string>
@@ -844,6 +888,10 @@
     <string name="operate_confirm_in_3g">"Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove datoteke? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
     <string name="operating">Obrada…</string>
     <string name="operation_add_fav">Dodavanje u favorite…</string>
+	  <string name="operation_batch_failed_err">"Ova radnja nije mogla biti dovršena za više datoteka."</string>
+    <string name="operation_cache_use_data">Preuzimanje</string>
+    <string name="operation_cache_use_free_network">Pričekajte Wi-Fi</string>
+    <string name="operation_cloud_copy_to_local">Spremi u…</string>
     <string name="operation_agree">Dopusti</string>
     <string name="operation_cancel">Odustani</string>
     <string name="operation_compress">Sažmi</string>
@@ -853,6 +901,11 @@
     <string name="operation_copying_detail">Kopiranje (%1$d/%2$d)</string>
     <string name="operation_create_folder">Izradi mapu</string>
     <string name="operation_create_folder_message">Unesite naziv mape</string>
+	 <string name="operation_create_folder_name_conflict">"Nije moguće stvoriti mapu. Mapa s ovim nazivom već postoji."</string>
+    <string name="operation_create_folder_name_illegal_char">"Nije moguće stvoriti mapu. Naziv mape sadrži nepodržane znakove."</string>
+    <string name="operation_create_folder_network_not_available">"Nije moguće stvoriti mapu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+    <string name="operation_create_folder_not_support_for_overseas">"Nije moguće stvoriti mapu. Ova je značajka dostupna samo u Kini."</string>
+    <string name="operation_create_folder_other">"Nije moguće stvoriti mapu"</string>
     <string name="operation_decompressing">Raspakiranje…</string>
     <string name="operation_del_fav">Uklanjanje iz favorita…</string>
     <string name="operation_delete">Izbriši</string>
@@ -860,11 +913,20 @@
 	<string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan.
 "</string>
     <string name="operation_deleting">Brisanje…</string>
+	 <string name="operation_download">Preuzimanje</string>
+    <string name="operation_download_error_no_space">Nedovoljno prostora za pohranu</string>
+    <string name="operation_download_error_other">Došlo je do sistemske pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="operation_download_error_title">"Nije moguće preuzeti"</string>
+    <string name="operation_editor">Uredi</string>
     <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
     <string name="operation_download_link">Kreiraj vezu za preuzimanje</string>
     <string name="operation_encrypt_summary">Šifriranje datoteka u privatnoj mapi. Dešifriranje velikih datoteka može potrajati duže od očekivanog.</string>
     <string name="operation_encrypt_title">Šifriranje privatnih datoteka</string>
     <string name="operation_favorite">Dodaj u favorite</string>
+	 <string name="operation_file_downloading_err">"Nije moguće dovršiti ovu radnju. Pričekajte da ova datoteka završi preuzimanje i pokušajte ponovo."</string>
+    <string name="operation_file_exist_err">"Nije moguće dovršiti ovu radnju. Ova datoteka već postoji."</string>
+    <string name="operation_file_not_found_err">"Nije moguće dovršiti ovu radnju. Nije moguće pronaći izvornu datoteku."</string>
+    <string name="operation_gallary">Pogledajte u Galeriji</string>
     <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
     <string name="operation_info">Detalji</string>
     <string name="operation_like">Sviđa mi se</string>
@@ -872,27 +934,49 @@
     <string name="operation_moving">Premještanje…</string>
     <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
     <string name="operation_new_folder">Izradi mapu</string>
+	 <string name="operation_no_network_err">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+	 <string name="operation_not_support_directory_rename">"Ova se mapa ne može preimenovati."</string>
+    <string name="operation_not_support_err">"Ova radnja nije mogla biti dovršena."</string>
     <string name="operation_open">Otvori</string>
     <string name="operation_open_mode">Otvori s</string>
     <string name="operation_other_apps">Otvori u drugoj aplikaciji</string>
     <string name="operation_paste">Zalijepi</string>
     <string name="operation_paste_to_folder">Zalijepi u mapu</string>
     <string name="operation_pasting">Kopiranje…</string>
+	 <string name="operation_pic_to_pdf">Izradi PDF</string>
     <string name="operation_pause">Pauza</string>
     <string name="operation_pause_all">Pauziraj sve</string>
     <string name="operation_refresh">Osvježi</string>
     <string name="operation_rename">Preimenuj</string>
+	 <string name="operation_rename_err">"Ne mogu preimenovati"</string>
     <string name="operation_rename_message">Unesite novi naziv</string>
+	 <string name="operation_retry">Pokušajte ponovo</string>
     <string name="operation_reply">Komentar</string>
     <string name="operation_resume">Start</string>
     <string name="operation_resume_all">Nastavi sve</string>
     <string name="operation_save">Spremi</string>
     <string name="operation_send">Pošalji</string>
     <string name="operation_send_to_pc">Premjesti na računalo</string>
+	 <string name="operation_set_pic_wallpaper">Postavi kao pozadinu</string>
     <string name="operation_share">Podijeli</string>
     <string name="operation_show_privacy_policy">Prikaži pravila o privatnosti</string>
     <string name="operation_show_sys">Pokaži skrivene datoteke</string>
+	 <string name="operation_sync_cloud_data_error">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="operation_unfavorite">Ukloni iz favorita</string>
+	 <string name="operation_unknown_err">"Ova radnja nije mogla biti dovršena."</string>
+    <string name="operation_upload_buy_space">Nadogradi</string>
+    <string name="operation_upload_delete">Izbriši</string>
+    <string name="operation_upload_err_file_not_found">"Izgleda da ova datoteka ne postoji."</string>
+    <string name="operation_upload_err_file_size_zero">"Ne mogu učitati prazne datoteke."</string>
+    <string name="operation_upload_err_full_space">Cloud pohrana je puna. Nadogradite svoj plan za pohranu kako biste mogli učitati više stavki.</string>
+    <string name="operation_upload_err_illegal_char">Ovaj naziv datoteke sadrži nepodržane znakove.</string>
+    <string name="operation_upload_err_larger_than_4g">"Ne mogu prenijeti datoteke veće od %d GB."</string>
+    <string name="operation_upload_err_not_support_overseas">Samo korisnici u Kini mogu učitavati stavke u ovom trenutku.</string>
+    <string name="operation_upload_err_other">Došlo je do sistemske pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="operation_upload_error_title">"Nije moguće prenijeti"</string>
+    <string name="operation_upload_retry">Pokušajte ponovno</string>
+    <string name="operation_upload_save_to_local">Spremi u…</string>
+	 <string name="operation_upload_use_data">Pošalji</string>
     <string name="operation_unlike">Odznači</string>
     <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
     <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
@@ -929,8 +1013,15 @@
     <string name="path_recent_file">Upravljajte datotekama na uređaju</string>
     <string name="paused">Pauzirano</string>
 	 <string name="perm_manage_external_storage">Pristup svim datotekama</string>
+	 <string name="permission_account_desc">Za pristup informacijama o računu pohranjenim na vašem uređaju</string>
+    <string name="permission_account_desc_pad">Za pristup informacijama o računu pohranjenim na vašem uređaju</string>
+    <string name="permission_account_title">Pristup računima uređaja</string>
+    <string name="permission_account_title_pad">Pristup računima uređaja</string>
     <string name="permission_denial">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama."</string>
     <string name="permission_description">Pojedinosti o dopuštenjima</string>
+	  <string name="permission_storage_desc_pad">Za spremanje fotografija i dokumenata na vaš uređaj</string>
+    <string name="permission_storage_title">Pristup pohrani uređaja</string>
+    <string name="permission_storage_title_pad">Pristup pohrani uređaja</string>
     <string name="permission_required">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama.​"</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Unutarnja pohrana</string>
@@ -971,6 +1062,7 @@
     <string name="popup_msg_wb">Cool videozapis? Podijelite ga s vašim Weibo prijateljima!</string>
     <string name="popup_msg_wx">Podijelite ovaj videozapis s vašim WeChat prijateljima.</string>
     <string name="port_range">Port mora biti između 1024–65535</string>
+	 <string name="pre_privacy_recall">Povlačenje suglasnosti</string>
     <string name="pref_permission_allowed">Odobreno</string>
     <string name="pref_permission_manage_key_storage">Pristup fotografijama i datotekama na uređaju</string>
     <string name="pref_permission_not_allowed">Nije odobreno</string>
@@ -979,7 +1071,15 @@
     <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_policy_renew">Ažurirana su Pravila o privatnosti</string>
     <string name="privacy_policy_renew_content"><Data>"Ažurirana su &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> aplikacije Datoteke. Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nastavite."</Data></string>
-    <string name="private_files">Privatno</string>
+    <string name="privacy_recall_alert_description" formatted="false">Izbrišite sve stavke iz Mi Drive-a kako biste mogli povući suglasnost. Slijedite ove korake za brisanje stavki:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na početnoj stranici Mi Drivea pritisnite i držite stavku kako bi se prikazaa tipka \"Odaberi sve\". Koristite ovu tipku za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Nakon toga izbrišite nedavno obrisane stavke.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije njihovog brisanja. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Imajte na umu da se nedavno izbrisane stavke ne mogu vratiti nakon što ih izbrišete."</string>
+    <string name="privacy_recall_confirm_button">Povuci</string>
+    <string name="privacy_recall_confirm_description">"Ako nastavite, povući ćete svoj suglasnost na Pravila o privatnosti Datoteka. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Sljedeće stavke bit će trajno izbrisane nakon povlačenja suglasnosti:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Sve stavke na Mi Driveu, uključujući ali ne ograničavajući se na dokumente, privatne datoteke i izbrisane stavke.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Dopuštenja uređaja, postavke i drugi sadržaj u predmemoriji.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive povijest prijenosa i preuzimanja.</string>
+    <string name="privacy_recall_success">Suglasnost je uspješno povučena</string>
+    <string name="privacy_recall_title">Povlačenje suglasnosti</string>
+    <string name="privacy_recalling">Povlačenje suglasnosti…</string>
+	 <string name="private_files">Privatno</string>
     <string name="private_folder">Privatne datoteke</string>
     <string name="private_folder_no_file_hints">Pritisnite i držite datoteku ili mapu kako biste je učinili privatnom</string>
     <string name="private_folder_update">Ažuriranje privatnih datoteka…</string>
@@ -1001,7 +1101,10 @@
     <string name="qq_title">"Ne mogu pristupiti QQ dokumentima"</string>
     <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
     <string name="qzone_platform">Qzone</string>
+	 <string name="query_quota_exception">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="query_quota_searching">Samo trenutak…</string>
     <string name="recent_hide_camera_and_screenshots">"Ne prikazuj stavke galerije i snimke zaslona među nedavnim datotekama"</string>
+	 <string name="recent_hide_cloud_drive_files">"Ne prikazuj Mi Drive datoteke u Nedavno"</string>
     <string name="recent_show">Nedavno</string>
     <string name="recommend">Preporučeno</string>
     <string name="recommend_popup_title">Preporuke</string>
@@ -1012,6 +1115,7 @@
     <string name="release_enter_private">Otpusti za otvaranje privatne mape</string>
     <string name="release_to_signin">Otpustite za prijavu</string>
     <string name="remainder_size">Preostalo: %s</string>
+	 <string name="reminder_card_title">Pažnja</string>
     <string name="remote_video_no_network">"Ne mogu se povezati na mrežu."</string>
     <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
     <string name="remote_video_server_error">"Ne mogu se povezati na poslužitelj."</string>
@@ -1316,6 +1420,7 @@ oslobodite prostor.</string>
     <string name="unknown_error">Dogodila se nepoznata pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="unlock_pattern_msg">Zaporka zaštite privatnosti funkcionira i za fotografije, poruke i bilješke</string>
     <string name="unlock_pattern_title">Nova zaporka</string>
+	 <string name="update_no_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="unlogin">Prijavite se prvo</string>
     <string name="unmount_inform_text">Isključiti USB pohranu?</string>
     <string name="unreviewed_video_cannot_share">Videozapisi trebaju biti pregledani prije dijeljenja</string>
@@ -1360,6 +1465,8 @@ oslobodite prostor.</string>
     <string name="use_to_all">Primjeni na sve</string>
     <string name="used">Iskorišteno</string>
     <string name="user">Korisnici</string>
+	  <string name="use_mobile_data_update_summary">Koristite mobilne podatke za automatsku sinkronizaciju promjena datoteka preuzetih s Mi Drivea</string>
+    <string name="use_mobile_data_update_title">Koristite mobilne podatke za sinkronizaciju</string>
     <string name="user_agreement">Korisnički sporazum</string>
     <string name="user_cancel">Otkazano</string>
     <string name="user_center_setting">Postavke</string>
@@ -1427,6 +1534,8 @@ oslobodite prostor.</string>
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
+	 <string name="video_data_consume_dialog_confirm">Nastavi</string>
+    <string name="video_data_consume_dialog_title">Koristiti mobilne podatke?</string>
     <string name="video_ad_download">Instaliraj</string>
     <string name="video_comment_hint">Odaberite temu</string>
     <string name="video_comment_limit">Preostalo %1$s znakova</string>
@@ -1484,6 +1593,9 @@ oslobodite prostor.</string>
     <string name="view_more_sticker">Prikaži još naljepnica</string>
     <string name="view_top_rank">Prikaži poredak</string>
     <string name="view_type">Pregled</string>
+	 <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
+    <string name="web_sso_login_message">Prijava…</string>
+    <string name="webview_reload">Pokušajte ponovno</string>
     <string name="vip_info">VIP: %1$s</string>
     <string name="wait_net">Čekanje na mrežu…</string>
     <string name="wait_sdcard">Čekanje SD kartice…</string>

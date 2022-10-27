@@ -160,9 +160,21 @@
         <item quantity="other">Nove obavijesti: %d</item>
         <item quantity="one">%d nova obavijest</item>
     </plurals>
+	<plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Nije moguće sinkronizirati %1$s datoteka"</item>
+        <item quantity="one">"Nije moguće sinkronizirati %1$s datoteku"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sinkronizirano %1$s datoteka | "</item>
+        <item quantity="one">"Sinkronizirana %1$s datoteka | "</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Odabrano: %1$d</item>
         <item quantity="one">Odabrano: %1$d</item>
+    </plurals>
+	 <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Čekanje na mrežnu vezu. %1$s preostalih datoteka.</item>
+        <item quantity="one">Čekanje na mrežnu vezu. %1$s preostala datoteka.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
@@ -284,7 +296,11 @@
         <item quantity="other">Dobijte %1$d više sljedbenika da nadogradite svoj status​</item>
         <item quantity="one">Dobijte %1$d više sljedbenika da nadogradite svoj status</item>
     </plurals>
-	     <plurals name="delete_files">
+	<plurals name="delete_cloud_files">
+        <item quantity="other">Izbrisati %1$d datoteka sa svih vaših uređaja i iz clouda? Datoteke Mi Drivea mogu se vratiti iz nedavno izbrisanih stavki.</item>
+        <item quantity="one">Izbrisati %1$d datoteku sa svih vaših uređaja i iz clouda? Datoteke Mi Drivea mogu se vratiti iz nedavno izbrisanih stavki.</item>
+    </plurals>
+	 <plurals name="delete_files">
         <item quantity="other">Izbrisati %1$d datoteka?</item>
         <item quantity="one">Izbrisati %1$d datoteku?</item>
      </plurals>

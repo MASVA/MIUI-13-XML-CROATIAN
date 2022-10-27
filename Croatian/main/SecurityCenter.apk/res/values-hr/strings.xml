@@ -1850,6 +1850,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exo_download_downloading">Preuzimanje…</string>
   <string name="exo_download_failed">"Ne mogu preuzeti"</string>
   <string name="exo_download_notification_channel_name">Preuzimanja</string>
+  <string name="exo_download_paused">Preuzimanja su pauzirana</string>
+  <string name="exo_download_paused_for_network">Preuzimanja čekaju mrežu</string>
+  <string name="exo_download_paused_for_wifi">Preuzimanja čekaju WiFi</string>
   <string name="exo_download_removing">Uklanjanje preuzimanja</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_role_alternate">Alternativno</string>
@@ -2110,8 +2113,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_func_immersion_open">Interaktivan način je sada uključen</string>
   <string name="gamebox_func_switch_simcard">Prebačeno na SIM karticu %1$d za mob. podatke</string>
   <string name="gamebox_func_switch_simcard_immersion">"SIM kartice se ne mogu zamijeniti u Interaktivnom načinu"</string>
-  <string name="gamebox_func_wlan_close">Wi-Fi je sada isključen</string>
-  <string name="gamebox_func_wlan_open">Wi-Fi je sada uključen</string>
+  <string name="gamebox_func_wlan_close">Wi-Fi je isključen</string>
+  <string name="gamebox_func_wlan_open">Wi-Fi je uključen</string>
+  <string name="gamebox_game_center_app_not_find">Instalirajte najprije Igre</string>
   <string name="gamebox_hangup">Isključi zaslon</string>
   <string name="gamebox_hangup_tips_content">Ova značajka omogućuje vam da isključite zaslon, ali igru zadržite u pozadini. On se automatski isključuje nakon otključavanja uređaja.</string>
   <string name="gamebox_hangup_tips_title">Uključi zaslon</string>
@@ -2192,6 +2196,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_barrage_chat_text_speed_faster">Brzo</string>
   <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
   <string name="gb_barrage_chat_text_speed_slow">Sporo</string>
+  <string name="gb_barrage_dnd_conflict_toast">Za korištenje komentara na zaslonu, prvo isključite DND</string>
   <string name="gb_collimator_color">Boja</string>
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
@@ -3990,7 +3995,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_dialog_delete_dialog_delete">Izbrisati ovaj profil baterije?</string>
   <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
   <string name="power_dialog_ok">U redu</string>
-  <string name="power_dialog_performance_mode_checkbox">Prebaci se na brzinu osvježavanja od 120 Hz</string>
+  <string name="power_dialog_performance_mode_checkbox">Prebaci se na brzinu osvježavanja od %d Hz</string>
   <string name="power_dialog_screen_brightness_automatic">Podesi svjetlinu automatski</string>
   <string name="power_dialog_screen_brightness_automatic_off">Osvijetljenost zaslona će biti konstantna u svim okruženjima</string>
   <string name="power_dialog_screen_brightness_automatic_on">Osvijetljenost zaslona će varirati u odnosu na svjetlo u vašem okruženju</string>
@@ -5158,6 +5163,8 @@ Povući suglasnost sada?"</string>
   <string name="sp_button_text_ignore_alert_title">Ignorirati ovu stavku?</string>
   <string name="sp_device_security_title">Sigurnost uređaja</string>
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
+  <string name="sp_family_guard_summary">Pružite pomoć na daljinu</string>
+  <string name="sp_family_guard_title">Family Guard</string>
   <string name="sp_find_device_summary">Pronađite svoj uređaj na daljinu</string>
   <string name="sp_find_device_title">Pronađi uređaj</string>
   <string name="sp_guard_summary">Upravljajte uređajima svojih prijatelja i obitelji</string>
@@ -5861,6 +5868,23 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_web_correct_error">"Ne mogu kalibrirati"</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
+  <string name="terminal_privacy">Zaštita privatnosti na uređaju</string>
+  <string name="terminal_privacy_ability">Značajke i mehanizmi</string>
+  <string name="terminal_privacy_ability_img">Obrada slike</string>
+  <string name="terminal_privacy_ability_img_summary">Pametno uređivanje i prepoznavanje za fotografije i videozapise u Kameri, Galeriji i Taplus</string>
+  <string name="terminal_privacy_ability_model">Prepoznavanje načina na koji vaš uređaj komunicira s okolinom</string>
+  <string name="terminal_privacy_ability_model_summary">Brojač koraka, pametne geste, džepni način rada i automatska svjetlina</string>
+  <string name="terminal_privacy_ability_others">Drugi mehanizmi</string>
+  <string name="terminal_privacy_ability_others_summary">Dijeljenje zaslona, ​​testiranje okruženja za plaćanje, prepoznavanje otiska prsta i lica</string>
+  <string name="terminal_privacy_ability_suggest">Preporuke</string>
+  <string name="terminal_privacy_ability_suggest_summary">Preporuke i prijedlozi iz Datoteka, bočne trake, Mi AI-a i Mi Novčanika</string>
+  <string name="terminal_privacy_ability_summary">*Značajke i mehanizmi zaštite privatnosti na uređaju mogu se razlikovati ovisno o modelu uređaja</string>
+  <string name="terminal_privacy_ability_txt">Tekst</string>
+  <string name="terminal_privacy_ability_txt_summary">Uređivanje teksta, pametni titlovi, Taplus, poruke i dijeljeni međuspremnik</string>
+  <string name="terminal_privacy_ability_voice">Prepoznavanje govora</string>
+  <string name="terminal_privacy_ability_voice_summary">Mi AI glasovne naredbe i pametni titlovi</string>
+  <string name="terminal_privacy_instruction">Zaštita privatnosti na uređaju uključuje značajke koje osiguravaju da se vaši osobni podaci čuvaju na ovom uređaju umjesto da se učitavaju u oblak</string>
+  <string name="terminal_privacy_summary">Obrada osobnih podataka na ovom uređaju</string>
   <string name="terms_and_conditions_content"><Data>"Ova vam značajka pruža funkciju upozorenja na potres. Obavijestit će vas o nadolazećim potresima i reproducirati zvuk upozorenja. Moći ćete pronaći najbliže sklonište, nazvati svoj kontakt za hitne slučajeve i pokazati svoju medicinsku iskaznicu ako je potrebno. &lt;br>Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. &lt;br>Kako bi mogla normalno raditi, ova značajka zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka: &lt;br>• Informacije o lokaciji: &lt;br>Za pristup vašoj lokaciji i pružanje točnih upozorenja o potresima. &lt;br>Ako ne pristanete dati takva dopuštenja ili podijeliti i prenijeti svoje osobne podatke, nećete moći koristiti ovu značajku. Ovu značajku možete isključiti ili ne uključiti u takvim slučajevima. &lt;br>Morate pročitati i prihvatiti naše &lt;a href=%s>Pravila o privatnosti&lt;/a> prije korištenja ove značajke."</Data></string>
   <string name="tether_custom_dialog_title">Ograničenje mobilnih podataka</string>
   <string name="tether_limit_dialog_title">Ograničenje mobilnih podataka</string>

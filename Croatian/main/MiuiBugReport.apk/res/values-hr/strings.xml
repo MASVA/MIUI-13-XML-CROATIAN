@@ -237,18 +237,18 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="feedback_detail_upload_local_log">Pošalji datoteku</string>
     <string name="feedback_detail_upload_log">Pošalji zapise</string>
     <string name="feedback_detail_waiting">Izrada…</string>
-	  <string name="feedback_evaluation_btn_content">Ocjena</string>
-    <string name="feedback_evaluation_expired_hint">Izgleda da je ova ocjena istekla</string>
-    <string name="feedback_evaluation_hint_dialog_content">Vaše povratne informacije pomažu nam poboljšati naše proizvode i usluge.</string>
-    <string name="feedback_evaluation_hint_dialog_title">Je li ovaj problem riješen?</string>
-    <string name="feedback_evaluation_invitation_content">Ocijenite svoje iskustvo kako biste nam pomogli da poboljšamo obradu povratnih informacija u budućnosti.</string>
-    <string name="feedback_evaluation_success_dialog_content">Hvala na povratnim informacijama!</string>
-    <string name="feedback_evaluation_success_dialog_title">Uspješno ocijenjeno</string>
 Više o ovom izvornom tekstuZa dodatne podatke o prijevodu potreban je izvorni tekst
 Pošaljite povratne informacije
 Bočne ploče
     <string name="feedback_edit_popup_window_related_title">To bi moglo biti važno</string>
     <string name="feedback_empty_report_list">Nema još prijava</string>
+	 <string name="feedback_evaluation_btn_content">Ocjena</string>
+    <string name="feedback_evaluation_expired_hint">"Ovu stavku više ne mogu ocijeniti"</string>
+    <string name="feedback_evaluation_hint_dialog_content">Vaše povratne informacije pomažu nam poboljšati naše proizvode i usluge.</string>
+    <string name="feedback_evaluation_hint_dialog_title">Je li ovaj problem riješen?</string>
+    <string name="feedback_evaluation_invitation_content">Ocijenite svoje iskustvo kako biste nam pomogli da poboljšamo obradu povratnih informacija u budućnosti.</string>
+    <string name="feedback_evaluation_success_dialog_content">Hvala na povratnim informacijama!</string>
+    <string name="feedback_evaluation_success_dialog_title">Uspješno ocijenjeno</string>
     <string name="feedback_guess">Naša pretpostavka:</string>
     <string name="feedback_hint_optional">Odaberi</string>
     <string name="feedback_history_remind_login_desc">Prijavite se sa svojim Mi Računom da biste vidjeli pojedinosti i napredak vašeg zapisa</string>

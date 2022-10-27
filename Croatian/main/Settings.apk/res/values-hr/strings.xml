@@ -2243,7 +2243,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_absVolume_open_dialog_title">Pažnja</string>
   <string name="bt_absVolume_pre_title">Apsolutna glasnoća</string>
   <string name="bt_absVolume_summary">Zadrži strogo dosljednu glasnoću Bluetooth uređaja i telefona</string>
-  <string name="bt_always_show_icon">Uvijek prikaži ikonu statusne trake</string>
+  <string name="bt_always_show_icon">"Ne prikazuj Bluetooth ikonu u statusnoj traci"</string>
+  <string name="bt_always_show_icon_summary">Prikaži Bluetooth ikonu samo u Panelu obavijesti i u Centru za kontrolu</string>
   <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive omogućit će reprodukciju visoke kvalitete i smanjiti kašnjenje zvuka za igre i video uz povećanje potrošnje energije. Reprodukcija može biti zaustavljena zbog hardverskih ograničenja Bluetootha i smetnji iz okoline.</string>
   <string name="bt_aptx_adaptive_open_dialog_title">Želite li se prebaciti na aptX Adaptive?</string>
   <string name="bt_audio_repair_property">Riješite probleme sa zvukom</string>
@@ -9259,7 +9260,7 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
   <string name="rx_link_speed">%1$d Mbps</string>
   <string name="rx_link_speed_label">Brzina veze primanja:</string>
   <string name="rx_wifi_speed">Brzina veze primanja</string>
-  <string name="safe_install_mode_settings">Sigurni način rada</string>
+  <string name="safe_install_mode_settings">Mi Protect</string>
   <string name="safety_and_regulatory_info">Priručnik o sigurnosti i zakonskim propisima</string>
   <string name="safety_center_summary">Sigurnost aplikacija, zaključavanje uređaja, dopuštenja</string>
   <string name="safety_center_title">Sigurnost i privatnost</string>

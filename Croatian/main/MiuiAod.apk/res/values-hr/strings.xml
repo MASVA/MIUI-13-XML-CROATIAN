@@ -271,6 +271,8 @@ dd.MM."</string>
     <string name="select_notification_animation_style">Odaberite poseban efekt</string>
     <string name="select_notification_notify_style">Odaberite efekat obavijesti</string>
     <string name="send">Poašlji</string>
+	 <string name="settings_view_btn_check_off">Isključeno</string>
+    <string name="settings_view_btn_check_on">Uključeno</string>
     <string name="share">Podijeli</string>
     <string name="share_to_community">Podijeli na Mi Community</string>
     <string name="show_battery">Prikaži status baterije</string>

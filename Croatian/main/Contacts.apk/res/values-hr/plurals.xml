@@ -192,6 +192,10 @@
         <item quantity="other">"Br. govornih pošta: %1$d"</item>
         <item quantity="one">"Govorna pošta"</item>
     </plurals>
+	 <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d propuštenih poziva</item>
+        <item quantity="one">%d propušteni poziv</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Odabrano: %1$d</item>
         <item quantity="zero">Odabrano: %1$d</item>
