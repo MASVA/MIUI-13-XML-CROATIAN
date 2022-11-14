@@ -14,10 +14,14 @@
         <item>Odaberite sliku</item>
         <item>Prozirna pozadina</item>
     </string-array>
+	<string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Poseban dan</item>
         <item>Dan za pamćenje</item>
-        <item>Vibrant trenuci</item>
+        <item>Živahni trenuci</item>
     </string-array>
     <string-array name="annual_foods_title">
         <item>Ukusna godina</item>

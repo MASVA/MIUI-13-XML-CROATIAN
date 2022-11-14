@@ -84,7 +84,7 @@
     <string name="add_holiday_desc">Ovdje dodajte praznike</string>
     <string name="add_holiday_title">Dodajte praznike</string>
     <string name="additional_cal_dialog_title">Odaberite kalendar</string>
-    <string name="additional_cal_pref_title">Dodatni kalendar</string>
+    <string name="additional_cal_pref_title">Dodatni kalendari</string>
     <string name="additional_calendar_note">Neki dodatni kalendari možda neće biti dostupni ili se razlikuju ovisno o nestalnim čimbenicima</string>
     <string name="afternoon">PM</string>
     <string name="agenda_month_empty_hint">Nema događaja za danas</string>
@@ -726,7 +726,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="no_visiable_calendar_title">Dodaj račun kalendara</string>
     <string name="none">Ništa</string>
     <string name="noon">PM</string>
-    <string name="not_more_than_three_weekday">Možete odabrati do 3 dana</string>
+    <string name="not_more_than_three_weekday">Možete odabrati do %d dana</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="not_synced">Nije sinkronizirano</string>
     <string name="notes_hint">Dodirnite za dodavanje zadatka</string>
@@ -952,7 +952,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="setting_daysoff_update_net_err">"Nije moguće provjeriti ažuriranja. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="setting_daysoff_update_schedule">Ažuriranje…</string>
     <string name="setting_daysoff_update_success">Uspješno ažurirano</string>
-    <string name="setting_desc_import_todo">Uvezite raspoređene zadatke iz Bilješki</string>
+    <string name="setting_desc_import_todo">Uvezite vremenski osjetljive zadatke iz Bilješki</string>
     <string name="setting_features_title">Istaknute postavke</string>
     <string name="setting_holiday_display_desc">Kartica praznika koja se nalazi na početnoj strani Kalendara</string>
     <string name="setting_holiday_reminder">Podsjetnik praznika</string>

@@ -76,7 +76,7 @@
     <string name="aqi_alert_channel_name">AQI upozorenja</string>
     <string name="aqi_data_source">Powered by Colorful Clouds</string>
     <string name="aqi_desc">Indeks kvalitete zraka</string>
-    <string name="aqi_detail_24_hours">24-satna prognoza</string>
+    <string name="aqi_detail_24_hours">%d-satna prognoza</string>
     <string name="aqi_detail_5_days">5-dnevna prognoza</string>
     <string name="aqi_detail_co_unit">Jedinica: mg/m³</string>
     <string name="aqi_detail_title">Indeks kvalitete zraka</string>
@@ -497,7 +497,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="share_weather_desc">\#MIUI Vrijeme#Danas %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Ne mogu napraviti snimku zaslona"</string>
-    <string name="shortcut_short_label_24_hour_forecast">24-satna prognoza</string>
+    <string name="shortcut_short_label_24_hour_forecast">%d-satna prognoza</string>
     <string name="shortcut_short_label_recent_forecast">Provjeri vrijeme</string>
     <string name="some_where_on_earth">Negdje na Zemlji</string>
     <string name="suggestion_for_blizzard">Utoplite se i putujte sigurno</string>
@@ -553,7 +553,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="unit">Jedinica</string>
     <string name="unit_temperature">Jedinica temperature</string>
     <string name="unit_wind">Jedinica brzine vjetra</string>
-    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između 23:00 i 07:00</string>
+    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između %1$s i %1$s</string>
     <string name="update_night_setting_title_text">Ažuriraj autom. tijekom noći</string>
     <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
     <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>
@@ -586,6 +586,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="welcome_app_title">Dobrodošli u aplikaciju Vrijeme!</string>
     <string name="widget_cta_not_agree">Dodirnite da biste dobili informacije o vremenu</string>
     <string name="wind_direction_no_data">Vjetar</string>
+	 <string name="wind_power">%d</string>
     <string name="xiaomi_weather_description_content">"Vrijeme je aplikacija sustava. Nakon što deinstalirate aplikaciju, nećete moći pregledavati vremenske informacije ili koristiti srodne widgete."</string>
     <string name="xiaomi_weather_description_content_remove">"Vrijeme je aplikacija sustava. Nakon uklanjanja prečaca na Poč. zaslonu nećete moći pregledavati vremenske informacije ili koristiti srodne widgete."</string>
     <string name="xiaomi_weather_description_title">Deinstalirati aplikaciju \"Vrijeme\"?</string>

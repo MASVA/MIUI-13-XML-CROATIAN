@@ -98,6 +98,6 @@ Ažuriranja za vas nisu dostupna!"</string>
     <string name="share_title">Podijeli sa</string>
     <string name="stable">Stabilna</string>
     <string name="version">Instalirana verzija</string>
-    <string name="weekly">Tjedna</string>
+    <string name="weekly">Beta</string>
     <string name="wifi_recommended">Povežite se na Wi-Fi za preuzimanje ažuriranja!</string>
 </resources>

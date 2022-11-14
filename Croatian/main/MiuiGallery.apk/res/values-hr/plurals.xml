@@ -70,7 +70,7 @@
         <item quantity="one">%d fotografija</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">stavki %1$d | %2$s</item>
+        <item quantity="other">stavke %1$d | %2$s</item>
         <item quantity="one">%1$d stavka | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
@@ -90,7 +90,7 @@
         <item quantity="one">%2$d album uključujući %1$s</item>
     </plurals>
     <plurals name="album_photo_count_text">
-        <item quantity="other">stavki %1$d</item>
+        <item quantity="other">stavke: %1$d</item>
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="all_story_count_desc">
@@ -291,6 +291,10 @@
     <plurals name="local_space_full">
         <item quantity="other">Nema dovoljno prostora za pohranu. Stavke čekaju izradu Sig. kopije: %1$d</item>
         <item quantity="one">Nema dovoljno prostora za pohranu. %1$d stavka čeka izradu Sig. kopije</item>
+    </plurals>
+	<plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d stavki</item>
+        <item quantity="one">%1$d stavka</item>
     </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d min.</item>
@@ -631,6 +635,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+	<plurals name="tran_notification_complete_msg">
+        <item quantity="other">"Nije moguće prenijeti %1$d stavke"</item>
+        <item quantity="one">"Nije moguće prenijeti %1$d stavku"</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"Nije moguće prenijeti %1$d stavke. Posjetite i.mi.com kako biste ih preuzeli."</item>
+        <item quantity="one">"Nije moguće prenijeti %1$d stavku. Posjetite i.mi.com kako biste je preuzeli."</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d odabranih stavki bit će trajno izbrisano iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
         <item quantity="one">%d odabrana stavka bit će trajno izbrisana iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
@@ -654,6 +666,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$d dana (%2$s)</item>
         <item quantity="one">Stavka ovdje može biti pohranjena %1$d dan (%2$s)</item>
+    </plurals>
+	<plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$d dana. Dodirnite za produljenje ovog razdoblja.</item>
+        <item quantity="one">Stavke ovdje mogu biti pohranjene do %1$d dan. Dodirnite za produljenje ovog razdoblja.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Izbrisane stavke se pohranjuju u cloudu %1$d dana</item>
+        <item quantity="one">Izbrisane stavke se pohranjuju u cloudu %1$d dana</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$d dana. Nadogradite svoj plan za produženje ovog razdoblja.</item>

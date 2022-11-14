@@ -3460,7 +3460,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_description_cpu">CPU</string>
   <string name="device_description_ram">RAM</string>
   <string name="device_description_resolution">Rezolucija</string>
-  <string name="device_description_screen">Veličina zaslona</string>
+  <string name="device_description_screen">Zaslon</string>
   <string name="device_details_title">O uređaju</string>
   <string name="device_display_layout_title">Posebne značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
