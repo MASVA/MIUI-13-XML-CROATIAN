@@ -154,7 +154,6 @@
     <string name="dev_complaint_result_tip1">Žalba je uspješno poslana</string>
     <string name="dev_complaint_result_tip2">"Kontaktirat ćemo vas u roku od %d radnih dana. Nemojte slati dvostruke žalbe."</string>
     <string name="dev_complaint_tiptext">"Kontaktirat ćemo vas u roku od %d radnih dana od podnošenja žalbe"</string>
-    <string name="device_pad">Tablet</string>
     <string name="devicePerms">Pristup uređaju</string>
     <string name="dialog_install_confirm_default">Instaliraj</string>
     <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zamijeniti će drugu aplikaciju. 

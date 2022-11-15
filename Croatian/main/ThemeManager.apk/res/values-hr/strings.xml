@@ -206,6 +206,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="component_title_settings_video_wallpaper">Slike pozadina sa specijalnim efektima</string>
     <string name="component_title_video_wallpaper">Filmovi</string>
     <string name="component_title_wallpaper">Slika pozadine</string>
+	 <string name="component_title_widget_suit">Widgeti</string>
     <string name="concentration_old_period">Više</string>
     <string name="configure_success_not_enable_aod">Uspješno postavljeno. Uključite Always-on zaslon da bi tema stupila na snagu.</string>
     <string name="copy">Kopiraj</string>
@@ -830,6 +831,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
     <string name="pad_fold_no_permission">Potrebna su dopuštenja za pohranu</string>
     <string name="pad_fold_no_permission_detail">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani.</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
+	 <string name="paying">Kupnja…</string>
     <string name="personalize">Personalizacije</string>
     <string name="personalize_alarm_ringtone_title">Alarmi</string>
     <string name="personalize_aod_title">AOD</string>
@@ -842,7 +844,8 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
     <string name="personalize_notify_style_title">Efekti</string>
     <string name="personalize_recommend_switch_desc">Primajte prilagođene preporuke sadržaja na temelju ID-a uređaja</string>
     <string name="personalize_second_space_not_support_set_font">"Nije moguće promijeniti font u Drugom prostoru"</string>
-    <string name="personalize_theme_entrance">Teme</string>
+    <string name="personalize_second_space_not_support_buy_widget">"Ne možete kupiti widgete u Drugom prostoru"</string>
+	 <string name="personalize_theme_entrance">Teme</string>
     <string name="personalize_third_font">Fontovi</string>
     <string name="personalize_title">Slike pozadine i personalizacija</string>
     <string name="personalize_wallpaper_sub_title">Super slike pozadine i istaknute slike</string>
@@ -1274,6 +1277,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="search_sort_news">Najnovije prvo</string>
     <string name="search_sort_synthesize">Općenito</string>
     <string name="search_sort_top">Popularno prvo</string>
+	 <string name="search_view_description_clear">Izbriši pretraživanje</string>
     <string name="selected_resource_file_invalid">"Ne mogu koristiti odabrane resurse datoteke"</string>
     <string name="send">Pošalji</string>
     <string name="server_internal_error">Došlo je do pogreške poslužitelja. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
@@ -1557,6 +1561,7 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
     <string name="update_no_net">Došlo je do pogreške mreže. Pokušajte ponovo.</string>
     <string name="update_title">DOSTUPNO JE NOVO AŽURIRANJE</string>
     <string name="use_hint">Pažnja</string>
+	  <string name="use_now">Dodaj</string>
     <string name="using_theme_has_update_tips">Dostupno je ažuriranje ove teme.</string>
     <string name="using_theme_next_automatic_update">Automatsko ažuriranje</string>
     <string name="using_theme_next_automatic_update_summary">Ažuriraj preuzete teme putem Wi-Fi-ja automatski kada je uređaj zaključan</string>

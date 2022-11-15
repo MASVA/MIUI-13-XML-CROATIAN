@@ -1738,6 +1738,7 @@ u razdoblju ^2"</string>
   <string name="bluetooth_broadcast_dialog_title">Emitiranje</string>
   <string name="bluetooth_broadcast_pin_configure">Emitiranje: Bluetooth kod za privatnost</string>
   <string name="bluetooth_broadcast_pin_configure_dialog">Emitiranje: konfigurirajte Bluetooth kod za privatnost</string>
+  <string name="bluetooth_broadcast">Emitiranje</string>
   <string name="bluetooth_broadcasting">Emitiranje</string>
   <string name="bluetooth_broadcasting_explaination">"Kada je ta značajka uključena, vaš uređaj može komunicirati s ostalim uređajima u blizini.
 
@@ -4429,7 +4430,15 @@ okrenut prema vanjskom zaslonu"</string>
   <string name="filter_work_apps">Posao</string>
   <string name="filter_write_settings_apps">S dopuštenjem za izmjenu postavki sustava</string>
   <string name="financed_privacy_IMEI">pristup vašem IMEI broju</string>
-  
+  <string name="financed_privacy_data">Podaci povezani s vašim računom, kao što su podaci o e-pošti i kalendaru</string>
+  <string name="financed_privacy_exposure_category">Vrste informacija koje administrator vašeg uređaja može vidjeti</string>
+  <string name="financed_privacy_exposure_changes_category">Promjene koje je napravio administrator vašeg uređaja</string>
+  <string name="financed_privacy_failed_password_wipe_device">Neuspjeli pokušaji zaporke prije brisanja podataka uređaja</string>
+  <string name="financed_privacy_header">"Vaš davatelj kredita može promijeniti postavke i instalirati softver na ovaj uređaj.
+
+Da biste saznali više, obratite se svom vjerovniku."</string>
+  <string name="financed_privacy_lock_device">Administrator uređaja može zaključati ovaj uređaj i poništiti lozinku</string>
+  <string name="financed_privacy_wipe_device">Administrator uređaja može izbrisati sve podatke uređaja</string>
   <string name="financed_privacy_allowlisted_apps">pristup aplikacijama koje dopušta operater</string>
   <string name="financed_privacy_config_date_time">promjena datuma, vremena i vremenske zone</string>
   <string name="financed_privacy_credit_provider_capabilities_category">Vašem operateru dostupno je sljedeće:</string>
@@ -6273,6 +6282,7 @@ Povežite barem 4 točke."</string>
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
   <string name="magic_list_empty_text_pad">Sada nema aplikacija kompatibilnih s ovom značajkom</string>
+  <string name="magic_window_name">Paralelni prozori</string>
   <string name="magic_window_name_pad">Optimizacija za pejzažni prikaz</string>
   <string name="mah">%d mAh</string>
   <string name="main_clear_accounts">"
