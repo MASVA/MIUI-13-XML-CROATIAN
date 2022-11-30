@@ -17,7 +17,7 @@
     <string name="abc_searchview_description_submit">Pošalji upit</string>
     <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
     <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
-    <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="about_app_name">O Temama</string>
     <string name="about_version_update">"Što ima novog"</string>
@@ -41,7 +41,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="ad_app_is_downloading">Preuzimanje…</string>
     <string name="ad_begin_to_download_tip">Početak preuzimanja…</string>
     <string name="ad_begin_to_install_tip">Instaliranje…</string>
-	 <string name="ad_close">Zatvori ovaj oglas</string>
+    <string name="ad_close">Zatvori ovaj oglas</string>
     <string name="ad_closed_tip">"Vidjet ćete manje oglasa ove vrste"</string>
     <string name="ad_details">Detalji</string>
     <string name="ad_download_download">Preuzmi</string>
@@ -60,7 +60,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
     <string name="afternoon">PM</string>
     <string name="all_resources">Sve</string>
-    <string name="allow">Odobreno</string>
+    <string name="allow">Dopusti</string>
     <string name="already_latest_version">Najnovija verzija</string>
     <string name="already_newest_version">Trenutna verzija je ažurirana</string>
     <string name="am">AM</string>
@@ -86,7 +86,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="app_name_pad">Personalizacija</string>
     <string name="application_list_permission_desc">Za prikaz aplikacija kompatibilnih s transparentnim pozadinama</string>
     <string name="application_notify_title">Pažnja</string>
-	 <string name="apply_4k_video_wallpaper_warning">"4K i 8K videozapisi ne mogu se koristiti kao video pozadine."</string>
+    <string name="apply_4k_video_wallpaper_warning">"4K i 8K videozapisi ne mogu se koristiti kao video pozadine."</string>
     <string name="apply_choosen_type_resource">Postavi odabrane stavke</string>
     <string name="apply_default_font_tip">"Nastaviti koristiti trenutni font sustava?"</string>
     <string name="apply_failed">"Ne mogu postaviti"</string>
@@ -96,11 +96,11 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="apply_not_support_aod">"Always-on zaslon nije podržan na ovom uređaju"</string>
     <string name="apply_not_support_in_second_space">"Ne mogu primijeniti ovu stavku u Drugom prostoru"</string>
     <string name="apply_not_support_maml_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju"</string>
-	 <string name="apply_sensor_video_wallpaper_dialog_message">Ova pozadina će se primijeniti na unutarnji i vanjski Zaklj. zaslon i Poč. zaslon.</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Ova pozadina će se primijeniti na unutarnji i vanjski Zaklj. zaslon i Poč. zaslon.</string>
     <string name="apply_succeed">Uspješno postavljeno</string>
     <string name="apply_success_not_enable_aod">Prvo uključite Always-on zaslon u postavkama</string>
     <string name="apply_success_not_support_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju. Ostali dijelovi ove teme uspješno su postavljeni."</string>
-	 <string name="apply_wallpaper_after_three_theme">"Trenutno koristite temu treće strane. Ako promijenite samo pozadinu svog zaključanog zaslona, to može uzrokovati vraćanje stila sata zaključanog zaslona na zadani. Želite li sada primijeniti?"</string>
+    <string name="apply_wallpaper_after_three_theme">"Trenutno koristite temu treće strane. Ako promijenite samo pozadinu svog zaključanog zaslona, to može uzrokovati vraćanje stila sata zaključanog zaslona na zadani. Želite li sada primijeniti?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon, a Always-on zaslon vratit će se na prethodnu postavku . Prijaviti se sada?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon. Želite li sada primijeniti?"</string>
     <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
@@ -154,9 +154,9 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
     <string name="close_custom_permission_warning_text">"Bez dopuštenja za pohranu, ova aplikacija neće moći preuzeti stavke i prilagoditi vaš uređaj. Isključiti svejedno?"</string>
-	 <string name="close_custom_permission_warning_text_above_eleven">"Bez dopuštenja za pohranu ova aplikacija neće moći prilagoditi vaš uređaj. Isključiti svejedno?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Bez dopuštenja za pohranu ova aplikacija neće moći prilagoditi vaš uređaj. Isključiti svejedno?"</string>
     <string name="clock">Instaliraj aplikaciju Sat</string>
-	  <string name="common_applying">Postavljanje…</string>
+    <string name="common_applying">Postavljanje…</string>
     <string name="common_downloading">Preuzimanje…</string>
     <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
@@ -206,7 +206,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="component_title_settings_video_wallpaper">Slike pozadina sa specijalnim efektima</string>
     <string name="component_title_video_wallpaper">Filmovi</string>
     <string name="component_title_wallpaper">Slika pozadine</string>
-	 <string name="component_title_widget_suit">Widgeti</string>
+    <string name="component_title_widget_suit">Widgeti</string>
     <string name="concentration_old_period">Više</string>
     <string name="configure_success_not_enable_aod">Uspješno postavljeno. Uključite Always-on zaslon da bi tema stupila na snagu.</string>
     <string name="copy">Kopiraj</string>
@@ -223,10 +223,6 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="custom_storage_permission_desc_above_eleven">Da biste mogli promijeniti postavke personalizacije, prvo dopustite ovoj značajci pristup pohrani. Ovo dopuštenje možete dati u Postavkama.</string>
     <string name="custom_theme">ime,id</string>
     <string name="custom_widget">Preporučeni widgeti</string>
-	 <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
-    <string name="date_picker_lunar">Lunarni Kalendar</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="de_apply_icons">Ikone aplikacije</string>
     <string name="de_apply_icons_and_wallpaper">Ikone aplikacije i slika pozadine</string>
@@ -376,7 +372,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="exo_download_paused_for_wifi">Preuzimanja čekaju Wi-Fi</string>
     <string name="exo_download_removing">Uklanjanje preuzimanja</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_role_alternate">Alternativa</string>
+    <string name="exo_track_role_alternate">Naizmjence</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Komentari</string>
     <string name="exo_track_role_supplementary">Dodatno</string>
@@ -420,7 +416,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="fold_restore_default_theme_dialog_content">"Teme se sada ne mogu koristiti na ovom uređaju. Ako ste već promijenili temu, sada možete vratiti zadanu temu. Nakon ovoga više nećete moći promijeniti svoju temu."</string>
     <string name="fold_restore_default_theme_dialog_disagree">Ne hvala</string>
     <string name="fold_restore_default_theme_dialog_title">Vrati zadanu temu</string>
-	 <string name="fold_sensor_video_wallpaper_group">Dinamične pozadine za sklopive uređaje</string>
+    <string name="fold_sensor_video_wallpaper_group">Dinamične pozadine za sklopive uređaje</string>
     <string name="font_compat_dialog_buy_confirm">Kupi</string>
     <string name="font_compat_dialog_buy_content">Neke aplikacije možda ne podržavaju fontove treće strane. Ovaj problem s kompatibilnošću riješit će nadolazeće ažuriranje sustava. Kupiti svejedno ovaj font?</string>
     <string name="font_compat_dialog_cancel">Odustani</string>
@@ -532,9 +528,9 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom MIUI verzijom. Neke stranice možda neće raditi ispravno."</string>
     <string name="incompatible_dialog_ok">Razumijem</string>
     <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
-	 <string name="install_clock">"Još niste instalirali Sat. Preuzeti sada?"</string>
+    <string name="install_clock">"Još niste instalirali Sat. Preuzeti sada?"</string>
     <string name="install_failed">"Ne mogu instalirati"</string>
-	 <string name="install_gallery_content">"Još niste instalirali Galeriju. Preuzeti sada?"</string>
+    <string name="install_gallery_content">"Još niste instalirali Galeriju. Preuzeti sada?"</string>
     <string name="install_gallery_title">Instaliraj Galeriju</string>
     <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
     <string name="internal_online_precust_gorgeous_color_name">Prekrasna boja</string>
@@ -547,7 +543,7 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="kuyin_user_agreement_content">Pretplate za prilagođene melodije zvona pruža iFlytek. Morate prihvatiti %s prije korištenja prilagođenih pretplata za melodije zvona. Prihvaćate?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
     <string name="lab">Beta značajke</string>
-	 <string name="label">Oznaka</string>
+    <string name="label">Oznaka</string>
     <string name="like_list">Stavke koje su mi sviđaju</string>
     <string name="live_wallpaper">Dinamične pozadine</string>
     <string name="load_from_local_photos">Galerija</string>
@@ -739,7 +735,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
     <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
     <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
-	 <string name="mtrl_picker_confirm">U redu</string>
+    <string name="mtrl_picker_confirm">U redu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Odaberite datum</string>
     <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
@@ -831,7 +827,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
     <string name="pad_fold_no_permission">Potrebna su dopuštenja za pohranu</string>
     <string name="pad_fold_no_permission_detail">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani.</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
-	 <string name="paying">Kupnja…</string>
+    <string name="paying">Kupnja…</string>
     <string name="personalize">Personalizacije</string>
     <string name="personalize_alarm_ringtone_title">Alarmi</string>
     <string name="personalize_aod_title">AOD</string>
@@ -845,7 +841,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
     <string name="personalize_recommend_switch_desc">Primajte prilagođene preporuke sadržaja na temelju ID-a uređaja</string>
     <string name="personalize_second_space_not_support_set_font">"Nije moguće promijeniti font u Drugom prostoru"</string>
     <string name="personalize_second_space_not_support_buy_widget">"Ne možete kupiti widgete u Drugom prostoru"</string>
-	 <string name="personalize_theme_entrance">Teme</string>
+    <string name="personalize_theme_entrance">Teme</string>
     <string name="personalize_third_font">Fontovi</string>
     <string name="personalize_title">Slike pozadine i personalizacija</string>
     <string name="personalize_wallpaper_sub_title">Super slike pozadine i istaknute slike</string>

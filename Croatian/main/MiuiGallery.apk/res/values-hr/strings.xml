@@ -69,15 +69,16 @@
     <string name="account_none_user_name">Ništa</string>
     <string name="account_secure_info_pref_title">Informacije o računu</string>
     <string name="account_security_info_pref_title">Sigurnosne informacije</string>
-    <string name="account_user_avatar">Fotografija profila</string>
+     <string name="account_user_avatar">Slika profila</string>
     <string name="account_user_avatar_from_album">Galerija</string>
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Osnovne informacije</string>
-    <string name="account_user_details">Osobni podaci</string>
+    <string name="account_user_birthday">Rođendan</string>
+     <string name="account_user_details">Osobne informacije</string>
     <string name="account_user_email">E-pošta za oporavak</string>
     <string name="account_user_gender">Spol</string>
     <string name="account_user_id">ID Mi Računa</string>
-    <string name="account_user_name">Nadimak</string>
+    <string name="account_user_name">Ime</string>
     <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
     <string name="account_user_phone">Telefon za oporavak</string>
     <string name="actionbar_button_up_description">Natrag</string>
@@ -483,6 +484,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
     <string name="change_to_face_mode">Prikaži samo lice</string>
     <string name="change_to_photo_mode">Prikaži pune preglede</string>
     <string name="change_to_visible">Vratiti ovu osobu?</string>
+	 <string name="change_password">Promjeni zaporku</string>
     <string name="channel_default_name">Nove značajke</string>
     <string name="channel_low_name">Nove poruke</string>
     <string name="channel_min_name">Obavijesti aplikacije</string>
@@ -2990,9 +2992,15 @@ za fotografije"</string>
     <string name="sticker_tab_talkback_summer_day">Ljeto</string>
     <string name="sticker_tab_talkback_words">Tekst</string>
     <string name="sticker_words">Riječi</string>
-	  <string name="stop_migration_msg">"Nećete moći nastaviti prijenos ako ga zaustavite sada. Ako odlučite zaustaviti prijenos, možete posjetiti i.mi.com za preuzimanje stavki koje su još uvijek pohranjene u Xiaomi Cloudu ."</string>
+	 <string name="stop_migration_msg">"Nećete moći nastaviti prijenos ako ga zaustavite sada. Ako odlučite zaustaviti prijenos, možete posjetiti i.mi.com za preuzimanje stavki koje su još uvijek pohranjene u Xiaomi Cloudu ."</string>
     <string name="stop_migration_ok">Zaustavi</string>
     <string name="stop_migration_title">Zaustaviti prijenos sada?</string>
+	 <string name="stop_use_secret_cancel">Ne sada</string>
+    <string name="stop_use_secret_msg">"Vaše fotografije i videozapisi više nisu sinkronizirani s Mi Cloudom. Nećete moći koristiti svoj privatni album jer se oslanja na enkripciju u oblaku.
+Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.mi.com da ih preuzmete. Nakon toga, stavke koje su još uvijek pohranjene u Mi Cloudu bit će trajno izbrisane.
+%2$s"</string>
+    <string name="stop_use_secret_ok">Prijenos stavki</string>
+    <string name="stop_use_secret_title">Privatni album više nije dostupan</string>
     <string name="storage_description_primary">Unutarnja pohrana</string>
     <string name="storage_description_sdcard">SD kartica</string>
     <string name="storage_description_usb">USB pohrana</string>

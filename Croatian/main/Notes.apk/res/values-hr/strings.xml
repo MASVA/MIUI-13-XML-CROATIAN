@@ -545,6 +545,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="new_audio_create_guide_tip">Pritisnite i držite za stvaranje glasovne bilješke</string>
     <string name="new_audio_create_talkback_des">Dodirnite za stvaranje tekstualne bilješke. Pritisnite i držite za stvaranje glasovne bilješke. Otpustite tipku da zaustavite snimanje i izradite bilješku ili povucite prema gore da odustanete.</string>
     <string name="new_data_empty_note">Ovdje još nema stavki</string>
+	 <string name="new_lite_audio_create_talkback_des">Dodirnite za izradu bilješke</string>
     <string name="night">PM</string>
     <string name="no_network">"Ne mogu se povezati s mrežom"</string>
     <string name="noon">PM</string>

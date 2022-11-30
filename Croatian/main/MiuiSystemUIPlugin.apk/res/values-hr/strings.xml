@@ -30,6 +30,9 @@
     <string name="accessibility_airplane_mode">Zrakoplov</string>
     <string name="accessibility_back">Natrag</string>
     <string name="accessibility_brightness">Svjetlina zaslona</string>
+	 <string name="accessibility_desc_add">Dodaj</string>
+    <string name="accessibility_desc_remove">Ukloni</string>
+    <string name="airplane">Zrakoplov</string>
     <string name="accessibility_desc_close">Zatvori</string>
     <string name="accessibility_desc_edit">Uredi</string>
     <string name="accessibility_description_hours">Sati</string>
@@ -60,6 +63,7 @@
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
     <string name="bt_is_off">Bluetooth je isključen</string>
+	 <string name="bootloader">Fastboot</string>
 	 <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
     <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašeno je %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
@@ -404,6 +408,7 @@
     <string name="quick_settings_wireless_label">Obrnuto bežično punjenje</string>
     <string name="reboot_info_auto_boot">Nadolazeći alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarm za isključivanje: %s</string>
+	 <string name="recovery">Recovery</string>
     <string name="reset">Poništi</string>
     <string name="restart">Ponovno pokreni</string>
     <string name="safe_media_volume_warning">"Povećati glasnoću iznad preporučene razine?
@@ -416,7 +421,10 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
     <string name="search_menu_title">Pretraži</string>
     <string name="send">Pošalji</string>
     <string name="slider_view_content_description">Povucite prema gore za isključivanje ili dolje za ponovno pokretanje</string>
-    <string name="smart_home_title">Pametni uređaji</string>
+    <string name="slider_view_content_left_description">Povucite prema gore za Fastboot ili prema dolje za Recovery način</string>
+    <string name="slider_view_content_right_description">Povucite prema gore za Zrakoplovni način ili prema dolje za Bešumno</string>
+	 <string name="silent">Bešumno</string>
+	 <string name="smart_home_title">Pametni uređaji</string>
     <string name="status_bar_setting_title">Centar za kontrolu &amp; traka statusa</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>

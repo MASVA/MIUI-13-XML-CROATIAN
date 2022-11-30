@@ -699,4 +699,40 @@
         <item quantity="other">%d godina</item>
         <item quantity="one">%d godina</item>
      </plurals>
+	      <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Učitano %d fotografija</item>
+        <item quantity="one">Učitana %d fotografija</item>
+     </plurals>
+     <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d soba</item>
+        <item quantity="one">%1$d soba</item>
+     </plurals>
+     <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d snimki zaslona</item>
+        <item quantity="one">%1$d snimka zaslona</item>
+     </plurals>
+     <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">podijeljeno %1$d snimki zaslona</item>
+        <item quantity="one">podijeljena %1$d snimka zaslona</item>
+     </plurals>
+     <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">Dostupno je %1$d pametnih kućnih okruženja</item>
+        <item quantity="one">Dostupno je %1$d pametno kućno okruženje</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d stavki je preveliko za sinkronizaciju</item>
+        <item quantity="one">%d stavka je prevelika za sinkronizaciju</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Nije moguće sinkronizirati %d stavki. Nadogradite svoj plan za pohranu."</item>
+        <item quantity="one">"Nije moguće sinkronizirati %d stavku. Nadogradite svoj plan za pohranu."</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Nije moguće sinkronizirati %d stavki. Pokušajte ponovno."</item>
+        <item quantity="one">"Nije moguće sinkronizirati %d stavku. Pokušajte ponovno."</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Nije moguće sinkronizirati %d stavki. Nadogradite svoj plan za pohranu."</item>
+        <item quantity="one">"Nije moguće sinkronizirati %d stavku. Nadogradite svoj plan za pohranu."</item>
+     </plurals>
 </resources>

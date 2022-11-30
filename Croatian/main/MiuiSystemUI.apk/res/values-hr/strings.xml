@@ -2672,6 +2672,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="rapid_charge_mode_tip">Brzo punjenje</string>
   <string name="reboot_info_auto_boot_global">Nadolazeći alarm: %s</string>
   <string name="reboot_info_shutdown_alarm_global">Alarm za isključivanje: %s</string>
+  <string name="reboot_to_bootloader_title">Fastboot</string>
+  <string name="reboot_to_recovery_title">Recovery</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_conversations">Nedavni razgovori</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>

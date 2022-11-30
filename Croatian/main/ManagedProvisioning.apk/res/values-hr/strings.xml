@@ -259,6 +259,7 @@
     <string name="section_heading">Zaglavlje odjeljka %1$s.</string>
     <string name="set_up_everything_else">Postavljanje svega ostalog</string>
     <string name="set_up_your_device">Postavljanje uređaja</string>
+	 <string name="setting_up">Postavljanje…</string>
     <string name="setting_up_workspace">Postavljanje radnog profila…</string>
     <string name="setup_device">Postavljanje uređaja</string>
     <string name="setup_device_encryption">Postavljanje uređaja. Enkripcija</string>

@@ -49,6 +49,7 @@
 	 <string name="back_double_tap">Dvostruki dodir iza</string>
     <string name="back_tap">Dodir iza</string>
     <string name="back_triple_tap">Trostruki dodir iza</string>
+	 <string name="backup_suspend_hint">Sada se sigurnosno kopira ova aplikacija. Pričekajte da se sigurnosna kopija završi i pokušajte ponovo.</string>
     <string name="battery_authentic_failed_button">Razumijem</string>
     <string name="battery_authentic_failed_title">Pažnja</string>
     <string name="beep">Bip</string>
@@ -419,6 +420,9 @@
     <string name="relaunch_unfold_notification_content">Ova se aplikacija možda neće ispravno prikazati na ovom zaslonu. Ponovno pokrenite aplikaciju da biste prilagodili izglede.</string> 
     <string name="remain">Preostalo: %s</string>
     <string name="replace">Zamijeni</string>
+	  <string name="rescueparty_package_tips">Otkriveno oštećenje usluge sustava {0}</string>
+    <string name="rescuepartyplus_config_reset_context">Možda su neki podaci izbrisani. Dodirnite za prikaz detalja.</string>
+    <string name="rescuepartyplus_config_reset_title">Popravak sustava dovršen</string>
     <string name="resolver_app_recommend_flag">Preporučeno</string>
     <string name="resolver_checkbox_always">Uvijek</string>
     <string name="resolver_checkbox_once">Jednom</string>

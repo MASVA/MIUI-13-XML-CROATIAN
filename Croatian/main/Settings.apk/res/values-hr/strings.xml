@@ -152,6 +152,7 @@
   <string name="accessibility_captioning_footer_learn_more_content_description">Saznajte više o preferencijama za titlove</string>
   <string name="accessibility_captioning_title">Postavke titlova</string>
   <string name="accessibility_category_personal">Računi osobnih profila</string>
+  <string name="assistance_category_title">Pristupačnost</string>
   <string name="accessibility_category_work">Računi radnih profila – %s</string>
   <string name="accessibility_clear">Izbriši</string>
   <string name="accessibility_close_tab">Zatvori trenutnu karticu</string>
@@ -4740,6 +4741,7 @@ Ova značajka radi samo kada je navigacija sustava postavljena na geste."</strin
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
   <string name="freeform_guide_to_sidehide_summary">Brzo povucite aplikaciju na stranu zaslona da je sakrijete</string>
   <string name="freeform_guide_to_sidehide_title">Skrivanje plutajućih prozora</string>
+  <string name="freeform_guide_vedio_description">Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru</string>
   <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
   <string name="freeform_vedio_description">"·Dodirnite i zadržite, a zatim povucite prema dolje da otvorite obavijest u plutajućem prozoru.
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
@@ -5771,6 +5773,7 @@ Bočne ploče
   <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
   <string name="legacy_navigation_summary">Za povratak, otvaranje početnog zaslona i promjenu aplikacije koristite se tipkama pri dnu zaslona.</string>
   <string name="legacy_navigation_title">Navigacija pomoću tri tipke</string>
+  <string name="legacy_power_menu">Stari Power izbornik</string>
   <string name="legal_information">Pravne informacije</string>
   <string name="legal_workday">Radni dani</string>
   <string name="legal_workday_invalidate">Pon-Pet (istekli podaci o praznicima)</string>

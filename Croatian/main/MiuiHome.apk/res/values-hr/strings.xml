@@ -524,6 +524,7 @@ Poboljšana sigurnost."</string>
     <string name="minus_one_screen_none">Ništa</string>
     <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
 	 <string name="miui_widget_menu_replace_text">Promjeni</string>
+	 <string name="miui_widget_toast_for_not_support_by_pa">"Zaklj. aplikacija ne podržava widgete ove veličine"</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -593,8 +594,10 @@ Poboljšana sigurnost."</string>
     <string name="month_september">Rujan</string>
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
+	  <string name="monochrome_summary">Promjena boje pozadine za kompatibilne ikone</string>
+    <string name="monochrome_title">Boja pozadine</string>
     <string name="more">Više</string>
-	 <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+	  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
     <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
@@ -923,7 +926,9 @@ Poboljšana sigurnost."</string>
     <string name="title_select_shortcut">Odaberite prečac</string>
     <string name="toast_drag_to_assistant_reject">Pokretanje Zaklj. aplikacija…</string>
     <string name="toast_screen_icons_misplaced">Obnovljeno iz drugih izvora, neke ikone mogu biti zagubljene</string>
-    <string name="today">Danas</string>
+    <string name="toast_split_app_unsupported">"Ova aplikacija ne podržava podijeljeni zaslon"</string>
+    <string name="toast_split_select_app">Dodirnite aplikaciju za korištenje podijeljenog zaslona</string>
+	 <string name="today">Danas</string>
     <string name="toggle_select_title">Odaberite prečac</string>
     <string name="toggle_title">Prečaci</string>
     <string name="tomorrow">Sutra</string>
@@ -983,6 +988,10 @@ Poboljšana sigurnost."</string>
     <string name="widgets_preview_title">Dodaj widget</string>
     <string name="work_mode_off_label">"Obavijesti su isključene i aplikacije sada nisu dostupne"</string>
     <string name="work_mode_on_label">Upravlja vaša organizacija</string>
+	 <string name="work_mode_off_detailed_text">"Vaše poslovne aplikacije ne mogu vam slati obavijesti, koristiti bateriju ili pristupiti vašoj lokaciji"</string>
+    <string name="work_mode_off_text">Poslovne aplikacije su pauzirane</string>
+    <string name="work_mode_toggle_off">Isključite poslovne aplikacije</string>
+    <string name="work_mode_toggle_on">Uključite poslovne aplikacije</string>
     <string name="work_profile_first_content">Osobni podaci su odvojeni &amp; skriveni od radnih aplikacija</string>
     <string name="work_profile_got_button">Razumijem</string>
     <string name="work_profile_next_button">Dalje</string>

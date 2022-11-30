@@ -270,4 +270,8 @@
         <item quantity="other">%1$d uređaja povezano</item>
         <item quantity="one">%1$d uređaj povezan</item>
     </plurals>
+	     <plurals name="fgs_manager_footer_label">
+        <item quantity="other">Aktivno je %s aplikacija</item>
+        <item quantity="one">%s aplikacija je aktivna</item>
+     </plurals>
 </resources>

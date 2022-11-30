@@ -136,4 +136,16 @@
         <item quantity="other">Dopustiti ^1 da izmijeni ^2 videozapisa?</item>
         <item quantity="one">Dopustiti ^1 da izmijeni ovaj videozapis?</item>
     </plurals>
+	  <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Brzo naprijed %d sek.</item>
+        <item quantity="one">Brzo naprijed %d sek.</item>
+		</plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Unatrag %d sek.</item>
+        <item quantity="one">Unatrag  %d sek.</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nove obavijesti: %d</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
 </resources>

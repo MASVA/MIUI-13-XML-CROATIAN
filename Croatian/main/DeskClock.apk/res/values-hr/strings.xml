@@ -45,6 +45,7 @@
     <string name="alarm_alert">Zadani zvuk alarma</string>
     <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
     <string name="alarm_alert_disabled">Isključeno</string>
+	 <string name="alarm_alert_snooze_button">Odgodi</string>
     <string name="alarm_alert_snooze_set">Odgođeno za %d minuta.</string>
     <string name="alarm_ascending_mode_summary">Glasnoća alarma će rasti postepeno</string>
     <string name="alarm_ascending_mode_title">Pojačavanje glasnoće</string>
@@ -120,7 +121,8 @@
     <string name="check_voice_assist_app_version">Ažurirajte Mi AI na najnoviju verziju.</string>
     <string name="cities_show_limit_desc">"Nije moguće prikazati više satova"</string>
     <string name="city_time_contrast_desc">Dodirnite za usporedbu vremena u različitim gradovima</string>
-    <string name="clearable_edittext_clear_description">Izbriši</string>
+    <string name="click_to_cancel_alarm">Dodirnite za isključivanje</string>
+	 <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="clock_bg_button_setting_summary_common">Odaberite boju pozadine za aplikaciju Sat</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Crna će se koristiti kao boja pozadine svaki put kada odaberete Tamni način</string>
     <string name="clock_bg_button_setting_title">Boja pozadine</string>
